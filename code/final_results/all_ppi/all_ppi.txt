@@ -1,0 +1,1370 @@
+==> 0-human_HI_2012_preliminary_CCA/CCA_out/human_HI_2012_preliminary.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  3262
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.206723079981208, 0.147612652170657, 0.115443417013443, 0.0721010187870098, 0.0678683502142033, 0.0612118691183185, 0.0513859104573886, 0.0390326623761603, 0.0203550180566923, 0.0188378768970548, 0.0117138121081867, 0.00977594445261574, 0.00229184005790305, 4.11135350962948e-12
+p-values (asymptotic Wilks): 0.999611453889118, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0.999440508379085, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0.999731630588338, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.206723079981208
+canonical root:  0.042734431796917
+shared variance X:  0.0194460030879943
+shared variance Y:  0.0722187903289318
+redundancy index X:  0.000831013892686528
+redundancy index Y:  0.00308622896976758
+"x"
+"sig_11" -0.00120671427343512
+"sig_14" -0.00314965881598565
+"sig_17" -0.00419243761214134
+"sig_22" -0.00465865277050862
+"sig_4" -0.00500691232691375
+"sig_12" -0.0063710126520796
+"sig_23" -0.00711992651910206
+"sig_18" -0.0104422039868064
+"sig_6" -0.0107276346579718
+"sig_26" -0.0108891318587959
+"sig_24" -0.0110774398438986
+"sig_19" -0.0122456462859324
+"sig_10" -0.014670416824843
+"sig_7" -0.0149679221522128
+"sig_27" -0.0171095201366061
+"sig_25" -0.0184779538372171
+"sig_28" -0.0185658378574391
+"sig_1" -0.0241407310733882
+"sig_13" -0.0275968393148867
+"sig_21" -0.028017261791614
+"sig_16" -0.0324948437267477
+"sig_20" -0.0329020173044324
+"sig_29" -0.0347095985748757
+"sig_8" -0.036342381796606
+"sig_2" -0.0426009141248841
+"sig_3" -0.0433523544631845
+"sig_9" -0.0455307163827973
+"sig_15" -0.0544047547961567
+"sig_5" -0.0579196362491496
+-----
+"x"
+"cell.organization.and.biogenesis" 0.0216618590654488
+"cell.cycle.and.proliferation" 0.0175324008552528
+"death" 0.0152634243902104
+"protein.metabolism" 0.0148646382703586
+"stress.response" 0.0110679238114312
+"other.metabolic.processes" 0.00911234096698411
+"signal.transduction" 0.00558028412703987
+"DNA.metabolism" 0.00475978868566922
+"transport" 0.0037958078496125
+"cell.cell.signaling" 0.00351480526749924
+"RNA.metabolism" 0.00295950785942282
+"other.biological.processes" 0.00182605433574208
+"developmental.processes" -0.0449510692768564
+"cell.adhesion" -0.214809779696109
+__________________________________________________
+
+
+==> 1-human_i2d_full_CCA/CCA_out/human_i2d_full.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  11824
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.192817429326585, 0.0965470343255822, 0.0707393194728759, 0.0465633681479094, 0.040420281770981, 0.0313070575368282, 0.0287117851357318, 0.0225895848183581, 0.0181165088946409, 0.0165499163768614, 0.0100982144566696, 0.00386664111522486, 0.00121508662908237, 1.06190511108932e-11
+p-values (asymptotic Wilks): 0, 0.999998835343346, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 0.999998725213363, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0, 0.999998930722582, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.192817429326585
+canonical root:  0.0371785610521125
+shared variance X:  0.139022184215527
+shared variance Y:  0.0783243296878116
+redundancy index X:  0.005168644763455
+redundancy index Y:  0.00291198587316409
+"x"
+"sig_8" 0.156570375170777
+"sig_29" 0.147595608756204
+"sig_28" 0.146445493226234
+"sig_2" 0.134749325386025
+"sig_26" 0.110854916048875
+"sig_7" 0.106850200510262
+"sig_27" 0.0881708807880575
+"sig_23" 0.0640151099584672
+"sig_24" 0.0622791145874277
+"sig_1" 0.055357718500308
+"sig_22" 0.0539316237002693
+"sig_6" 0.0537041236559418
+"sig_25" 0.050007616019724
+"sig_5" 0.0445395964788531
+"sig_18" 0.0360753490235308
+"sig_17" 0.0326307706131563
+"sig_21" 0.0303854622728897
+"sig_19" 0.0276574070900695
+"sig_3" 0.0182536813595501
+"sig_4" 0.0171528757426264
+"sig_14" 0.0147948227024832
+"sig_15" 0.0134262307080674
+"sig_13" 0.0121075767076754
+"sig_20" 0.0117907804482356
+"sig_16" 0.0115932392361632
+"sig_12" 0.0111772521028839
+"sig_11" 0.00425893174013389
+"sig_9" 0.00306471346185928
+"sig_10" 0.0026420295636139
+-----
+"x"
+"protein.metabolism" 0.191119067122117
+"cell.cycle.and.proliferation" 0.00645593473635202
+"RNA.metabolism" 0.00551161800135311
+"other.metabolic.processes" -0.00541342075775608
+"DNA.metabolism" -0.00846505376992217
+"cell.organization.and.biogenesis" -0.0110094757793993
+"cell.adhesion" -0.0151771932592363
+"death" -0.0158829650600743
+"cell.cell.signaling" -0.0167353634339866
+"stress.response" -0.0180429852870266
+"signal.transduction" -0.0292823691188659
+"transport" -0.0316966251381463
+"other.biological.processes" -0.0354819582105481
+"developmental.processes" -0.0373897644911509
+__________________________________________________
+
+==> 2-human_i2d_hc_CCA/CCA_out/human_i2d_hc.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  8623
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.158469994979046, 0.11543635544056, 0.0772836280646526, 0.0702601665250415, 0.0483336381389128, 0.0440788961172898, 0.0331273463456733, 0.0262729216314226, 0.0240476148805155, 0.0175965202078741, 0.0141131263969192, 0.00745666913932046, 0.00559416148946001, 6.21584718972518e-12
+p-values (asymptotic Wilks): 0.00252070708287766, 0.999905687346829, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0.00198699810352854, 0.999895796391142, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0.00317595685457639, 0.99991417144405, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.158469994979046
+canonical root:  0.025112739308659
+shared variance X:  0.0843394138182706
+shared variance Y:  0.0768147466476277
+redundancy index X:  0.00211799371266334
+redundancy index Y:  0.00192902870762256
+"x"
+"sig_28" -0.0119062320243425
+"sig_29" -0.0143045635770186
+"sig_22" -0.0147594552804987
+"sig_26" -0.0166677591612906
+"sig_8" -0.0209630218182657
+"sig_11" -0.0220483694474096
+"sig_14" -0.0262513182731647
+"sig_17" -0.0270777853880929
+"sig_18" -0.0294784368092719
+"sig_4" -0.0328041797039679
+"sig_23" -0.0332915227568785
+"sig_24" -0.0363113795743376
+"sig_7" -0.0383198207169688
+"sig_13" -0.0390518735992712
+"sig_27" -0.0406411446558964
+"sig_12" -0.041404066448652
+"sig_19" -0.0417592021843706
+"sig_15" -0.0420586850042297
+"sig_10" -0.0434589355496161
+"sig_21" -0.0477577901310387
+"sig_9" -0.0481160710880356
+"sig_6" -0.0491583513336417
+"sig_20" -0.0519587464734773
+"sig_25" -0.060271028889127
+"sig_3" -0.0609291412809264
+"sig_16" -0.0630183070809746
+"sig_2" -0.0651986623219251
+"sig_1" -0.0696144171484156
+"sig_5" -0.0826595888182245
+-----
+"x"
+"other.metabolic.processes" 0.0577370592785656
+"transport" 0.0304258503717386
+"protein.metabolism" 0.0275404840567749
+"cell.organization.and.biogenesis" 0.0197115463285709
+"cell.cell.signaling" 0.0145459762584342
+"cell.adhesion" 0.00798905640762276
+"signal.transduction" 0.00755160362383596
+"DNA.metabolism" 0.00273615538491305
+"stress.response" 0.00132197087457651
+"other.biological.processes" 0.00115014221783991
+"developmental.processes" 0.000185735138073838
+"RNA.metabolism" -0.018384276994062
+"cell.cycle.and.proliferation" -0.0275864530484533
+"death" -0.150681891589344
+__________________________________________________
+
+==> 3-human_ppi_56k_CCA/CCA_out/human_ppi_56k.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  9492
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.155502366337325, 0.122330153085332, 0.0721916469525734, 0.0658286999903781, 0.0507591882016145, 0.0447629091342856, 0.0334643409447025, 0.0252407133585192, 0.0232387976018107, 0.0186153798269275, 0.0141235633714565, 0.0130588510816304, 0.0080157971708303, 9.95723445506514e-12
+p-values (asymptotic Wilks): 1.2048099118811e-05, 0.987868860836005, 0.999999999999997, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 8.48291405330936e-06, 0.986805681344013, 0.999999999999997, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 1.69757655874569e-05, 0.988812942230048, 0.999999999999997, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.155502366337325
+canonical root:  0.0241809859365076
+shared variance X:  0.0870751525262858
+shared variance Y:  0.0770069978574192
+redundancy index X:  0.00210556303865737
+redundancy index Y:  0.00186210513220293
+"x"
+"sig_11" -0.026784802933832
+"sig_14" -0.0288886028081594
+"sig_17" -0.0306259680080317
+"sig_21" -0.0314830876613935
+"sig_25" -0.0317026566863245
+"sig_27" -0.0320674320245462
+"sig_24" -0.0321108638894928
+"sig_12" -0.0327918397376766
+"sig_16" -0.0332374224817281
+"sig_19" -0.0338165170323861
+"sig_20" -0.0345037685100623
+"sig_18" -0.0347490713711972
+"sig_22" -0.0350056852276918
+"sig_10" -0.035614007988589
+"sig_15" -0.0360029304889873
+"sig_23" -0.0367118612918546
+"sig_26" -0.0380475414953398
+"sig_13" -0.0394063147912216
+"sig_9" -0.0425992857572804
+"sig_4" -0.0430682710918634
+"sig_28" -0.0435298646523559
+"sig_5" -0.0461792408675793
+"sig_6" -0.0462117522072392
+"sig_3" -0.0488412651834434
+"sig_7" -0.0499351619842475
+"sig_1" -0.0681076890184487
+"sig_8" -0.071701548908936
+"sig_29" -0.0721921026141832
+"sig_2" -0.0816038161136185
+-----
+"x"
+"other.metabolic.processes" 0.056972399906057
+"transport" 0.0411734541804025
+"protein.metabolism" 0.0247592305748396
+"cell.cell.signaling" 0.0175015211841763
+"cell.organization.and.biogenesis" 0.0145870683161458
+"developmental.processes" 0.0143830418152403
+"signal.transduction" 0.0119598573165771
+"cell.adhesion" 0.00820072615765368
+"stress.response" 0.00620450723272041
+"other.biological.processes" 0.00191852149973519
+"DNA.metabolism" -0.00567393530573056
+"cell.cycle.and.proliferation" -0.0155296169120109
+"RNA.metabolism" -0.065515997126898
+"death" -0.130453937016065
+__________________________________________________
+
+==> 4-biogrid_human_ppi_noUBC_full_CCA/CCA_out/biogrid_human_ppi_noUBC_full.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  11539
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.236950341937738, 0.0871589838129494, 0.0532885506341267, 0.0495151706857958, 0.044512988016526, 0.0371122205970379, 0.0316618934605753, 0.0241484838871384, 0.0183881131151198, 0.013068781634366, 0.00662841499320093, 0.00388683438944895, 0.000496612765960135, 1.08887717374405e-11
+p-values (asymptotic Wilks): 0, 0.999999999984925, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 0.999999999983843, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0, 0.999999999985839, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.236950341937738
+canonical root:  0.056145464544411
+shared variance X:  0.197581271321833
+shared variance Y:  0.0786587512336516
+redundancy index X:  0.0110932922636396
+redundancy index Y:  0.00441633212849663
+"x"
+"sig_11" -0.0070770419166052
+"sig_14" -0.0140711653216073
+"sig_10" -0.0174887608095644
+"sig_4" -0.0202676452696141
+"sig_9" -0.0247251633119841
+"sig_16" -0.0377705621072966
+"sig_12" -0.0378098566409724
+"sig_13" -0.0435633706341271
+"sig_3" -0.04898098726946
+"sig_17" -0.0519135433207063
+"sig_20" -0.0584313976243124
+"sig_15" -0.0635040709981089
+"sig_18" -0.0671237084176427
+"sig_19" -0.0786758241071425
+"sig_1" -0.0851022859876499
+"sig_22" -0.0854233804588473
+"sig_6" -0.0951146668692336
+"sig_21" -0.0959056513350244
+"sig_23" -0.100012277417367
+"sig_5" -0.112611511918066
+"sig_25" -0.120091707009029
+"sig_24" -0.126949553736189
+"sig_27" -0.142534512311281
+"sig_26" -0.149869042253716
+"sig_7" -0.158077201198269
+"sig_28" -0.162009560802856
+"sig_29" -0.173875086596927
+"sig_8" -0.179771932670619
+"sig_2" -0.183029721939835
+-----
+"x"
+"transport" 0.0401331925929093
+"cell.organization.and.biogenesis" 0.0327476269031693
+"other.metabolic.processes" 0.0306884873124966
+"other.biological.processes" 0.0285974638203856
+"developmental.processes" 0.0267731376388543
+"signal.transduction" 0.022790063251574
+"stress.response" 0.02063129627154
+"RNA.metabolism" 0.0163600157752575
+"cell.cell.signaling" 0.015445030285537
+"cell.adhesion" 0.0135374395490533
+"DNA.metabolism" 0.0086792843745809
+"death" 0.00467341735093078
+"cell.cycle.and.proliferation" -0.00104858382524773
+"protein.metabolism" -0.241513731202962
+__________________________________________________
+
+==> 5-biogrid_human_ppi_hc_CCA/CCA_out/biogrid_human_ppi_hc.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  7005
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.259203382837973, 0.105463296530231, 0.0734249953496146, 0.0604353183929021, 0.0455769363239592, 0.0352639505555099, 0.0276243782427665, 0.0217172327011541, 0.017036806882873, 0.00775284955592884, 0.00453626833240375, 0.00263883280967739, 0.00103639950546324, 1.83926339532982e-12
+p-values (asymptotic Wilks): 1.57651669496772e-14, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 8.88178419700125e-16, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 2.5157653738006e-13, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.259203382837973
+canonical root:  0.0671863936746485
+shared variance X:  0.0598109484194785
+shared variance Y:  0.0799898899141395
+redundancy index X:  0.00401848192656518
+redundancy index Y:  0.00537423223376318
+"x"
+"sig_15" 0.00260280240089236
+"sig_9" 0.00252305583149569
+"sig_20" 0.00246642779019045
+"sig_16" 0.00242865577057703
+"sig_10" 0.00220472299707353
+"sig_13" 0.00217533857525897
+"sig_12" 0.00214515138768351
+"sig_3" 0.00213216597437075
+"sig_19" 0.00126337736659486
+"sig_21" 0.00107349396744511
+"sig_5" -0.000911276259850539
+"sig_25" -0.00530342665329895
+"sig_18" -0.00791468063786719
+"sig_24" -0.0111103956901261
+"sig_22" -0.0112278643201106
+"sig_17" -0.0112820611965511
+"sig_6" -0.0116878687124547
+"sig_1" -0.0119001400708926
+"sig_14" -0.0186112062389635
+"sig_4" -0.019726379866063
+"sig_23" -0.020212532634804
+"sig_11" -0.0219124074418505
+"sig_27" -0.050170545855492
+"sig_7" -0.0547959483167961
+"sig_26" -0.0648747742193664
+"sig_2" -0.121948932386978
+"sig_28" -0.13589527539024
+"sig_8" -0.179278748178528
+"sig_29" -0.184297815284909
+-----
+"x"
+"other.biological.processes" 0.0473959473405863
+"other.metabolic.processes" 0.0422726566255688
+"transport" 0.0408521308146745
+"cell.organization.and.biogenesis" 0.0294666845847446
+"signal.transduction" 0.0287593798906555
+"stress.response" 0.0258601134592973
+"developmental.processes" 0.022122903055576
+"RNA.metabolism" 0.0161663448411842
+"death" 0.0143356784936169
+"cell.cell.signaling" 0.0114668921243357
+"cell.adhesion" 0.0101164046322496
+"DNA.metabolism" 0.00454250430486669
+"cell.cycle.and.proliferation" 0.0034684792856061
+"protein.metabolism" -0.263661004746923
+__________________________________________________
+
+==> 6-yeast_apms_collins_boone_CCA/CCA_out/yeast_apms_collins.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  1241
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.530126834561433, 0.361843921516991, 0.206925060942331, 0.0452633417280611, 0.0210188150930933, 0.00999697197910705, 0.00441740692233176, 0.0029567357858866, 0.00248619978944194, 0.000811599077584253, 0.000293452376832328, 0.000121400848920915, 1.99583453190023e-05, 4.68702703621409e-12
+p-values (asymptotic Wilks): 7.05413505386332e-12, 0.99999999767416, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 0.999999948510477, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 1.35840490078643e-07, 0.999999999904449, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.530126834561433
+canonical root:  0.281034460722125
+shared variance X:  0.497721553582597
+shared variance Y:  0.0811137498774557
+redundancy index X:  0.139876908400864
+redundancy index Y:  0.0227957589539601
+"x"
+"sig_9" -0.212189480521127
+"sig_10" -0.23169736846479
+"sig_13" -0.232821245542862
+"sig_11" -0.273160142436031
+"sig_12" -0.292685740106294
+"sig_15" -0.293876049989637
+"sig_18" -0.296045033770591
+"sig_14" -0.302255014933251
+"sig_16" -0.304908840874617
+"sig_3" -0.329827658812634
+"sig_19" -0.329876959356558
+"sig_21" -0.343057910908779
+"sig_17" -0.354993407571703
+"sig_20" -0.363364202312918
+"sig_4" -0.364511835103225
+"sig_23" -0.376791679199217
+"sig_25" -0.393313656591054
+"sig_24" -0.396594900291068
+"sig_22" -0.403435045705139
+"sig_6" -0.4095493068112
+"sig_5" -0.416556791006977
+"sig_27" -0.421970977216574
+"sig_26" -0.426165690577217
+"sig_28" -0.44429555896716
+"sig_1" -0.453051926929247
+"sig_7" -0.454313584962548
+"sig_29" -0.46430615776707
+"sig_8" -0.479142491460243
+"sig_2" -0.499532936369011
+-----
+"x"
+"Golgi.endosome.vacuole.sorting" 0.111655921978258
+"Metabolism.mitochondria" 0.0950477649048382
+"DNA.replication...repair.HR.cohesion" 0.0949749193203341
+"Chromatin.transcription" 0.0808908170932502
+"Cell.polarity.morphogenesis" 0.0799677241526446
+"Signaling.stress.response" 0.0716519088009494
+"Chrom..seg..kinetoch..spindle.microtub." 0.066696597773356
+"Protein.folding...glycosylation.cell.wall" 0.0566941389415309
+"ER.Golgi.traffic" 0.0562878541332071
+"Nuclear.cytoplasmic.transport" 0.0424185802893814
+"Cell.cycle.progression.meiosis" 0.0101030282088361
+"Protein.degredation.proteosome" 0.00767401924632755
+"RNA.processing" -0.0475609645756522
+"Ribosome.translation" -0.508987082686986
+__________________________________________________
+
+==> 7-yeast_biogrid_genetic_boone_CCA/CCA_out/yeast_biogrid_genetic.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  3194
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.345898747530568, 0.225253241302983, 0.192166372706951, 0.152207771368256, 0.125467954333461, 0.0838134364268649, 0.0414587398071686, 0.0349862906272815, 0.0267829805194673, 0.0204493876758583, 0.0133903458974968, 0.00780910965545125, 0.00468155216669138, 3.66692195078349e-12
+p-values (asymptotic Wilks): 0, 0.0022897950861186, 0.96274721478692, 0.999999999803514, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 0.00140322624264066, 0.954461092089526, 0.999999999732645, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0, 0.00359336909789421, 0.969147469427546, 0.999999999845346, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.345898747530568
+canonical root:  0.119645943543215
+shared variance X:  0.22401408775993
+shared variance Y:  0.0802124263544652
+redundancy index X:  0.0268023768970095
+redundancy index Y:  0.00959709143507066
+"x"
+"sig_11" -0.0551769634216806
+"sig_10" -0.0881022932088438
+"sig_9" -0.0921700695229395
+"sig_14" -0.10259516324479
+"sig_16" -0.11486409875365
+"sig_13" -0.117355102815521
+"sig_12" -0.117809704835365
+"sig_15" -0.117830736805456
+"sig_4" -0.120009433616735
+"sig_3" -0.133039386074082
+"sig_20" -0.137327306466373
+"sig_18" -0.139299917258546
+"sig_17" -0.139351536301352
+"sig_21" -0.142043755220121
+"sig_19" -0.144161490286786
+"sig_25" -0.164290225528346
+"sig_5" -0.165378699840157
+"sig_22" -0.165421846375952
+"sig_24" -0.166340022106763
+"sig_6" -0.167983901367485
+"sig_23" -0.169263770994989
+"sig_1" -0.177760143478368
+"sig_27" -0.184914003335098
+"sig_26" -0.190232437320193
+"sig_7" -0.201196864769798
+"sig_28" -0.209521009110606
+"sig_2" -0.232243524038129
+"sig_29" -0.232692589398075
+"sig_8" -0.234253259522763
+-----
+"x"
+"Metabolism.mitochondria" 0.147874525297607
+"Ribosome.translation" 0.0753500601829054
+"Cell.polarity.morphogenesis" 0.0594431695713238
+"RNA.processing" 0.0567141147811023
+"Protein.folding...glycosylation.cell.wall" 0.0463691470645248
+"Signaling.stress.response" 0.0403017597131823
+"Cell.cycle.progression.meiosis" 0.035408954689929
+"Nuclear.cytoplasmic.transport" 0.0180588923787346
+"Golgi.endosome.vacuole.sorting" 0.0167303035785614
+"Protein.degredation.proteosome" -0.00324927490158622
+"ER.Golgi.traffic" -0.0155264565216734
+"Chrom..seg..kinetoch..spindle.microtub." -0.0310708153407769
+"DNA.replication...repair.HR.cohesion" -0.219151127981763
+"Chromatin.transcription" -0.232418063465632
+__________________________________________________
+
+==> 8-yeast_lc_boone_CCA/CCA_out/yeast_lc.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  1245
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.364346353486098, 0.222732183779795, 0.177725185619804, 0.147228316519833, 0.135506136504788, 0.07263882212047, 0.0594040385010535, 0.0473100108137332, 0.0353817037766459, 0.0241701346239287, 0.0158033901670125, 0.0127684243717899, 0.00462442529683922, 4.42407935929931e-12
+p-values (asymptotic Wilks): 0.991481808403308, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0.977068242726224, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0.997099104532471, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.364346353486098
+canonical root:  0.132748265298617
+shared variance X:  0.232935469112896
+shared variance Y:  0.0846578280295998
+redundancy index X:  0.0309217794512565
+redundancy index Y:  0.011238179814878
+"x"
+"sig_11" -0.108993021133359
+"sig_20" -0.128827634641015
+"sig_12" -0.132602397049258
+"sig_18" -0.13788260863897
+"sig_13" -0.145220858017979
+"sig_14" -0.145453620426178
+"sig_16" -0.145964790818549
+"sig_15" -0.147117776651623
+"sig_10" -0.147264377436303
+"sig_19" -0.147847728531907
+"sig_9" -0.148712701637112
+"sig_23" -0.152510815485891
+"sig_17" -0.155248068898286
+"sig_24" -0.158023520176441
+"sig_21" -0.160178174770615
+"sig_4" -0.170322453892581
+"sig_25" -0.171051381102332
+"sig_26" -0.171300987313395
+"sig_3" -0.172303285952746
+"sig_22" -0.175482439741081
+"sig_5" -0.177068521486826
+"sig_6" -0.180418166200231
+"sig_27" -0.18404850553849
+"sig_28" -0.191498722532155
+"sig_29" -0.194208317124702
+"sig_7" -0.209302456320386
+"sig_8" -0.218367154575864
+"sig_1" -0.229296955772637
+"sig_2" -0.263039563642853
+-----
+"x"
+"DNA.replication...repair.HR.cohesion" 0.104901909531929
+"Golgi.endosome.vacuole.sorting" 0.0989970446915004
+"Cell.polarity.morphogenesis" 0.0821743169306519
+"Metabolism.mitochondria" 0.0712839282449141
+"Signaling.stress.response" 0.0651391942323962
+"Protein.folding...glycosylation.cell.wall" 0.0430905486286769
+"Protein.degredation.proteosome" 0.0329617267125309
+"Cell.cycle.progression.meiosis" 0.0274932246757048
+"Ribosome.translation" 0.0262923723476164
+"ER.Golgi.traffic" 0.0262415363158927
+"Chrom..seg..kinetoch..spindle.microtub." 0.0111831134802526
+"Nuclear.cytoplasmic.transport" 0.0063461797663747
+"RNA.processing" -0.020482606895401
+"Chromatin.transcription" -0.352522976691121
+__________________________________________________
+
+==> 9-yeast_y2h_union_yu_ito_uetz_boone_CCA/CCA_out/yeast_y2h_union_yu_ito_uetz.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+the following columns had zero variance and were not kept:  sig_18, sig_19, sig_20, sig_22, sig_24, sig_25, sig_26, sig_27, sig_29
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  1217
+independent variables: 20 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.149550141688948, 0.139353246579411, 0.113439033199888, 0.100294568637644, 0.0968547516555907, 0.0700456135387205, 0.0542661457263749, 0.029036216582858, 0.0156620370452622, 0.0126385244850273, 0.00427848827679673, 0.000284133230115921, 1.31528718041907e-12, 5.99415906153189e-15
+p-values (asymptotic Wilks): 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.149550141688948
+canonical root:  0.0223652448791845
+shared variance X:  0.0698006135730673
+shared variance Y:  0.0773340832648852
+redundancy index X:  0.00156110781527898
+redundancy index Y:  0.0017295957097264
+"x"
+"sig_16" 0.0480990366969199
+"sig_15" 0.0472827249457309
+"sig_10" 0.0472121227336458
+"sig_9" 0.0470242371232134
+"sig_3" 0.0462517948495082
+"sig_5" 0.0427178172642452
+"sig_11" 0.0375616834081254
+"sig_4" 0.0270195977318146
+"sig_13" 0.0223313017420621
+"sig_8" 0.0131045459667852
+"sig_12" 0.0131045459667852
+"sig_21" 0.0131045459667852
+"sig_23" 0.0131045459667852
+"sig_28" 0.0131045459667852
+"sig_1" 0.00791297882596256
+"sig_7" -0.0355230660421116
+"sig_2" -0.0412286025962996
+"sig_6" -0.0429641384590762
+"sig_17" -0.0511201548035703
+"sig_14" -0.0764419155096765
+-----
+"x"
+"Ribosome.translation" 0.0648126557653644
+"DNA.replication...repair.HR.cohesion" 0.0379432279049965
+"Metabolism.mitochondria" 0.0282423353443325
+"Protein.folding...glycosylation.cell.wall" 0.0184544380514178
+"Protein.degredation.proteosome" 0.0144113833068616
+"Chromatin.transcription" 0.0104698510144167
+"Cell.cycle.progression.meiosis" 0.0104661586609085
+"RNA.processing" 0.00977878601504888
+"ER.Golgi.traffic" 0.0015763292100546
+"Signaling.stress.response" 0.00140859589996155
+"Golgi.endosome.vacuole.sorting" -0.00628212751290403
+"Chrom..seg..kinetoch..spindle.microtub." -0.0187755252543441
+"Nuclear.cytoplasmic.transport" -0.0444780694015933
+"Cell.polarity.morphogenesis" -0.125684759889509
+__________________________________________________
+
+
+==> 10-biogrid_yeast_ppi_noYLL039C_full_boone_CCA/CCA_out/biogrid_yeast_ppi_noYLL039C_full.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  3213
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.45880430741723, 0.334360215431518, 0.1420314043403, 0.132113078886416, 0.126037346446307, 0.0858490466766794, 0.0751817045510912, 0.0495975179653885, 0.0251233141995856, 0.0202085926434529, 0.00669445592243282, 0.00523369061950981, 0.00172734205429482, 2.59750328836361e-12
+p-values (asymptotic Wilks): 0, 3.95239396766556e-14, 0.9999925714824, 0.999999999834122, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 6.66133814775094e-16, 0.999991294598666, 0.999999999799288, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0, 1.39732669879322e-12, 0.999993443367027, 0.999999999853165, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.45880430741723
+canonical root:  0.210501392504605
+shared variance X:  0.146950744641231
+shared variance Y:  0.0793050041353958
+redundancy index X:  0.0309333363765677
+redundancy index Y:  0.0166938138030842
+"x"
+"sig_11" -0.0335008490033594
+"sig_14" -0.0391537348322753
+"sig_10" -0.0409595646198318
+"sig_4" -0.0426056194541177
+"sig_9" -0.0499901600190122
+"sig_16" -0.0545855659016712
+"sig_20" -0.0564132469786062
+"sig_12" -0.0570348147961002
+"sig_17" -0.0668197918344551
+"sig_3" -0.0741528141430949
+"sig_13" -0.0758506944969938
+"sig_22" -0.0836100209712914
+"sig_15" -0.0868136570402509
+"sig_18" -0.1024025656627
+"sig_19" -0.105622260347412
+"sig_1" -0.119007594487353
+"sig_21" -0.128874211571179
+"sig_6" -0.131148971139729
+"sig_23" -0.1450657878404
+"sig_5" -0.172067047001145
+"sig_24" -0.191165208583122
+"sig_25" -0.191580063628038
+"sig_26" -0.253455034820029
+"sig_27" -0.264910205957605
+"sig_7" -0.275508344217967
+"sig_28" -0.289739702115225
+"sig_29" -0.299368501765292
+"sig_8" -0.324296804477194
+"sig_2" -0.345230081760038
+-----
+"x"
+"Metabolism.mitochondria" 0.158613705213679
+"Golgi.endosome.vacuole.sorting" 0.0917174364025812
+"Protein.folding...glycosylation.cell.wall" 0.0879435513193002
+"Cell.polarity.morphogenesis" 0.0780618327851984
+"DNA.replication...repair.HR.cohesion" 0.0767868682121237
+"Signaling.stress.response" 0.0651268670024973
+"ER.Golgi.traffic" 0.0500043262291588
+"Chrom..seg..kinetoch..spindle.microtub." 0.0486399094923175
+"Cell.cycle.progression.meiosis" 0.0394419673356677
+"Nuclear.cytoplasmic.transport" -0.0100198222843484
+"Protein.degredation.proteosome" -0.0157390822678899
+"Chromatin.transcription" -0.0283716381202604
+"RNA.processing" -0.240026232630838
+"Ribosome.translation" -0.352812642444517
+__________________________________________________
+
+==> 11-biogrid_yeast_ppi_hc_boone_CCA/CCA_out/biogrid_yeast_ppi_hc.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  2574
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.480627179279578, 0.352528060869427, 0.270443084759021, 0.151403419086887, 0.0815863199453, 0.0709716081173748, 0.0613185769398159, 0.0432744905634365, 0.0108699833330386, 0.00878904002122636, 0.00333002191987313, 0.00202123923726412, 0.00120516810095203, 2.09204692548251e-12
+p-values (asymptotic Wilks): 0, 0, 0.849357929016897, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 0, 0.780582736787638, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0, 4.66293670342566e-15, 0.899189518236576, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.480627179279578
+canonical root:  0.231002485462244
+shared variance X:  0.115565674552335
+shared variance Y:  0.0801859937736547
+redundancy index X:  0.02669595805571
+redundancy index Y:  0.0185231638609742
+"x"
+"sig_11" -0.0119779378405587
+"sig_4" -0.015018428077976
+"sig_14" -0.0164028680357963
+"sig_10" -0.0278177448848956
+"sig_17" -0.0911416140538267
+"sig_1" -0.113103369651705
+"sig_23" -0.119081755255454
+"sig_12" -0.123726418244095
+"sig_19" -0.127379065608306
+"sig_16" -0.136782050293979
+"sig_9" -0.137854551520488
+"sig_18" -0.139816705273713
+"sig_15" -0.13997096292874
+"sig_6" -0.146767426703034
+"sig_20" -0.14789838467656
+"sig_13" -0.152075171589064
+"sig_22" -0.156927183812745
+"sig_21" -0.162365023831832
+"sig_3" -0.165003498173753
+"sig_25" -0.167230519879966
+"sig_24" -0.174202197302304
+"sig_27" -0.176044279367578
+"sig_26" -0.184355849663703
+"sig_28" -0.187954744778803
+"sig_29" -0.190331258989726
+"sig_5" -0.195533698267289
+"sig_7" -0.233129780389112
+"sig_8" -0.251401123286975
+"sig_2" -0.322635337534557
+-----
+"x"
+"Metabolism.mitochondria" 0.170694094856535
+"Cell.polarity.morphogenesis" 0.100732059796327
+"Protein.folding...glycosylation.cell.wall" 0.0946501617805622
+"Golgi.endosome.vacuole.sorting" 0.0875840454530169
+"Signaling.stress.response" 0.0854740180195598
+"DNA.replication...repair.HR.cohesion" 0.0833685291957366
+"ER.Golgi.traffic" 0.0566929205702521
+"Chrom..seg..kinetoch..spindle.microtub." 0.0561706696779016
+"Cell.cycle.progression.meiosis" 0.0439940011223377
+"Nuclear.cytoplasmic.transport" 0.0163091921704493
+"Ribosome.translation" 0.00935415395080078
+"Protein.degredation.proteosome" -0.0579729929892282
+"Chromatin.transcription" -0.246174503929106
+"RNA.processing" -0.357067691021968
+__________________________________________________
+
+==> 12-yeast_apms_collins_merin_CCA/CCA_out/yeast_apms_collins.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  1566
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 13 (13 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.544892162389242, 0.248623359284329, 0.104546658209469, 0.0698693547090216, 0.0471148670028552, 0.0333416064826747, 0.0171933571928798, 0.00600785354494836, 0.00136441369687946, 0.00107901236678116, 0.000102163421900291, 2.13174682863128e-05, 4.44110495008666e-12
+p-values (asymptotic Wilks): 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 5.06950037504339e-12, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.544892162389242
+canonical root:  0.296907468633224
+shared variance X:  0.475784003049143
+shared variance Y:  0.0879401590091665
+redundancy index X:  0.141263823961503
+redundancy index Y:  0.0261100900026148
+"x"
+"sig_9" -0.212026065128185
+"sig_13" -0.230801706957958
+"sig_10" -0.235598148946088
+"sig_11" -0.279105196502028
+"sig_15" -0.289307378462571
+"sig_18" -0.290827205805071
+"sig_12" -0.296789663990839
+"sig_14" -0.305178733410265
+"sig_16" -0.306044842814076
+"sig_3" -0.324791588613672
+"sig_19" -0.329808702694567
+"sig_21" -0.340181621625768
+"sig_17" -0.35616237131605
+"sig_4" -0.362012160247897
+"sig_20" -0.363830057895866
+"sig_23" -0.381028637991733
+"sig_25" -0.392689647466987
+"sig_24" -0.392722175847764
+"sig_22" -0.399912734540233
+"sig_6" -0.405766539047981
+"sig_5" -0.411176114515425
+"sig_27" -0.421748632800405
+"sig_26" -0.42604088494671
+"sig_1" -0.44138753874283
+"sig_28" -0.447632062932571
+"sig_7" -0.452477516146797
+"sig_29" -0.476223678139649
+"sig_8" -0.489675133977061
+"sig_2" -0.505434908247228
+-----
+"x"
+"X.O." 0.104102534665489
+"X.U." 0.100382845116751
+"X.D." 0.0948091969757041
+"X.M." 0.0726108674631589
+"X.C." 0.0620774080694442
+"X.E." 0.0579127948652987
+"X.F." 0.0495838871365898
+"X.G." 0.0479167960833334
+"X.B." 0.0423225178542114
+"X.R." 0.0359243057574675
+"X.A." 0.0317350841760096
+"X.T." 0.0213862182416464
+"X.P." -0.542733791212077
+__________________________________________________
+
+==> 13-yeast_biogrid_genetic_merin_CCA/CCA_out/yeast_biogrid_genetic.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  5306
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 13 (13 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.272033583222785, 0.151545030565273, 0.143353396342569, 0.0957295123246031, 0.0742020946607868, 0.0533581504908864, 0.0421084082690797, 0.0377036171976486, 0.0246093004448181, 0.0149575309103221, 0.00720608149148486, 0.0048670268350887, 3.48243532835279e-12
+p-values (asymptotic Wilks): 0, 0.327797991346335, 0.999407290025711, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 0.306213621685667, 0.999312037519998, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0, 0.349104759346362, 0.999482711575819, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.272033583222785
+canonical root:  0.0740022704010281
+shared variance X:  0.163378333096137
+shared variance Y:  0.0853314337854258
+redundancy index X:  0.0120903675834496
+redundancy index Y:  0.0063147198366965
+"x"
+"sig_11" -0.00262967437205441
+"sig_14" -0.049311983082273
+"sig_4" -0.0532704055501834
+"sig_10" -0.0661533890570665
+"sig_9" -0.0709213361309097
+"sig_16" -0.0817144586609401
+"sig_13" -0.0826254910595178
+"sig_12" -0.0826629883438993
+"sig_15" -0.083645913176941
+"sig_17" -0.0878194977298463
+"sig_18" -0.0883148566712501
+"sig_20" -0.0933259098836352
+"sig_21" -0.0946893386974427
+"sig_19" -0.0956845849871249
+"sig_22" -0.0984154578224395
+"sig_3" -0.0999574016325162
+"sig_24" -0.10265213928342
+"sig_23" -0.104862635721159
+"sig_25" -0.105627025872295
+"sig_26" -0.112657685307225
+"sig_27" -0.112857047086288
+"sig_6" -0.114758351718993
+"sig_5" -0.116591822398335
+"sig_28" -0.122173047915417
+"sig_7" -0.130978854128145
+"sig_29" -0.134457286738909
+"sig_1" -0.13664395479534
+"sig_8" -0.147618530225976
+"sig_2" -0.16768767702374
+-----
+"x"
+"X.U." 0.11238104942241
+"X.P." 0.0779337721788811
+"X.M." 0.0631428348998701
+"X.A." 0.0616085892988108
+"X.E." 0.0492631627666717
+"X.G." 0.0434931069938828
+"X.R." 0.0241704427706144
+"X.C." -0.0209318025847434
+"X.T." -0.0345589434654708
+"X.F." -0.0487092477178982
+"X.O." -0.0576520263604394
+"X.B." -0.1535634256477
+"X.D." -0.177386436699251
+__________________________________________________
+
+==> 14-yeast_lc_merin_CCA/CCA_out/yeast_lc.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  1470
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 13 (13 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.307324015965059, 0.2489499357079, 0.159516475924923, 0.107485590940243, 0.0922502851579473, 0.0853852905632663, 0.0517908772834508, 0.0341995451392947, 0.00660235146659546, 0.00150713103171687, 0.000849291997972973, 5.64387302637781e-12, 1.21655306015563e-14
+p-values (asymptotic Wilks): 0.986410994510114, 0.999999999999983, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0.973807772472913, 0.999999999999955, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0.993286915760317, 0.999999999999993, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.307324015965059
+canonical root:  0.0944480507888919
+shared variance X:  0.296019620177441
+shared variance Y:  0.0846155921345776
+redundancy index X:  0.0279584761210275
+redundancy index Y:  0.00799177774345874
+"x"
+"sig_20" -0.047851955591882
+"sig_25" -0.085355592771275
+"sig_16" -0.0856485945427644
+"sig_5" -0.0925643874794808
+"sig_11" -0.102036757939423
+"sig_9" -0.103603681604107
+"sig_10" -0.119489758473192
+"sig_21" -0.122162301380042
+"sig_12" -0.139952475895602
+"sig_15" -0.144153129545997
+"sig_3" -0.146888944668942
+"sig_4" -0.149318581796754
+"sig_13" -0.150073656921049
+"sig_14" -0.157360390930831
+"sig_27" -0.158984633255244
+"sig_18" -0.160467685253807
+"sig_19" -0.16407390997288
+"sig_17" -0.168895069933171
+"sig_22" -0.169339631166878
+"sig_23" -0.175851384270726
+"sig_24" -0.181701922100155
+"sig_6" -0.183251209163566
+"sig_1" -0.188263282264305
+"sig_26" -0.189472954420694
+"sig_7" -0.207124202472284
+"sig_28" -0.21300370950767
+"sig_29" -0.237852537805593
+"sig_8" -0.243756847429461
+"sig_2" -0.250266654303811
+-----
+"x"
+"X.O." 0.0581923874636994
+"X.C." 0.0486892433589521
+"X.U." 0.046181143341328
+"X.D." 0.0414279415789849
+"X.F." 0.0362820011498663
+"X.M." 0.0331857327369195
+"X.A." 0.027089480818006
+"X.R." 0.0245530973707528
+"X.E." 0.0238625278905134
+"X.P." 0.0195269537249107
+"X.G." 0.00749958829079788
+"X.T." -0.0203896260157444
+"X.B." -0.306066369274566
+__________________________________________________
+
+==> 15-yeast_y2h_union_yu_ito_uetz_merin_CCA/CCA_out/yeast_y2h_union_yu_ito_uetz.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+the following columns had zero variance and were not kept:  sig_18, sig_20, sig_24, sig_25, sig_27, sig_29
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  1882
+independent variables: 23 (29 before removing zero-variance variables)
+dependent variables: 13 (13 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.277917235737594, 0.147002910498568, 0.130954816572809, 0.118435857542706, 0.105555454551125, 0.0953840769058755, 0.0901096376315554, 0.0556458216027103, 0.0314111649575372, 0.0240863598173141, 0.0100419312658175, 1.17959361364341e-12, 1.04708723308737e-14
+p-values (asymptotic Wilks): 0.30609433415624, 0.999999905073447, 0.999999999830097, 0.999999999999613, 0.999999999999999, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0.251354517566798, 0.999999902026883, 0.999999999824196, 0.999999999999596, 0.999999999999999, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0.363840945358908, 0.999999904586385, 0.999999999821541, 0.999999999999577, 0.999999999999999, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.277917235737594
+canonical root:  0.0772379899200252
+shared variance X:  0.142087079317262
+shared variance Y:  0.0793639216288315
+redundancy index X:  0.0109745204000725
+redundancy index Y:  0.00612990977878135
+"x"
+"sig_15" 0.00623989460300872
+"sig_11" 0.0056314041540578
+"sig_9" 0.00559562366615487
+"sig_10" 0.00439336888191989
+"sig_4" 0.00379509773565555
+"sig_16" -0.00210153054397247
+"sig_3" -0.00545584295940676
+"sig_1" -0.0159918222121736
+"sig_14" -0.0176064089210684
+"sig_5" -0.0558392072569607
+"sig_22" -0.0780529189493939
+"sig_26" -0.0780529189493939
+"sig_13" -0.111454352532523
+"sig_7" -0.111559563838091
+"sig_17" -0.118025022547727
+"sig_19" -0.125698887852185
+"sig_6" -0.126013421289528
+"sig_12" -0.135517854535312
+"sig_28" -0.138089167258585
+"sig_21" -0.14083827874911
+"sig_2" -0.178238659152607
+"sig_23" -0.188103906736545
+"sig_8" -0.196718012242962
+-----
+"x"
+"X.U." 0.031217103728973
+"X.D." 0.0198221461062847
+"X.F." 0.0191019160572502
+"X.B." 0.0157866958247049
+"X.T." 0.014949975345475
+"X.O." 0.0143429343749548
+"X.C." 0.0109719552806429
+"X.P." 0.00832644895625454
+"X.E." 0.00538842617952655
+"X.G." 0.00516641466244076
+"X.A." 0.0051432199076593
+"X.M." 0.00250387767575605
+"X.R." -0.279451613238666
+__________________________________________________
+
+==> 16-biogrid_yeast_ppi_noYLL039C_full_merin_CCA/CCA_out/biogrid_yeast_ppi_noYLL039C_full.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  5426
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 13 (13 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.457793640216691, 0.2595970297473, 0.133669128165249, 0.100625895821383, 0.0661686496315145, 0.0353136085033062, 0.0228192325479487, 0.0159208153631233, 0.013363879119108, 0.00304678279056754, 0.00201204048964762, 0.000800193678138186, 4.59461642728709e-12
+p-values (asymptotic Wilks): 0, 6.77236045021345e-14, 0.99999986626606, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 5.99520433297585e-15, 0.999999832606628, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0, 6.56585896763318e-13, 0.999999891170033, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.457793640216691
+canonical root:  0.209575017022849
+shared variance X:  0.187906774072764
+shared variance Y:  0.0831806542246869
+redundancy index X:  0.0393805653750081
+redundancy index Y:  0.0174325870251104
+"x"
+"sig_10" -0.0326993725861056
+"sig_11" -0.0359054072208462
+"sig_14" -0.0384362519219121
+"sig_4" -0.0387024997873069
+"sig_9" -0.0389688289892214
+"sig_12" -0.0527216984724671
+"sig_16" -0.0531995931183881
+"sig_20" -0.0639653777585132
+"sig_3" -0.0652846004609765
+"sig_17" -0.0666187224384383
+"sig_13" -0.0735321755632051
+"sig_22" -0.0813254193954455
+"sig_15" -0.0831442185666287
+"sig_18" -0.102397710589111
+"sig_1" -0.112988145193408
+"sig_19" -0.120262489929942
+"sig_6" -0.135762040204614
+"sig_21" -0.138437674464701
+"sig_23" -0.17370013773394
+"sig_5" -0.184341882559055
+"sig_24" -0.213680407711576
+"sig_25" -0.223800795369718
+"sig_26" -0.296035205302833
+"sig_7" -0.305690787155944
+"sig_27" -0.310887976184902
+"sig_28" -0.348435706498005
+"sig_2" -0.370431421774572
+"sig_29" -0.370990452689801
+"sig_8" -0.378489823251369
+-----
+"x"
+"X.U." 0.10778056797161
+"X.M." 0.0761545516265312
+"X.A." 0.0543393225353614
+"X.E." 0.0400743387252687
+"X.G." 0.0361501849555575
+"X.R." 0.0349808309292134
+"X.O." 0.0343116092017051
+"X.C." 0.0338535923109098
+"X.D." 0.0283799223527677
+"X.F." 0.0276252683425219
+"X.B." 0.0139298396422311
+"X.T." -0.117212944705058
+"X.P." -0.440679219008082
+__________________________________________________
+
+==> 17-biogrid_yeast_ppi_hc_merin_CCA/CCA_out/biogrid_yeast_ppi_hc.txt <==
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  3739
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 13 (13 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.424493771565584, 0.233628261267086, 0.190279076195741, 0.10686030130993, 0.076884435076271, 0.0566560857280131, 0.045671531187661, 0.0292231671607533, 0.00374647602928837, 0.00289244317377023, 0.0017142604652321, 0.00137115740152111, 2.87395925446758e-12
+p-values (asymptotic Wilks): 0, 0.000260974852365647, 0.999353801619981, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0, 0.000122849269693415, 0.999092856011398, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0, 0.000523929849900573, 0.999532961060552, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.424493771565584
+canonical root:  0.180194962097974
+shared variance X:  0.0352451644086494
+shared variance Y:  0.0840577489844797
+redundancy index X:  0.00635100106475346
+redundancy index Y:  0.0151467828922994
+"x"
+"sig_11" 0.00615470207634573
+"sig_4" 0.00504623777854404
+"sig_14" 0.00442874775308286
+"sig_10" 0.00384959851621533
+"sig_9" 0.00131980902054059
+"sig_16" 0.000254687723151294
+"sig_20" -0.000286593984447435
+"sig_12" -0.00999888477920179
+"sig_3" -0.0113237855573394
+"sig_15" -0.0128471431399962
+"sig_13" -0.0178707390058732
+"sig_17" -0.0230687440709742
+"sig_1" -0.0329380822531339
+"sig_23" -0.0430387257478965
+"sig_19" -0.04477162249344
+"sig_6" -0.0525594098676211
+"sig_21" -0.0564164462738961
+"sig_5" -0.0595007916680764
+"sig_25" -0.0638289751081469
+"sig_18" -0.0704245522899768
+"sig_27" -0.0772483273862045
+"sig_22" -0.0779804456040846
+"sig_24" -0.0917841286862702
+"sig_26" -0.100009929766389
+"sig_28" -0.10302660841484
+"sig_29" -0.11273512738831
+"sig_7" -0.139579432212895
+"sig_8" -0.165033816607569
+"sig_2" -0.223518564656672
+-----
+"x"
+"X.M." 0.0999257313876536
+"X.A." 0.0719525568889254
+"X.E." 0.0670675726211212
+"X.U." 0.0663773428590805
+"X.C." 0.0595699379699463
+"X.G." 0.0553090173486339
+"X.R." 0.0432099270423182
+"X.O." 0.0387730721041148
+"X.F." 0.0351355962557362
+"X.D." 0.00375552637924399
+"X.P." 0.0036170242868089
+"X.B." -0.080911133899033
+"X.T." -0.407239925520341
+__________________________________________________
+
+

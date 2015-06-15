@@ -1,0 +1,16 @@
+M1: 12 May
+implement the code and find the average extended GDV for each node in a network, along with the average GDV of the network
+
+
+M2: 2 June
+try to compare multiple network types according to the new E-GDV. Compare with model networks as well
+
+
+M3: 23 June
+perform alignment of different networks using the E-GDV and analyse the results. Observe how efficient this new metric is.
+
+Compare the results with classical GDV
+
+M4: 14 July
+finish writing the report. Include: abstract, background, implementation, experiments, results, further research, conclusion
+

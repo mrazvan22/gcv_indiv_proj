@@ -1,0 +1,61 @@
+\chapter{Conclusion}
+\label{chp:conclusion}
+% The project's conclusions should list the things which have been learnt as a result of the work you have done. For example, "The use of overloading in C++ provides a very elegant mechanism for transparent parallelisation of sequential programs", or "The overheads of linear-time n-body algorithms makes them computationally less efficient than O(n log n) algorithms for systems with less than 100000 particles". Avoid tedious personal reflections like "I learned a lot about C++ programming...", or "Simulating colliding galaxies can be real fun...". It is common to finish the report by listing ways in which the project can be taken further. This might, for example, be a plan for doing the project better if you had a chance to do it again, turning the project deliverables into a more polished end product, or extending the project into a programme for an MPhil or PhD.
+
+% Around 3 pages
+
+\section{Summary}
+
+At the beginning of the project we explored previous work that was done on studying node neighbourhoods in a network graph. We also studied other network analysis techniques that are based on graphlets and also correlation methods such as Pearson's and Spearman's correlation coefficients and Canonical Correlation Analysis. Next, we defined the mathematical model for our novel GCV signature that quantifies the neighbourhood structure around a particular node in a network graph. We then attempted to normalise each graphlet frequency in the GCV according to the theoretical maximum frequency of that graphlet in the neighbourhood graph. However, this turned out to be infeasible because of mathematical complexities, so we decided to normalise it only by dividing each frequency by the sum of all frequencies in the GCV. 
+
+The next step in our project was to implement an algorithm that computes the GCV signature for all the nodes in an input network. We learnt that using both an adjacency matrix and an adjacency list for representing the network allows us to perform a variety of graph operations much faster. However, after implementing the algorithm for computing the GCV signature we found out that the computation was taking between 5--10 hours for some large input networks such as PPI networks or unthresholded World Trade networks. We therefore decided to parallelise the computation across multiple processes, which provided a speedup of order 5 for some networks that have a large number of nodes.
+
+The GCV signature was then applied to three main classes of networks: World Trade networks, Protein-Protein Interaction networks and Metabolic networks. For each of these networks we computed the Pearson's GCV correlation matrices and normalised and hierarchically clustered them. We also computed Canonical Correlation analysis between the GCV signature and various node annotations. We found out that the best correlations and results are obtained for the WTNs, so we decided to focus more on these networks. We therefore calculated the change in normalised and un-normalised GCV correlation matrix over the period 1962-2010 and we found out that this yielded a correlation with the change in Crude Oil price (see sections \ref{trade_change_orig} and \ref{rev_trade_change}). We also performed two CCA experiments on Economic integration, which showed that a country that is integrated in a trading bloc has a network of trading partners that is very clustered (section \ref{sec:cca_integration}). Using the 
+GCV cross-loadings obtained from CCA, we computed a \emph{trading partners sparsity index} for a variety of countries. This index correlated with major economic and social events that affected those countries (section \ref{sec:sparsity_index}).
+
+On the other hand, the results obtained for the yeast Protein-Protein Interaction networks (section \ref{sec:18_ppi_cca_results}) showed that the neighbourhood structure of a protein is influenced by its involvement in:
+\begin{itemize}
+ \item Ribosome translation
+ \item RNA processing
+ \item Metabolism - mitochondria
+ \item Golgi Endosome vacuole sorting
+\end{itemize}
+The CCA analysis on the human Metabolic networks showed that the neighbourhood structure of a protein is influenced by its involvement in:
+\begin{itemize}
+ \item Cellular processes (section \ref{cca_kegg_cellular}): Transport and Catabolism, Cell communication and Cell growth and death.
+ \item Organismal systems (section \ref{cca_kegg_organismal}): Environmental adaptation, Excretory systems, Digestive system and Circulatory system.
+ \item Human Diseases (section \ref{cca_kegg_human}): Cardiovascular diseases and Substance dependence.
+\end{itemize}
+
+In chapter \ref{chp:evaluation}, we have evaluated our novel GCV signature against 5 other comparable signatures:
+\begin{enumerate}
+ \item Degree Distribution
+ \item Clustering Coefficient
+ \item Spectral distribution
+ \item Relative Graphlet Frequency distance (RGFD) (see definition \ref{def:rgfd} in section \ref{sec:rgfd})
+ \item Graphlet correlation distance (GCD-73) (see definition \ref{def:gcd} in section \ref{pearsons_background})
+\end{enumerate}
+
+We used each of the signatures to cluster random networks generated using 5 different algorithms: Erd\H{o}s-R\'{e}nyi, Erd\H{o}s-R\'{e}nyi with the degree distribution of the real network, Geometric, Scale-free Barab\'{a}si-Albert and Stickiness-based. We found out that the GCV signature performed worst of them all, meaning that it is unsuitable for being used in a classifier. Its performance was also relatively poor in robustness testing, when applied to noisy and incomplete data. The GCV also had a poor performance when used to classify proteins according to their function (section \ref{sec:eval_classify}). Nevertheless, the project did not focus on classification but on implementation and data analysis, where the novel GCV signature helped us get important insights from the networks we analysed.
+
+\section{Critique}
+
+The novel GCV signature we have developed has several deficiencies we were aware of from the very beginning. First of all, it is only able to quantify the topological structure in the immediate vicinity of the node. As a result, it cannot capture the structure in the neighbours of a node that are at distances 2,3, \dots away from it. Another deficiency of the GCV signature is that it doesn't assign a weight to each of the vector frequencies that would quantify how important a frequency is. A closer analysis might find that some of the frequencies are redundant or contain little information, in which case a low weight would be suitable for these frequencies. A similar analysis has been done on the GDV signature by Yavero\u{g}lu et al. \cite{yaverouglu2014revealing} and found that only 11 orbits out of 73 contained non-redundant information. This has resulted in an 11-element signature called GCD-11 that outperformed all other signatures in random graph clustering \cite{yaverouglu2014revealing}. However, the 
+timescale of our project did not allow us to study redundancies in the GCV signature.
+
+In the evaluation section, we evaluated the performance of the GCV and several other signatures on random network clustering. One problem with our methodology is that we only ran the experiments on 5 random networks and using only 150 generated networks (excluding the rewired and incomplete networks). The reason for this is because computing the signatures on all these networks takes around three hours and a total of 14GB of hard drive space, so scaling is not straightforward. These problems can be overcome by more efficient parallelisation techniques, such as running our experiments on a cluster of machines or using a Map-Reduce framework such as Hadoop that performs sharding.
+
+Other problems we have experienced in this project have been related to inconsistencies between results when using the unnormalised GCV and the normalised GCV respectively. These inconsistencies have occurred for example when correlating the change in GCV correlation matrix with the changes in Crude Oil price (sections \ref{trade_change_orig} and \ref{rev_trade_change}). We do not yet have an explanation for these inconsistencies and have commented on the results as they are. Moreover, for some of the results we also could not find a reason why several graphlets correlate with each other. More research needs to be done into these areas.
+
+\section{Future work}
+
+The GCV signature is one possible method to quantify the neighbourhood structure around a particular node but it is by no means the only signature one could develop for such purposes. As future work, one could try to derive several related signatures using different normalisation procedures or even combine the GCV with the older GDV signature into one composite signature. This allows for efficient use of both signatures at the same time. These newly developed signatures could be evaluated and applied on different networks in order to find out what hidden structures they can uncover. 
+
+Another idea that was suggested by Zoran Levnaji\'{c}, one of Nata\v{s}a Pr\v{z}ulj's collaborators, is to find out how important each of the elements from the \emph{Graphlet Cluster Vector} is and assigning a weight to each of them. Redundant elements could get a low weight, while non-redundant elements could get a high weight. Using machine learning techniques or linear regression, optimal weights could be derived which make the signature more efficient for network clustering or classification. As it was previously mentioned, this kind of analysis has already been done on the other GDV signature by Yavero\u{g}lu et al. \cite{yaverouglu2014revealing}, which identified a set of 11 non-redundant orbits and created a short signature made of these frequencies. This signature outperformed its counterparts and was then successfully applied to World Trade networks. 
+
+Another avenue for continuing research is to perform more experiments on each of the three main classes of networks in order to confirm the results obtained in this project and find potentially better interpretations for the observed phenomena. The timespan of the project did not allow us to run more experiments and tests on our data. For instance, one can do more case studies on the economic networks or correlate the GCV with other economic indices. Moreover, one could also apply the GCV signature for data analysis of other classes of networks, such as social networks (Facebook), hyperlink networks (World Wide Web), telecommunication networks or other types of biological networks such as gene regulatory networks, neuronal networks or signalling networks.
+
+Finally, we hope that our work will help the scientific community better understand local properties
+of complex networks that can be used for data analysis. Ultimately, network analysis is a never-ending task:
+one can always find better ways to explain phenomena or behaviour. As networks change over time or become more complex, new models need to be
+developed that reproduce them as closely as possible.

@@ -1,0 +1,52 @@
+data1:  ..//CCA_in//x_sample.csv
+data2:  ..//CCA_in//y_sample.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  4
+independent variables: 3 (3 before removing zero-variance variables)
+dependent variables: 2 (2 before removing zero-variance variables)
+regularization type:  auto-estimated
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.999561633770774, 0.72069120898572
+p-values (asymptotic Wilks): NaN, NaN
+p-values (asymptotic Hotelling): NaN, NaN
+p-values (asymptotic Pillai): NaN, 0.548047185413877
+__________________________________________________
+match  1 :
+canonical correlation:  0.999561633770774
+canonical root:  0.999123459706499
+shared variance X:  0.938230187442148
+shared variance Y:  0.999279208331868
+redundancy index X:  0.937407790878276
+redundancy index Y:  0.998403299841308
+"x"
+"KG" -0.948623896689467
+"BCA" -0.963105582658561
+"KC" -0.993539334976754
+-----
+"x"
+"sig_1" -0.999573990287813
+"sig_0" -0.999701402080895
+__________________________________________________
+match  2 :
+canonical correlation:  0.72069120898572
+canonical root:  0.519395818709299
+shared variance X:  0.0119375160725053
+shared variance Y:  0.000724466503744361
+redundancy index X:  0.00620029593383431
+redundancy index Y:  0.000376284872839766
+"x"
+"BCA" 0.0682141220382271
+"KC" 0.0181666103797143
+"KG" -0.156588953642926
+-----
+"x"
+"sig_1" 0.0281773376519414
+"sig_0" -0.02537771355396

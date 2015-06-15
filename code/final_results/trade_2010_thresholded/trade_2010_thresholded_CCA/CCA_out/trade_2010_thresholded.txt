@@ -1,0 +1,58 @@
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  118
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 1 (1 before removing zero-variance variables)
+canonical correlations:  0.618823452163313
+p-values (asymptotic Wilks): 0.0128012383082338
+p-values (asymptotic Hotelling): 0.0128012383082338
+p-values (asymptotic Pillai): 0.0128012383082338
+__________________________________________________
+match  1 :
+canonical correlation:  0.618823452163313
+canonical root:  0.38294246494732
+shared variance X:  0.123338393866975
+shared variance Y:  1
+redundancy index X:  0.0472315085700627
+redundancy index Y:  0.38294246494732
+"x"
+"sig_29" 0.287035191288073
+"sig_8" 0.283489421651237
+"sig_2" 0.278615840865378
+"sig_22" 0.26819674644438
+"sig_28" 0.268059123234175
+"sig_7" 0.260207030053052
+"sig_26" 0.260112720674704
+"sig_18" 0.246614831141233
+"sig_1" 0.238368565474503
+"sig_24" 0.231333551025451
+"sig_6" 0.229690387810875
+"sig_4" 0.220206855982917
+"sig_27" 0.220129084450554
+"sig_17" 0.210208580507573
+"sig_14" 0.206306944610344
+"sig_23" 0.204204021795578
+"sig_5" 0.201486106029494
+"sig_20" 0.193906989388751
+"sig_25" 0.191223668928417
+"sig_21" 0.190762668949242
+"sig_16" 0.190257968164896
+"sig_11" 0.183299329835195
+"sig_3" 0.177301380839247
+"sig_15" 0.168139476991408
+"sig_13" 0.16763975453569
+"sig_19" 0.160509773821264
+"sig_9" 0.150872182634174
+"sig_12" 0.148861465107402
+"sig_10" 0.146375591601729
+-----
+"x"
+"Integration" 0.618823452346073

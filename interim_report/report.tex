@@ -1,0 +1,115 @@
+% IMPORTANT: Please write various parts in different files, and then include
+% them into this document.
+% If you have a file called intro.tex then write: \include{intro}
+% This is to avoid nasty merge conflicts, as well as to keep it tidy,
+% modular, etc
+
+\documentclass[11pt,a4paper,oneside]{report}
+
+
+% Make bibliography appear in table of contents
+\usepackage[nottoc,numbib]{tocbibind}
+
+\usepackage{amsmath,amssymb,calc,ifthen,capt-of}
+
+
+\usepackage[ampersand]{easylist}
+
+\usepackage[table,usenames,dvipsnames]{xcolor} % for coloured cells in tables
+
+
+% Allows us to click on links and references!
+% http://tex.stackexchange.com/questions/73862/how-can-i-make-a-clickable-table-of-contents
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+% Nice package for plotting graphs
+% See excellent guide:
+% http://www.tug.org/TUGboat/tb31-1/tb97wright-pgfplots.pdf
+\usepackage{pgfplots}
+\usetikzlibrary{plotmarks}
+\usepackage{amsmath,graphicx}
+\usepackage{epstopdf}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\pgfplotsset{compat = newest}
+
+% highlight - useful for TODOs and similar
+\usepackage{color}
+\newcommand{\hilight}[1]{}%\colorbox{yellow}{#1}}
+
+
+% margin size
+\usepackage[margin=1in]{geometry}
+
+
+\title{On a new metric to compare internal structures in biological networks}
+\date{January 2014}
+\author{
+  Razvan Valentin Marinescu\\
+  \texttt{rvm10@imperial.ac.uk}
+}
+
+
+\begin{document}
+\belowdisplayskip=12pt plus 3pt minus 9pt
+\belowdisplayshortskip=7pt plus 3pt minus 4pt
+% General notes:
+
+% Report Guidelines:
+% http://www.doc.ic.ac.uk/lab/thirdyear/group-project/ReportGuidelines2012.pdf
+
+% "This is more marketing than engineering. We don't want a diary"
+
+% Tony: "How long? I don't know. Keep it short. 30 pages is absolutely fine.
+% 40 a bit too much. 20 is a bit..."
+% NOTE this excludes the appendices
+
+% Keep it simple and to the point. Don't waffle
+
+% Report is read by people who DONT know your work, though they are
+% technically minded
+
+
+\maketitle{}
+
+
+\tableofcontents
+
+% Chapter 1
+\include{introduction}
+
+% Chapter 2
+\include{background_research}
+
+% Chapter 3
+\include{project_plan}
+
+% Chapter 3
+\include{design_implementation}
+
+% Chapter 4
+\include{evaluation_plan}
+
+% Chapter 6
+\include{conclusion}
+
+\nocite{*} % Show all Bib-entries
+\bibliographystyle{unsrt}
+\bibliography{gcv}
+
+
+
+\appendix
+% these do NOT count as part of the suggested page count
+% This is probably a good place to explain the models in some detail for example
+
+
+\end{document}

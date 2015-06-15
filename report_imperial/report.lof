@@ -1,0 +1,74 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Graph types: claw, triangle, cycle and clique}}{13}{figure.caption.5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Clustering coefficient example}}{14}{figure.caption.6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Graphlets for sizes of 2, 3, 4 and 5 nodes}}{17}{figure.caption.7}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Graphlet Frequency Vectors for S. cerevisiae PPI network}}{18}{figure.caption.8}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Erd\H {o}s-R\'{e}nyi graphs}}{21}{figure.caption.9}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Power-law degree distribution of a scale free network}}{22}{figure.caption.10}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Geometric random graphs}}{23}{figure.caption.12}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Spearman's correlation coefficient -- perfectly correlated data vs random data }}{26}{figure.caption.16}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Spearman's correlation coefficient -- outliers}}{27}{figure.caption.17}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Illustration of the neighbouring of a node}}{38}{figure.caption.27}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Shell and Core neighbourhoods}}{40}{figure.caption.28}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Parallelisation process for the GCV computation}}{43}{figure.caption.29}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Pseudocode for the parallelisation logic}}{44}{figure.caption.30}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Parallelisation - speedup for PPI, Metabolic and 2010 WTN networks}}{46}{figure.caption.31}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Parallelisation - Execution time as the network size increases}}{47}{figure.caption.32}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Computation process of the Pearson's GCV correlation matrix}}{49}{figure.caption.33}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Pearson's GCV correlation matrix life cycle for the Human PPI network}}{51}{figure.caption.34}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Command-line output when running two unit tests on the 2010 World Trade network}}{54}{figure.caption.37}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Average GCV signatures for PPI, Metabolic and World Trade network}}{55}{figure.caption.38}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Average GCV for the Human PPI network and ER, ER-DD, GEO, SF and STICKY random models}}{57}{figure.caption.39}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Average GCV for the Human Metabolic network and ER, ER-DD, GEO, SF and STICKY random models}}{58}{figure.caption.40}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Average GCV for the World Trade network and ER, ER-DD, GEO, SF and STICKY random models}}{59}{figure.caption.41}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces RCFD distances for the Human PPI, Human Metabolic and WTN networks.}}{60}{figure.caption.42}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Pearson's GCV correlation matrix for the 2010 WTN}}{61}{figure.caption.43}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Evolution of WTN structure during 1962--2010 - unnormalised GCV}}{63}{figure.caption.44}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces CCA - World Trade networks - unnormalised GCV - Picture version}}{64}{figure.caption.45}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces CCA - World Trade Network - Integration index}}{66}{figure.caption.46}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces CCA - World Trade Network - Regional Trade Agreements}}{68}{figure.caption.47}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Pearson's GCV correlation matrix for the 2010 WTN using the normalised GCV}}{69}{figure.caption.48}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces CCA - World Trade networks - normalised GCV - Picture version}}{70}{figure.caption.49}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Change in WTN topology - normalised GCV}}{72}{figure.caption.50}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Trading partners sparsity index -- United States (USA), China (CHN), Germany (DEU), France(FRA) and the United Kingdom (GBR)}}{73}{figure.caption.51}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Trading partners sparsity index -- Russia (RUS), Poland (POL), East Germany (DDR), Romania (ROM), Czech Republic (CZE), Hungary (HUN) and the USSR (SUN)}}{74}{figure.caption.52}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Trading partners sparsity index -- Iran (IRN), Saudi Arabia (SAU) and United Arab Emirates (ARE)}}{75}{figure.caption.53}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces The change in the GCV of Saudi Arabia along with the change in Crude Oil price.}}{77}{figure.caption.54}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Canonical Correlation Analysis between the short GCV vector of Saudi Arabia and the price of Crude Oil.}}{78}{figure.caption.55}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Heat map for the Pearson's GCV correlation matrix of the Human PPI network}}{79}{figure.caption.56}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces CCA results on Collin's AP-MS Yeast PPI network - Picture version}}{82}{figure.caption.59}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Pearson's GCV correlation matrix heat map for the compound-based Human Metabolic network.}}{85}{figure.caption.63}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces CCA analysis on the compound-based Human Metabolic network.}}{86}{figure.caption.64}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces CCA on the Human Metabolic network using Cellular Processes from KEGG}}{89}{figure.caption.65}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces CCA on the Human Metabolic network between different Organismal Systems and the GCV signature of enzymes.}}{90}{figure.caption.66}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces CCA Analysis on the Human Metabolic network between Human Diseases and the GCV signature.}}{92}{figure.caption.67}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Graphlet Cluster Vector MDS}}{95}{figure.caption.68}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Clustering Coefficient MDS}}{95}{figure.caption.68}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Relative Graphlet Frequency distance MDS}}{96}{figure.caption.69}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Graphlet correlation distance (GCD73) MDS}}{96}{figure.caption.69}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Degree Distribution MDS}}{97}{figure.caption.70}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Spectral Distribution MDS}}{97}{figure.caption.70}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Precision-Recall curves for GCV and 5 other signatures}}{98}{figure.caption.71}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces The AUPR for different percentages of noise in the model networks}}{99}{figure.caption.73}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces The AUPR for different percentages of edge completeness in the model networks}}{100}{figure.caption.74}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces The AUPR for different percentages of nodes sampled in the model networks}}{101}{figure.caption.75}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Confusion matrix obtained on Collins AP-MS Yeast PPI network after 10-fold cross-validation.}}{104}{figure.caption.76}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces The change in the un-normalised GCV of Saudi Arabia along with the change in Crude Oil price.}}{115}{figure.caption.78}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces CCA - World Trade Network - unnormalised GCV}}{117}{figure.caption.79}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces CCA - World Trade networks - normalised GCV}}{118}{figure.caption.80}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces CCA Analysis on Collin's AP-MS Yeast PPI network.}}{119}{figure.caption.81}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces CCA Analysis on the BioGRID Yeast genetic network -- Boone's annotations}}{120}{figure.caption.82}
+\contentsline {figure}{\numberline {B.5}{\ignorespaces CCA on the BioGRID Yeast Full PPI network -- Boone's annotations}}{121}{figure.caption.83}
+\contentsline {figure}{\numberline {B.6}{\ignorespaces CCA on the BioGRID Yeast high-confidence PPI network -- Boone's annotations}}{122}{figure.caption.84}
+\contentsline {figure}{\numberline {B.7}{\ignorespaces CCA Analysis on Collin's AP-MS Yeast PPI network -- von Mering's annotations}}{123}{figure.caption.85}
+\contentsline {figure}{\numberline {B.8}{\ignorespaces CCA Analysis on the BioGRID Yeast genetic network -- von Mering's annotations}}{124}{figure.caption.86}
+\contentsline {figure}{\numberline {B.9}{\ignorespaces CCA on the BioGRID Yeast Full PPI network -- von Mering's annotations}}{125}{figure.caption.87}
+\contentsline {figure}{\numberline {B.10}{\ignorespaces CCA on the BioGRID Yeast high-confidence PPI network -- von Mering's annotations}}{126}{figure.caption.88}

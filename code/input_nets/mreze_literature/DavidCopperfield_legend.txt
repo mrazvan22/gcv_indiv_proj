@@ -1,0 +1,204 @@
+1,Adams
+2,Agnes
+3,Agnes Wickfield
+4,Aladdin
+5,Alguazill
+6,Annie
+7,Auld Lang Syne
+8,BARKIS
+9,Bah
+10,Bailey
+11,Barkis
+12,Beadle
+13,Beein
+14,Benjamin
+15,Betsey
+16,Betsey Trotwood
+17,Betsey Trotwood Copperfield
+18,Blind
+19,Bloonderstone
+20,Blunderstone
+21,Bob
+22,Brooks
+23,Brother
+24,Bullock
+25,Bush
+26,Buxton
+27,COPPERFIELD
+28,Caesar
+29,Cain
+30,Caroline
+31,Charles
+32,Charley Pyegrave
+33,Chaucer
+34,Christ
+35,Christian
+36,Clara
+37,Clara Peggotty
+38,Clara Peggotty BARKIS
+39,Clarissa
+40,Clickett
+41,Cook
+42,Copperfield
+43,Creakle
+44,Crorkindills
+45,D.
+46,DAVID COPPERFIELD
+47,Daisy
+48,Dan
+49,Daniel
+50,David
+51,David Copperfield
+52,Davy
+53,Davy boy
+54,Davy kep
+55,Dick
+56,Doady
+57,Dobbin
+58,Doctor Mell
+59,Dodman
+60,Dolloby
+61,Don Quixote
+62,Dora
+63,Dora I
+64,Dora Spenlow
+65,Doras
+66,Drury Lane
+67,Dunstan
+68,EDWARD
+69,Eden
+70,Edward
+71,Em
+72,Emily
+73,Emma
+74,Esquire
+75,Fatima
+76,Foxe
+77,Francis
+78,Franklin
+79,George
+80,George Demple
+81,Gil Blas
+82,God
+83,Goori
+84,Goroos
+85,Grainger
+86,Gravesen
+87,Gregory
+88,Griffin
+89,Grinby
+90,Gummidge
+91,HEEP
+92,Ham Peggotty
+93,Hanbury
+94,Heath
+95,Heep
+96,Henry Spikers
+97,Hill
+98,Holloa
+99,Hope
+100,Hopkins
+101,Horace
+102,Horace Crewler
+103,Humphrey Clinker
+104,Hyde Park
+105,I.
+106,Isaac
+107,J.
+108,Jack
+109,Jack Ketch
+110,Jack Maldon
+111,Jackson
+112,James
+113,James Steerforth
+114,Jane
+115,Jane Murdstone
+116,Janet
+117,Jellips
+118,Jip
+119,Joe
+120,John
+121,John Maldon
+122,Johnson
+123,Jones
+124,Joram
+125,Jorkins
+126,Judy
+127,Julia
+128,Julia Mills
+129,Julius Caesar
+130,Junior
+131,K.
+132,King Charles
+133,Kitt
+134,Larkins
+135,Lavinia
+136,Lazarus
+137,Lincoln
+138,Littimer
+139,Little Agnes
+140,Little Emily
+141,Little Mowcher
+142,Little Tafflin
+143,Louisa
+144,Love
+145,Ludgate Hill
+146,MA MICAWBER
+147,MICAWBER
+148,Macbeth
+149,Madam
+150,Maldon
+151,Mama
+152,Margaret
+153,Markham
+154,Marplot
+155,Martha
+156,Mary Anne
+157,Mas
+158,Master Copperfield
+159,Master Davy
+160,Master Micawber
+161,Master Murdstone
+162,Mawther
+163,Messrs Wickfield
+164,Micawber
+165,Micawbers
+166,Mick Walker
+167,Minnie
+168,Miss Agnes
+169,Miss Betsey
+170,Miss Betsey Trotwood
+171,Miss Caroline
+172,Miss Clarissa
+173,Miss Creakle
+174,Miss D.
+175,Miss Dartle
+176,Miss Dora
+177,Miss Helena
+178,Miss Kitt
+179,Miss Larkins
+180,Miss Lavinia
+181,Miss Linwood
+182,Miss Louisa
+183,Miss Micawber
+184,Miss Mills
+185,Miss Mowcher
+186,Miss Murdstone
+187,Miss Sarah
+188,Miss Shepherd
+189,Miss Spenlow
+190,Miss Traddles
+191,Miss Trotwood
+192,Miss W.
+193,Miss Wickfield
+194,Missis Gummidge
+195,Mister
+196,Mister Copperfield
+197,Mithers
+198,Mortimer
+199,Mother
+200,Mowcher
+201,Mr.
+202,Mrs.
+203,Murdstone
+204,Murdstones

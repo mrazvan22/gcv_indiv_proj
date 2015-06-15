@@ -1,0 +1,10 @@
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None

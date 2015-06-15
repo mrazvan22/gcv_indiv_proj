@@ -1,0 +1,155 @@
+\chapter{Introduction}
+%(1-3 pages). For the interim report this section should be a short, succinct,
+%summary of
+%the project’s main objectives. Some of this material may be re-usable in your
+%final report, but the chances are that your final introduction will be quite
+%different.  You are therefore advised to keep this part of the interim report
+%short, focusing on the following questions: What is the problem, why is it
+%interesting and what’s your main idea for solving it?  (DON'T use those three
+%questions as subheadings however!  The answers should emerge from what you
+%write.)
+
+\section{Abstract}
+
+Large biological data that has been made available in the past 20 years is
+infeasible for the humans to manually analyse. Several algorithms and analysis
+techniques have been introduced in order to process such data and extract
+critical information from biological networks. We have developed a novel metric
+that compares the local topological structure around a node belonging to such a
+network. When applied to biological networks such as protein-protein interaction
+networks or metabolic networks, this could tell us whether two proteins have a
+similar function or even identify key proteins in the metabolic chain. Moreover,
+it can also help us compare whole networks together and find out how similar or
+different they are with respect to certain properties. We hope that our
+technique would help scientists better understand biological and
+economic networks.
+
+\section{Motivation}
+
+Over the past few decades, major advancements in Genomics and Molecular
+Research technologies have made available large amounts of biological data that
+can help us better understand molecular processes. A large set of the data is
+in the form of biological networks, such as protein-protein interaction
+networks or metabolic networks. Analysing these networks can help scientists
+better understand the molecular interactions present in our body and can help
+aid drug discovery or treatment of various disorders. However, as these
+networks are too large to be analysed, computers are being extensively used to
+find patterns in the data. Bioinformatics and Computational Biology are
+therefore the two emerging fields that use computers to analyse biological
+information.
+
+The past two or three decades have been an exciting time for Bioinformatics.
+From the computational side, several algorithms that align DNA sequences have
+been developed, such as BLAST\cite{altschul1990basic} or
+Smith-Waterman\cite{smith1981identification}. These algorithms can not
+only quickly analyse large amounts of genetic data, but they can also be
+parallelised on a cluster of computers. 
+
+From a biological point of view, sequencing the human genome became reality for
+the
+first time through the Human Genome Project\cite{watson1990human}, a large
+collaboration of research
+institutes around the world. A project such as the Human Genome Project, as
+well as others have produced large amounts of network data that is waiting to
+be analised. Nowadays, there is a clear need of computer scientists and
+bioinformaticians to analyse these data and collaborate with biologists and
+chemists. 
+
+Our project presents a novel method of comparing biological networks and
+individual nodes, which can also be used to align networks or asses which
+random model fits the real data best. We believe that exploring new ways to
+analyse biological networks will help us shed a new light on complex biological
+processes. This could further lead to an increased understanding of diseases
+such as cancer or cardiovascular disorders that are leading causes of death
+worldwide\cite{jemal2008cancer}\cite{world2004annex}. 
+
+It is the case that when analysing networks of any kind, scientists generally
+look at global properties of networks, such as the degree distribution,
+average diameter or node centralities. These have so far been
+successfully used to identify enzymes or reactions that are crucial for
+the survival of organisms\cite{rahman2006observing}, model drug design
+trends\cite{yildirim2007drug} or modeling the world-wide airport
+network\cite{guimera2004modeling} However, not that much research has been
+done in exploring local properties of the network, that describe how a node
+interacts with its neighbourhood. Our technique of comparing nodes is based on
+local information, and it can thus be used to complement other established
+techniques.
+
+Our technique builds upon work done by the Przulj group, which has developed a
+metric that is based on graphlets (i.e. small
+graphs) \cite{prvzulj2007biological}. Their research has shown that the
+this metric has been successfully used to fit random network models to real
+world networks\cite{prvzulj2004modeling}, uncover biological network
+function\cite{milenkoviae2008uncovering} and topologically align
+networks\cite{kuchaiev2010topological}. Our aim is to generalise this metric
+and use it help discover new biological functions. Given these previous results,
+we believe our technique will also be successfully used to fit
+random network models to real networks and topologically align networks.
+
+\section{Objectives}
+
+We would like to explore a new way of analysing biological networks by
+looking at local topology and structures around individual nodes. This
+would be performed by the means of a new metric called \textbf{Graphlet Cluster
+Vector} (GCV) that we will develop, which builds on previous work done by Natasa
+Przulj\cite{prvzulj2007biological}. This metric measures the number of
+graphlets (i.e. small graphs with up to 5 nodes) that are found in the
+neighbouring subgraph of a node. For such a node, this metric quantifies the
+type of interaction its neighbours have with each other. As it will be 
+explained later on, one can see it as a generalisation of the clustering coefficient.
+
+Our first objective is to implement a fast algorithm that calculates the new
+metric for every single node in a given network. As some of the networks are
+large and the computation is quite intensive, we are also planning to paralellise
+the algorithm in order to enable it to run on multiple cores or even on a cluster of
+servers.
+
+Our main objectives are to explore the properties of this novel metric and
+used it to compare not only individual nodes, but also whole networks together.
+First of all, we will be trying to find out what are the differences between the
+GCV and an older GDV metric that was developed by Tijana and
+Przulj\cite{milenkoviae2008uncovering}. This could help us find certain areas
+where it could be more efficient to use the new metric for biological analysis. 
+
+Afterwards, the next objective would be to compute an average GCV signature for
+the entire network, by averaging the individual GCV of every single node in it.
+This would enable us to perform early comparisons of the GCV between different
+network types: 
+\begin{itemize}
+ \item Real networks
+ \begin{enumerate}
+    \item Protein-protein interaction networks
+    \item Metabolic networks
+    \item Trade networks
+  \end{enumerate}
+ \item Random networks
+ \begin{enumerate}
+    \item Erdos-Renyi\cite{erdHos1959random}
+    \item Erdos-Renyi (arbitrary degree distribution)
+    \item Geometric networks\cite{penrose2003random}
+    \item Barabasi-Albert (preferential attachment)\cite{barabasi1999emergence}
+    \item Stickiness index-based\cite{prvzulj2006modelling}
+  \end{enumerate}
+\end{itemize}
+
+Moreover, previous research has already shown that the old GDV metric has been
+successfully
+used to fit random network models to real world
+networks\cite{prvzulj2004modeling},  uncover biological network
+function\cite{milenkoviae2008uncovering} and topologically align
+networks\cite{kuchaiev2010topological}. Therefore, our objective is to asses
+the performance of the new GCV metric on such problems and compare them with the
+results of the GDV metric. We are thus mainly interested to find out how to
+gather biological insights from the data we have. Apart from biological data,
+we would like to see how the metric performs on economic networks, which have
+a different structure. We will also be interested to evaluate a few other
+properties, such as robustness to noise.
+
+Other extensions that could possibly be done are as follows:
+\begin{itemize}
+\item use the new GCV metric to get new insights from biological data
+\item explore the injectivity of the metric, by answering the following
+questions: Are there 2 nodes belonging to the same biological network that can
+have the same GCV result, even if the local structure around them is different?
+What is the probability of such a clash occurring?
+\end{itemize}

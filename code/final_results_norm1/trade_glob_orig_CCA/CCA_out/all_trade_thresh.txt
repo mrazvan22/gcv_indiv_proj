@@ -1,0 +1,61 @@
+data1:  ../CCA_in/1980to2010_complete-countries_augmented_matched-to_combined_network_years.csv
+data2:  ../CCA_in/combined_network_years_matched-to_1980to2010_complete-countries_augmented.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  3205
+independent variables: 1 (1 before removing zero-variance variables)
+dependent variables: 29 (29 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.65260127477748
+p-values (asymptotic Wilks): 0
+p-values (asymptotic Hotelling): 0
+p-values (asymptotic Pillai): 0
+__________________________________________________
+match  1 :
+canonical correlation:  0.65260127477748
+canonical root:  0.425888423841192
+shared variance X:  1
+shared variance Y:  0.234474083231634
+redundancy index X:  0.425888423841192
+redundancy index Y:  0.0998597977391289
+"x"
+"Globalisation_score" 0.660476344103554
+-----
+"x"
+"sig_2" 0.52805012870278
+"sig_8" 0.518304338334763
+"sig_29" 0.496053924879108
+"sig_28" 0.4075314930959
+"sig_7" 0.387891576696495
+"sig_26" 0.352309969908798
+"sig_1" 0.343130178600713
+"sig_27" 0.321363699691837
+"sig_6" 0.318523214079465
+"sig_24" 0.309365095886955
+"sig_18" 0.304372145648109
+"sig_22" 0.303228017313766
+"sig_23" 0.296207515783559
+"sig_5" 0.27815110203835
+"sig_3" 0.265358180995869
+"sig_17" 0.265015268446056
+"sig_13" 0.257259763842991
+"sig_25" 0.25725403207111
+"sig_21" 0.256192747184172
+"sig_19" 0.25189469574232
+"sig_4" 0.251447736164366
+"sig_14" 0.244862844911413
+"sig_9" 0.22906804205142
+"sig_12" 0.22305545433525
+"sig_16" 0.21646245172323
+"sig_15" 0.215334994499003
+"sig_10" 0.212272941619086
+"sig_11" 0.188025500205557
+"sig_20" 0.174815583616465

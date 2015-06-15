@@ -1,0 +1,127 @@
+\chapter{Project Plan}
+%(1-2 pages). You should explain what needs to be done in order to complete the
+%project and
+%roughly what you expect the timetable to be. Don’t forget to include the
+%project write-up, as this is a major part of the exercise. It’s important to
+%identify key milestones and also fall-back positions, in case you run out of
+%time.  You should also identify what extensions could be added if time
+%permits. The plan should be complete and should include those parts that you
+%have already addressed (make it clear how far you have progressed at the time
+%of writing). This material will not appear in the final report.
+
+\section{Main Objectives}
+
+The aim of the project is to implement this \emph{Graphlet Cluster Vector} (GCV)
+signature and explore its properties. We are interested in finding out to what
+degree it is different from the older \emph{Graphlet Degree Vector} (GDV)
+developed by Przulj et al\cite{prvzulj2007biological}. The main objectives that
+we have set are the following:
+\begin{enumerate}
+ \item Implement the algorithm for calculating the GCV signature
+ \item Parallelise it in order to make it speed up analysis. This is
+particularly important when analysing large networks, such as the
+protein-protein interaction networks
+ \item Implement an algorithm to compute the average network GCV
+ \item Compute the average GCV of different networks and compare them with each
+other. Find out whether this metric can be used to distinguish between them.
+ \item Generate random networks from different models (Erdos-Renyi, Geometric,
+Barabasi-Albert, Stickiness based) using the real networks as models.
+ \item Calculate the GCV of the generated random networks and compare the
+results against the real networks. Compute the Graphlet frequency agreement
+and find out which random network fits the real data best according to the GCV
+metric.
+ \item Generate more instances of the random networks (around 10 for each
+model), compute their GCV and then plot the standard deviation of the GCV
+\end{enumerate}
+
+\subsection{Extensions}
+Accomplishing all the these objectives would be enough to get a clear
+understanding of the properties of the GCV signature. If time allows, a more
+comprehensive analysis can be peformed by doing several extras:
+\begin{enumerate}
+ \item Use this metric to align two networks with each other using the GRAAL
+algorithm\cite{memivsevic2012c}
+ \item Explore the injectivity of the metric, by answering the following
+questions: Are there 2 nodes belonging to the same biological network that can
+have the same GCV result, even if the local structure around them is different?
+What is the probability of such a clash occuring?
+ \item Find out the evolution of world trade over time by analysing different
+trade networks from successive years. We can compute the GCV of the trade
+networks from successive years and find out what kind of change in patterns we
+get when:
+ \begin{itemize}
+  \item An economic crisis occurs: 2007 submortgage economic crisis, Eurozone
+crisis
+  \item A major global political and economic shift occurs: Velvet Revolutions
+of Eastern Europe, Arab Spring
+  \item Free trade areas are created
+ \end{itemize}
+
+\end{enumerate}
+
+\section{Work done so far}
+
+I have started working on this project in April last year, immediately after we
+started our industrial placements. However, I could not dedicate too much time
+on it, for I was working full time for my industrial placement. Nonetheless, I
+managed to do some background reading and to explore the mathematical model
+behind the graphlet counting procedure. More precisely, I spent a considerable
+ammount of time trying to devise a more precise normalisation procedure for the
+Graphlet Cluster Vector. More precisely, I tried to find out what is the
+maximum number of graphlets of each type one could have in a graph of n
+nodes, in order to use these numbers for normalisation. However, this turned out
+to be a very complex mathematical problem that I could not practically solve.
+The reason for this was because it is really hard to:
+\begin{itemize}
+ \item find out what the ideal network architecture is in which one can get
+the maximum number of graphlets of a particular type
+ \item mathematically find out the maximum number of graphlets in such an ideal
+architecture as a formula of N, the number of nodes in the network.
+\end{itemize}
+
+Therefore, we have decided to only perform a simple normalisation, by dividing
+the frequencies of each graphlet types against the sum of all frequencies.
+
+So far, I have managed to do the following:
+\begin{itemize}
+ \item Implement the algorithm which calculates the GCV for a particular node in
+the network
+ \item Parallelise the computation over several cores
+ \item Implement an algorithm to compute the average network GCV
+ \item Compute the average GCV of different networks and compare them with each
+other. 
+ \item Generate random networks from different models (Erdos-Renyi, Geometric,
+Barabasi-Albert, Stickiness based) using the real networks as models.
+ \item Calculate the GCV of the generated random networks.
+
+\end{itemize}
+
+\section{Future milestones}
+
+The milestones for the next key tasks are described below:
+\begin{itemize}
+ \item \textbf{30 February}: Calculate the Relative Cluster Frequency Distance
+(RCFD) between random networks and real networks
+ \item \textbf{30 March}: Generate 10 network instances for each random model.
+Calculate the average GCV and plot it along with the standard deviation.
+ \item \textbf{14 April}: Calculate the Pearson's correlation coefficient
+between pairs of column vectors of the GCV matrix of a network. Derive a 30x30
+matrix of correlation pairs that is used as a global signature of the network.
+Given 2 such matrices, we can compare then and find out how similar two
+networks are.
+ \item \textbf{15 May}: Use the GCV and the correlation matrix to derive
+biological or economic insights from the network data. For example, we can
+analyse gene networks and transfer function from one gene to another by
+performing alignment.
+ \item \textbf{30 May}: Use the GCV to align two networks with each other
+using
+the GRAAL algorithm\cite{memivsevic2012c}. Compare the performance with that of
+the old GDV signature.
+ \item \textbf{15 June}: Perform a time-dependent analysis of trade networks.
+Find out the RCFD between trade networks at different points in time.
+ \item \textbf{27 June}: Write the final report
+
+
+\end{itemize}
+
+

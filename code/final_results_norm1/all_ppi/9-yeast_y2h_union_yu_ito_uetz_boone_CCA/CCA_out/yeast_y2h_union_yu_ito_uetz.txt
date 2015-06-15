@@ -1,0 +1,651 @@
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+the following columns had zero variance and were not kept:  sig_18, sig_19, sig_20, sig_22, sig_24, sig_25, sig_26, sig_27, sig_29
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  1217
+independent variables: 20 (29 before removing zero-variance variables)
+dependent variables: 14 (14 before removing zero-variance variables)
+regularization type:  given
+regularization lambda1:  0.001
+regularization lambda2:  0.001
+canonical correlations:  0.167952373451594, 0.15131818775217, 0.132360715618349, 0.119254833345459, 0.108630299049574, 0.0980237686455586, 0.0726918559452405, 0.0652173701052723, 0.0527049394592358, 0.0321042042833629, 0.0124095620693455, 0.000953587938595623, 1.03940552935205e-12, 5.02574760960322e-15
+p-values (asymptotic Wilks): 0.999999999999601, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Hotelling): 0.999999999999637, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+p-values (asymptotic Pillai): 0.999999999999561, 0.999999999999999, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+__________________________________________________
+match  1 :
+canonical correlation:  0.167952373451594
+canonical root:  0.0282079997480237
+shared variance X:  0.0437937176343578
+shared variance Y:  0.0795472895091123
+redundancy index X:  0.00123533317599498
+redundancy index Y:  0.00224386992242901
+"x"
+"sig_9" 0.0795100292344504
+"sig_6" 0.068252864036001
+"sig_2" 0.0672039580668447
+"sig_3" 0.0294013661223319
+"sig_15" -0.00539608812385236
+"sig_11" -0.0089965314123079
+"sig_8" -0.01175091194186
+"sig_12" -0.01175091194186
+"sig_21" -0.01175091194186
+"sig_23" -0.01175091194186
+"sig_28" -0.01175091194186
+"sig_5" -0.0119339623794557
+"sig_16" -0.0129298954132496
+"sig_17" -0.0208137587319529
+"sig_10" -0.0224715249201064
+"sig_13" -0.0246598337912203
+"sig_14" -0.0352869845368945
+"sig_7" -0.0352973780762234
+"sig_1" -0.0372626268791869
+"sig_4" -0.0424022599922457
+-----
+"x"
+"Golgi.endosome.vacuole.sorting" 0.13985570252276
+"Chromatin.transcription" 0.0343152686563923
+"Chrom..seg..kinetoch..spindle.microtub." 0.0252149647206013
+"Protein.folding...glycosylation.cell.wall" 0.0113520784285083
+"Protein.degredation.proteosome" 0.00379705310500531
+"Cell.cycle.progression.meiosis" 0.000700033136357414
+"Ribosome.translation" -0.00811727347293419
+"Signaling.stress.response" -0.0194058824645139
+"Metabolism.mitochondria" -0.0277931048381397
+"Nuclear.cytoplasmic.transport" -0.0288787757273835
+"ER.Golgi.traffic" -0.0302900142797414
+"DNA.replication...repair.HR.cohesion" -0.0387638247217041
+"RNA.processing" -0.0460598177924412
+"Cell.polarity.morphogenesis" -0.0587386499534844
+__________________________________________________
+match  2 :
+canonical correlation:  0.15131818775217
+canonical root:  0.0228971939446009
+shared variance X:  0.0587087181146949
+shared variance Y:  0.0775804655284785
+redundancy index X:  0.00134426490491107
+redundancy index Y:  0.00177637496551799
+"x"
+"sig_7" 0.0771773316117855
+"sig_14" 0.0676752307581809
+"sig_2" 0.0604795027331364
+"sig_1" 0.0537449704463272
+"sig_4" 0.0470939582355991
+"sig_3" 0.0381508215441474
+"sig_11" 0.0287446700589698
+"sig_17" 0.0148662511148115
+"sig_6" 0.0140188803953716
+"sig_9" 0.00584177107405661
+"sig_8" -0.00781185914465573
+"sig_12" -0.00781185914465573
+"sig_21" -0.00781185914465573
+"sig_23" -0.00781185914465573
+"sig_28" -0.00781185914465573
+"sig_5" -0.00958123090427099
+"sig_10" -0.0103200923388864
+"sig_16" -0.0293025696405605
+"sig_13" -0.0315248821303873
+"sig_15" -0.0503830458422846
+-----
+"x"
+"Cell.polarity.morphogenesis" 0.123724362272226
+"Golgi.endosome.vacuole.sorting" 0.0279148366245855
+"Chrom..seg..kinetoch..spindle.microtub." 0.0233733663974717
+"Nuclear.cytoplasmic.transport" 0.0111926597765283
+"ER.Golgi.traffic" 0.00102828065476243
+"Protein.degredation.proteosome" -0.00841394959520458
+"Signaling.stress.response" -0.010260615861002
+"Chromatin.transcription" -0.0106877068498119
+"Cell.cycle.progression.meiosis" -0.0117374345755914
+"Protein.folding...glycosylation.cell.wall" -0.0136937108822083
+"RNA.processing" -0.0165520784657415
+"Metabolism.mitochondria" -0.0166248641425247
+"DNA.replication...repair.HR.cohesion" -0.0483871112149017
+"Ribosome.translation" -0.0681978521060008
+__________________________________________________
+match  3 :
+canonical correlation:  0.132360715618349
+canonical root:  0.0175193590390014
+shared variance X:  0.0554015785747978
+shared variance Y:  0.0757687715412569
+redundancy index X:  0.000970600146379334
+redundancy index Y:  0.00132742031257535
+"x"
+"sig_4" 0.0904796588873202
+"sig_10" 0.0222296341516781
+"sig_11" 0.0202318564271425
+"sig_13" 0.00777602072266801
+"sig_9" 0.00414822125581119
+"sig_2" 0.00316947260314157
+"sig_6" -0.00138105606463829
+"sig_3" -0.00761288352882233
+"sig_15" -0.00839066517887471
+"sig_7" -0.0111123266655681
+"sig_14" -0.0188373939835399
+"sig_8" -0.0310154412168972
+"sig_12" -0.0310154412168972
+"sig_21" -0.0310154412168972
+"sig_23" -0.0310154412168972
+"sig_28" -0.0310154412168972
+"sig_5" -0.0312925434001444
+"sig_17" -0.0315350383118256
+"sig_16" -0.031537858618643
+"sig_1" -0.0431400129261378
+-----
+"x"
+"Nuclear.cytoplasmic.transport" 0.102589352197061
+"DNA.replication...repair.HR.cohesion" 0.0256319911833148
+"Signaling.stress.response" 0.0192330776091008
+"Chromatin.transcription" 0.0106452837878407
+"RNA.processing" 0.00876839591182244
+"Golgi.endosome.vacuole.sorting" 0.0083956724361398
+"Cell.cycle.progression.meiosis" 0.00339763347761016
+"Protein.folding...glycosylation.cell.wall" -0.00177441802401899
+"Cell.polarity.morphogenesis" -0.00873628817153083
+"Ribosome.translation" -0.00993990019469576
+"Chrom..seg..kinetoch..spindle.microtub." -0.0135660882989964
+"Protein.degredation.proteosome" -0.0162541567870676
+"ER.Golgi.traffic" -0.0534082068594326
+"Metabolism.mitochondria" -0.0577660414294026
+__________________________________________________
+match  4 :
+canonical correlation:  0.119254833345459
+canonical root:  0.0142217152762533
+shared variance X:  0.0789442663246673
+shared variance Y:  0.0766428246726049
+redundancy index X:  0.00112272287836213
+redundancy index Y:  0.00108999243046158
+"x"
+"sig_1" 0.0457437995130009
+"sig_6" 0.0218876706774565
+"sig_13" 0.0210269851283409
+"sig_2" 0.0165019981059224
+"sig_8" 0.0029653454671011
+"sig_12" 0.0029653454671011
+"sig_21" 0.0029653454671011
+"sig_23" 0.0029653454671011
+"sig_28" 0.0029653454671011
+"sig_5" 1.45503146316358e-05
+"sig_17" -0.0069966239857683
+"sig_4" -0.0073908819700033
+"sig_3" -0.0189459876771555
+"sig_9" -0.0286651974257691
+"sig_14" -0.0299865284134443
+"sig_7" -0.034041870946531
+"sig_16" -0.0344012239087385
+"sig_10" -0.0430409810692919
+"sig_11" -0.0758927093745501
+"sig_15" -0.0837557042381017
+-----
+"x"
+"Chrom..seg..kinetoch..spindle.microtub." 0.0394076286798853
+"ER.Golgi.traffic" 0.0366950804085408
+"Chromatin.transcription" 0.0270603273446073
+"DNA.replication...repair.HR.cohesion" 0.0263663331764853
+"RNA.processing" 0.016903292942327
+"Signaling.stress.response" 0.0136854550260429
+"Metabolism.mitochondria" 0.0049736279121283
+"Nuclear.cytoplasmic.transport" 0.00140733674431872
+"Cell.cycle.progression.meiosis" -0.00532795634991749
+"Protein.degredation.proteosome" -0.00925977877502591
+"Golgi.endosome.vacuole.sorting" -0.0105274769217126
+"Protein.folding...glycosylation.cell.wall" -0.0203194720692239
+"Cell.polarity.morphogenesis" -0.0429144905615764
+"Ribosome.translation" -0.0893430320421944
+__________________________________________________
+match  5 :
+canonical correlation:  0.108630299049574
+canonical root:  0.0118005418715999
+shared variance X:  0.0967870527946801
+shared variance Y:  0.079214431066744
+redundancy index X:  0.00114213966913237
+redundancy index Y:  0.000934773210638078
+"x"
+"sig_2" 0.0460183214666226
+"sig_15" 0.0425728052513084
+"sig_11" 0.0293397018784284
+"sig_6" 0.0186981081751749
+"sig_1" 0.0120571039300015
+"sig_7" 0.00691019853250912
+"sig_4" 0.000147846297711826
+"sig_9" -0.0020819955617768
+"sig_13" -0.0031709128333505
+"sig_10" -0.00437088167926537
+"sig_14" -0.00641468765059832
+"sig_16" -0.0213439089149769
+"sig_17" -0.0389924066861815
+"sig_5" -0.0432640133429924
+"sig_8" -0.0447894793342452
+"sig_12" -0.0447894793342452
+"sig_21" -0.0447894793342452
+"sig_23" -0.0447894793342452
+"sig_28" -0.0447894793342452
+"sig_3" -0.0597210577579365
+-----
+"x"
+"Chromatin.transcription" 0.04352185175101
+"Ribosome.translation" 0.0413789571010852
+"Chrom..seg..kinetoch..spindle.microtub." 0.0341864586875002
+"ER.Golgi.traffic" 0.0220967444013789
+"Cell.polarity.morphogenesis" 0.0156695019171138
+"DNA.replication...repair.HR.cohesion" 0.0131502071995823
+"Signaling.stress.response" 0.00304969229643928
+"RNA.processing" -0.00295723907271903
+"Cell.cycle.progression.meiosis" -0.00395176900200174
+"Golgi.endosome.vacuole.sorting" -0.0137456858323873
+"Nuclear.cytoplasmic.transport" -0.0245732937962474
+"Protein.degredation.proteosome" -0.0274496456109186
+"Protein.folding...glycosylation.cell.wall" -0.0342270244493892
+"Metabolism.mitochondria" -0.0684454822284031
+__________________________________________________
+match  6 :
+canonical correlation:  0.0980237686455586
+canonical root:  0.009608659219478
+shared variance X:  0.0460590844069015
+shared variance Y:  0.0772861937374448
+redundancy index X:  0.000442566046027089
+redundancy index Y:  0.000742616697993662
+"x"
+"sig_13" 0.0712141413595223
+"sig_7" 0.0198552066379308
+"sig_3" 0.0179409561876441
+"sig_14" 0.0153318373381369
+"sig_9" 0.00740923589510147
+"sig_6" 0.0027103538806811
+"sig_10" -0.00149108420342093
+"sig_2" -0.00239382376652529
+"sig_17" -0.00289524366164532
+"sig_8" -0.0093572704963571
+"sig_12" -0.0093572704963571
+"sig_21" -0.0093572704963571
+"sig_23" -0.0093572704963571
+"sig_28" -0.0093572704963571
+"sig_5" -0.0101168466465045
+"sig_11" -0.0140894302256619
+"sig_16" -0.0180100744170693
+"sig_15" -0.0217298011284337
+"sig_1" -0.0239721924841424
+"sig_4" -0.025626803289335
+-----
+"x"
+"DNA.replication...repair.HR.cohesion" 0.0800314124566193
+"Cell.polarity.morphogenesis" 0.0217816671411931
+"Golgi.endosome.vacuole.sorting" 0.0127332784552952
+"Protein.folding...glycosylation.cell.wall" 0.012189874019118
+"Protein.degredation.proteosome" 0.00589081551676072
+"Cell.cycle.progression.meiosis" 0.00449414169473897
+"Chromatin.transcription" -0.00636076510180441
+"Metabolism.mitochondria" -0.0129014386707413
+"Signaling.stress.response" -0.0149276323866967
+"ER.Golgi.traffic" -0.0182812276089713
+"Ribosome.translation" -0.0190557287714256
+"RNA.processing" -0.0196995819952948
+"Chrom..seg..kinetoch..spindle.microtub." -0.0235031942393385
+"Nuclear.cytoplasmic.transport" -0.0332633076011986
+__________________________________________________
+match  7 :
+canonical correlation:  0.0726918559452405
+canonical root:  0.0052841059207636
+shared variance X:  0.0673187683687711
+shared variance Y:  0.0782526402899519
+redundancy index X:  0.000355719502515937
+redundancy index Y:  0.000413495239871519
+"x"
+"sig_2" 0.0188993335649939
+"sig_6" 0.0111240131782466
+"sig_17" 0.00430048358261514
+"sig_14" 0.00404840668375705
+"sig_8" 0.00366511485667911
+"sig_12" 0.00366511485667911
+"sig_21" 0.00366511485667911
+"sig_23" 0.00366511485667911
+"sig_28" 0.00366511485667911
+"sig_7" 0.00332568020116454
+"sig_5" 0.0031650479618529
+"sig_16" -0.00296916896619199
+"sig_3" -0.0136582216915067
+"sig_15" -0.014140861696877
+"sig_13" -0.0143924809347022
+"sig_4" -0.0242784253052411
+"sig_11" -0.0268516048918766
+"sig_1" -0.0310261733775558
+"sig_10" -0.0355123182798264
+"sig_9" -0.0487216015872508
+-----
+"x"
+"Chromatin.transcription" 0.0433158482330271
+"Protein.folding...glycosylation.cell.wall" 0.0255747474894312
+"Protein.degredation.proteosome" 0.0142246225454541
+"Chrom..seg..kinetoch..spindle.microtub." 0.0126450340276918
+"Cell.cycle.progression.meiosis" 0.008394153923869
+"Metabolism.mitochondria" 0.00374979527784157
+"Cell.polarity.morphogenesis" 0.00209430005238157
+"Signaling.stress.response" -0.00736741226531438
+"Nuclear.cytoplasmic.transport" -0.00791964722303842
+"Ribosome.translation" -0.0092012178268432
+"DNA.replication...repair.HR.cohesion" -0.0124505811426225
+"RNA.processing" -0.0160953349751468
+"ER.Golgi.traffic" -0.0325456081091512
+"Golgi.endosome.vacuole.sorting" -0.0339351585356794
+__________________________________________________
+match  8 :
+canonical correlation:  0.0652173701052723
+canonical root:  0.00425330536344807
+shared variance X:  0.0285333574148109
+shared variance Y:  0.0782051107590823
+redundancy index X:  0.000121361082129596
+redundancy index Y:  0.000332630217040655
+"x"
+"sig_1" 0.0191230516303134
+"sig_3" 0.0160015034469401
+"sig_4" 0.0132255232878874
+"sig_11" 0.0113609301715864
+"sig_15" 0.010022743570014
+"sig_13" 0.00722785886134845
+"sig_2" 0.00010587617694902
+"sig_16" -0.00417045617974685
+"sig_7" -0.00646099888340878
+"sig_9" -0.00815375698141358
+"sig_14" -0.00856439648264333
+"sig_5" -0.00923360915501384
+"sig_8" -0.00959218046302111
+"sig_12" -0.00959218046302111
+"sig_21" -0.00959218046302111
+"sig_23" -0.00959218046302111
+"sig_28" -0.00959218046302111
+"sig_17" -0.0106153920030644
+"sig_6" -0.0155087622873299
+"sig_10" -0.015785069201408
+-----
+"x"
+"Chrom..seg..kinetoch..spindle.microtub." 0.0320582560087059
+"Protein.degredation.proteosome" 0.0205213858013719
+"Signaling.stress.response" 0.0189994965766993
+"Protein.folding...glycosylation.cell.wall" 0.0151051549008696
+"ER.Golgi.traffic" 0.0108728811142928
+"Nuclear.cytoplasmic.transport" 0.0101198466743453
+"DNA.replication...repair.HR.cohesion" 0.00738125642390158
+"Ribosome.translation" 0.00585930102234389
+"Cell.polarity.morphogenesis" -0.00339568201664831
+"Cell.cycle.progression.meiosis" -0.00598702275630823
+"Golgi.endosome.vacuole.sorting" -0.00710177339795568
+"Metabolism.mitochondria" -0.00881762951171853
+"Chromatin.transcription" -0.0268843644792336
+"RNA.processing" -0.037948182121067
+__________________________________________________
+match  9 :
+canonical correlation:  0.0527049394592358
+canonical root:  0.00277781064340171
+shared variance X:  0.28561328425159
+shared variance Y:  0.0775391351894527
+redundancy index X:  0.000793379620890985
+redundancy index Y:  0.000215389035009426
+"x"
+"sig_9" -0.00119322676091291
+"sig_7" -0.00549221434276544
+"sig_1" -0.0102424927087329
+"sig_11" -0.0125284710857361
+"sig_3" -0.0125809025757486
+"sig_14" -0.015940236245236
+"sig_15" -0.0161368593133555
+"sig_4" -0.0163008649643661
+"sig_2" -0.0222337952979407
+"sig_6" -0.0224127708135862
+"sig_10" -0.0249992467785956
+"sig_13" -0.0289541110494449
+"sig_17" -0.0370178430982999
+"sig_8" -0.0387629445224413
+"sig_12" -0.0387629445224413
+"sig_21" -0.0387629445224413
+"sig_23" -0.0387629445224413
+"sig_28" -0.0387629445224413
+"sig_5" -0.0393082109415663
+"sig_16" -0.0419160693996829
+-----
+"x"
+"Protein.folding...glycosylation.cell.wall" 0.0212997136890197
+"Protein.degredation.proteosome" 0.0197225192974134
+"RNA.processing" 0.0196183707409753
+"Signaling.stress.response" 0.0159537708679021
+"ER.Golgi.traffic" 0.0121520911437768
+"Cell.cycle.progression.meiosis" 0.010760308138783
+"Golgi.endosome.vacuole.sorting" 0.0014513447721088
+"Cell.polarity.morphogenesis" 0.000270243876962386
+"Chromatin.transcription" -0.0012539983247812
+"Ribosome.translation" -0.00760680893863052
+"Nuclear.cytoplasmic.transport" -0.00960404786714738
+"DNA.replication...repair.HR.cohesion" -0.00968182392951053
+"Chrom..seg..kinetoch..spindle.microtub." -0.0142062054481259
+"Metabolism.mitochondria" -0.0287283316331386
+__________________________________________________
+match  10 :
+canonical correlation:  0.0321042042833629
+canonical root:  0.00103067993266789
+shared variance X:  0.115186543609336
+shared variance Y:  0.0765409862186763
+redundancy index X:  0.000118720459011518
+redundancy index Y:  7.88892585221995e-05
+"x"
+"sig_3" 0.01758746782412
+"sig_10" 0.0145596302776528
+"sig_2" 0.00804581379862895
+"sig_1" 0.00657757234807982
+"sig_15" 0.00460750681611115
+"sig_13" 0.000823537356189731
+"sig_4" -0.00224580713769773
+"sig_9" -0.0024510112522333
+"sig_11" -0.00342133204646503
+"sig_6" -0.00499489453966285
+"sig_7" -0.00804489533089007
+"sig_16" -0.0104158931015007
+"sig_14" -0.011212543935304
+"sig_5" -0.0137123128176076
+"sig_8" -0.0138827495813069
+"sig_12" -0.0138827495813069
+"sig_21" -0.0138827495813069
+"sig_23" -0.0138827495813069
+"sig_28" -0.0138827495813069
+"sig_17" -0.0149911464111907
+-----
+"x"
+"RNA.processing" 0.0130604844311008
+"Chrom..seg..kinetoch..spindle.microtub." 0.01176790600239
+"Protein.degredation.proteosome" 0.00778415997872502
+"Protein.folding...glycosylation.cell.wall" 0.00504838023864381
+"Nuclear.cytoplasmic.transport" 0.00320644586348986
+"DNA.replication...repair.HR.cohesion" 0.00184332631444131
+"Ribosome.translation" 0.00132371123115256
+"ER.Golgi.traffic" -0.000480545043984337
+"Golgi.endosome.vacuole.sorting" -0.00117543822477353
+"Cell.polarity.morphogenesis" -0.00197722842030352
+"Metabolism.mitochondria" -0.0062709504564256
+"Cell.cycle.progression.meiosis" -0.00637871636485627
+"Chromatin.transcription" -0.00690808209177976
+"Signaling.stress.response" -0.0237426829105472
+__________________________________________________
+match  11 :
+canonical correlation:  0.0124095620693455
+canonical root:  0.000153997230752937
+shared variance X:  0.0413671576178964
+shared variance Y:  0.075881166613434
+redundancy index X:  6.37042771727631e-06
+redundancy index Y:  1.16854895247711e-05
+"x"
+"sig_6" 0.00763937393460026
+"sig_1" 0.0048125916227295
+"sig_3" 0.00340662471291426
+"sig_15" 0.00145772397499954
+"sig_4" 0.00138364353825337
+"sig_9" 0.000994276674353407
+"sig_7" 0.000503040458505063
+"sig_11" 0.000262535734441859
+"sig_14" 0.00019838422955691
+"sig_13" -1.91922563121814e-05
+"sig_10" -0.000116553436038789
+"sig_16" -0.000170300664225953
+"sig_17" -0.000687718490419993
+"sig_5" -0.00085696001070909
+"sig_8" -0.000908823755535236
+"sig_12" -0.000908823755535236
+"sig_21" -0.000908823755535236
+"sig_23" -0.000908823755535236
+"sig_28" -0.000908823755535236
+"sig_2" -0.00485593419978206
+-----
+"x"
+"ER.Golgi.traffic" 0.00520126009090683
+"Chromatin.transcription" 0.00496916233944489
+"Protein.degredation.proteosome" 0.0037930433893155
+"Nuclear.cytoplasmic.transport" 0.00311721640414722
+"Ribosome.translation" 0.000161966135187768
+"Cell.polarity.morphogenesis" 8.33589521888812e-05
+"Golgi.endosome.vacuole.sorting" 8.24126524140869e-05
+"DNA.replication...repair.HR.cohesion" 3.6678422819614e-05
+"Protein.folding...glycosylation.cell.wall" -0.000123752488731586
+"Metabolism.mitochondria" -0.000158753466014191
+"Signaling.stress.response" -0.00263597171243603
+"RNA.processing" -0.00377068987245047
+"Chrom..seg..kinetoch..spindle.microtub." -0.00553628844016891
+"Cell.cycle.progression.meiosis" -0.00603875458821722
+__________________________________________________
+match  12 :
+canonical correlation:  0.000953587938595623
+canonical root:  9.09329956635049e-07
+shared variance X:  0.0263845654424942
+shared variance Y:  0.0732663782038949
+redundancy index X:  2.39922757496579e-08
+redundancy index Y:  6.66233125149549e-08
+"x"
+"sig_9" 0.000461143429621361
+"sig_3" 0.000118606671337267
+"sig_2" 9.68652320703201e-05
+"sig_1" 3.99554964743737e-05
+"sig_16" 3.91193951550863e-05
+"sig_5" 3.63588255926501e-05
+"sig_8" 3.58246001895684e-05
+"sig_12" 3.58246001895684e-05
+"sig_21" 3.58246001895684e-05
+"sig_23" 3.58246001895684e-05
+"sig_28" 3.58246001895684e-05
+"sig_17" 2.82054019622979e-05
+"sig_15" 1.57739543624505e-05
+"sig_14" -4.33867822181855e-06
+"sig_7" -1.598456359904e-05
+"sig_4" -3.85015448904651e-05
+"sig_13" -0.000134275959602097
+"sig_11" -0.000196185966121123
+"sig_10" -0.000287770221923044
+"sig_6" -0.000298520425721883
+-----
+"x"
+"Signaling.stress.response" 0.000368021241588778
+"RNA.processing" 0.00024797189338938
+"Protein.degredation.proteosome" 0.000133810125588431
+"Chrom..seg..kinetoch..spindle.microtub." 5.24640083537446e-05
+"Golgi.endosome.vacuole.sorting" 4.50713773171404e-06
+"Metabolism.mitochondria" 4.85103549012026e-07
+"Ribosome.translation" 1.37069317267454e-07
+"Cell.polarity.morphogenesis" -2.12450812306016e-07
+"DNA.replication...repair.HR.cohesion" -1.53129749640777e-06
+"Chromatin.transcription" -4.26255966865618e-05
+"Protein.folding...glycosylation.cell.wall" -9.1238664445959e-05
+"Nuclear.cytoplasmic.transport" -0.000231453944375867
+"ER.Golgi.traffic" -0.000374708520289192
+"Cell.cycle.progression.meiosis" -0.000720812552241741
+__________________________________________________
+match  13 :
+canonical correlation:  1.03940552935205e-12
+canonical root:  1.08036385444762e-24
+shared variance X:  0.0569723153452344
+shared variance Y:  0.0742756840263165
+redundancy index X:  6.15508302031829e-26
+redundancy index Y:  8.02447642864051e-26
+"x"
+"sig_9" 1.8483132213726e-11
+"sig_13" 1.78900150207482e-11
+"sig_3" 6.27096710655377e-12
+"sig_10" 5.35976918494147e-12
+"sig_4" 4.71534734663905e-12
+"sig_15" -9.523137924059e-13
+"sig_6" -1.68527288042258e-12
+"sig_11" -2.47213760096887e-12
+"sig_12" -2.52336115515904e-12
+"sig_21" -2.52336115515904e-12
+"sig_23" -2.52336115515904e-12
+"sig_28" -2.52336115515904e-12
+"sig_8" -2.52336115543336e-12
+"sig_5" -2.55540058450701e-12
+"sig_16" -2.68518934937537e-12
+"sig_1" -3.08406714869655e-12
+"sig_17" -3.5243649788839e-12
+"sig_2" -4.02682675390108e-12
+"sig_7" -4.26571995044376e-12
+"sig_14" -4.57659989194159e-12
+-----
+"x"
+"Cell.polarity.morphogenesis" 1.54949750077121e-12
+"Metabolism.mitochondria" 1.29257967040697e-12
+"Ribosome.translation" 1.05038637184777e-12
+"DNA.replication...repair.HR.cohesion" -1.13753319029628e-13
+"Cell.cycle.progression.meiosis" -1.43260770638273e-13
+"ER.Golgi.traffic" -1.92162891556814e-13
+"RNA.processing" -2.62589438987923e-13
+"Protein.degredation.proteosome" -3.2642674320116e-13
+"Protein.folding...glycosylation.cell.wall" -3.3951761529636e-13
+"Nuclear.cytoplasmic.transport" -4.07148691752757e-13
+"Golgi.endosome.vacuole.sorting" -4.36750587741409e-13
+"Signaling.stress.response" -5.7761509672371e-13
+"Chromatin.transcription" -7.97375497037212e-13
+"Chrom..seg..kinetoch..spindle.microtub." -8.09248561528315e-13
+__________________________________________________
+match  14 :
+canonical correlation:  5.02574760960322e-15
+canonical root:  2.52581390354325e-29
+shared variance X:  0.0569723153488745
+shared variance Y:  0.0742756840135726
+redundancy index X:  1.43901466225238e-30
+redundancy index Y:  1.87606555376667e-30
+"x"
+"sig_9" 4.77609074891261e-16
+"sig_1" 3.92335784609758e-16
+"sig_10" 2.37605415023653e-16
+"sig_6" 2.31220307347665e-16
+"sig_3" 2.04989631769562e-16
+"sig_2" 3.71403591235653e-17
+"sig_13" 3.02382770766966e-17
+"sig_12" -1.95318194206072e-17
+"sig_21" -1.95318194206072e-17
+"sig_23" -1.95318194206072e-17
+"sig_28" -1.95318194206072e-17
+"sig_8" -1.95319058374527e-17
+"sig_5" -2.04171109753083e-17
+"sig_15" -2.54818478243248e-17
+"sig_16" -2.87991855332353e-17
+"sig_17" -6.07262630255571e-17
+"sig_14" -1.41617351789351e-16
+"sig_7" -1.50289383007792e-16
+"sig_11" -1.51558756436608e-16
+"sig_4" -6.24721149268313e-16
+-----
+"x"
+"Cell.polarity.morphogenesis" 6.07015236435896e-13
+"Metabolism.mitochondria" 4.50206510761294e-13
+"Chrom..seg..kinetoch..spindle.microtub." 3.85569274867155e-13
+"Signaling.stress.response" 3.84845038710259e-13
+"Protein.folding...glycosylation.cell.wall" 1.21384273077672e-13
+"DNA.replication...repair.HR.cohesion" 8.74691014744633e-14
+"Protein.degredation.proteosome" 6.68557215027516e-14
+"Cell.cycle.progression.meiosis" 4.12860293404725e-14
+"Nuclear.cytoplasmic.transport" -8.53560667145381e-14
+"ER.Golgi.traffic" -1.54562621036814e-13
+"RNA.processing" -1.58100717215073e-13
+"Golgi.endosome.vacuole.sorting" -1.8776845229344e-13
+"Chromatin.transcription" -3.72392507417822e-13
+"Ribosome.translation" -1.28413736412973e-12

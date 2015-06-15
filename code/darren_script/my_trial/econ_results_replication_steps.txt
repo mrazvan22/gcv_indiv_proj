@@ -1,0 +1,43 @@
+# It is assumed that all examples are run from the "code" directory, except for the R code.
+# The results can be regenerated from this file, the code directory, and the input_data directory.
+
+# There are a few unit tests included, and if you want you can run them as a sanity check. These tests check some of the basic functionality of the preprocessing code, but they are by no means comprehensive.
+python test_preprocessing.py
+
+# create the directory reformatted_networks
+
+# Convert the economic networks from ndump2 to csv. The lowest-level output directory should not be created yet.
+# convert_all_ndump_to_nodeinfo.py in_dir out_dir
+python convert_all_ndump_to_nodeinfo.py ..\input_data\Trade-networks_per-year_total-trade ..\reformatted_networks\per-year
+
+# Combine the information from the per-year CSVs into a new file
+# python join_econ_network_years.py in_dir out_file
+python join_econ_network_years.py ..\reformatted_networks\per-year ..\reformatted_networks\combined_network_years.csv
+
+# create the directory reformatted_econ_attrs
+
+# Reformat the needed data from Vuk's country-info files into a csv
+# Country/year instances with incomplete data will be dropped
+# python econ_node_info_to_year_aggregated_csv.py in_directory out_directory
+python econ_node_info_to_year_aggregated_csv.py ..\input_data\Vuk_country-node_attrs ..\reformatted_econ_attrs
+
+# Add variables that are products or quotients of other variables (e.g., to get GDP from per-capita GDP x population)
+# python augment_with_products.py infile_name outfile_name
+python augment_with_products.py ..\reformatted_econ_attrs\1980to2010_complete-countries.csv ..\reformatted_econ_attrs\1980to2010_complete-countries_augmented.csv
+
+# create the directory CCA_in
+
+# Make sure that each instance corresponds to the same row in the network and economic-attribute files. 
+# This will remove instances that cannot be matched (i.e., that aren't in both files)
+# Two files will be produced in the given output directory.
+# python align_instances.py file1 file2 out_dir
+python align_instances.py ..\reformatted_econ_attrs\1980to2010_complete-countries_augmented.csv ..\reformatted_networks\combined_network_years.csv ..\CCA_in
+
+# create the directory CCA_out
+
+# Run the actual CCA. These commands should be run in an R interpreter. I ran this with R 2.15.2. Results will be placed in R's working directory.
+# You may need to install some R packages for this to run.
+# Since this automatically chooses regularization coefficients, it will take a little while to run.
+source('code/R/analyze_correlation.R')
+setwd('CCA_out')
+analyze_correlation('..\\CCA_in\\1980to2010_complete-countries_augmented_matched-to_combined_network_years.csv', '..\\CCA_in\\combined_network_years_matched-to_1980to2010_complete-countries_augmented.csv', 'trade1980to2010_complete-countries', regularize=TRUE, scale_data=TRUE, xkeep_attrs=c("OPENK", "KG", "KI", "KC", "RGDPL", "RGDPCH", "RGDPL2", "KGxRGDPL", "KIxRGDPL", "KCxRGDPL", "BCA", "BCAperRGDPL", "LE", "POP", "KCxRGDPLxPOP", "KGxRGDPLxPOP", "KIxRGDPLxPOP", "RGDPCHxPOP", "RGDPLxPOP", "RGDPL2xPOP"))

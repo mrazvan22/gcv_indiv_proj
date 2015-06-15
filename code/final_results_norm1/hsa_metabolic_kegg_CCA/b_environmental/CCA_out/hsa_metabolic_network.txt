@@ -1,0 +1,102 @@
+data1:  ../CCA_in/gcv_list_matched-to_indicator_list.csv
+data2:  ../CCA_in/indicator_list_matched-to_gcv_list.csv
+instance-name mismatches:  0
+the following columns had zero variance and were not kept:  Membrane.transport
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y
+no weights given, assuming all ones
+robust covariance-estimation method: None
+instances:  47
+independent variables: 29 (29 before removing zero-variance variables)
+dependent variables: 2 (3 before removing zero-variance variables)
+canonical correlations:  0.991449480808786, 0.858372627833876
+p-values (asymptotic Wilks): 1.10336160208391e-08, 0.127349952525568
+p-values (asymptotic Hotelling): 2.42883491097245e-12, 0.0702992033914746
+p-values (asymptotic Pillai): 6.60846780100588e-05, 0.737615620340797
+__________________________________________________
+match  1 :
+canonical correlation:  0.991449480808786
+canonical root:  0.982972072996011
+shared variance X:  0.0227881253021935
+shared variance Y:  0.493946724797185
+redundancy index X:  0.02240009076799
+redundancy index Y:  0.485535836023479
+"x"
+"sig_6" 0.152526914477561
+"sig_26" 0.0972889777081493
+"sig_3" 0.0890348031520355
+"sig_13" 0.0809711915187053
+"sig_29" 0.0653136289138967
+"sig_17" 0.0643519152056324
+"sig_24" 0.0640088353870381
+"sig_18" 0.0552428408977525
+"sig_19" 0.0549454012480369
+"sig_16" 0.054111673515166
+"sig_10" 0.053007724349706
+"sig_14" 0.051791150644057
+"sig_9" 0.0516181565910039
+"sig_11" 0.0500151649791237
+"sig_5" 0.0491928722346445
+"sig_12" 0.0475074049641045
+"sig_23" 0.047416277070508
+"sig_21" 0.0360023905054388
+"sig_20" 0.0336662841116328
+"sig_25" 0.0331154323912522
+"sig_27" 0.0314056214686879
+"sig_15" 0.0307856115664514
+"sig_2" 0.000229365452348738
+"sig_8" -0.0171090938368117
+"sig_1" -0.0736291120967987
+"sig_4" -0.195606659943885
+"sig_28" -0.334837801340949
+"sig_7" -0.392952998983168
+"sig_22" -0.497331388041223
+-----
+"x"
+"Signal.transduction" -0.0591897091134492
+"Signaling.molecules.and.interaction" -0.983650471652415
+__________________________________________________
+match  2 :
+canonical correlation:  0.858372627833876
+canonical root:  0.736803568214434
+shared variance X:  0.0274560353632948
+shared variance Y:  0.506053275202815
+redundancy index X:  0.0202297048246973
+redundancy index Y:  0.372861858876035
+"x"
+"sig_7" 0.0967948437575002
+"sig_2" 0.0910049290367063
+"sig_1" 0.0723287701050673
+"sig_16" 0.0720969404305883
+"sig_4" 0.0710721550162302
+"sig_22" 0.0596295751534286
+"sig_20" 0.0436690957054639
+"sig_3" 0.0436315710301769
+"sig_11" 0.0356557069512972
+"sig_15" 0.0330439255732387
+"sig_25" 0.0255587286868709
+"sig_5" 0.019531868112928
+"sig_10" 0.0152026379909031
+"sig_9" -0.00770581097608887
+"sig_13" -0.0282705407245291
+"sig_21" -0.0701805170944756
+"sig_8" -0.0859143909913561
+"sig_28" -0.0982329134328444
+"sig_27" -0.0991864695300401
+"sig_14" -0.121000732169576
+"sig_24" -0.123793392054118
+"sig_29" -0.135109188239271
+"sig_26" -0.138160067435955
+"sig_19" -0.139334069794777
+"sig_18" -0.190069409912644
+"sig_12" -0.194087751558999
+"sig_17" -0.201896045430922
+"sig_6" -0.277546463680392
+"sig_23" -0.48121527979432
+-----
+"x"
+"Signaling.molecules.and.interaction" 0.107453242413007
+"Signal.transduction" -0.856841594722732

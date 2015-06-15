@@ -1,0 +1,443 @@
+<span id="lblReportHeader" class="parasmallboldcolourtext" style="text-decoration:underline;">Regional trade agreements notified to the GATT/WTO and in force</span><span id="lblReportHeaderLine2" class="parasmallboldcolourtext" style="text-decoration:underline;">By country/territory</span><div>
+	<table cellspacing="0" rules="all" border="1" id="grdRTAList" style="border-collapse:collapse;">
+		<tr align="left">
+			<th scope="col">Country/Territory</th><th scope="col">Goods notifications (RTAs)</th><th scope="col">Goods notifications (Accessions)</th><th scope="col">Services notifications (EIAs)</th><th scope="col">Services notifications (Accessions)</th><th scope="col">Physical RTAs</th>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Afghanistan</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Albania</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Algeria</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Andorra</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Angola</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Anguilla</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Antigua and Barbuda</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Argentina</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Armenia</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Aruba</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Australia</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Austria</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Azerbaijan</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Bahamas</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Bahrain, Kingdom of</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Bangladesh</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">5</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Barbados</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Belarus</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Belgium</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Belize</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Benin</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Bhutan</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Bolivia, Plurinational State of</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Bosnia and Herzegovina</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Botswana</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Brazil</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">5</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">British Indian Ocean Territory</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Brunei Darussalam</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Bulgaria</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Burkina Faso</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Burundi</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Cambodia</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Cameroon</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Canada</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Cape Verde</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Cayman Islands</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Central African Republic</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Chad</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Chile</td><td style="width:100px;white-space:nowrap;">24</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">18</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">24</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">China</td><td style="width:100px;white-space:nowrap;">10</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">10</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Colombia</td><td style="width:100px;white-space:nowrap;">10</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">10</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Comoros</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Congo</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Cook Islands</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Costa Rica</td><td style="width:100px;white-space:nowrap;">11</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">11</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">C&#244;te d'Ivoire</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Croatia</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Cuba</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Cyprus</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Czech Republic</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Democratic Republic of the Congo</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Denmark</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Djibouti</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Dominica</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Dominican Republic</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Ecuador</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Egypt</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">El Salvador</td><td style="width:100px;white-space:nowrap;">10</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">10</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Equatorial Guinea</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Eritrea</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Estonia</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Ethiopia</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">European Union</td><td style="width:100px;white-space:nowrap;">33</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">11</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">34</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Faeroe Islands</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Falkland Islands (Islas Malvinas)</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Fiji</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Finland</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">France</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">French Polynesia</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">French Southern Territories</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Gabon</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Georgia</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Germany</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Ghana</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Greece</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Greenland</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Grenada</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Guatemala</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Guinea</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Guinea-Bissau</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Guyana</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Haiti</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Honduras</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Hong Kong, China</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Hungary</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Iceland</td><td style="width:100px;white-space:nowrap;">25</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">10</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">26</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">India</td><td style="width:100px;white-space:nowrap;">15</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">15</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Indonesia</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Iran</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Iraq</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Ireland</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Israel</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">7</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Italy</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Jamaica</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Japan</td><td style="width:100px;white-space:nowrap;">13</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">13</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Jordan</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">7</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Kazakhstan</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Kenya</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Kiribati</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Korea, Democratic People's Republic of</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Korea, Republic of</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">12</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Kuwait, the State of</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Kyrgyz Republic</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Lao People's Democratic Republic</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Latvia</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Lebanese Republic</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Lesotho</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Liberia, Republic of</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Libya</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Liechtenstein</td><td style="width:100px;white-space:nowrap;">24</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">25</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Lithuania</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Luxembourg</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Macao, China</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Madagascar</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Malawi</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Malaysia</td><td style="width:100px;white-space:nowrap;">13</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">13</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Maldives</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Mali</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Malta</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Marshall Islands</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Mauritania</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Mauritius</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Mayotte</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Mexico</td><td style="width:100px;white-space:nowrap;">13</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">13</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Micronesia, Federated States of</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Moldova, Republic of</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Mongolia</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Montenegro</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">5</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Montserrat</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Morocco</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Mozambique</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Myanmar</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">7</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Namibia</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Nauru</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Nepal</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Netherlands</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Netherlands Antilles</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">New Caledonia</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">New Zealand</td><td style="width:100px;white-space:nowrap;">10</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">10</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Nicaragua</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Niger</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Nigeria</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Niue</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Norway</td><td style="width:100px;white-space:nowrap;">25</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">26</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Oman</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Pakistan</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Palau</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Palestine</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Panama</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">12</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Papua New Guinea</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">5</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Paraguay</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Peru</td><td style="width:100px;white-space:nowrap;">16</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">11</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">16</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Philippines</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">9</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Pitcairn</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Poland</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Portugal</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Qatar</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Romania</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Russian Federation</td><td style="width:100px;white-space:nowrap;">16</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">16</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Rwanda</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Saint Helena</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Saint Kitts and Nevis</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Saint Lucia</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Saint Pierre and Miquelon</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Saint Vincent and the Grenadines</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Samoa</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">San Marino</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Sao Tome and Principe</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Saudi Arabia, Kingdom of</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Senegal</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Serbia</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Seychelles</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Sierra Leone</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Singapore</td><td style="width:100px;white-space:nowrap;">21</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">17</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">21</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Slovak Republic</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Slovenia</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Solomon Islands</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Somalia</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">South Africa</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">South Georgia and the South Sandwich Islands</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Spain</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Sri Lanka</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Sudan</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Suriname</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Swaziland</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Sweden</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Switzerland</td><td style="width:100px;white-space:nowrap;">26</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">9</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">26</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Syrian Arab Republic</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Chinese Taipei</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Tajikistan</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Tanzania</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Thailand</td><td style="width:100px;white-space:nowrap;">11</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">11</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">The former Yugoslav Republic of Macedonia</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">The Gambia</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Togo</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Tonga</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Trinidad and Tobago</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Tunisia</td><td style="width:100px;white-space:nowrap;">6</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">6</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Turkey</td><td style="width:100px;white-space:nowrap;">20</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">20</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Turkmenistan</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">5</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Turks and Caicos Islands</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Tuvalu</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Uganda</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Ukraine</td><td style="width:100px;white-space:nowrap;">16</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">16</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">United Arab Emirates</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">United Kingdom</td><td style="width:100px;white-space:nowrap;">34</td><td style="width:100px;white-space:nowrap;">7</td><td style="width:100px;white-space:nowrap;">12</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">35</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">United States of America</td><td style="width:100px;white-space:nowrap;">14</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">13</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">14</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">UNMIK/Kosovo</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Uruguay</td><td style="width:100px;white-space:nowrap;">5</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">5</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Uzbekistan</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Vanuatu</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Venezuela, Bolivarian Republic of</td><td style="width:100px;white-space:nowrap;">3</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">3</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Viet Nam</td><td style="width:100px;white-space:nowrap;">8</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">8</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Virgin Islands, British</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Wallis and Futuna Islands</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Yemen</td><td style="width:100px;white-space:nowrap;">1</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">1</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Zambia</td><td style="width:100px;white-space:nowrap;">2</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">2</td>
+		</tr><tr>
+			<td align="left" style="width:100px;white-space:nowrap;">Zimbabwe</td><td style="width:100px;white-space:nowrap;">4</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">0</td><td style="width:100px;white-space:nowrap;">4</td>
+		</tr>
+	</table>
+</div>

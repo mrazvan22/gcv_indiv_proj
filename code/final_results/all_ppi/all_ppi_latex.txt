@@ -1,0 +1,763 @@
+
+
+./all_ppi.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} & 
+
+
+./2-human_i2d_hc_CCA/CCA_out/human_i2d_hc.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.15847} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00252} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ other metabolic processes & 0.05774 &  G28 & -0.01191\\
+ transport & 0.03043 &  G29 & -0.01430\\
+ protein metabolism & 0.02754 &  G22 & -0.01476\\
+ cell organization and biogenesis & 0.01971 &  G26 & -0.01667\\
+ cell cell signaling & 0.01455 &  G8 & -0.02096\\
+ cell adhesion & 0.00799 &  G11 & -0.02205\\
+ Gnal transduction & 0.00755 &  G14 & -0.02625\\
+ DNA metabolism & 0.00274 &  G17 & -0.02708\\
+ stress response & 0.00132 &  G18 & -0.02948\\
+ other biological processes & 0.00115 &  G4 & -0.03280\\
+ developmental processes & 0.00019 &  G23 & -0.03329\\
+ RNA metabolism & -0.01838 &  G24 & -0.03631\\
+ cell cycle and proliferation & -0.02759 &  G7 & -0.03832\\
+ death & -0.15068 &  G13 & -0.03905\\
+ & &  G27 & -0.04064\\
+ & &  G12 & -0.04140\\
+ & &  G19 & -0.04176\\
+ & &  G15 & -0.04206\\
+ & &  G10 & -0.04346\\
+ & &  G21 & -0.04776\\
+ & &  G9 & -0.04812\\
+ & &  G6 & -0.04916\\
+ & &  G20 & -0.05196\\
+ & &  G25 & -0.06027\\
+ & &  G3 & -0.06093\\
+ & &  G16 & -0.06302\\
+ & &  G2 & -0.06520\\
+ & &  G1 & -0.06961\\
+ & &  G5 & -0.08266\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./13-yeast_biogrid_genetic_merin_CCA/CCA_out/yeast_biogrid_genetic.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.27203} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ X U  & 0.11238 &  G11 & -0.00263\\
+ X P  & 0.07793 &  G14 & -0.04931\\
+ X M  & 0.06314 &  G4 & -0.05327\\
+ X A  & 0.06161 &  G10 & -0.06615\\
+ X E  & 0.04926 &  G9 & -0.07092\\
+ X G  & 0.04349 &  G16 & -0.08171\\
+ X R  & 0.02417 &  G13 & -0.08263\\
+ X C  & -0.02093 &  G12 & -0.08266\\
+ X T  & -0.03456 &  G15 & -0.08365\\
+ X F  & -0.04871 &  G17 & -0.08782\\
+ X O  & -0.05765 &  G18 & -0.08831\\
+ X B  & -0.15356 &  G20 & -0.09333\\
+ X D  & -0.17739 &  G21 & -0.09469\\
+ & &  G19 & -0.09568\\
+ & &  G22 & -0.09842\\
+ & &  G3 & -0.09996\\
+ & &  G24 & -0.10265\\
+ & &  G23 & -0.10486\\
+ & &  G25 & -0.10563\\
+ & &  G26 & -0.11266\\
+ & &  G27 & -0.11286\\
+ & &  G6 & -0.11476\\
+ & &  G5 & -0.11659\\
+ & &  G28 & -0.12217\\
+ & &  G7 & -0.13098\\
+ & &  G29 & -0.13446\\
+ & &  G1 & -0.13664\\
+ & &  G8 & -0.14762\\
+ & &  G2 & -0.16769\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./8-yeast_lc_boone_CCA/CCA_out/yeast_lc.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.36435} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.99148} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ DNA replication   repair HR cohesion & 0.10490 &  G11 & -0.10899\\
+ Golgi endosome vacuole sorting & 0.09900 &  G20 & -0.12883\\
+ Cell polarity morphogenesis & 0.08217 &  G12 & -0.13260\\
+ Metabolism mitochondria & 0.07128 &  G18 & -0.13788\\
+ Signaling stress response & 0.06514 &  G13 & -0.14522\\
+ Protein folding   glycosylation cell wall & 0.04309 &  G14 & -0.14545\\
+ Protein degredation proteosome & 0.03296 &  G16 & -0.14596\\
+ Cell cycle progression meiosis & 0.02749 &  G15 & -0.14712\\
+ Ribosome translation & 0.02629 &  G10 & -0.14726\\
+ ER Golgi traffic & 0.02624 &  G19 & -0.14785\\
+ Chrom  seg  kinetoch  spindle microtub  & 0.01118 &  G9 & -0.14871\\
+ Nuclear cytoplasmic transport & 0.00635 &  G23 & -0.15251\\
+ RNA processing & -0.02048 &  G17 & -0.15525\\
+ Chromatin transcription & -0.35252 &  G24 & -0.15802\\
+ & &  G21 & -0.16018\\
+ & &  G4 & -0.17032\\
+ & &  G25 & -0.17105\\
+ & &  G26 & -0.17130\\
+ & &  G3 & -0.17230\\
+ & &  G22 & -0.17548\\
+ & &  G5 & -0.17707\\
+ & &  G6 & -0.18042\\
+ & &  G27 & -0.18405\\
+ & &  G28 & -0.19150\\
+ & &  G29 & -0.19421\\
+ & &  G7 & -0.20930\\
+ & &  G8 & -0.21837\\
+ & &  G1 & -0.22930\\
+ & &  G2 & -0.26304\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./12-yeast_apms_collins_merin_CCA/CCA_out/yeast_apms_collins.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.54489} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ X O  & 0.10410 &  G9 & -0.21203\\
+ X U  & 0.10038 &  G13 & -0.23080\\
+ X D  & 0.09481 &  G10 & -0.23560\\
+ X M  & 0.07261 &  G11 & -0.27911\\
+ X C  & 0.06208 &  G15 & -0.28931\\
+ X E  & 0.05791 &  G18 & -0.29083\\
+ X F  & 0.04958 &  G12 & -0.29679\\
+ X G  & 0.04792 &  G14 & -0.30518\\
+ X B  & 0.04232 &  G16 & -0.30604\\
+ X R  & 0.03592 &  G3 & -0.32479\\
+ X A  & 0.03174 &  G19 & -0.32981\\
+ X T  & 0.02139 &  G21 & -0.34018\\
+ X P  & -0.54273 &  G17 & -0.35616\\
+ & &  G4 & -0.36201\\
+ & &  G20 & -0.36383\\
+ & &  G23 & -0.38103\\
+ & &  G25 & -0.39269\\
+ & &  G24 & -0.39272\\
+ & &  G22 & -0.39991\\
+ & &  G6 & -0.40577\\
+ & &  G5 & -0.41118\\
+ & &  G27 & -0.42175\\
+ & &  G26 & -0.42604\\
+ & &  G1 & -0.44139\\
+ & &  G28 & -0.44763\\
+ & &  G7 & -0.45248\\
+ & &  G29 & -0.47622\\
+ & &  G8 & -0.48968\\
+ & &  G2 & -0.50543\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./0-human_HI_2012_preliminary_CCA/CCA_out/human_HI_2012_preliminary.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.20672} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.99961} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ cell organization and biogenesis & 0.02166 &  G11 & -0.00121\\
+ cell cycle and proliferation & 0.01753 &  G14 & -0.00315\\
+ death & 0.01526 &  G17 & -0.00419\\
+ protein metabolism & 0.01486 &  G22 & -0.00466\\
+ stress response & 0.01107 &  G4 & -0.00501\\
+ other metabolic processes & 0.00911 &  G12 & -0.00637\\
+ Gnal transduction & 0.00558 &  G23 & -0.00712\\
+ DNA metabolism & 0.00476 &  G18 & -0.01044\\
+ transport & 0.00380 &  G6 & -0.01073\\
+ cell cell signaling & 0.00351 &  G26 & -0.01089\\
+ RNA metabolism & 0.00296 &  G24 & -0.01108\\
+ other biological processes & 0.00183 &  G19 & -0.01225\\
+ developmental processes & -0.04495 &  G10 & -0.01467\\
+ cell adhesion & -0.21481 &  G7 & -0.01497\\
+ & &  G27 & -0.01711\\
+ & &  G25 & -0.01848\\
+ & &  G28 & -0.01857\\
+ & &  G1 & -0.02414\\
+ & &  G13 & -0.02760\\
+ & &  G21 & -0.02802\\
+ & &  G16 & -0.03249\\
+ & &  G20 & -0.03290\\
+ & &  G29 & -0.03471\\
+ & &  G8 & -0.03634\\
+ & &  G2 & -0.04260\\
+ & &  G3 & -0.04335\\
+ & &  G9 & -0.04553\\
+ & &  G15 & -0.05440\\
+ & &  G5 & -0.05792\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./15-yeast_y2h_union_yu_ito_uetz_merin_CCA/CCA_out/yeast_y2h_union_yu_ito_uetz.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} & 
+
+
+./4-biogrid_human_ppi_noUBC_full_CCA/CCA_out/biogrid_human_ppi_noUBC_full.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.23695} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ transport & 0.04013 &  G11 & -0.00708\\
+ cell organization and biogenesis & 0.03275 &  G14 & -0.01407\\
+ other metabolic processes & 0.03069 &  G10 & -0.01749\\
+ other biological processes & 0.02860 &  G4 & -0.02027\\
+ developmental processes & 0.02677 &  G9 & -0.02473\\
+ Gnal transduction & 0.02279 &  G16 & -0.03777\\
+ stress response & 0.02063 &  G12 & -0.03781\\
+ RNA metabolism & 0.01636 &  G13 & -0.04356\\
+ cell cell signaling & 0.01545 &  G3 & -0.04898\\
+ cell adhesion & 0.01354 &  G17 & -0.05191\\
+ DNA metabolism & 0.00868 &  G20 & -0.05843\\
+ death & 0.00467 &  G15 & -0.06350\\
+ cell cycle and proliferation & -0.00105 &  G18 & -0.06712\\
+ protein metabolism & -0.24151 &  G19 & -0.07868\\
+ & &  G1 & -0.08510\\
+ & &  G22 & -0.08542\\
+ & &  G6 & -0.09511\\
+ & &  G21 & -0.09591\\
+ & &  G23 & -0.10001\\
+ & &  G5 & -0.11261\\
+ & &  G25 & -0.12009\\
+ & &  G24 & -0.12695\\
+ & &  G27 & -0.14253\\
+ & &  G26 & -0.14987\\
+ & &  G7 & -0.15808\\
+ & &  G28 & -0.16201\\
+ & &  G29 & -0.17388\\
+ & &  G8 & -0.17977\\
+ & &  G2 & -0.18303\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./1-human_i2d_full_CCA/CCA_out/human_i2d_full.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.19282} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ protein metabolism & 0.19112 &  G8 & 0.15657\\
+ cell cycle and proliferation & 0.00646 &  G29 & 0.14760\\
+ RNA metabolism & 0.00551 &  G28 & 0.14645\\
+ other metabolic processes & -0.00541 &  G2 & 0.13475\\
+ DNA metabolism & -0.00847 &  G26 & 0.11085\\
+ cell organization and biogenesis & -0.01101 &  G7 & 0.10685\\
+ cell adhesion & -0.01518 &  G27 & 0.08817\\
+ death & -0.01588 &  G23 & 0.06402\\
+ cell cell signaling & -0.01674 &  G24 & 0.06228\\
+ stress response & -0.01804 &  G1 & 0.05536\\
+ Gnal transduction & -0.02928 &  G22 & 0.05393\\
+ transport & -0.03170 &  G6 & 0.05370\\
+ other biological processes & -0.03548 &  G25 & 0.05001\\
+ developmental processes & -0.03739 &  G5 & 0.04454\\
+ & &  G18 & 0.03608\\
+ & &  G17 & 0.03263\\
+ & &  G21 & 0.03039\\
+ & &  G19 & 0.02766\\
+ & &  G3 & 0.01825\\
+ & &  G4 & 0.01715\\
+ & &  G14 & 0.01479\\
+ & &  G15 & 0.01343\\
+ & &  G13 & 0.01211\\
+ & &  G20 & 0.01179\\
+ & &  G16 & 0.01159\\
+ & &  G12 & 0.01118\\
+ & &  G11 & 0.00426\\
+ & &  G9 & 0.00306\\
+ & &  G10 & 0.00264\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./10-biogrid_yeast_ppi_noYLL039C_full_boone_CCA/CCA_out/biogrid_yeast_ppi_noYLL039C_full.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.45880} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ Metabolism mitochondria & 0.15861 &  G11 & -0.03350\\
+ Golgi endosome vacuole sorting & 0.09172 &  G14 & -0.03915\\
+ Protein folding   glycosylation cell wall & 0.08794 &  G10 & -0.04096\\
+ Cell polarity morphogenesis & 0.07806 &  G4 & -0.04261\\
+ DNA replication   repair HR cohesion & 0.07679 &  G9 & -0.04999\\
+ Signaling stress response & 0.06513 &  G16 & -0.05459\\
+ ER Golgi traffic & 0.05000 &  G20 & -0.05641\\
+ Chrom  seg  kinetoch  spindle microtub  & 0.04864 &  G12 & -0.05703\\
+ Cell cycle progression meiosis & 0.03944 &  G17 & -0.06682\\
+ Nuclear cytoplasmic transport & -0.01002 &  G3 & -0.07415\\
+ Protein degredation proteosome & -0.01574 &  G13 & -0.07585\\
+ Chromatin transcription & -0.02837 &  G22 & -0.08361\\
+ RNA processing & -0.24003 &  G15 & -0.08681\\
+ Ribosome translation & -0.35281 &  G18 & -0.10240\\
+ & &  G19 & -0.10562\\
+ & &  G1 & -0.11901\\
+ & &  G21 & -0.12887\\
+ & &  G6 & -0.13115\\
+ & &  G23 & -0.14507\\
+ & &  G5 & -0.17207\\
+ & &  G24 & -0.19117\\
+ & &  G25 & -0.19158\\
+ & &  G26 & -0.25346\\
+ & &  G27 & -0.26491\\
+ & &  G7 & -0.27551\\
+ & &  G28 & -0.28974\\
+ & &  G29 & -0.29937\\
+ & &  G8 & -0.32430\\
+ & &  G2 & -0.34523\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./6-yeast_apms_collins_boone_CCA/CCA_out/yeast_apms_collins.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.53013} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ Golgi endosome vacuole sorting & 0.11166 &  G9 & -0.21219\\
+ Metabolism mitochondria & 0.09505 &  G10 & -0.23170\\
+ DNA replication   repair HR cohesion & 0.09497 &  G13 & -0.23282\\
+ Chromatin transcription & 0.08089 &  G11 & -0.27316\\
+ Cell polarity morphogenesis & 0.07997 &  G12 & -0.29269\\
+ Signaling stress response & 0.07165 &  G15 & -0.29388\\
+ Chrom  seg  kinetoch  spindle microtub  & 0.06670 &  G18 & -0.29605\\
+ Protein folding   glycosylation cell wall & 0.05669 &  G14 & -0.30226\\
+ ER Golgi traffic & 0.05629 &  G16 & -0.30491\\
+ Nuclear cytoplasmic transport & 0.04242 &  G3 & -0.32983\\
+ Cell cycle progression meiosis & 0.01010 &  G19 & -0.32988\\
+ Protein degredation proteosome & 0.00767 &  G21 & -0.34306\\
+ RNA processing & -0.04756 &  G17 & -0.35499\\
+ Ribosome translation & -0.50899 &  G20 & -0.36336\\
+ & &  G4 & -0.36451\\
+ & &  G23 & -0.37679\\
+ & &  G25 & -0.39331\\
+ & &  G24 & -0.39659\\
+ & &  G22 & -0.40344\\
+ & &  G6 & -0.40955\\
+ & &  G5 & -0.41656\\
+ & &  G27 & -0.42197\\
+ & &  G26 & -0.42617\\
+ & &  G28 & -0.44430\\
+ & &  G1 & -0.45305\\
+ & &  G7 & -0.45431\\
+ & &  G29 & -0.46431\\
+ & &  G8 & -0.47914\\
+ & &  G2 & -0.49953\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./5-biogrid_human_ppi_hc_CCA/CCA_out/biogrid_human_ppi_hc.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.25920} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ other biological processes & 0.04740 &  G15 & 0.00260\\
+ other metabolic processes & 0.04227 &  G9 & 0.00252\\
+ transport & 0.04085 &  G20 & 0.00247\\
+ cell organization and biogenesis & 0.02947 &  G16 & 0.00243\\
+ Gnal transduction & 0.02876 &  G10 & 0.00220\\
+ stress response & 0.02586 &  G13 & 0.00218\\
+ developmental processes & 0.02212 &  G12 & 0.00215\\
+ RNA metabolism & 0.01617 &  G3 & 0.00213\\
+ death & 0.01434 &  G19 & 0.00126\\
+ cell cell signaling & 0.01147 &  G21 & 0.00107\\
+ cell adhesion & 0.01012 &  G5 & -0.00091\\
+ DNA metabolism & 0.00454 &  G25 & -0.00530\\
+ cell cycle and proliferation & 0.00347 &  G18 & -0.00791\\
+ protein metabolism & -0.26366 &  G24 & -0.01111\\
+ & &  G22 & -0.01123\\
+ & &  G17 & -0.01128\\
+ & &  G6 & -0.01169\\
+ & &  G1 & -0.01190\\
+ & &  G14 & -0.01861\\
+ & &  G4 & -0.01973\\
+ & &  G23 & -0.02021\\
+ & &  G11 & -0.02191\\
+ & &  G27 & -0.05017\\
+ & &  G7 & -0.05480\\
+ & &  G26 & -0.06487\\
+ & &  G2 & -0.12195\\
+ & &  G28 & -0.13590\\
+ & &  G8 & -0.17928\\
+ & &  G29 & -0.18430\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./3-human_ppi_56k_CCA/CCA_out/human_ppi_56k.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.15550} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00001} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ other metabolic processes & 0.05697 &  G11 & -0.02678\\
+ transport & 0.04117 &  G14 & -0.02889\\
+ protein metabolism & 0.02476 &  G17 & -0.03063\\
+ cell cell signaling & 0.01750 &  G21 & -0.03148\\
+ cell organization and biogenesis & 0.01459 &  G25 & -0.03170\\
+ developmental processes & 0.01438 &  G27 & -0.03207\\
+ Gnal transduction & 0.01196 &  G24 & -0.03211\\
+ cell adhesion & 0.00820 &  G12 & -0.03279\\
+ stress response & 0.00620 &  G16 & -0.03324\\
+ other biological processes & 0.00192 &  G19 & -0.03382\\
+ DNA metabolism & -0.00567 &  G20 & -0.03450\\
+ cell cycle and proliferation & -0.01553 &  G18 & -0.03475\\
+ RNA metabolism & -0.06552 &  G22 & -0.03501\\
+ death & -0.13045 &  G10 & -0.03561\\
+ & &  G15 & -0.03600\\
+ & &  G23 & -0.03671\\
+ & &  G26 & -0.03805\\
+ & &  G13 & -0.03941\\
+ & &  G9 & -0.04260\\
+ & &  G4 & -0.04307\\
+ & &  G28 & -0.04353\\
+ & &  G5 & -0.04618\\
+ & &  G6 & -0.04621\\
+ & &  G3 & -0.04884\\
+ & &  G7 & -0.04994\\
+ & &  G1 & -0.06811\\
+ & &  G8 & -0.07170\\
+ & &  G29 & -0.07219\\
+ & &  G2 & -0.08160\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./17-biogrid_yeast_ppi_hc_merin_CCA/CCA_out/biogrid_yeast_ppi_hc.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.42449} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ X M  & 0.09993 &  G11 & 0.00615\\
+ X A  & 0.07195 &  G4 & 0.00505\\
+ X E  & 0.06707 &  G14 & 0.00443\\
+ X U  & 0.06638 &  G10 & 0.00385\\
+ X C  & 0.05957 &  G9 & 0.00132\\
+ X G  & 0.05531 &  G16 & 0.00025\\
+ X R  & 0.04321 &  G20 & -0.00029\\
+ X O  & 0.03877 &  G12 & -0.01000\\
+ X F  & 0.03514 &  G3 & -0.01132\\
+ X D  & 0.00376 &  G15 & -0.01285\\
+ X P  & 0.00362 &  G13 & -0.01787\\
+ X B  & -0.08091 &  G17 & -0.02307\\
+ X T  & -0.40724 &  G1 & -0.03294\\
+ & &  G23 & -0.04304\\
+ & &  G19 & -0.04477\\
+ & &  G6 & -0.05256\\
+ & &  G21 & -0.05642\\
+ & &  G5 & -0.05950\\
+ & &  G25 & -0.06383\\
+ & &  G18 & -0.07042\\
+ & &  G27 & -0.07725\\
+ & &  G22 & -0.07798\\
+ & &  G24 & -0.09178\\
+ & &  G26 & -0.10001\\
+ & &  G28 & -0.10303\\
+ & &  G29 & -0.11274\\
+ & &  G7 & -0.13958\\
+ & &  G8 & -0.16503\\
+ & &  G2 & -0.22352\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./16-biogrid_yeast_ppi_noYLL039C_full_merin_CCA/CCA_out/biogrid_yeast_ppi_noYLL039C_full.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.45779} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ X U  & 0.10778 &  G10 & -0.03270\\
+ X M  & 0.07615 &  G11 & -0.03591\\
+ X A  & 0.05434 &  G14 & -0.03844\\
+ X E  & 0.04007 &  G4 & -0.03870\\
+ X G  & 0.03615 &  G9 & -0.03897\\
+ X R  & 0.03498 &  G12 & -0.05272\\
+ X O  & 0.03431 &  G16 & -0.05320\\
+ X C  & 0.03385 &  G20 & -0.06397\\
+ X D  & 0.02838 &  G3 & -0.06528\\
+ X F  & 0.02763 &  G17 & -0.06662\\
+ X B  & 0.01393 &  G13 & -0.07353\\
+ X T  & -0.11721 &  G22 & -0.08133\\
+ X P  & -0.44068 &  G15 & -0.08314\\
+ & &  G18 & -0.10240\\
+ & &  G1 & -0.11299\\
+ & &  G19 & -0.12026\\
+ & &  G6 & -0.13576\\
+ & &  G21 & -0.13844\\
+ & &  G23 & -0.17370\\
+ & &  G5 & -0.18434\\
+ & &  G24 & -0.21368\\
+ & &  G25 & -0.22380\\
+ & &  G26 & -0.29604\\
+ & &  G7 & -0.30569\\
+ & &  G27 & -0.31089\\
+ & &  G28 & -0.34844\\
+ & &  G2 & -0.37043\\
+ & &  G29 & -0.37099\\
+ & &  G8 & -0.37849\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./9-yeast_y2h_union_yu_ito_uetz_boone_CCA/CCA_out/yeast_y2h_union_yu_ito_uetz.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} & 
+
+
+./7-yeast_biogrid_genetic_boone_CCA/CCA_out/yeast_biogrid_genetic.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.34590} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ Metabolism mitochondria & 0.14787 &  G11 & -0.05518\\
+ Ribosome translation & 0.07535 &  G10 & -0.08810\\
+ Cell polarity morphogenesis & 0.05944 &  G9 & -0.09217\\
+ RNA processing & 0.05671 &  G14 & -0.10260\\
+ Protein folding   glycosylation cell wall & 0.04637 &  G16 & -0.11486\\
+ Signaling stress response & 0.04030 &  G13 & -0.11736\\
+ Cell cycle progression meiosis & 0.03541 &  G12 & -0.11781\\
+ Nuclear cytoplasmic transport & 0.01806 &  G15 & -0.11783\\
+ Golgi endosome vacuole sorting & 0.01673 &  G4 & -0.12001\\
+ Protein degredation proteosome & -0.00325 &  G3 & -0.13304\\
+ ER Golgi traffic & -0.01553 &  G20 & -0.13733\\
+ Chrom  seg  kinetoch  spindle microtub  & -0.03107 &  G18 & -0.13930\\
+ DNA replication   repair HR cohesion & -0.21915 &  G17 & -0.13935\\
+ Chromatin transcription & -0.23242 &  G21 & -0.14204\\
+ & &  G19 & -0.14416\\
+ & &  G25 & -0.16429\\
+ & &  G5 & -0.16538\\
+ & &  G22 & -0.16542\\
+ & &  G24 & -0.16634\\
+ & &  G6 & -0.16798\\
+ & &  G23 & -0.16926\\
+ & &  G1 & -0.17776\\
+ & &  G27 & -0.18491\\
+ & &  G26 & -0.19023\\
+ & &  G7 & -0.20120\\
+ & &  G28 & -0.20952\\
+ & &  G2 & -0.23224\\
+ & &  G29 & -0.23269\\
+ & &  G8 & -0.23425\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./14-yeast_lc_merin_CCA/CCA_out/yeast_lc.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.30732} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.98641} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ X O  & 0.05819 &  G20 & -0.04785\\
+ X C  & 0.04869 &  G25 & -0.08536\\
+ X U  & 0.04618 &  G16 & -0.08565\\
+ X D  & 0.04143 &  G5 & -0.09256\\
+ X F  & 0.03628 &  G11 & -0.10204\\
+ X M  & 0.03319 &  G9 & -0.10360\\
+ X A  & 0.02709 &  G10 & -0.11949\\
+ X R  & 0.02455 &  G21 & -0.12216\\
+ X E  & 0.02386 &  G12 & -0.13995\\
+ X P  & 0.01953 &  G15 & -0.14415\\
+ X G  & 0.00750 &  G3 & -0.14689\\
+ X T  & -0.02039 &  G4 & -0.14932\\
+ X B  & -0.30607 &  G13 & -0.15007\\
+ & &  G14 & -0.15736\\
+ & &  G27 & -0.15898\\
+ & &  G18 & -0.16047\\
+ & &  G19 & -0.16407\\
+ & &  G17 & -0.16890\\
+ & &  G22 & -0.16934\\
+ & &  G23 & -0.17585\\
+ & &  G24 & -0.18170\\
+ & &  G6 & -0.18325\\
+ & &  G1 & -0.18826\\
+ & &  G26 & -0.18947\\
+ & &  G7 & -0.20712\\
+ & &  G28 & -0.21300\\
+ & &  G29 & -0.23785\\
+ & &  G8 & -0.24376\\
+ & &  G2 & -0.25027\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}
+
+
+./11-biogrid_yeast_ppi_hc_boone_CCA/CCA_out/biogrid_yeast_ppi_hc.txt
+
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{ c c | c c }
+  \multicolumn{2}{c}{Canonical Correlation} &  \multicolumn{2}{c}{0.48063} \\
+  \multicolumn{2}{c}{p-value} &  \multicolumn{2}{c}{0.00000} \\
+  \hline
+  \multicolumn{2}{c}{X variate} & \multicolumn{2}{c}{Y variate}\\
+  \hline
+ Metabolism mitochondria & 0.17069 &  G11 & -0.01198\\
+ Cell polarity morphogenesis & 0.10073 &  G4 & -0.01502\\
+ Protein folding   glycosylation cell wall & 0.09465 &  G14 & -0.01640\\
+ Golgi endosome vacuole sorting & 0.08758 &  G10 & -0.02782\\
+ Signaling stress response & 0.08547 &  G17 & -0.09114\\
+ DNA replication   repair HR cohesion & 0.08337 &  G1 & -0.11310\\
+ ER Golgi traffic & 0.05669 &  G23 & -0.11908\\
+ Chrom  seg  kinetoch  spindle microtub  & 0.05617 &  G12 & -0.12373\\
+ Cell cycle progression meiosis & 0.04399 &  G19 & -0.12738\\
+ Nuclear cytoplasmic transport & 0.01631 &  G16 & -0.13678\\
+ Ribosome translation & 0.00935 &  G9 & -0.13785\\
+ Protein degredation proteosome & -0.05797 &  G18 & -0.13982\\
+ Chromatin transcription & -0.24617 &  G15 & -0.13997\\
+ RNA processing & -0.35707 &  G6 & -0.14677\\
+ & &  G20 & -0.14790\\
+ & &  G13 & -0.15208\\
+ & &  G22 & -0.15693\\
+ & &  G21 & -0.16237\\
+ & &  G3 & -0.16500\\
+ & &  G25 & -0.16723\\
+ & &  G24 & -0.17420\\
+ & &  G27 & -0.17604\\
+ & &  G26 & -0.18436\\
+ & &  G28 & -0.18795\\
+ & &  G29 & -0.19033\\
+ & &  G5 & -0.19553\\
+ & &  G7 & -0.23313\\
+ & &  G8 & -0.25140\\
+ & &  G2 & -0.32264\\
+\end{tabular}
+\caption{}
+\label{_cca}
+\end{figure}

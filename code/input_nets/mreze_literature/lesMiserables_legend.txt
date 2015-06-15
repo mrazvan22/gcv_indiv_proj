@@ -1,0 +1,1823 @@
+1,A.
+2,ANTOINE
+3,Abaisse
+4,Abarbarea
+5,Abbate Palmieri
+6,Abbe Caron
+7,Abbe Frayssinous
+8,Abbe Halma
+9,Abbe Letourneur
+10,Abbe Mabeuf
+11,Abbe Tabaraud
+12,Abbe Tourteau
+13,Abbe de Molesme
+14,Abbe of Saint-Germain
+15,Abbe of Simore
+16,Abel
+17,Ablerus
+18,Abraham
+19,Adam
+20,Adolph
+21,Adrien-Charles de Gramont
+22,Agamemnon
+23,Agde
+24,Agnes
+25,Agnese
+26,Agnus Dei
+27,Aigle de Meaux
+28,Ailly
+29,Ain
+30,Alba
+31,Albertine
+32,Alcala
+33,Alcesimarchus
+34,Alcippe
+35,Alethe
+36,Alexander
+37,Alexis
+38,Alfred
+39,Algesiras
+40,Alighieri
+41,Alix
+42,Aller
+43,Alphonse
+44,Alten
+45,Alvinzi
+46,Ambiorix
+47,Anacephorus
+48,Anacharsis Cloots
+49,Anceau
+50,Ancona
+51,Andre Chenier
+52,Andrew
+53,Andujar
+54,Angouleme
+55,Anne
+56,Anne Radcliffe
+57,Antilochus
+58,Antipope Gregory
+59,Antoine
+60,Antoine de Mesgrigny
+61,Antoine-Albin de Romainville
+62,Arab
+63,Arago
+64,Arbre-Sec
+65,Archi
+66,Aretaon
+67,Argyrippus
+68,Aristogiton
+69,Aristotle
+70,Armand Carrel
+71,Armuyr
+72,Arnault
+73,Arnould von Blankenheim
+74,Arostogeiton
+75,Arouet
+76,Art de Naviguer
+77,Artevelde
+78,Arthur
+79,Arthurs
+80,Artonge
+81,Asinarium
+82,Asnieres
+83,Aspasia
+84,Astyalus
+85,Aubiers
+86,Aubry
+87,Aulus Gellius
+88,Aumarais
+89,Aumarais Lane
+90,Aunt Gillenormand
+91,Austin Castillejo
+92,Ave Maria
+93,Aves
+94,Avril
+95,Azelma
+96,Azrael
+97,BAPTISTINE
+98,BARON PONTMERCY
+99,BLONDEAU
+100,BOULATRUELLE
+101,BRUNESEAU
+102,Babet
+103,Babeuf
+104,Babylone
+105,Bacche
+106,Bachelu
+107,Bacon
+108,Bacot
+109,Bahorel
+110,Balaguier
+111,Balizard
+112,Ballesteros
+113,Baloup
+114,Bambochel
+115,Banes
+116,Bannerel
+117,Baptistine
+118,Barcelonette
+119,Bareme
+120,Barius
+121,Barne
+122,Baron Marius
+123,Baron Marius Pontmercy
+124,Baron Pontmercy
+125,Baron de T.
+126,Barra
+127,Barriere Charonne
+128,Barriere Picpus
+129,Barriere Saint-Jacques
+130,Barriere des Sergents
+131,Barthelemy
+132,Bartholo
+133,Baruch
+134,Basile
+135,Basils
+136,Basset
+137,Batiment-Neuf
+138,Battemolle
+139,Baucis
+140,Bauduin
+141,Bautzen
+142,Bavoux
+143,Bayard
+144,Beauvais
+145,Bejean
+146,Bellavesne
+147,Bem
+148,Benigne Bossuet
+149,Benjamin Constant
+150,Benoit
+151,Benoit II.
+152,Benoit VIII.
+153,Benvenuto Cellinis
+154,Bequiabouit
+155,Bernard
+156,Bernard Guidonis
+157,Bernardine
+158,Bernardines
+159,Bernardines-Benedictines
+160,Bernier
+161,Berquin
+162,Berry
+163,Berthier
+164,Bertrand
+165,Berulle
+166,Bestucheff
+167,Bibere Tiberim
+168,Bicetre
+169,Bienvenu
+170,Bienvenu Myriel
+171,Bigrenaille
+172,Bishop
+173,Bishop of Chalons
+174,Bishop of Gap
+175,Bishop of Ptolemais
+176,Blachevelle
+177,Blackmann
+178,Blaise Poutrain
+179,Blancard
+180,Blanchard
+181,Blancs-Manteaux
+182,Blaye
+183,Blonde
+184,Blondeau
+185,Blondeau Nasica
+186,Blucher
+187,Bobeche
+188,Boileau
+189,Bois-Seigneur-Isaac
+190,Bojean
+191,Bombarda
+192,Bombardas
+193,Bonaparte
+194,Bonaparte Scapin
+195,Bondy
+196,Bossuet
+197,Botocudos
+198,Bouddha
+199,Bouginier
+200,Bougon
+201,Bougonmuche
+202,Bouh
+203,Boujean
+204,Boulatreulle
+205,Boulatruelle
+206,Boulevard Bourdon
+207,Boulevard Saint-Martin
+208,Bouloi
+209,Bouquetiere
+210,Bourbon
+211,Bourgaillard
+212,Bourguin
+213,Bouvines
+214,Bozzaris
+215,Brack
+216,Brahmanism
+217,Braine
+218,Brassard
+219,Brennus
+220,Breton
+221,Briareus
+222,Bro
+223,Broe
+224,Brother Jonathan
+225,Brujon
+226,Brune
+227,Bruneseau
+228,Brunswicks
+229,Brutus
+230,Bugeaud
+231,Bulow
+232,Buonaparte
+233,Burke
+234,Burtot
+235,Buseaupied
+236,Buzancais
+237,Byron
+238,CHAMPMATHIEU
+239,CHRISTUS
+240,COGITABUNTUR ORARE PATER NOSTER  Marius
+241,COSETTE
+242,Cabuc
+243,Cadenettes
+244,Cadran-Bleu
+245,Caen
+246,Caesar
+247,Cain
+248,Caiphas
+249,Callot
+250,Calvin
+251,Camargo
+252,Cambis
+253,Camblin
+254,Cambronne
+255,Camille
+256,Camille Desmoulins
+257,Campaspe
+258,Canuel
+259,Cape Brun
+260,Capel
+261,Capet
+262,Carabin
+263,Carabine
+264,Carbonneau
+265,Carnot
+266,Casimir Perier
+267,Cassis
+268,Castaing
+269,Catherine
+270,Catholics
+271,Celestins
+272,Celimene
+273,Celtic
+274,Ceracchi
+275,Cerisoles
+276,Cesar de Bus
+277,Cesar de Sabran de Forcalquier
+278,Champmathieu
+279,Chan
+280,Chan Mathieu
+281,Chanvrerie
+282,Charbonniere
+283,Charles
+284,Charles Albert
+285,Charles Brulart de Genlis
+286,Charles I.
+287,Charles II
+288,Charles IX.
+289,Charles Myriel
+290,Charles Nodier
+291,Charles VI
+292,Charles d'Orleans
+293,Charles de Gondren
+294,Charlot
+295,Charras
+296,Chasse
+297,Chastelar
+298,Chateau-Thierry
+299,Chatou
+300,Chelles
+301,Chemin-Vert-Saint-Antoine
+302,Chenildieu
+303,Chereas
+304,Cherubino
+305,Chevalier
+306,Chevalier de Port-de-Guy
+307,Chloe
+308,Chodruc Duclos
+309,Choisy-le-Roi
+310,Chonodemaire
+311,Chouan
+312,Christ
+313,Christian
+314,Cicero
+315,Citeaux
+316,Claire
+317,Claquesous
+318,Clarence
+319,Claude
+320,Claude Gueux
+321,Claude Majesty
+322,Claudius
+323,Clelie
+324,Cleopatra
+325,Clichy
+326,Clinton
+327,Clusium
+328,Cochefilet Lane
+329,Cochepaille
+330,Coco-Latour
+331,Colbert
+332,Colville
+333,Combeferre
+334,Comte Angeles
+335,Comte Coutard
+336,Comte Pajol
+337,Comte de Lamothe-Valois
+338,Comte de Lobau
+339,Constantine Pogonatus
+340,Cook
+341,Cooke
+342,Corinthe
+343,Corinthum
+344,Corneille
+345,Cornwallis
+346,Corsican
+347,Cosette
+348,Cotte
+349,Cougourde
+350,Couloubroux
+351,Count de Ruppin
+352,Coupelevent
+353,Courfeyrac
+354,Cournand
+355,Cournet
+356,Courrier Francais
+357,Cousin Theodule
+358,Coustou
+359,Cracovie
+360,Craon
+361,Cravatless
+362,Cravatte
+363,Crecy
+364,Credeville
+365,Crinchon
+366,Cromwell
+367,Cugnet de Montarlot
+368,Cujas
+369,Cunette
+370,Curtillus
+371,Cyrus
+372,Cythera
+373,DENIS
+374,Dahlia
+375,Dallemagne
+376,Damas
+377,Damasippus
+378,Damb
+379,Danton
+380,Daphnis
+381,Dappes
+382,Dautin
+383,Dautun
+384,David
+385,David d'Angers
+386,De Chappedelaine
+387,De Meaux
+388,De Ruyter
+389,De Suzette
+390,Decres
+391,Dehaze
+392,Delancre
+393,Delaverderie
+394,Deleuze
+395,Delille
+396,Della Genga
+397,Delort
+398,Demandait Charlot
+399,Demi-Liard
+400,Denis Thierry
+401,Des
+402,Desaugiers
+403,Descartes
+404,Deserre
+405,Desmarets
+406,Desmoulins
+407,Desprez
+408,Desrues
+409,Deum
+410,Deutz
+411,Deux
+412,Deux-Milliards
+413,Deuxmilliards
+414,Devorant
+415,Diabolus
+416,Diana
+417,Diane
+418,Diderot
+419,Didorus
+420,Dier
+421,Diogenes
+422,Diogenes Laertius
+423,Dismas
+424,Dnop
+425,Dodona
+426,Dom Luc d'Achery
+427,Dom Mabillon
+428,Domine
+429,Domon
+430,Don Alvares
+431,Don Alveras
+432,Don Quixote
+433,Donzelot
+434,Dorante
+435,Dornberg
+436,Douai
+437,Draguignan
+438,Dresos
+439,Droit-Mur
+440,Drouet
+441,Du Barry
+442,Dubois
+443,Duc d'Otrante
+444,Duc de Berri
+445,Duc de Chabot
+446,Duc de Dalmatie
+447,Duc de Fitz-James
+448,Duc de Montbazon
+449,Duc de Nivernais
+450,Duc de Rohan
+451,Duke
+452,Duke Louis de Gramont
+453,Duleau
+454,Dumollard
+455,Dumont
+456,Dumouriez
+457,Duperre
+458,Duplat
+459,Duprat
+460,Duras
+461,Durutte
+462,Duvivier
+463,Eckberg
+464,Ecouen
+465,Edapteon
+466,Eden
+467,Edmond Geraud
+468,Eight-Pounder
+469,Elatos
+470,Eleonore
+471,Elephanta
+472,Elijah
+473,Elle
+474,Elzevir
+475,Embrun
+476,Enghien
+477,Enjolras
+478,Epidotas
+479,Epimenides
+480,Episthates
+481,Ergasilus
+482,Escoubleau
+483,Esepius
+484,Esplandian
+485,Estelle
+486,Eugene Sue
+487,Euphrasie
+488,FELIX THOLOMYES
+489,Fabantou
+490,Fabvier
+491,Falstaff
+492,Fameuil
+493,Fampoux
+494,Fannicot
+495,Fantine
+496,Faoucq
+497,Farlane
+498,Father Champmathieu
+499,Father Coton
+500,Father Fauchelevent
+501,Father Fauvent
+502,Father Gillenormand
+503,Father Hucheloup
+504,Father Mabeuf
+505,Father Madeleine
+506,Father Mestienne
+507,Father Sainte-Marthe
+508,Faubourg Saint-Antoine
+509,Faubourg Saint-Germain
+510,Faubourg Saint-Martin
+511,Fauchelevent
+512,Fauntleroy
+513,Fauq
+514,Fauvent
+515,Felicite-Robert
+516,Felix
+517,Felix Tholomyes
+518,Ferdinand
+519,Ferney
+520,Feuilly
+521,Fidenae
+522,Fine-Air
+523,Flaccus
+524,Flachot
+525,Flaminius
+526,Flavius Josephus
+527,Fleming
+528,Fleurs
+529,Fleury
+530,Fleury de Chaboulon
+531,Florian
+532,Florilegium Rabbinicum
+533,Fodit
+534,Forioso
+535,Fouillou
+536,Fox
+537,Foy
+538,Francis d'Assisi
+539,Francois Bourgoin
+540,Francois I.
+541,Francois de Berton
+542,Francois de Sales
+543,Francoise
+544,Franconi
+545,Frederic
+546,Frederick
+547,Frederick Lemaitre
+548,Friant
+549,Friedland
+550,Fualdes
+551,GAVROCHE
+552,GAYETIES  Laigle de Meaux
+553,GERVAIS  Jean Valjean
+554,GORBEAU
+555,GUEULEMER
+556,Gabriel Bucelin
+557,Gagny
+558,Gallais
+559,Gamacho
+560,Gaminerie
+561,Gans
+562,Garat
+563,Garibaldi
+564,Gaster
+565,Gauthier
+566,Gavroche
+567,Gazette des Tribunaux
+568,Gelenhausen
+569,Generalissimo
+570,Genflot
+571,Genrot
+572,Geoffrey Sainte-Hilaire
+573,Georges Pontmercy
+574,Gerard
+575,Gerard de Nerval
+576,Gerbaud
+577,Gericault
+578,Gervais
+579,Gesmas
+580,Gibelotte
+581,Gil Blas
+582,Gilbert de Porea
+583,Gillenorman
+584,Gillenormand
+585,Gindre
+586,Gisquet
+587,Glaciere
+588,Glorieux
+589,God
+590,Gondren
+591,Gonesse
+592,Goodman Fauchelevent
+593,Gorbeau
+594,Gordon
+595,Gosselies
+596,Gourgaud
+597,Gozzi
+598,Gracchos Tiberim
+599,Gracchus
+600,Grace
+601,Grand-Caillou
+602,Grand-Champ
+603,Grand-Rue
+604,Grande-Truanderie
+605,Granmont
+606,Grantaire
+607,Great Augustines
+608,Gregoire
+609,Gregory XVI.
+610,Grelotte
+611,Greuze
+612,Greve
+613,Gribeauval
+614,Gribier
+615,Grimod de la Reyniere
+616,Griserait Monsieur Orfila
+617,Groentendael
+618,Gros
+619,Gros-Caillou
+620,Gros-Jean
+621,Guelemer
+622,Gueulemer
+623,Guignon
+624,Guillaume
+625,Guillaume de Champeaux
+626,Guillaume van Kylsom
+627,Guilleminot
+628,Guimard-Guimardini-Guimardinette
+629,Gulax
+630,Gulnare
+631,Gustave
+632,Guy-Etienne-Alexandre
+633,Guyot
+634,Gymnastoras
+635,HOUGOMONT  Hougomont
+636,HUCHELOUP  Bahorel
+637,Hacke
+638,Hal
+639,Halles
+640,Hamilton
+641,Harlequins
+642,Harlet
+643,Hartwell
+644,Hautes-Alpes
+645,Haxo
+646,Haydn
+647,Hebert
+648,Hector
+649,Heee
+650,Helen
+651,Helena
+652,Heliogabalus
+653,Henquinez
+654,Henri Estienne
+655,Henri Fonfrede
+656,Henri II
+657,Henri IV
+658,Henri IV.
+659,Henry
+660,Henry II.
+661,Henry IV.
+662,Henry VIII.
+663,Hercle
+664,Hermogenus
+665,Hernani
+666,Hesdin
+667,Hesse
+668,Hic
+669,Hill
+670,Hiller
+671,Hobbes
+672,Holofernes
+673,Homere-Hogu
+674,Honore de Lerins
+675,Horace
+676,Hos
+677,Hotel-Dieu
+678,Hougomont
+679,Hu
+680,Hucheloup
+681,Hudson Lowe
+682,Hugo
+683,Hugomons
+684,Humann
+685,Hurepoix
+686,Iliads
+687,Imogene
+688,Incitatus
+689,Ingens
+690,Inspector Javert
+691,Invalides
+692,Io
+693,Irma Boissy
+694,Isabeau
+695,Isabella
+696,Isaiah
+697,Iturbide
+698,JAVERT  Javert
+699,JEAN VALJEAN
+700,Jacob
+701,Jacqueline
+702,Jacquerie
+703,Jacques
+704,Jacquin Labarre
+705,Jacquot
+706,Januarius
+707,Jausion
+708,Javert
+709,Javottes
+710,Jean
+711,Jean Bart
+712,Jean Chouan
+713,Jean Girin
+714,Jean Goujon
+715,Jean Jacques
+716,Jean Jacques Rousseau
+717,Jean Martin
+718,Jean Mathieu
+719,Jean Nicolas Pache
+720,Jean Prouvaire
+721,Jean Soanen
+722,Jean Valjean
+723,Jean-Francois Senault
+724,Jean-Jacques
+725,Jean-the-Screw
+726,Jeanne
+727,Jeanne Mathieu
+728,Jeannette
+729,Jehan
+730,Jenie-Dieu
+731,Jerome
+732,Jerome Bonaparte
+733,Jesus
+734,Jesus Christ
+735,Jesus God
+736,Jesus-Marie-Joseph
+737,Jesus-mon-Dieu-bancroche-a-bas-la-lune
+738,John
+739,John Brown
+740,John Bull
+741,John Huss
+742,John of Leyden
+743,Jolllly
+744,Joly
+745,Jomini
+746,Jonah
+747,Jondrette
+748,Jondrette Thenardier
+749,Jondrettes
+750,Jordaens
+751,Joseph
+752,Josepha
+753,Josephine
+754,Joubert
+755,Jourdan-Coupe-Tete
+756,Joya
+757,Juan
+758,Judengasse
+759,Julia Alpinula
+760,Junot
+761,Jussieu
+762,Kekcaa
+763,Keksekca
+764,Kellermann
+765,Kempt
+766,Kielmansegg
+767,King Louis XVIII
+768,King Louis XVIII.
+769,Kirikikiou
+770,Kleber
+771,Kosciusko
+772,Kruideniers
+773,L'Epingle Noire
+774,L'Inconstant
+775,LE PETIT-PICPUS
+776,LESGLE
+777,La Conciergerie
+778,La Haie-Sainte
+779,La Hulpe
+780,Labarre
+781,Lacenaire
+782,Lacoste
+783,Laffitte
+784,Lafitte
+785,Lagny
+786,Lahautiere
+787,Laigle
+788,Laigle de Meaux
+789,Lake Alloz
+790,Lake Lauzet
+791,Lallemand
+792,Lambert
+793,Lamoignon-Baville
+794,Lamotte
+795,Lancer
+796,Lancret
+797,Lane des Precheurs
+798,Lark Marius
+799,Laubespine
+800,Lavater
+801,Lazariste
+802,Le
+803,Le Baron Marius Pontmercy
+804,Le Cabuc
+805,Le Petit-Picpus
+806,Le Zephyr
+807,Le doux
+808,Le jour
+809,Le roi Charles-Dix
+810,Le roi Coupdesabot
+811,Leander
+812,Lebel
+813,Lebeuf
+814,Leblanc
+815,Lecouffe
+816,Lefebvre-Desnouettes
+817,Legle
+818,Leibnitz
+819,Lemarin
+820,Lenoir
+821,Leo II
+822,Leo XII.
+823,Leonidas
+824,Les Bonapartistes
+825,Les Madelonettes
+826,Les Marguerites de la Marguerite
+827,Les Quadrins Historiques de la Bible
+828,Lesgle
+829,Lesgueules
+830,Letellier
+831,Leur
+832,Levant Levantin
+833,Levi
+834,Liebig
+835,Lieutenant Gillenormand
+836,Lillois
+837,Linnaeus
+838,Lisa
+839,Lise
+840,Listolier
+841,Little Augustines
+842,Little Gavroche
+843,Little Gervais
+844,Livry
+845,Lobau
+846,Lodoiska
+847,Loizerolles
+848,Lola
+849,Lolotte
+850,Lombier
+851,Lon
+852,Lopez
+853,Lord Bathurst
+854,Lord Paglan
+855,Lord Seymour
+856,Lorraine
+857,Losvel
+858,Louis
+859,Louis Blanc
+860,Louis Hugo
+861,Louis Philippe
+862,Louis Philippe King
+863,Louis Philippe d'Orleans
+864,Louis XI.
+865,Louis XIII
+866,Louis XIII.
+867,Louis XIV.
+868,Louis XV.
+869,Louis XVI.
+870,Louis XVIII
+871,Louis XVIII.
+872,Louis-Philippe
+873,Louison
+874,Louvel
+875,Loyson
+876,Luc-Esprit
+877,Lucifer
+878,Lucretius
+879,Ludwig Snyder
+880,Lui
+881,Lutetia
+882,Luther
+883,Lutzen
+884,Lyceums
+885,Lynch
+886,Lyons
+887,M.
+888,M.Gillenormand
+889,MABEUF  Marius
+890,MADAME VICTURNIEN
+891,MADEMOISELLE GILLENORMAND
+892,MAGNON
+893,MARIUS
+894,MARIUS  Marius
+895,MARIUS HAGGARD
+896,MARIUS PONTMERCY
+897,MINETTE
+898,MONSIEUR THENARDIER
+899,MORTUUS PATER FILIUM MORITURUM EXPECTAT  Marius
+900,Mabeuf
+901,Mac-Callumore
+902,Macchiavelli
+903,Machiavelli
+904,Mack
+905,Madam Lamballe
+906,Madam Magloire
+907,Madam Rousseau
+908,Madame
+909,Madame Albertine
+910,Madame Bagration
+911,Madame Barthelemy-Hadot
+912,Madame Boischevron
+913,Madame Bourgon
+914,Madame Bournon-Malarme
+915,Madame Burgon
+916,Madame Campan
+917,Madame Cottin
+918,Madame Courtin
+919,Madame Dubarry
+920,Madame Hucheloup
+921,Madame Magloire
+922,Madame Pabourgeot
+923,Madame Pontmercy
+924,Madame Saqui
+925,Madame Scarron
+926,Madame Thenardier
+927,Madame Vacarmini
+928,Madame Victurnien
+929,Madame de Berry
+930,Madame de Bethune
+931,Madame de Boufflers
+932,Madame de Genlis
+933,Madame de Leon
+934,Madame de Lo
+935,Madame de R
+936,Madame de Sourdis
+937,Madame de Stael
+938,Madame de T.
+939,Madame du Barry
+940,Madame la Baronne Pontmercy
+941,Madame la Baronne de T.
+942,Madame la Colonelle
+943,Madame la Comtesse de Lo
+944,Madame la Comtesse de Montvernet
+945,Madame la Duchesse
+946,Madame la Generale
+947,Madame la Marquise de Grucheray
+948,Madame la Prefete
+949,Madame la Presidente Jacquin
+950,Made pope
+951,Madeleine
+952,Madelonettes
+953,Mademoiselle
+954,Mademoiselle Baptistine
+955,Mademoiselle Bigottini
+956,Mademoiselle Bouchard
+957,Mademoiselle Clutch-penny
+958,Mademoiselle Cosette
+959,Mademoiselle Cosette Fauchelevent
+960,Mademoiselle Dog-lack-name
+961,Mademoiselle Drouet
+962,Mademoiselle Euphrasie Fauchelevent
+963,Mademoiselle Fabre
+964,Mademoiselle Gillenormand
+965,Mademoiselle Lanoire
+966,Mademoiselle Lenormand
+967,Mademoiselle Mar
+968,Mademoiselle Mars
+969,Mademoiselle Muche
+970,Mademoiselle Roze
+971,Mademoiselle So-and-So
+972,Mademoiselle Vaubois
+973,Mademoiselle de Blemeur
+974,Mademoiselle de Cifuentes
+975,Mademoiselle de Saint-Aulaire
+976,Magloire
+977,Magnon
+978,Maillard
+979,Maitland
+980,Maitre Corbeau
+981,Maitre Gorbeau
+982,Maitre Renard
+983,Malbrouck
+984,Malebranche
+985,Malek-Adel
+986,Malfilatre
+987,Malher
+988,Mallet
+989,Malplaquet
+990,Mam
+991,Mame Bacheux
+992,Mame Hucheloup
+993,Mamemoiselle
+994,Mamma
+995,Mamselle Muche
+996,Mandrin
+997,Manin
+998,Manon Lescaut
+999,Manou
+1000,Mans
+1001,Manuel
+1002,Manutianis
+1003,Marat
+1004,Marceau
+1005,Marcel
+1006,Marchangy
+1007,Marche-aux-Chevaux
+1008,Marche-aux-Poirees
+1009,Marcognet
+1010,Marcos Obregon de la Ronde
+1011,Marcus Aurelius
+1012,Mardigras
+1013,Mardis
+1014,Mardisoir
+1015,Marechale de La Mothe-Houdancourt
+1016,Margoton
+1017,Marguerite
+1018,Marguerite de Blemeur
+1019,Maria
+1020,Marie
+1021,Marie Antoinette
+1022,Marie d'Orleans
+1023,Marie de Medici
+1024,Marie-Claude
+1025,Marie-Louise
+1026,Marigny
+1027,Marion
+1028,Marius
+1029,Marius Pontmercy
+1030,Marius met Courfeyrac
+1031,Marne
+1032,Marnix
+1033,Marquis d'Alluye
+1034,Marquis de Champtercier
+1035,Marquis de Herb*******
+1036,Marquis de Pantin
+1037,Marquis de Sonbise
+1038,Marquis de T*******
+1039,Marquis de Tal
+1040,Marquis de Vib****
+1041,Marquise Dufresne
+1042,Marquise de Boucs
+1043,Marquises
+1044,Marseillaise
+1045,Marseillaises
+1046,Marshal Brune
+1047,Marshal Clausel
+1048,Marshal Lobau
+1049,Marshal Soult
+1050,Martin
+1051,Martin Verga
+1052,Marto
+1053,Mary
+1054,Master Scaufflaer
+1055,Master Scaufflaire
+1056,Matelote
+1057,Mater
+1058,Mathan
+1059,Mathieu
+1060,Mathieu Laensberg
+1061,Mathieu Nicaise
+1062,Mathurin Bruneau
+1063,Mathurin Regnier
+1064,Matin
+1065,Matt
+1066,Matthew
+1067,Maubert
+1068,Maubert Isabeau
+1069,Maugout Lane
+1070,Maupetit
+1071,Maurolics
+1072,Mavot
+1073,Mayor Madeleine
+1074,Meaux
+1075,Mechlin
+1076,Meduse
+1077,Menaechmus
+1078,Mercier
+1079,Merlin
+1080,Merlonus Horstius
+1081,Merry-Andrew
+1082,Mesmer
+1083,Messager
+1084,Messalina
+1085,Messier
+1086,Mestienne
+1087,Metternich
+1088,Michael
+1089,Michael Angelo
+1090,Michael Angelos
+1091,Michel
+1092,Miguel
+1093,Mila  Cogna
+1094,Milhaud
+1095,Millevoye
+1096,Milton
+1097,Mimi
+1098,Minerva Aptera
+1099,Minette
+1100,Miquelets
+1101,Mirabeau
+1102,Miralabi
+1103,Mirant
+1104,Mirliton
+1105,Miss
+1106,Miss Dahlia
+1107,Mister
+1108,Mister millionnaire
+1109,Mistress Balizard
+1110,Mitchell
+1111,Mme
+1112,Mohammed
+1113,Mohammedanism
+1114,Mokanna
+1115,Mommol
+1116,Mon Dieu
+1117,Mon ami Bugeaud
+1118,Moniteur
+1119,Monnot
+1120,Monseigneur Bienvenu
+1121,Monsieur
+1122,Monsieur Babet
+1123,Monsieur Baloup
+1124,Monsieur Bamatabnois
+1125,Monsieur Bernard Debrye
+1126,Monsieur Bombarda
+1127,Monsieur Bossuet
+1128,Monsieur Boulard
+1129,Monsieur Brujon
+1130,Monsieur Chabouillet
+1131,Monsieur Claquesous
+1132,Monsieur Courfeyrac
+1133,Monsieur Dorimon
+1134,Monsieur Dumont
+1135,Monsieur Dupont
+1136,Monsieur Fabantou
+1137,Monsieur Fabre
+1138,Monsieur Fauchelevent
+1139,Monsieur Gavroche
+1140,Monsieur Gillenormand
+1141,Monsieur Guelemer
+1142,Monsieur Inspector
+1143,Monsieur Javert
+1144,Monsieur Jean
+1145,Monsieur Jean Valjean
+1146,Monsieur Jondrette
+1147,Monsieur Laffitte
+1148,Monsieur Leblanc
+1149,Monsieur Mabeuf
+1150,Monsieur Madeleine
+1151,Monsieur Marius
+1152,Monsieur Marius Pontmercy
+1153,Monsieur Naigeon
+1154,Monsieur No-matter-what
+1155,Monsieur Pabourgeot
+1156,Monsieur Pontmercy
+1157,Monsieur Priest
+1158,Monsieur Scaufflaire
+1159,Monsieur Thenard
+1160,Monsieur Thenardier
+1161,Monsieur Tranchelevent
+1162,Monsieur Urbain Fabre
+1163,Monsieur Valjean
+1164,Monsieur de
+1165,Monsieur de Courfeyrac
+1166,Monsieur l'Abbe
+1167,Monsieur l'Avocat-General
+1168,Monsieur l'Inspecteur
+1169,Monsieur le
+1170,Monsieur le Baron
+1171,Monsieur le Baron Pommerci
+1172,Monsieur le Baron Pontmercy
+1173,Monsieur le Baron de Pontmercy
+1174,Monsieur le Comte
+1175,Monsieur le Cure
+1176,Monsieur le Docteur
+1177,Monsieur le Duc de Berry
+1178,Monsieur le Maire
+1179,Monsieur le Prefet
+1180,Monsieur le President
+1181,Monsieur le maire
+1182,Monsignor Macchi
+1183,Monsiuer Pabourgeot
+1184,Mont-Cassin
+1185,Mont-Parnasse
+1186,Mont-Saint-Jean
+1187,Mont-Souris
+1188,Montchenu
+1189,Monte
+1190,Montebello
+1191,Montenotte
+1192,Montes
+1193,Monteynard
+1194,Montfermeil
+1195,Montmorency
+1196,Montpercy
+1197,Montreuil-sur-Mer
+1198,Montrevel
+1199,Morand
+1200,Morbleu
+1201,Moret
+1202,Morey
+1203,Morillo
+1204,Mortier
+1205,Moses
+1206,Mother
+1207,Mother Annonciation
+1208,Mother Ascension
+1209,Mother Bougon
+1210,Mother Catherine de Bar
+1211,Mother Cineres
+1212,Mother Crucifixion
+1213,Mother Dust-Heap-Corner
+1214,Mother Gerbaud
+1215,Mother Gibou
+1216,Mother Hucheloup
+1217,Mother Innocente
+1218,Mother Jacob
+1219,Mother Jondrette
+1220,Mother Misericorde
+1221,Mother Nativity
+1222,Mother Nature
+1223,Mother Patagon
+1224,Mother Plutarque
+1225,Mother Precentors
+1226,Mother Saguet
+1227,Mother Saint-Augustin
+1228,Mother Saint-Joseph
+1229,Mother Sainte-Adelaide
+1230,Mother Sainte-Bazile
+1231,Mother Sainte-Celigne
+1232,Mother Sainte-Chantal
+1233,Mother Sainte-Gertrude
+1234,Mother Sainte-Honorine
+1235,Mother Sainte-Mechtilde
+1236,Mother Sainte-Scolastique
+1237,Mother So-and-So
+1238,Mother Thenardier
+1239,Mother Veuvain
+1240,Mother de Veuvain
+1241,Mother-Saint-Ange
+1242,Munatius Demens
+1243,Munophis
+1244,Murat
+1245,Musain
+1246,Musichetta
+1247,Muskowa
+1248,Mutor de la Rubaudiere
+1249,Myriel
+1250,Nahenry
+1251,Nain-Londrin
+1252,Napoleon
+1253,Napoleon Bonaparte
+1254,Narcissus
+1255,Nargaud
+1256,Natoire
+1257,Navet
+1258,Needham
+1259,Nemorin
+1260,Nero
+1261,Nestor
+1262,Neuilly-sur-Marne
+1263,Ney
+1264,Nicholas
+1265,Nicholas Poutrain
+1266,Nicolas
+1267,Nicolette
+1268,Nini
+1269,Nisi Dominus
+1270,Noe
+1271,Nogent
+1272,Noisy-le-Sec
+1273,Norman
+1274,Norman Isles
+1275,O Josephine
+1276,O Marius
+1277,O Zephine
+1278,O'Mahoney
+1279,ORESTES
+1280,Octavius
+1281,Odry
+1282,Olivateurs
+1283,Ollioules
+1284,Ompteda
+1285,Opera-Comique Feydeau
+1286,Ophelia
+1287,Opheltios
+1288,Opoponach
+1289,Oratorie
+1290,Otho
+1291,Otos
+1292,Ourcq
+1293,Ourika
+1294,Owen
+1295,Pache
+1296,Pacy
+1297,Pamela
+1298,Panchaud
+1299,Pantin
+1300,Papavoine
+1301,Papelotte
+1302,Parbleu
+1303,Pardalisca
+1304,Pardi
+1305,Pardieu
+1306,Pardine
+1307,Parisienne
+1308,Parny
+1309,Passy
+1310,Patagon
+1311,Patrocles
+1312,Patron-Minette
+1313,Paul
+1314,Paul Aime Garnier
+1315,Paul-Louis Courier
+1316,Paulin Musebois
+1317,Pechmeja
+1318,Pedasus
+1319,Pekins
+1320,Pelagius
+1321,Pelicier
+1322,Pelligrini
+1323,Pepin
+1324,Pere Duchene
+1325,Pere Duchesne
+1326,Pere Lachaise
+1327,Pere-Lachaise
+1328,Pericles
+1329,Perle
+1330,Perpetue
+1331,Perponcher
+1332,Perrault
+1333,Perrette
+1334,Perronet
+1335,Peter
+1336,Petit Picpus
+1337,Petit-Picpus
+1338,Petit-Picpus-Sainte-Antoine
+1339,Petite Truanderie
+1340,Petite-Truanderie
+1341,Philetas
+1342,Philibert Delorme
+1343,Philip de Neri
+1344,Philippe
+1345,Phocian
+1346,Phocion
+1347,Phoebe
+1348,Phoebus
+1349,Phoedromus
+1350,Phyles
+1351,Phyllis
+1352,Picard
+1353,Picpus
+1354,Picton
+1355,Pidytes
+1356,Pierre
+1357,Pierre Chesnelong
+1358,Pierre de Berulle
+1359,Pierre de Bruys
+1360,Pierre de Medine
+1361,Pierre-Plate de Chatillon
+1362,Pigritia
+1363,Pinson
+1364,Pirch
+1365,Pire
+1366,Pisacane
+1367,Pissot
+1368,Pitt
+1369,Pius VII
+1370,Plancenoit
+1371,Platon
+1372,Poincot
+1373,Pointe Saint-Eustache
+1374,Poirier
+1375,Police-Inspector Javert
+1376,Police-agent-Ja-vert-was-found-drowned-un-der-a-boat-of-the-Pont-au-Change
+1377,Polignac
+1378,Polydamas
+1379,Polypus-Hole
+1380,Polytechnique
+1381,Pompadour
+1382,Pompeius
+1383,Pompey
+1384,Pompierry
+1385,Ponine
+1386,Ponsonby
+1387,Pont-A-Mousson
+1388,Pont-aux-Choux
+1389,Pontius Pilate
+1390,Pontmarie
+1391,Pontmercy
+1392,Poor Marius
+1393,Pope
+1394,Pope Alexander VII
+1395,Pope Eugene III.
+1396,Pope Pius VII.
+1397,Popincourt
+1398,Porrichinelle
+1399,Porte Saint-Jacques
+1400,Porte Saint-Martin
+1401,Porte-Sainte-Martin
+1402,Postulatore dei Santi
+1403,Pot-aux-Roses
+1404,Potier
+1405,Poulailler
+1406,Pratiquez
+1407,Prefect Gisquet
+1408,Prenard
+1409,Prete
+1410,Pretot
+1411,Prince Aldobrandini
+1412,Prince William
+1413,Prince de Beauff*******
+1414,Prince de Conde
+1415,Prince de Leon
+1416,Prince de Mon
+1417,Pringle
+1418,Printanier
+1419,Pritchard
+1420,Prouvaire
+1421,Prudhomme
+1422,Puteaux
+1423,Puy-Moisson
+1424,Puysegur
+1425,Pylades
+1426,Quai Bourdon
+1427,Quai Malaquais
+1428,Quin
+1429,Quiot
+1430,Quiroga
+1431,REQUIESCANT  Madame de T.
+1432,Rabellais
+1433,Ramponneau
+1434,Ramus
+1435,Raoul
+1436,Raphael
+1437,Raux
+1438,Raynal
+1439,Redivivus
+1440,Refoncez
+1441,Regnier
+1442,Reille
+1443,Renee le Bosse
+1444,Rhodes
+1445,Richard
+1446,Richefeu
+1447,Richelieu
+1448,Ridet Caesar
+1449,Rio Maior Marques
+1450,Rivoli
+1451,Robespierre
+1452,Roche-Abeille
+1453,Rochefort
+1454,Roger Bacon
+1455,Roguet
+1456,Roi-de-Sicile
+1457,Roland
+1458,Romeo
+1459,Roquelaure
+1460,Rosa
+1461,Rossomme
+1462,Rostopchine
+1463,Rousseau
+1464,Rubaudiere
+1465,Rue
+1466,Rue Aubry le Boucher
+1467,Rue Aumarais
+1468,Rue Basse
+1469,Rue Bassompierre
+1470,Rue Bertin-Poiree
+1471,Rue Blomet
+1472,Rue Chanvrerie
+1473,Rue Charlot
+1474,Rue Chemin-Vert
+1475,Rue Clocheperce
+1476,Rue Copeau
+1477,Rue Croulebarbe
+1478,Rue Culture-Sainte-Catherine
+1479,Rue Droit-Mur
+1480,Rue Folie-Mericourt
+1481,Rue Geoffroy-Langevin
+1482,Rue Gracieuse
+1483,Rue Grange-Bateliere
+1484,Rue Grenetat
+1485,Rue Grenier-Saint-Lazare
+1486,Rue Guerin-Boisseau
+1487,Rue Jacob
+1488,Rue Jean-Jacques Rousseau
+1489,Rue Lesdiguieres
+1490,Rue Mandar
+1491,Rue Maubuee
+1492,Rue Mazarine
+1493,Rue Menilmontant
+1494,Rue Merciere
+1495,Rue Mesieres
+1496,Rue Michel-le-Comte
+1497,Rue Michelle-Comte
+1498,Rue Mondetour
+1499,Rue Monsieur
+1500,Rue Monsieur-le-Prince
+1501,Rue Montorgueil
+1502,Rue Montre-de-Champigny
+1503,Rue Moreau
+1504,Rue Mouffetard
+1505,Rue P.
+1506,Rue Pavee
+1507,Rue Petit-Gentilly
+1508,Rue Petit-Picpus
+1509,Rue Pierre-a-Poisson
+1510,Rue Plumet
+1511,Rue Polonceau
+1512,Rue Pont-Aux-Biches
+1513,Rue Popincourt
+1514,Rue Rambuteau
+1515,Rue Richelieu
+1516,Rue Saint-Antoine
+1517,Rue Saint-Claude
+1518,Rue Saint-Denis
+1519,Rue Saint-Dominique
+1520,Rue Saint-Dominique-D'Enfer
+1521,Rue Saint-Florentin
+1522,Rue Saint-Georges
+1523,Rue Saint-Honore
+1524,Rue Saint-Hyacinthe
+1525,Rue Saint-Jacques
+1526,Rue Saint-Jean-de-Beauvais
+1527,Rue Saint-Louis
+1528,Rue Saint-Martin
+1529,Rue Saint-Pierre-Montmartre
+1530,Rue Saint-Sabin
+1531,Rue Saint-Saulve
+1532,Rue Sainte-Avoye
+1533,Rue Sainte-Croix-de-la-Bretonnerie
+1534,Rue Sainte-Marguerite
+1535,Rue Servandoni
+1536,Rue Transnonain
+1537,Rue Traversiere-Saint-Antoine
+1538,Rue Vielle-du-Temple
+1539,Rue de Babylone
+1540,Rue de Bourgogne
+1541,Rue de Chaffaut
+1542,Rue de Charonne
+1543,Rue de Gres
+1544,Rue de Lappe
+1545,Rue de Normandie
+1546,Rue de Rivoli
+1547,Rue de Thorigny
+1548,Rue de Tournon
+1549,Rue de Vaugirard
+1550,Rue de la Chanvrerie
+1551,Rue de la Clef
+1552,Rue de la Cossonerie
+1553,Rue de la Grande-Truanderie
+1554,Rue de la Mortellerie
+1555,Rue de la Petite-Truanderie
+1556,Rue de la Roquette
+1557,Rue de la Sante
+1558,Rue de la Verrerie
+1559,Rue des Arcis
+1560,Rue des Billettes
+1561,Rue des Bourdonnais
+1562,Rue des Eglantiers
+1563,Rue des Filles-du-Calvaire
+1564,Rue des Gres
+1565,Rue des Jeuneurs
+1566,Rue des Mathurins-Saint-Jacques
+1567,Rue des Nonaindieres
+1568,Rue des Nonamdieres
+1569,Rue des Postes
+1570,Rue des Precheurs
+1571,Rue des Prouvaires
+1572,Rue des Trois-Pavillons
+1573,Rue des Vignes-Saint-Marcel
+1574,Rue du Cimitiere-Saint-Nicholas
+1575,Ruysdeel
+1576,Rylandt
+1577,Ryssel
+1578,SAINT-DENIS
+1579,Sabinus
+1580,Saint Augustine
+1581,Saint Benoit-sur-Loire
+1582,Saint Francois de Sales
+1583,Saint Helena
+1584,Saint Jerome
+1585,Saint Margaret
+1586,Saint Martha
+1587,Saint Martin
+1588,Saint Paul
+1589,Saint Robert
+1590,Saint Theresa
+1591,Saint-Antoine
+1592,Saint-Barthelemy
+1593,Saint-Barthelemys
+1594,Saint-Benoit
+1595,Saint-Denis
+1596,Saint-Esprit
+1597,Saint-Etienne-du-Mont
+1598,Saint-Florentin
+1599,Saint-Francois
+1600,Saint-Germain
+1601,Saint-Germain-des-Pres
+1602,Saint-Jacques
+1603,Saint-Jacques-du-Haut-Pas
+1604,Saint-Jacquesdu-Haut-Pas
+1605,Saint-Jacquesdu-haut-Pas
+1606,Saint-Jean
+1607,Saint-Jean de Beauvais
+1608,Saint-Julien
+1609,Saint-Juste
+1610,Saint-Lazare
+1611,Saint-Leu
+1612,Saint-Louis
+1613,Saint-Loup
+1614,Saint-Mande
+1615,Saint-Marceau
+1616,Saint-Martin
+1617,Saint-Maur
+1618,Saint-Medard
+1619,Saint-Merry
+1620,Saint-Paul
+1621,Saint-Pol
+1622,Saint-Sebastian
+1623,Saint-Yuste
+1624,Sainte-Aure
+1625,Sainte-Avoye
+1626,Sainte-Justine
+1627,Sainte-Marguerite
+1628,Sainte-Mechtilde
+1629,Sainte-Pelagie
+1630,Saintete Claustrale
+1631,Sainval
+1632,Sakoski
+1633,Salle
+1634,Salle-au-Comte
+1635,Salvator Rosa
+1636,Samson
+1637,Sanglote
+1638,Saperlotte
+1639,Sapristi
+1640,Sardanapalus
+1641,Satan
+1642,Satnois
+1643,Saulx-Tavannes
+1644,Sauval
+1645,Savigny
+1646,Saxe
+1647,Scaufflaire
+1648,Schiller
+1649,Schinderhannes
+1650,Seignor
+1651,Senez
+1652,Shakespeare
+1653,Si Cesar
+1654,Siborne
+1655,Sicard
+1656,Sieur Boulatruelle
+1657,Sieur Madeleine
+1658,Sieyes
+1659,Silanion
+1660,Sillette
+1661,Silva
+1662,Silvestrins
+1663,Simplice
+1664,Sinai
+1665,Sirven
+1666,Sister Agatha
+1667,Sister Sainte-Marthe
+1668,Sister Sainte-Michel
+1669,Sister Simplice
+1670,Skip-the-Gutter
+1671,Solem
+1672,Soliman-Pasha
+1673,Solomon
+1674,Soulange Bodin
+1675,Soult
+1676,Soye
+1677,Spinoza
+1678,Staphyla
+1679,Stella
+1680,Stephanus
+1681,Stephen
+1682,Strongylion
+1683,Sub-Lieutenant Legros
+1684,Subervic
+1685,Suchet
+1686,Sur les Diables de Vauvert
+1687,Surene
+1688,Surlababi
+1689,Swantibore
+1690,Sybaris
+1691,Sylla
+1692,Sylvanie
+1693,THENARDIER
+1694,TOUSSAINT
+1695,Talavera
+1696,Talbot
+1697,Talleyrand
+1698,Talma
+1699,Tartuffe
+1700,Tecelin
+1701,Tenait
+1702,Terentius
+1703,Ternaux
+1704,Terray
+1705,Terreur
+1706,Teucer
+1707,Teuthranis
+1708,Thenardier
+1709,Thenardier Jondrette
+1710,Theodore
+1711,Theodule
+1712,Theodule Gillenormand
+1713,Theophilus
+1714,Therese
+1715,Therese Aubert
+1716,Tholomyes
+1717,Thomas
+1718,Thomas de Faux
+1719,Thracius
+1720,Thrasybulus
+1721,Tiberii
+1722,Tiberius
+1723,Tilly
+1724,Timaloumisaine
+1725,Timoleon
+1726,Tirecuir de Corcelles
+1727,Titi
+1728,Toda mi alma
+1729,Tolleron
+1730,Toulousan Tholomyes
+1731,Touquet Charter
+1732,Tournois
+1733,Toussaint
+1734,Trithemus
+1735,Trogoff
+1736,Turenne
+1737,Turgot
+1738,Turk
+1739,Tutu
+1740,Tzar Peter
+1741,Ulbach
+1742,Ultime
+1743,Ultime Fauchelevent
+1744,Ulysses
+1745,Urbain Fabre
+1746,Ursule
+1747,VIII
+1748,Vae
+1749,Vah
+1750,Valjean
+1751,Valois
+1752,Valsin
+1753,Van Kluze
+1754,Van Meeren
+1755,Vandeleur
+1756,Vandermeulen
+1757,Vanvre
+1758,Varus Vibiscus
+1759,Vaubernier
+1760,Vendemiaire
+1761,Venetiis
+1762,Ventregoulette
+1763,Venus
+1764,Venus de Medici
+1765,Verdets
+1766,Vergniaud
+1767,Vermis
+1768,Vernon
+1769,Verres
+1770,Vicomte Dambray
+1771,Vicomte d'Escoubleau
+1772,Vicomte de Gestas
+1773,Vicomte de Thouars
+1774,Vicomte de Val
+1775,Vicomtess de Boischevron
+1776,Vicomtesse de Cette
+1777,Victurnien
+1778,Vidocq
+1779,Vignes Saint-Marcel
+1780,Villemomble
+1781,Villiers
+1782,Villon
+1783,Villons
+1784,Vincent
+1785,Vincent de Paul
+1786,Virgil
+1787,Virgin Mary
+1788,Vitaelampada
+1789,Vive
+1790,Vive Henri IV
+1791,Vive la France
+1792,Vivian
+1793,Voici
+1794,Voileci
+1795,Voileci allais
+1796,Volsci
+1797,Voltaire
+1798,Voltairian
+1799,Vous
+1800,Vulcan
+1801,Wagram
+1802,Wathier
+1803,Weber
+1804,Werther
+1805,Widow Hucheloup
+1806,Wilda
+1807,Will Boulatruelle
+1808,Will Monsieur
+1809,William
+1810,Wincke
+1811,Wurmser
+1812,XIII
+1813,XVIII
+1814,XXIII
+1815,Yonne
+1816,Young
+1817,Yoways
+1818,Yvetot
+1819,Yvon
+1820,Zelma
+1821,Zephine
+1822,Zieten
+1823,Zoilus

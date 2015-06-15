@@ -1,0 +1,45 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{Abstract}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Motivation}{chapter.1}
+\BOOKMARK [1][-]{section.1.3}{Objectives}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{Background Research}{}
+\BOOKMARK [1][-]{section.2.1}{Global Network properties}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.1.1}{Degree Distribution}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.2}{Clustering Coefficient}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.3}{Average path length}{section.2.1}
+\BOOKMARK [1][-]{section.2.2}{Local Network properties}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.2.1}{Node centralities}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.2}{Graphlets}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.3}{Relative Graphlet Frequency Distance}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.4}{Graphlet Degree Vectors}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.5}{GDD Agreement}{section.2.2}
+\BOOKMARK [1][-]{section.2.3}{Random graphs}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.3.1}{Erdos-Renyi graphs}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.2}{Erdos-Renyi with the degree distribution of a real network}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.3}{Scale-free networks}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.4}{Geometric graphs}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.5}{Stickiness index-based graphs}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.6}{Random graph Comparisons}{section.2.3}
+\BOOKMARK [1][-]{section.2.4}{Measuring Correlation}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.4.1}{Pearson's product-movement correlation coefficient}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.2}{Spearman's rank correlation coefficient}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.3}{Computing the GDV correlation matrix of a network}{section.2.4}
+\BOOKMARK [1][-]{section.2.5}{Canonical Correlation Analysis}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Project Plan}{}
+\BOOKMARK [1][-]{section.3.1}{Main Objectives}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.1.1}{Extensions}{section.3.1}
+\BOOKMARK [1][-]{section.3.2}{Work done so far}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{Future milestones}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Design and Implementation}{}
+\BOOKMARK [1][-]{section.4.1}{Mathematical model}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.1.1}{Relative Cluster Frequency Distance}{section.4.1}
+\BOOKMARK [1][-]{section.4.2}{Implementation of the Graphlet Cluster Vector}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.2.1}{Node-based Graphlet Cluster Vector}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.2}{Parallelisation}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.3}{Average Network GCV}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.4}{Random Networks}{section.4.2}
+\BOOKMARK [1][-]{section.4.3}{Upcoming tasks}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{Evaluation Plan}{}
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}
+\BOOKMARK [1][-]{section.6.1}{Future work}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{Bibliography}{}

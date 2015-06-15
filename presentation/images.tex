@@ -1,0 +1,1215 @@
+
+\newcommand{\gscaling}{0.7}
+
+\newcommand{\gone}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1)//1a},
+	  {(0,0)//2a},
+	  {(0,-1)//3a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+
+	
+      \end{tikzpicture} & \Large{$G_{1}$}
+    \end{tabular}
+}
+
+\newcommand{\gonecca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.4in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1)//1a},
+	  {(0,0)//2a},
+	  {(0,-1)//3a}}
+	  \node[vertex2,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{1}$}}
+    \end{tabular}
+}
+
+\newcommand{\gtwo}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1.3)//1a},
+	  {(-0.7,0)//2a},
+	  {(0.7,0)//3a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (1a);
+
+	
+      \end{tikzpicture} & \Large{$G_{2}$}
+    \end{tabular}
+}
+
+\newcommand{\gtwopic}{	
+      \begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1.3)//1a},
+	  {(-0.7,0)//2a},
+	  {(0.7,0)//3a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (1a);
+
+	
+      \end{tikzpicture}
+}
+
+
+\newcommand{\gtwocca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1.3)//1a},
+	  {(-0.7,0)//2a},
+	  {(0.7,0)//3a}}
+	  \node[vertex3,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (1a);
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{2}$}}
+    \end{tabular}
+}
+
+\newcommand{\gfive}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.5,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(0,1)//2a},
+	  {(1,1)//3a},
+	  {(1,0)//4a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+
+
+	
+      \end{tikzpicture} & \Large{$G_{5}$}
+    \end{tabular}
+}
+
+\newcommand{\gsix}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.8,1)//2a},
+	  {(0.8,1)//3a},
+	  {(0,-1)//4a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+
+
+	
+      \end{tikzpicture} & \Large{$G_{6}$}
+    \end{tabular}
+}
+
+
+\newcommand{\gsixcca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.8,1)//2a},
+	  {(0.8,1)//3a},
+	  {(0,-1)//4a}}
+	  \node[vertex2,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (4a);
+
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{6}$}}
+    \end{tabular}
+}
+
+\newcommand{\gseven}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.2,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(-1.0,0)//1a},
+	  {(1,0)//2a},
+	  {(0,1)//3a},
+	  {(0,-1)//4a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+
+	
+      \end{tikzpicture} & \Large{$G_{7}$}
+    \end{tabular}
+}
+
+
+\newcommand{\gsevenpic}{
+      \begin{tikzpicture}[scale=\gscaling * 1.2,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(-1.0,0)//1a},
+	  {(1,0)//2a},
+	  {(0,1)//3a},
+	  {(0,-1)//4a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+
+	
+      \end{tikzpicture}
+}
+
+
+\newcommand{\geight}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.7,-0.6)//2a},
+	  {(0.7,-0.6)//3a},
+	  {(0,1)//4a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+
+	
+      \end{tikzpicture} & \Large{$G_{8}$}
+    \end{tabular}
+}
+
+
+\newcommand{\geightpic}{
+      \begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.7,-0.6)//2a},
+	  {(0.7,-0.6)//3a},
+	  {(0,1)//4a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+
+	
+      \end{tikzpicture}
+}
+
+
+\newcommand{\geightcca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.7,-0.6)//2a},
+	  {(0.7,-0.6)//3a},
+	  {(0,1)//4a}}
+	  \node[vertex3,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (4a);
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{8}$}}
+    \end{tabular}
+}
+
+\newcommand{\gnine}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,2)//1a},
+	  {(0,1)//2a},
+	  {(0,0)//3a},
+	  {(0,-1)//4a},
+	  {(0,-2)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (4a)  -- (5a);
+
+
+	
+      \end{tikzpicture} & \Large{$G_{9}$}
+    \end{tabular}
+}
+
+\newcommand{\gninepic}{
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,2)//1a},
+	  {(0,1)//2a},
+	  {(0,0)//3a},
+	  {(0,-1)//4a},
+	  {(0,-2)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (4a)  -- (5a);
+
+
+	
+      \end{tikzpicture}
+}
+
+\newcommand{\gninecca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,2)//1a},
+	  {(0,1)//2a},
+	  {(0,0)//3a},
+	  {(0,-1)//4a},
+	  {(0,-2)//5a}}
+	  \node[vertex3,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (4a)  -- (5a);
+
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{9}$}}
+    \end{tabular}
+}
+
+
+\newcommand{\gten}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,2)//1a},
+	  {(0,1)//2a},
+	  {(0,0)//3a},
+	  {(-0.7,-0.7)//4a},
+	  {(0.7,-0.7)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (5a);
+
+
+	
+      \end{tikzpicture} & \Large{$G_{10}$}
+    \end{tabular}
+}
+
+\newcommand{\gtenpic}{
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,2)//1a},
+	  {(0,1)//2a},
+	  {(0,0)//3a},
+	  {(-0.7,-0.7)//4a},
+	  {(0.7,-0.7)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (5a);
+
+
+	
+      \end{tikzpicture}
+}
+
+
+\newcommand{\gtencca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,2)//1a},
+	  {(0,1)//2a},
+	  {(0,0)//3a},
+	  {(-0.7,-0.7)//4a},
+	  {(0.7,-0.7)//5a}}
+	  \node[vertex3,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (5a);
+
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{10}$}}
+    \end{tabular}
+}
+
+\newcommand{\geleven}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(0,1)//2a},
+	  {(-1,0)//3a},
+	  {(0,-1)//4a},
+	  {(1,0)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+
+
+	
+      \end{tikzpicture} & \Large{$G_{11}$}
+    \end{tabular}
+}
+
+\newcommand{\gelevenpic}{
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(0,1)//2a},
+	  {(-1,0)//3a},
+	  {(0,-1)//4a},
+	  {(1,0)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+
+
+	
+      \end{tikzpicture} 
+
+}
+
+
+
+\newcommand{\gelevencca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(0,1)//2a},
+	  {(-1,0)//3a},
+	  {(0,-1)//4a},
+	  {(1,0)//5a}}
+	  \node[vertex2,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (5a);
+
+
+	
+      \end{tikzpicture} \cellcolor{black}& \cellcolor{black}\textcolor{white}{\Large{$G_{11}$}}
+    \end{tabular}
+}
+
+
+\newcommand{\gtwelve}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(-0.7,0)//1a},
+	  {(0.7,0)//2a},
+	  {(0,1.2)//3a},
+	  {(-0.7,-1)//4a},
+	  {(0.7,-1)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+
+	
+      \end{tikzpicture} & \Large{$G_{12}$}
+    \end{tabular}
+}
+
+\newcommand{\gtwelvepic}{
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(-0.7,0)//1a},
+	  {(0.7,0)//2a},
+	  {(0,1.2)//3a},
+	  {(-0.7,-1)//4a},
+	  {(0.7,-1)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+
+	
+      \end{tikzpicture}
+}
+
+\newcommand{\gtwelvecca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(-0.7,0)//1a},
+	  {(0.7,0)//2a},
+	  {(0,1.2)//3a},
+	  {(-0.7,-1)//4a},
+	  {(0.7,-1)//5a}}
+	  \node[vertex3,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (5a);
+
+	
+      \end{tikzpicture}\cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{12}$}}
+    \end{tabular}
+}
+
+\newcommand{\gthirteen}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.8,1)//2a},
+	  {(0.8,1)//3a},
+	  {(0,-1)//4a},
+	  {(0,-2)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (4a)  -- (5a);
+
+	
+      \end{tikzpicture} & \Large{$G_{13}$}
+    \end{tabular}
+}
+
+\newcommand{\gthirteencca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.8,1)//2a},
+	  {(0.8,1)//3a},
+	  {(0,-1)//4a},
+	  {(0,-2)//5a}}
+	  \node[vertex3,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (4a)  -- (5a);
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{13}$}}
+    \end{tabular}
+}
+
+
+\newcommand{\gfourteen}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 0.8,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-1,1)//2a},
+	  {(1,1)//3a},
+	  {(-1,-1)//4a},
+	  {(1,-1)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+
+	
+      \end{tikzpicture} & \Large{$G_{14}$}
+    \end{tabular}
+}
+
+
+
+\newcommand{\gfourteencca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 0.8,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-1,1)//2a},
+	  {(1,1)//3a},
+	  {(-1,-1)//4a},
+	  {(1,-1)//5a}}
+	  \node[vertex3,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (5a);
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{14}$}}
+    \end{tabular}
+}
+
+\newcommand{\gfifteen}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1)//1a},
+	  {(-0.8,0.2)//2a},
+	  {(-0.4,-0.8)//3a},
+	  {(0.4,-0.8)//4a},
+	  {(0.8,0.2)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (4a)  -- (5a);
+	\path[hi, line width=1.0]  (5a)  -- (1a);
+
+	
+      \end{tikzpicture} & \Large{$G_{15}$}
+    \end{tabular}
+}
+
+\newcommand{\gfifteencca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1)//1a},
+	  {(-0.8,0.2)//2a},
+	  {(-0.4,-0.8)//3a},
+	  {(0.4,-0.8)//4a},
+	  {(0.8,0.2)//5a}}
+	  \node[vertex2,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (4a)  -- (5a);
+	\path[hi, line width=1.0,draw=#1]  (5a)  -- (1a);
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{15}$}}
+    \end{tabular}
+}
+
+
+\newcommand{\gsixteen}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.8,1)//2a},
+	  {(0.8,1)//3a},
+	  {(0,-1)//4a},
+	  {(0,1.8)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+	\path[hi, line width=1.0]  (3a)  -- (5a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+
+
+      \end{tikzpicture} & \Large{$G_{16}$}
+    \end{tabular}
+}
+
+
+
+\newcommand{\gsixteencca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.8,1)//2a},
+	  {(0.8,1)//3a},
+	  {(0,-1)//4a},
+	  {(0,1.8)//5a}}
+	  \node[vertex3,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (5a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (5a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (4a);
+
+
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{16}$}}
+    \end{tabular}
+}
+
+\newcommand{\gtwenty}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(-1.0,0)//1a},
+	  {(0,0)//2a},
+	  {(1,0)//3a},
+	  {(0,1)//4a},
+	  {(0,-1)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+	\path[hi, line width=1.0]  (3a)  -- (5a);
+
+	
+      \end{tikzpicture} & \Large{$G_{20}$}
+    \end{tabular}
+}
+
+\newcommand{\gtwentycca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(-1.0,0)//1a},
+	  {(0,0)//2a},
+	  {(1,0)//3a},
+	  {(0,1)//4a},
+	  {(0,-1)//5a}}
+	  \node[vertex2,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (5a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (5a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (5a);
+
+	
+      \end{tikzpicture} \cellcolor{black} & \cellcolor{black}\textcolor{white}{\Large{$G_{20}$}}
+    \end{tabular}
+}
+
+
+\newcommand{\gtwentyone}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.4,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(1,0)//2a},
+	  {(0.5,0.7)//3a},
+	  {(0,-1)//4a},
+	  {(1,-1)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+	\path[hi, line width=1.0]  (4a)  -- (5a);
+
+	
+      \end{tikzpicture} & \Large{$G_{21}$}
+    \end{tabular}
+}
+
+
+\newcommand{\gtwentytwo}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.4,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(1,0)//2a},
+	  {(0.5,0.7)//3a},
+	  {(0.5,-0.7)//4a},
+	  {(0.5,-1.6)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+
+	\path[hi, line width=1.0]  (1a)  -- (2a);	
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+
+	
+      \end{tikzpicture} & \Large{$G_{22}$}
+    \end{tabular}
+}
+
+
+\newcommand{\gtwentythree}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.2,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(-0.7,-0.6)//2a},
+	  {(0.7,-0.6)//3a},
+	  {(0,1)//4a},
+	  {(-0.7,-1.6)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+	
+      \end{tikzpicture} & \Large{$G_{23}$}
+    \end{tabular}
+}
+
+
+\newcommand{\gtwentyfour}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(0,1)//2a},
+	  {(0.8,0.6)//3a},
+	  {(0.8,-0.6)//4a},
+	  {(0,-1)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+
+	\path[hi, line width=1.0]  (1a)  -- (2a);	
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (4a)  -- (5a);
+
+	
+      \end{tikzpicture} & \Large{$G_{24}$}
+    \end{tabular}
+}
+
+
+\newcommand{\gtwentyfive}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.2,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(-1.0,0)//1a},
+	  {(0,0)//2a},
+	  {(1,0)//3a},
+	  {(0,1)//4a},
+	  {(0,-1)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+
+	\path[hi, line width=1.0]  (1a)  -- (2a);	
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+	\path[hi, line width=1.0]  (3a)  -- (5a);
+
+	
+      \end{tikzpicture} & \Large{$G_{25}$}
+    \end{tabular}
+}
+
+
+\newcommand{\gtwentysix}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.0,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(-0.8,0)//1a},
+	  {(0.8,0)//2a},
+	  {(0,0.75)//3a},
+	  {(0,-0.75)//4a},
+	  {(0,-1.8)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+
+	\path[hi, line width=1.0]  (1a)  -- (2a);	
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+
+	
+      \end{tikzpicture} & \Large{$G_{26}$}
+    \end{tabular}
+}
+
+
+
+\newcommand{\gtwentyseven}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling*2,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,0)//1a},
+	  {(0,1)//2a},
+	  {(1,1)//3a},
+	  {(1,0)//4a},
+	  {(0.5,0.5)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (5a)  -- (2a);
+	\path[hi, line width=1.0]  (5a)  -- (3a);
+	\path[hi, line width=1.0]  (5a)  -- (4a);
+	\path[hi, line width=1.0]  (5a)  -- (1a);
+
+	
+      \end{tikzpicture} & \Large{$G_{27}$}
+    \end{tabular}
+}
+
+
+\newcommand{\gtwentynine}{
+    \begin{tabular}{>{\centering\bfseries}m{1in} >{\centering}m{0in}}	
+      \begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1)//1a},
+	  {(-0.8,0.2)//2a},
+	  {(-0.4,-0.8)//3a},
+	  {(0.4,-0.8)//4a},
+	  {(0.8,0.2)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (5a);
+	\path[hi, line width=1.0]  (4a)  -- (5a);
+
+
+	
+      \end{tikzpicture} & \Large{$G_{29}$}
+    \end{tabular}
+}
+
+\newcommand{\gtwentyninepic}{
+      \begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1)//1a},
+	  {(-0.8,0.2)//2a},
+	  {(-0.4,-0.8)//3a},
+	  {(0.4,-0.8)//4a},
+	  {(0.8,0.2)//5a}}
+	  \node[vertex2] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0]  (1a)  -- (2a);
+	\path[hi, line width=1.0]  (1a)  -- (3a);
+	\path[hi, line width=1.0]  (1a)  -- (4a);
+	\path[hi, line width=1.0]  (1a)  -- (5a);
+	\path[hi, line width=1.0]  (2a)  -- (3a);
+	\path[hi, line width=1.0]  (2a)  -- (4a);
+	\path[hi, line width=1.0]  (2a)  -- (5a);
+	\path[hi, line width=1.0]  (3a)  -- (4a);
+	\path[hi, line width=1.0]  (3a)  -- (5a);
+	\path[hi, line width=1.0]  (4a)  -- (5a);
+
+
+	
+      \end{tikzpicture}
+}
+
+
+\newcommand{\gtwentyninecca}[1]{
+    \begin{tabular}{>{\centering\bfseries}m{0.7in} >{\centering}m{0in}}	
+      \cellcolor{black}\begin{tikzpicture}[scale=\gscaling * 1.3,auto,swap]
+
+	% define the round nodes
+	\foreach \pos/\name/\label in {
+	  {(0,1)//1a},
+	  {(-0.8,0.2)//2a},
+	  {(-0.4,-0.8)//3a},
+	  {(0.4,-0.8)//4a},
+	  {(0.8,0.2)//5a}}
+	  \node[vertex3,draw=#1,fill=#1] (\label) at \pos {$\name$} ;
+
+	%neighbouring graph
+	      
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (2a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (1a)  -- (5a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (3a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (2a)  -- (5a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (4a);
+	\path[hi, line width=1.0,draw=#1]  (3a)  -- (5a);
+	\path[hi, line width=1.0,draw=#1]  (4a)  -- (5a);
+
+
+	
+      \end{tikzpicture} & \cellcolor{black}\textcolor{white}{\Large{$G_{29}$}}
+    \end{tabular}
+}
+
+
+\newcommand{\gdots}{
+    \begin{tabular}{>{\centering\bfseries}m{-2in} >{\centering}m{0in}}	
+    \vdots & 
+    \end{tabular}
+}
+
+
+\definecolor{ccacol0}{rgb}{0.00,1.00,0}%1
+\definecolor{ccacol1}{rgb}{0.20,1.00,0}%0.8 
+\definecolor{ccacol2}{rgb}{0.40,1.00,0}%0.6
+\definecolor{ccacol3}{rgb}{0.60,1.00,0}%0.4
+\definecolor{ccacol4}{rgb}{0.80,1.00,0}%0.2
+\definecolor{ccacol5}{rgb}{1.00,1.00,0}%0.0
+\definecolor{ccacol6}{rgb}{1.00,0.80,0}%-0.2
+\definecolor{ccacol7}{rgb}{1.00,0.60,0}%-0.4
+\definecolor{ccacol8}{rgb}{1.00,0.40,0}%-0.6
+\definecolor{ccacol9}{rgb}{1.00,0.20,0}%-0.8
+\definecolor{ccacol10}{rgb}{1.00,0.00,0}%-1
+
+
+\newcommand{\ccafigscale}{0.6}
+
+\newcommand{\ccafigscaleppi}{0.55}

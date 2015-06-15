@@ -1,0 +1,4 @@
+1. generate avg gcv for thresholded trade network - DONE
+2. calculate GDV for the 4 real networks (metabolic, ppi, trade-full, trade-thresholded)
+3. generate 10-30 random nets and calculate avg GCV spread and plot it
+4. calculate pearson's coefficient for all 3 types of networks. 30x30 matrices

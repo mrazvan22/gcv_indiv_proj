@@ -1,0 +1,61 @@
+\chapter{Evaluation Plan}
+%Evaluation plan (1-2 pages). Project evaluation is very important, so it's
+%important to think now about how you plan to measure success. For example,
+%what functionality do you need to demonstrate?  What experiments to you need
+%to undertake and what outcome(s) would constitute success?  What benchmarks
+%should you use? How has your project extended the state of the art?  How do
+%you measure qualitative aspects, such as ease of use?  These are the sort of
+%questions that your project evaluation should address; this section should
+%outline your plan.
+
+Evaluation of the project will be mainly done on the number of proposed goals
+that I manage to achieve. As a lot of the work has been already done, half of
+the goals have therefore already been achieved by now. I have managed to
+implement the core algorithms, parallelise it and perform a few initial
+experiments. Moreover, we will also be able to evaluate the project success on
+the biological and economic insights that we manage to uncover from the data
+available.
+
+Another benchmark we could use to evaluate the success of our project is
+through the number of positive results we find from out experiments. For
+example, assume that we try to use the GCV metric to align two networks. If we
+feed the GCV signatures into the GRAAL algorithm and get a good alignment, then
+we have successfully used it in this particular experiment. A good alignment
+could easily be defined as:
+\begin{itemize}
+ \item At least 70\% of the nodes from both networks are completely aligned. 
+ \item At least 50\% of the edges connecting two nodes are aligned.
+\end{itemize}
+
+Another experiment that could be used to measure success is using
+the average network GCV for discriminating between different network types. If
+we successfully manage to discriminate with an F1 score higher than 80\%
+between the different network types( ex: Protein-protein interaction vs Trade,
+Metabolic vs Erdos-Renyi, etc ..), then we can say to have successfully used
+the GCV as a classifier. In order to do that, we indeed need to build a machine
+learning classifier that would initially be trained on a variety of networks
+and then used to classify new data. The F1 score previously mentioned is
+calculated as follows:
+
+\begin{equation}
+ F_1 = 2 * \frac{Precision * Recall}{Precision + Recall}
+\end{equation}
+
+where:
+
+$$ Precision = \frac{TruePositive}{TruePositive + FalsePositive}  $$
+
+$$ Recall = \frac{TruePositive}{TruePositive + FalseNegative}  $$
+
+
+Since our project builds upon earlier work done by Przulj et al on the Graphlet
+Degree Vectors\cite{prvzulj2007biological}\cite{milenkoviae2008uncovering}, we
+will be interested to find out in what respect our new GCV signature is
+different. Therefore, if we find out that the GCV is different in certain
+respects and can be used in different scenarios, then we can also use it as a
+benchmark score for success.
+
+Last but not least, we are also planning to publish a paper with these results
+in one Bioinformatics journal. We can also say that the project has been
+successful if we managed to get good-enough results in order to publish the
+paper and have it peer-reviewed and accepted for publication.

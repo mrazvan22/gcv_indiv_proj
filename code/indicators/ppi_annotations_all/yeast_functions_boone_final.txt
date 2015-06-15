@@ -1,0 +1,4353 @@
+YAL008W	Metabolism/mitochondria
+YAL010C	Metabolism/mitochondria
+YAL012W	Metabolism/mitochondria
+YAL015C	Metabolism/mitochondria
+YAL017W	Metabolism/mitochondria
+YAL038W	Metabolism/mitochondria
+YAL048C	Metabolism/mitochondria
+YAL051W	Metabolism/mitochondria
+YAL054C	Metabolism/mitochondria
+YAL060W	Metabolism/mitochondria
+YAL062W	Metabolism/mitochondria
+YAR015W	Metabolism/mitochondria
+YAR020C	Metabolism/mitochondria
+YAR035W	Metabolism/mitochondria
+YAR071W	Metabolism/mitochondria
+YBL015W	Metabolism/mitochondria
+YBL021C	Metabolism/mitochondria
+YBL030C	Metabolism/mitochondria
+YBL039C	Metabolism/mitochondria
+YBL057C	Metabolism/mitochondria
+YBL064C	Metabolism/mitochondria
+YBL098W	Metabolism/mitochondria
+YBL103C	Metabolism/mitochondria
+YBR001C	Metabolism/mitochondria
+YBR006W	Metabolism/mitochondria
+YBR011C	Metabolism/mitochondria
+YBR018C	Metabolism/mitochondria
+YBR019C	Metabolism/mitochondria
+YBR020W	Metabolism/mitochondria
+YBR024W	Metabolism/mitochondria
+YBR026C	Metabolism/mitochondria
+YBR029C	Metabolism/mitochondria
+YBR037C	Metabolism/mitochondria
+YBR041W	Metabolism/mitochondria
+YBR044C	Metabolism/mitochondria
+YBR050C	Metabolism/mitochondria
+YBR058C	Metabolism/mitochondria
+YBR066C	Metabolism/mitochondria
+YBR085W	Metabolism/mitochondria
+YBR091C	Metabolism/mitochondria
+YBR093C	Metabolism/mitochondria
+YBR104W	Metabolism/mitochondria
+YBR105C	Metabolism/mitochondria
+YBR106W	Metabolism/mitochondria
+YBR116C	Metabolism/mitochondria
+YBR121C	Metabolism/mitochondria
+YBR126C	Metabolism/mitochondria
+YBR145W	Metabolism/mitochondria
+YBR149W	Metabolism/mitochondria
+YBR153W	Metabolism/mitochondria
+YBR176W	Metabolism/mitochondria
+YBR177C	Metabolism/mitochondria
+YBR183W	Metabolism/mitochondria
+YBR185C	Metabolism/mitochondria
+YBR192W	Metabolism/mitochondria
+YBR196C	Metabolism/mitochondria
+YBR208C	Metabolism/mitochondria
+YBR218C	Metabolism/mitochondria
+YBR221C	Metabolism/mitochondria
+YBR222C	Metabolism/mitochondria
+YBR230C	Metabolism/mitochondria
+YBR240C	Metabolism/mitochondria
+YBR244W	Metabolism/mitochondria
+YBR256C	Metabolism/mitochondria
+YBR263W	Metabolism/mitochondria
+YBR265W	Metabolism/mitochondria
+YBR281C	Metabolism/mitochondria
+YBR291C	Metabolism/mitochondria
+YBR294W	Metabolism/mitochondria
+YBR296C	Metabolism/mitochondria
+YBR297W	Metabolism/mitochondria
+YBR298C	Metabolism/mitochondria
+YBR299W	Metabolism/mitochondria
+YCL004W	Metabolism/mitochondria
+YCL009C	Metabolism/mitochondria
+YCL017C	Metabolism/mitochondria
+YCL035C	Metabolism/mitochondria
+YCL039W	Metabolism/mitochondria
+YCL040W	Metabolism/mitochondria
+YCL044C	Metabolism/mitochondria
+YCL050C	Metabolism/mitochondria
+YCL057W	Metabolism/mitochondria
+YCL064C	Metabolism/mitochondria
+YCR005C	Metabolism/mitochondria
+YCR012W	Metabolism/mitochondria
+YCR020C	Metabolism/mitochondria
+YCR026C	Metabolism/mitochondria
+YCR028C-A	Metabolism/mitochondria
+YCR034W	Metabolism/mitochondria
+YCR073C	Metabolism/mitochondria
+YCR083W	Metabolism/mitochondria
+YCR104W	Metabolism/mitochondria
+YCR105W	Metabolism/mitochondria
+YCR107W	Metabolism/mitochondria
+YDL004W	Metabolism/mitochondria
+YDL036C	Metabolism/mitochondria
+YDL055C	Metabolism/mitochondria
+YDL066W	Metabolism/mitochondria
+YDL067C	Metabolism/mitochondria
+YDL078C	Metabolism/mitochondria
+YDL079C	Metabolism/mitochondria
+YDL080C	Metabolism/mitochondria
+YDL085W	Metabolism/mitochondria
+YDL103C	Metabolism/mitochondria
+YDL107W	Metabolism/mitochondria
+YDL120W	Metabolism/mitochondria
+YDL124W	Metabolism/mitochondria
+YDL125C	Metabolism/mitochondria
+YDL130W-A	Metabolism/mitochondria
+YDL138W	Metabolism/mitochondria
+YDL141W	Metabolism/mitochondria
+YDL142C	Metabolism/mitochondria
+YDL168W	Metabolism/mitochondria
+YDL170W	Metabolism/mitochondria
+YDL171C	Metabolism/mitochondria
+YDL174C	Metabolism/mitochondria
+YDL176W	Metabolism/mitochondria
+YDL178W	Metabolism/mitochondria
+YDL189W	Metabolism/mitochondria
+YDL194W	Metabolism/mitochondria
+YDL205C	Metabolism/mitochondria
+YDL215C	Metabolism/mitochondria
+YDL217C	Metabolism/mitochondria
+YDL222C	Metabolism/mitochondria
+YDL238C	Metabolism/mitochondria
+YDL243C	Metabolism/mitochondria
+YDL244W	Metabolism/mitochondria
+YDL245C	Metabolism/mitochondria
+YDR001C	Metabolism/mitochondria
+YDR009W	Metabolism/mitochondria
+YDR019C	Metabolism/mitochondria
+YDR031W	Metabolism/mitochondria
+YDR035W	Metabolism/mitochondria
+YDR043C	Metabolism/mitochondria
+YDR044W	Metabolism/mitochondria
+YDR047W	Metabolism/mitochondria
+YDR050C	Metabolism/mitochondria
+YDR074W	Metabolism/mitochondria
+YDR081C	Metabolism/mitochondria
+YDR098C	Metabolism/mitochondria
+YDR111C	Metabolism/mitochondria
+YDR116C	Metabolism/mitochondria
+YDR123C	Metabolism/mitochondria
+YDR135C	Metabolism/mitochondria
+YDR148C	Metabolism/mitochondria
+YDR162C	Metabolism/mitochondria
+YDR178W	Metabolism/mitochondria
+YDR185C	Metabolism/mitochondria
+YDR196C	Metabolism/mitochondria
+YDR197W	Metabolism/mitochondria
+YDR216W	Metabolism/mitochondria
+YDR219C	Metabolism/mitochondria
+YDR226W	Metabolism/mitochondria
+YDR231C	Metabolism/mitochondria
+YDR232W	Metabolism/mitochondria
+YDR236C	Metabolism/mitochondria
+YDR253C	Metabolism/mitochondria
+YDR255C	Metabolism/mitochondria
+YDR256C	Metabolism/mitochondria
+YDR267C	Metabolism/mitochondria
+YDR272W	Metabolism/mitochondria
+YDR277C	Metabolism/mitochondria
+YDR283C	Metabolism/mitochondria
+YDR287W	Metabolism/mitochondria
+YDR298C	Metabolism/mitochondria
+YDR321W	Metabolism/mitochondria
+YDR322C-A	Metabolism/mitochondria
+YDR345C	Metabolism/mitochondria
+YDR353W	Metabolism/mitochondria
+YDR367W	Metabolism/mitochondria
+YDR368W	Metabolism/mitochondria
+YDR375C	Metabolism/mitochondria
+YDR376W	Metabolism/mitochondria
+YDR393W	Metabolism/mitochondria
+YDR399W	Metabolism/mitochondria
+YDR400W	Metabolism/mitochondria
+YDR408C	Metabolism/mitochondria
+YDR422C	Metabolism/mitochondria
+YDR428C	Metabolism/mitochondria
+YDR430C	Metabolism/mitochondria
+YDR441C	Metabolism/mitochondria
+YDR452W	Metabolism/mitochondria
+YDR453C	Metabolism/mitochondria
+YDR454C	Metabolism/mitochondria
+YDR477W	Metabolism/mitochondria
+YDR487C	Metabolism/mitochondria
+YDR494W	Metabolism/mitochondria
+YDR502C	Metabolism/mitochondria
+YDR511W	Metabolism/mitochondria
+YDR513W	Metabolism/mitochondria
+YDR530C	Metabolism/mitochondria
+YDR531W	Metabolism/mitochondria
+YDR536W	Metabolism/mitochondria
+YEL006W	Metabolism/mitochondria
+YEL011W	Metabolism/mitochondria
+YEL012W	Metabolism/mitochondria
+YEL016C	Metabolism/mitochondria
+YEL024W	Metabolism/mitochondria
+YEL035C	Metabolism/mitochondria
+YEL038W	Metabolism/mitochondria
+YEL044W	Metabolism/mitochondria
+YEL047C	Metabolism/mitochondria
+YEL050C	Metabolism/mitochondria
+YEL058W	Metabolism/mitochondria
+YER003C	Metabolism/mitochondria
+YER015W	Metabolism/mitochondria
+YER017C	Metabolism/mitochondria
+YER023W	Metabolism/mitochondria
+YER043C	Metabolism/mitochondria
+YER045C	Metabolism/mitochondria
+YER048W-A	Metabolism/mitochondria
+YER053C	Metabolism/mitochondria
+YER054C	Metabolism/mitochondria
+YER056C	Metabolism/mitochondria
+YER061C	Metabolism/mitochondria
+YER062C	Metabolism/mitochondria
+YER065C	Metabolism/mitochondria
+YER073W	Metabolism/mitochondria
+YER075C	Metabolism/mitochondria
+YER081W	Metabolism/mitochondria
+YER118C	Metabolism/mitochondria
+YER129W	Metabolism/mitochondria
+YER170W	Metabolism/mitochondria
+YER174C	Metabolism/mitochondria
+YER175C	Metabolism/mitochondria
+YER178W	Metabolism/mitochondria
+YER183C	Metabolism/mitochondria
+YFL009W	Metabolism/mitochondria
+YFL011W	Metabolism/mitochondria
+YFL021W	Metabolism/mitochondria
+YFL030W	Metabolism/mitochondria
+YFL033C	Metabolism/mitochondria
+YFL036W	Metabolism/mitochondria
+YFL053W	Metabolism/mitochondria
+YFL056C	Metabolism/mitochondria
+YFL057C	Metabolism/mitochondria
+YFR009W	Metabolism/mitochondria
+YFR015C	Metabolism/mitochondria
+YFR030W	Metabolism/mitochondria
+YFR033C	Metabolism/mitochondria
+YFR034C	Metabolism/mitochondria
+YFR044C	Metabolism/mitochondria
+YFR047C	Metabolism/mitochondria
+YFR049W	Metabolism/mitochondria
+YFR053C	Metabolism/mitochondria
+YGL001C	Metabolism/mitochondria
+YGL018C	Metabolism/mitochondria
+YGL035C	Metabolism/mitochondria
+YGL037C	Metabolism/mitochondria
+YGL039W	Metabolism/mitochondria
+YGL040C	Metabolism/mitochondria
+YGL055W	Metabolism/mitochondria
+YGL059W	Metabolism/mitochondria
+YGL062W	Metabolism/mitochondria
+YGL067W	Metabolism/mitochondria
+YGL068W	Metabolism/mitochondria
+YGL115W	Metabolism/mitochondria
+YGL139W	Metabolism/mitochondria
+YGL156W	Metabolism/mitochondria
+YGL157W	Metabolism/mitochondria
+YGL166W	Metabolism/mitochondria
+YGL179C	Metabolism/mitochondria
+YGL184C	Metabolism/mitochondria
+YGL187C	Metabolism/mitochondria
+YGL191W	Metabolism/mitochondria
+YGL195W	Metabolism/mitochondria
+YGL205W	Metabolism/mitochondria
+YGL208W	Metabolism/mitochondria
+YGL209W	Metabolism/mitochondria
+YGL218W	Metabolism/mitochondria
+YGL219C	Metabolism/mitochondria
+YGL224C	Metabolism/mitochondria
+YGL227W	Metabolism/mitochondria
+YGL234W	Metabolism/mitochondria
+YGL236C	Metabolism/mitochondria
+YGL237C	Metabolism/mitochondria
+YGL252C	Metabolism/mitochondria
+YGL253W	Metabolism/mitochondria
+YGL256W	Metabolism/mitochondria
+YGR008C	Metabolism/mitochondria
+YGR010W	Metabolism/mitochondria
+YGR019W	Metabolism/mitochondria
+YGR028W	Metabolism/mitochondria
+YGR029W	Metabolism/mitochondria
+YGR033C	Metabolism/mitochondria
+YGR037C	Metabolism/mitochondria
+YGR044C	Metabolism/mitochondria
+YGR046W	Metabolism/mitochondria
+YGR060W	Metabolism/mitochondria
+YGR061C	Metabolism/mitochondria
+YGR082W	Metabolism/mitochondria
+YGR084C	Metabolism/mitochondria
+YGR087C	Metabolism/mitochondria
+YGR088W	Metabolism/mitochondria
+YGR094W	Metabolism/mitochondria
+YGR096W	Metabolism/mitochondria
+YGR101W	Metabolism/mitochondria
+YGR112W	Metabolism/mitochondria
+YGR124W	Metabolism/mitochondria
+YGR132C	Metabolism/mitochondria
+YGR154C	Metabolism/mitochondria
+YGR155W	Metabolism/mitochondria
+YGR169C	Metabolism/mitochondria
+YGR174C	Metabolism/mitochondria
+YGR175C	Metabolism/mitochondria
+YGR177C	Metabolism/mitochondria
+YGR181W	Metabolism/mitochondria
+YGR182C	Metabolism/mitochondria
+YGR183C	Metabolism/mitochondria
+YGR192C	Metabolism/mitochondria
+YGR193C	Metabolism/mitochondria
+YGR194C	Metabolism/mitochondria
+YGR231C	Metabolism/mitochondria
+YGR233C	Metabolism/mitochondria
+YGR234W	Metabolism/mitochondria
+YGR244C	Metabolism/mitochondria
+YGR247W	Metabolism/mitochondria
+YGR248W	Metabolism/mitochondria
+YGR254W	Metabolism/mitochondria
+YGR256W	Metabolism/mitochondria
+YGR267C	Metabolism/mitochondria
+YGR277C	Metabolism/mitochondria
+YGR286C	Metabolism/mitochondria
+YGR288W	Metabolism/mitochondria
+YGR289C	Metabolism/mitochondria
+YGR290W	Metabolism/mitochondria
+YGR292W	Metabolism/mitochondria
+YHL032C	Metabolism/mitochondria
+YHR001W-A	Metabolism/mitochondria
+YHR005C-A	Metabolism/mitochondria
+YHR007C	Metabolism/mitochondria
+YHR008C	Metabolism/mitochondria
+YHR024C	Metabolism/mitochondria
+YHR037W	Metabolism/mitochondria
+YHR038W	Metabolism/mitochondria
+YHR042W	Metabolism/mitochondria
+YHR043C	Metabolism/mitochondria
+YHR044C	Metabolism/mitochondria
+YHR046C	Metabolism/mitochondria
+YHR047C	Metabolism/mitochondria
+YHR049W	Metabolism/mitochondria
+YHR051W	Metabolism/mitochondria
+YHR068W	Metabolism/mitochondria
+YHR072W	Metabolism/mitochondria
+YHR074W	Metabolism/mitochondria
+YHR083W	Metabolism/mitochondria
+YHR092C	Metabolism/mitochondria
+YHR094C	Metabolism/mitochondria
+YHR096C	Metabolism/mitochondria
+YHR104W	Metabolism/mitochondria
+YHR106W	Metabolism/mitochondria
+YHR109W	Metabolism/mitochondria
+YHR112C	Metabolism/mitochondria
+YHR116W	Metabolism/mitochondria
+YHR117W	Metabolism/mitochondria
+YHR137W	Metabolism/mitochondria
+YHR150W	Metabolism/mitochondria
+YHR155W	Metabolism/mitochondria
+YHR163W	Metabolism/mitochondria
+YHR174W	Metabolism/mitochondria
+YHR186C	Metabolism/mitochondria
+YHR190W	Metabolism/mitochondria
+YHR194W	Metabolism/mitochondria
+YHR215W	Metabolism/mitochondria
+YIL003W	Metabolism/mitochondria
+YIL006W	Metabolism/mitochondria
+YIL017C	Metabolism/mitochondria
+YIL022W	Metabolism/mitochondria
+YIL042C	Metabolism/mitochondria
+YIL043C	Metabolism/mitochondria
+YIL045W	Metabolism/mitochondria
+YIL051C	Metabolism/mitochondria
+YIL053W	Metabolism/mitochondria
+YIL056W	Metabolism/mitochondria
+YIL083C	Metabolism/mitochondria
+YIL097W	Metabolism/mitochondria
+YIL098C	Metabolism/mitochondria
+YIL099W	Metabolism/mitochondria
+YIL103W	Metabolism/mitochondria
+YIL107C	Metabolism/mitochondria
+YIL111W	Metabolism/mitochondria
+YIL114C	Metabolism/mitochondria
+YIL124W	Metabolism/mitochondria
+YIL134W	Metabolism/mitochondria
+YIL136W	Metabolism/mitochondria
+YIL145C	Metabolism/mitochondria
+YIL155C	Metabolism/mitochondria
+YIL162W	Metabolism/mitochondria
+YIL170W	Metabolism/mitochondria
+YIR017C	Metabolism/mitochondria
+YIR027C	Metabolism/mitochondria
+YIR028W	Metabolism/mitochondria
+YIR029W	Metabolism/mitochondria
+YIR031C	Metabolism/mitochondria
+YIR032C	Metabolism/mitochondria
+YIR038C	Metabolism/mitochondria
+YJL045W	Metabolism/mitochondria
+YJL052W	Metabolism/mitochondria
+YJL054W	Metabolism/mitochondria
+YJL060W	Metabolism/mitochondria
+YJL068C	Metabolism/mitochondria
+YJL089W	Metabolism/mitochondria
+YJL091C	Metabolism/mitochondria
+YJL101C	Metabolism/mitochondria
+YJL104W	Metabolism/mitochondria
+YJL116C	Metabolism/mitochondria
+YJL121C	Metabolism/mitochondria
+YJL128C	Metabolism/mitochondria
+YJL130C	Metabolism/mitochondria
+YJL137C	Metabolism/mitochondria
+YJL141C	Metabolism/mitochondria
+YJL143W	Metabolism/mitochondria
+YJL155C	Metabolism/mitochondria
+YJL165C	Metabolism/mitochondria
+YJL166W	Metabolism/mitochondria
+YJL166W	Metabolism/mitochondria
+YJL167W	Metabolism/mitochondria
+YJL174W	Metabolism/mitochondria
+YJL180C	Metabolism/mitochondria
+YJL196C	Metabolism/mitochondria
+YJL198W	Metabolism/mitochondria
+YJL208C	Metabolism/mitochondria
+YJL214W	Metabolism/mitochondria
+YJR009C	Metabolism/mitochondria
+YJR016C	Metabolism/mitochondria
+YJR019C	Metabolism/mitochondria
+YJR025C	Metabolism/mitochondria
+YJR045C	Metabolism/mitochondria
+YJR048W	Metabolism/mitochondria
+YJR049C	Metabolism/mitochondria
+YJR051W	Metabolism/mitochondria
+YJR077C	Metabolism/mitochondria
+YJR078W	Metabolism/mitochondria
+YJR095W	Metabolism/mitochondria
+YJR097W	Metabolism/mitochondria
+YJR103W	Metabolism/mitochondria
+YJR113C	Metabolism/mitochondria
+YJR130C	Metabolism/mitochondria
+YJR133W	Metabolism/mitochondria
+YJR137C	Metabolism/mitochondria
+YJR152W	Metabolism/mitochondria
+YJR153W	Metabolism/mitochondria
+YKL004W	Metabolism/mitochondria
+YKL015W	Metabolism/mitochondria
+YKL024C	Metabolism/mitochondria
+YKL026C	Metabolism/mitochondria
+YKL029C	Metabolism/mitochondria
+YKL035W	Metabolism/mitochondria
+YKL038W	Metabolism/mitochondria
+YKL040C	Metabolism/mitochondria
+YKL053C-A	Metabolism/mitochondria
+YKL055C	Metabolism/mitochondria
+YKL060C	Metabolism/mitochondria
+YKL084W	Metabolism/mitochondria
+YKL085W	Metabolism/mitochondria
+YKL086W	Metabolism/mitochondria
+YKL087C	Metabolism/mitochondria
+YKL088W	Metabolism/mitochondria
+YKL093W	Metabolism/mitochondria
+YKL094W	Metabolism/mitochondria
+YKL104C	Metabolism/mitochondria
+YKL106W	Metabolism/mitochondria
+YKL109W	Metabolism/mitochondria
+YKL120W	Metabolism/mitochondria
+YKL127W	Metabolism/mitochondria
+YKL141W	Metabolism/mitochondria
+YKL142W	Metabolism/mitochondria
+YKL148C	Metabolism/mitochondria
+YKL152C	Metabolism/mitochondria
+YKL167C	Metabolism/mitochondria
+YKL182W	Metabolism/mitochondria
+YKL184W	Metabolism/mitochondria
+YKL187C	Metabolism/mitochondria
+YKL188C	Metabolism/mitochondria
+YKL191W	Metabolism/mitochondria
+YKL192C	Metabolism/mitochondria
+YKL195W	Metabolism/mitochondria
+YKL216W	Metabolism/mitochondria
+YKL217W	Metabolism/mitochondria
+YKL220C	Metabolism/mitochondria
+YKR026C	Metabolism/mitochondria
+YKR034W	Metabolism/mitochondria
+YKR046C	Metabolism/mitochondria
+YKR049C	Metabolism/mitochondria
+YKR052C	Metabolism/mitochondria
+YKR058W	Metabolism/mitochondria
+YKR065C	Metabolism/mitochondria
+YKR066C	Metabolism/mitochondria
+YKR069W	Metabolism/mitochondria
+YKR076W	Metabolism/mitochondria
+YKR080W	Metabolism/mitochondria
+YKR087C	Metabolism/mitochondria
+YKR089C	Metabolism/mitochondria
+YKR097W	Metabolism/mitochondria
+YLL006W	Metabolism/mitochondria
+YLL013C	Metabolism/mitochondria
+YLL041C	Metabolism/mitochondria
+YLL051C	Metabolism/mitochondria
+YLL060C	Metabolism/mitochondria
+YLL061W	Metabolism/mitochondria
+YLL062C	Metabolism/mitochondria
+YLL063C	Metabolism/mitochondria
+YLR008C	Metabolism/mitochondria
+YLR011W	Metabolism/mitochondria
+YLR014C	Metabolism/mitochondria
+YLR017W	Metabolism/mitochondria
+YLR027C	Metabolism/mitochondria
+YLR028C	Metabolism/mitochondria
+YLR038C	Metabolism/mitochondria
+YLR044C	Metabolism/mitochondria
+YLR047C	Metabolism/mitochondria
+YLR059C	Metabolism/mitochondria
+YLR070C	Metabolism/mitochondria
+YLR081W	Metabolism/mitochondria
+YLR092W	Metabolism/mitochondria
+YLR100W	Metabolism/mitochondria
+YLR113W	Metabolism/mitochondria
+YLR126C	Metabolism/mitochondria
+YLR134W	Metabolism/mitochondria
+YLR142W	Metabolism/mitochondria
+YLR146C	Metabolism/mitochondria
+YLR151C	Metabolism/mitochondria
+YLR153C	Metabolism/mitochondria
+YLR163C	Metabolism/mitochondria
+YLR165C	Metabolism/mitochondria
+YLR172C	Metabolism/mitochondria
+YLR174W	Metabolism/mitochondria
+YLR179C	Metabolism/mitochondria
+YLR180W	Metabolism/mitochondria
+YLR190W	Metabolism/mitochondria
+YLR193C	Metabolism/mitochondria
+YLR209C	Metabolism/mitochondria
+YLR214W	Metabolism/mitochondria
+YLR215C	Metabolism/mitochondria
+YLR231C	Metabolism/mitochondria
+YLR239C	Metabolism/mitochondria
+YLR251W	Metabolism/mitochondria
+YLR258W	Metabolism/mitochondria
+YLR259C	Metabolism/mitochondria
+YLR273C	Metabolism/mitochondria
+YLR285W	Metabolism/mitochondria
+YLR289W	Metabolism/mitochondria
+YLR295C	Metabolism/mitochondria
+YLR299W	Metabolism/mitochondria
+YLR328W	Metabolism/mitochondria
+YLR345W	Metabolism/mitochondria
+YLR348C	Metabolism/mitochondria
+YLR354C	Metabolism/mitochondria
+YLR355C	Metabolism/mitochondria
+YLR359W	Metabolism/mitochondria
+YLR361C	Metabolism/mitochondria
+YLR373C	Metabolism/mitochondria
+YLR377C	Metabolism/mitochondria
+YLR393W	Metabolism/mitochondria
+YLR395C	Metabolism/mitochondria
+YLR420W	Metabolism/mitochondria
+YLR432W	Metabolism/mitochondria
+YLR438W	Metabolism/mitochondria
+YLR461W	Metabolism/mitochondria
+YML004C	Metabolism/mitochondria
+YML009C	Metabolism/mitochondria
+YML025C	Metabolism/mitochondria
+YML035C	Metabolism/mitochondria
+YML042W	Metabolism/mitochondria
+YML048W	Metabolism/mitochondria
+YML051W	Metabolism/mitochondria
+YML054C	Metabolism/mitochondria
+YML056C	Metabolism/mitochondria
+YML060W	Metabolism/mitochondria
+YML070W	Metabolism/mitochondria
+YML081C-A	Metabolism/mitochondria
+YML091C	Metabolism/mitochondria
+YML099C	Metabolism/mitochondria
+YML100W	Metabolism/mitochondria
+YML104C	Metabolism/mitochondria
+YML106W	Metabolism/mitochondria
+YML120C	Metabolism/mitochondria
+YML126C	Metabolism/mitochondria
+YML129C	Metabolism/mitochondria
+YMR009W	Metabolism/mitochondria
+YMR011W	Metabolism/mitochondria
+YMR020W	Metabolism/mitochondria
+YMR030W	Metabolism/mitochondria
+YMR035W	Metabolism/mitochondria
+YMR041C	Metabolism/mitochondria
+YMR056C	Metabolism/mitochondria
+YMR060C	Metabolism/mitochondria
+YMR070W	Metabolism/mitochondria
+YMR083W	Metabolism/mitochondria
+YMR095C	Metabolism/mitochondria
+YMR099C	Metabolism/mitochondria
+YMR105C	Metabolism/mitochondria
+YMR110C	Metabolism/mitochondria
+YMR113W	Metabolism/mitochondria
+YMR115W	Metabolism/mitochondria
+YMR120C	Metabolism/mitochondria
+YMR135C	Metabolism/mitochondria
+YMR136W	Metabolism/mitochondria
+YMR140W	Metabolism/mitochondria
+YMR145C	Metabolism/mitochondria
+YMR169C	Metabolism/mitochondria
+YMR170C	Metabolism/mitochondria
+YMR172W	Metabolism/mitochondria
+YMR177W	Metabolism/mitochondria
+YMR189W	Metabolism/mitochondria
+YMR203W	Metabolism/mitochondria
+YMR205C	Metabolism/mitochondria
+YMR208W	Metabolism/mitochondria
+YMR211W	Metabolism/mitochondria
+YMR220W	Metabolism/mitochondria
+YMR225C	Metabolism/mitochondria
+YMR226C	Metabolism/mitochondria
+YMR245W	Metabolism/mitochondria
+YMR250W	Metabolism/mitochondria
+YMR251W	Metabolism/mitochondria
+YMR256C	Metabolism/mitochondria
+YMR261C	Metabolism/mitochondria
+YMR271C	Metabolism/mitochondria
+YMR278W	Metabolism/mitochondria
+YMR280C	Metabolism/mitochondria
+YMR282C	Metabolism/mitochondria
+YMR289W	Metabolism/mitochondria
+YMR298W	Metabolism/mitochondria
+YMR300C	Metabolism/mitochondria
+YMR301C	Metabolism/mitochondria
+YMR302C	Metabolism/mitochondria
+YMR303C	Metabolism/mitochondria
+YMR311C	Metabolism/mitochondria
+YMR313C	Metabolism/mitochondria
+YMR318C	Metabolism/mitochondria
+YNL003C	Metabolism/mitochondria
+YNL006W	Metabolism/mitochondria
+YNL009W	Metabolism/mitochondria
+YNL026W	Metabolism/mitochondria
+YNL037C	Metabolism/mitochondria
+YNL052W	Metabolism/mitochondria
+YNL063W	Metabolism/mitochondria
+YNL070W	Metabolism/mitochondria
+YNL071W	Metabolism/mitochondria
+YNL076W	Metabolism/mitochondria
+YNL103W	Metabolism/mitochondria
+YNL111C	Metabolism/mitochondria
+YNL121C	Metabolism/mitochondria
+YNL129W	Metabolism/mitochondria
+YNL131W	Metabolism/mitochondria
+YNL137C	Metabolism/mitochondria
+YNL141W	Metabolism/mitochondria
+YNL169C	Metabolism/mitochondria
+YNL199C	Metabolism/mitochondria
+YNL240C	Metabolism/mitochondria
+YNL241C	Metabolism/mitochondria
+YNL256W	Metabolism/mitochondria
+YNL257C	Metabolism/mitochondria
+YNL264C	Metabolism/mitochondria
+YNL306W	Metabolism/mitochondria
+YNL307C	Metabolism/mitochondria
+YNL310C	Metabolism/mitochondria
+YNL315C	Metabolism/mitochondria
+YNL328C	Metabolism/mitochondria
+YNR001C	Metabolism/mitochondria
+YNR012W	Metabolism/mitochondria
+YNR016C	Metabolism/mitochondria
+YNR017W	Metabolism/mitochondria
+YNR020C	Metabolism/mitochondria
+YNR022C	Metabolism/mitochondria
+YNR031C	Metabolism/mitochondria
+YNR033W	Metabolism/mitochondria
+YNR041C	Metabolism/mitochondria
+YNR043W	Metabolism/mitochondria
+YNR057C	Metabolism/mitochondria
+YNR058W	Metabolism/mitochondria
+YNR072W	Metabolism/mitochondria
+YOL001W	Metabolism/mitochondria
+YOL002C	Metabolism/mitochondria
+YOL008W	Metabolism/mitochondria
+YOL009C	Metabolism/mitochondria
+YOL026C	Metabolism/mitochondria
+YOL027C	Metabolism/mitochondria
+YOL049W	Metabolism/mitochondria
+YOL052C	Metabolism/mitochondria
+YOL055C	Metabolism/mitochondria
+YOL056W	Metabolism/mitochondria
+YOL059W	Metabolism/mitochondria
+YOL060C	Metabolism/mitochondria
+YOL064C	Metabolism/mitochondria
+YOL066C	Metabolism/mitochondria
+YOL067C	Metabolism/mitochondria
+YOL077W-A	Metabolism/mitochondria
+YOL086C	Metabolism/mitochondria
+YOL095C	Metabolism/mitochondria
+YOL101C	Metabolism/mitochondria
+YOL116W	Metabolism/mitochondria
+YOL126C	Metabolism/mitochondria
+YOL136C	Metabolism/mitochondria
+YOL151W	Metabolism/mitochondria
+YOR017W	Metabolism/mitochondria
+YOR020C	Metabolism/mitochondria
+YOR031W	Metabolism/mitochondria
+YOR037W	Metabolism/mitochondria
+YOR040W	Metabolism/mitochondria
+YOR045W	Metabolism/mitochondria
+YOR047C	Metabolism/mitochondria
+YOR065W	Metabolism/mitochondria
+YOR081C	Metabolism/mitochondria
+YOR095C	Metabolism/mitochondria
+YOR100C	Metabolism/mitochondria
+YOR120W	Metabolism/mitochondria
+YOR125C	Metabolism/mitochondria
+YOR126C	Metabolism/mitochondria
+YOR128C	Metabolism/mitochondria
+YOR135C	Metabolism/mitochondria
+YOR136W	Metabolism/mitochondria
+YOR142W	Metabolism/mitochondria
+YOR143C	Metabolism/mitochondria
+YOR155C	Metabolism/mitochondria
+YOR163W	Metabolism/mitochondria
+YOR176W	Metabolism/mitochondria
+YOR180C	Metabolism/mitochondria
+YOR196C	Metabolism/mitochondria
+YOR208W	Metabolism/mitochondria
+YOR211C	Metabolism/mitochondria
+YOR221C	Metabolism/mitochondria
+YOR232W	Metabolism/mitochondria
+YOR236W	Metabolism/mitochondria
+YOR266W	Metabolism/mitochondria
+YOR267C	Metabolism/mitochondria
+YOR271C	Metabolism/mitochondria
+YOR278W	Metabolism/mitochondria
+YOR280C	Metabolism/mitochondria
+YOR298C-A	Metabolism/mitochondria
+YOR334W	Metabolism/mitochondria
+YOR335C	Metabolism/mitochondria
+YOR336W	Metabolism/mitochondria
+YOR344C	Metabolism/mitochondria
+YOR347C	Metabolism/mitochondria
+YOR348C	Metabolism/mitochondria
+YOR356W	Metabolism/mitochondria
+YOR358W	Metabolism/mitochondria
+YOR363C	Metabolism/mitochondria
+YOR374W	Metabolism/mitochondria
+YOR375C	Metabolism/mitochondria
+YOR377W	Metabolism/mitochondria
+YOR381W	Metabolism/mitochondria
+YOR384W	Metabolism/mitochondria
+YPL023C	Metabolism/mitochondria
+YPL026C	Metabolism/mitochondria
+YPL028W	Metabolism/mitochondria
+YPL029W	Metabolism/mitochondria
+YPL038W	Metabolism/mitochondria
+YPL052W	Metabolism/mitochondria
+YPL060W	Metabolism/mitochondria
+YPL061W	Metabolism/mitochondria
+YPL063W	Metabolism/mitochondria
+YPL075W	Metabolism/mitochondria
+YPL078C	Metabolism/mitochondria
+YPL087W	Metabolism/mitochondria
+YPL088W	Metabolism/mitochondria
+YPL091W	Metabolism/mitochondria
+YPL095C	Metabolism/mitochondria
+YPL104W	Metabolism/mitochondria
+YPL110C	Metabolism/mitochondria
+YPL111W	Metabolism/mitochondria
+YPL117C	Metabolism/mitochondria
+YPL134C	Metabolism/mitochondria
+YPL135W	Metabolism/mitochondria
+YPL147W	Metabolism/mitochondria
+YPL159C	Metabolism/mitochondria
+YPL171C	Metabolism/mitochondria
+YPL172C	Metabolism/mitochondria
+YPL175W	Metabolism/mitochondria
+YPL177C	Metabolism/mitochondria
+YPL189W	Metabolism/mitochondria
+YPL196W	Metabolism/mitochondria
+YPL201C	Metabolism/mitochondria
+YPL214C	Metabolism/mitochondria
+YPL219W	Metabolism/mitochondria
+YPL224C	Metabolism/mitochondria
+YPL231W	Metabolism/mitochondria
+YPL248C	Metabolism/mitochondria
+YPL252C	Metabolism/mitochondria
+YPL258C	Metabolism/mitochondria
+YPL262W	Metabolism/mitochondria
+YPL270W	Metabolism/mitochondria
+YPL273W	Metabolism/mitochondria
+YPL274W	Metabolism/mitochondria
+YPR001W	Metabolism/mitochondria
+YPR002W	Metabolism/mitochondria
+YPR005C	Metabolism/mitochondria
+YPR006C	Metabolism/mitochondria
+YPR011C	Metabolism/mitochondria
+YPR020W	Metabolism/mitochondria
+YPR021C	Metabolism/mitochondria
+YPR024W	Metabolism/mitochondria
+YPR026W	Metabolism/mitochondria
+YPR033C	Metabolism/mitochondria
+YPR035W	Metabolism/mitochondria
+YPR058W	Metabolism/mitochondria
+YPR062W	Metabolism/mitochondria
+YPR069C	Metabolism/mitochondria
+YPR074C	Metabolism/mitochondria
+YPR075C	Metabolism/mitochondria
+YPR083W	Metabolism/mitochondria
+YPR093C	Metabolism/mitochondria
+YPR118W	Metabolism/mitochondria
+YPR121W	Metabolism/mitochondria
+YPR125W	Metabolism/mitochondria
+YPR128C	Metabolism/mitochondria
+YPR140W	Metabolism/mitochondria
+YPR145W	Metabolism/mitochondria
+YPR151C	Metabolism/mitochondria
+YPR155C	Metabolism/mitochondria
+YPR160W	Metabolism/mitochondria
+YPR167C	Metabolism/mitochondria
+YPR184W	Metabolism/mitochondria
+YPR191W	Metabolism/mitochondria
+YPR200C	Metabolism/mitochondria
+YPR201W	Metabolism/mitochondria
+YBR117C	Metabolism/mitochondria
+YEL041W	Metabolism/mitochondria
+YAL040C	Cell cycle progression/meiosis
+YBL105C	Cell cycle progression/meiosis
+YBR045C	Cell cycle progression/meiosis
+YBR109C	Cell cycle progression/meiosis
+YBR135W	Cell cycle progression/meiosis
+YBR158W	Cell cycle progression/meiosis
+YBR180W	Cell cycle progression/meiosis
+YBR186W	Cell cycle progression/meiosis
+YCL024W	Cell cycle progression/meiosis
+YCL027W	Cell cycle progression/meiosis
+YCL048W	Cell cycle progression/meiosis
+YCL055W	Cell cycle progression/meiosis
+YCR010C	Cell cycle progression/meiosis
+YDL001W	Cell cycle progression/meiosis
+YDL056W	Cell cycle progression/meiosis
+YDL127W	Cell cycle progression/meiosis
+YDL132W	Cell cycle progression/meiosis
+YDL155W	Cell cycle progression/meiosis
+YDL179W	Cell cycle progression/meiosis
+YDL224C	Cell cycle progression/meiosis
+YDL239C	Cell cycle progression/meiosis
+YDR054C	Cell cycle progression/meiosis
+YDR104C	Cell cycle progression/meiosis
+YDR146C	Cell cycle progression/meiosis
+YDR182W	Cell cycle progression/meiosis
+YDR205W	Cell cycle progression/meiosis
+YDR218C	Cell cycle progression/meiosis
+YDR247W	Cell cycle progression/meiosis
+YDR263C	Cell cycle progression/meiosis
+YDR273W	Cell cycle progression/meiosis
+YDR285W	Cell cycle progression/meiosis
+YDR291W	Cell cycle progression/meiosis
+YDR310C	Cell cycle progression/meiosis
+YDR335W	Cell cycle progression/meiosis
+YDR402C	Cell cycle progression/meiosis
+YDR403W	Cell cycle progression/meiosis
+YDR446W	Cell cycle progression/meiosis
+YDR501W	Cell cycle progression/meiosis
+YDR522C	Cell cycle progression/meiosis
+YER044C-A	Cell cycle progression/meiosis
+YER046W	Cell cycle progression/meiosis
+YER096W	Cell cycle progression/meiosis
+YER106W	Cell cycle progression/meiosis
+YER111C	Cell cycle progression/meiosis
+YER132C	Cell cycle progression/meiosis
+YER167W	Cell cycle progression/meiosis
+YFL003C	Cell cycle progression/meiosis
+YFL029C	Cell cycle progression/meiosis
+YFL034C-B	Cell cycle progression/meiosis
+YFR040W	Cell cycle progression/meiosis
+YFR048W	Cell cycle progression/meiosis
+YGL170C	Cell cycle progression/meiosis
+YGL183C	Cell cycle progression/meiosis
+YGL249W	Cell cycle progression/meiosis
+YGL250W	Cell cycle progression/meiosis
+YGL251C	Cell cycle progression/meiosis
+YGR044C	Cell cycle progression/meiosis
+YGR049W	Cell cycle progression/meiosis
+YGR059W	Cell cycle progression/meiosis
+YGR108W	Cell cycle progression/meiosis
+YGR109C	Cell cycle progression/meiosis
+YHL022C	Cell cycle progression/meiosis
+YHL024W	Cell cycle progression/meiosis
+YHR004C	Cell cycle progression/meiosis
+YHR014W	Cell cycle progression/meiosis
+YHR124W	Cell cycle progression/meiosis
+YHR139C	Cell cycle progression/meiosis
+YHR153C	Cell cycle progression/meiosis
+YHR157W	Cell cycle progression/meiosis
+YHR184W	Cell cycle progression/meiosis
+YHR185C	Cell cycle progression/meiosis
+YHR206W	Cell cycle progression/meiosis
+YIL046W	Cell cycle progression/meiosis
+YIL072W	Cell cycle progression/meiosis
+YIL073C	Cell cycle progression/meiosis
+YIL099W	Cell cycle progression/meiosis
+YIL101C	Cell cycle progression/meiosis
+YIL122W	Cell cycle progression/meiosis
+YIL129C	Cell cycle progression/meiosis
+YIL131C	Cell cycle progression/meiosis
+YJL098W	Cell cycle progression/meiosis
+YJL106W	Cell cycle progression/meiosis
+YJL146W	Cell cycle progression/meiosis
+YJL157C	Cell cycle progression/meiosis
+YJR021C	Cell cycle progression/meiosis
+YJR094C	Cell cycle progression/meiosis
+YKL019W	Cell cycle progression/meiosis
+YKL101W	Cell cycle progression/meiosis
+YKL189W	Cell cycle progression/meiosis
+YKR028W	Cell cycle progression/meiosis
+YKR077W	Cell cycle progression/meiosis
+YLL005C	Cell cycle progression/meiosis
+YLR054C	Cell cycle progression/meiosis
+YLR079W	Cell cycle progression/meiosis
+YLR097C	Cell cycle progression/meiosis
+YLR131C	Cell cycle progression/meiosis
+YLR182W	Cell cycle progression/meiosis
+YLR210W	Cell cycle progression/meiosis
+YLR213C	Cell cycle progression/meiosis
+YLR215C	Cell cycle progression/meiosis
+YLR219W	Cell cycle progression/meiosis
+YLR229C	Cell cycle progression/meiosis
+YLR263W	Cell cycle progression/meiosis
+YLR307W	Cell cycle progression/meiosis
+YLR308W	Cell cycle progression/meiosis
+YLR310C	Cell cycle progression/meiosis
+YLR329W	Cell cycle progression/meiosis
+YLR341W	Cell cycle progression/meiosis
+YLR343W	Cell cycle progression/meiosis
+YML027W	Cell cycle progression/meiosis
+YML031W	Cell cycle progression/meiosis
+YML066C	Cell cycle progression/meiosis
+YML128C	Cell cycle progression/meiosis
+YMR017W	Cell cycle progression/meiosis
+YMR133W	Cell cycle progression/meiosis
+YMR152W	Cell cycle progression/meiosis
+YMR199W	Cell cycle progression/meiosis
+YMR273C	Cell cycle progression/meiosis
+YMR306W	Cell cycle progression/meiosis
+YNL012W	Cell cycle progression/meiosis
+YNL047C	Cell cycle progression/meiosis
+YNL068C	Cell cycle progression/meiosis
+YNL152W	Cell cycle progression/meiosis
+YNL197C	Cell cycle progression/meiosis
+YNL207W	Cell cycle progression/meiosis
+YNL289W	Cell cycle progression/meiosis
+YNL307C	Cell cycle progression/meiosis
+YNL309W	Cell cycle progression/meiosis
+YNR009W	Cell cycle progression/meiosis
+YOL091W	Cell cycle progression/meiosis
+YOL104C	Cell cycle progression/meiosis
+YOL133W	Cell cycle progression/meiosis
+YOR054C	Cell cycle progression/meiosis
+YOR066W	Cell cycle progression/meiosis
+YOR083W	Cell cycle progression/meiosis
+YOR113W	Cell cycle progression/meiosis
+YOR119C	Cell cycle progression/meiosis
+YOR177C	Cell cycle progression/meiosis
+YOR190W	Cell cycle progression/meiosis
+YOR255W	Cell cycle progression/meiosis
+YOR298W	Cell cycle progression/meiosis
+YOR313C	Cell cycle progression/meiosis
+YOR351C	Cell cycle progression/meiosis
+YOR353C	Cell cycle progression/meiosis
+YPL027W	Cell cycle progression/meiosis
+YPL033C	Cell cycle progression/meiosis
+YPL121C	Cell cycle progression/meiosis
+YPL200W	Cell cycle progression/meiosis
+YPL204W	Cell cycle progression/meiosis
+YPL209C	Cell cycle progression/meiosis
+YPL256C	Cell cycle progression/meiosis
+YPR007C	Cell cycle progression/meiosis
+YPR054W	Cell cycle progression/meiosis
+YPR119W	Cell cycle progression/meiosis
+YPR120C	Cell cycle progression/meiosis
+YPR161C	Cell cycle progression/meiosis
+YHR005C	Cell cycle progression/meiosis
+YNL210W	Cell cycle progression/meiosis
+YAL031C	Signaling/stress response
+YAL040C	Signaling/stress response
+YAL041W	Signaling/stress response
+YAL056W	Signaling/stress response
+YAR050W	Signaling/stress response
+YBL046W	Signaling/stress response
+YBL056W	Signaling/stress response
+YBL064C	Signaling/stress response
+YBL075C	Signaling/stress response
+YBL103C	Signaling/stress response
+YBL105C	Signaling/stress response
+YBR014C	Signaling/stress response
+YBR045C	Signaling/stress response
+YBR050C	Signaling/stress response
+YBR072W	Signaling/stress response
+YBR083W	Signaling/stress response
+YBR109C	Signaling/stress response
+YBR135W	Signaling/stress response
+YBR140C	Signaling/stress response
+YBR182C	Signaling/stress response
+YBR216C	Signaling/stress response
+YCL027W	Signaling/stress response
+YCL032W	Signaling/stress response
+YCR008W	Signaling/stress response
+YCR021C	Signaling/stress response
+YCR073C	Signaling/stress response
+YCR091W	Signaling/stress response
+YCR095C	Signaling/stress response
+YDL006W	Signaling/stress response
+YDL035C	Signaling/stress response
+YDL079C	Signaling/stress response
+YDL108W	Signaling/stress response
+YDL127W	Signaling/stress response
+YDL134C	Signaling/stress response
+YDL155W	Signaling/stress response
+YDL179W	Signaling/stress response
+YDL188C	Signaling/stress response
+YDL214C	Signaling/stress response
+YDL230W	Signaling/stress response
+YDL235C	Signaling/stress response
+YDR006C	Signaling/stress response
+YDR032C	Signaling/stress response
+YDR062W	Signaling/stress response
+YDR067C	Signaling/stress response
+YDR075W	Signaling/stress response
+YDR099W	Signaling/stress response
+YDR162C	Signaling/stress response
+YDR174W	Signaling/stress response
+YDR182W	Signaling/stress response
+YDR208W	Signaling/stress response
+YDR223W	Signaling/stress response
+YDR236C	Signaling/stress response
+YDR247W	Signaling/stress response
+YDR259C	Signaling/stress response
+YDR264C	Signaling/stress response
+YDR284C	Signaling/stress response
+YDR294C	Signaling/stress response
+YDR313C	Signaling/stress response
+YDR315C	Signaling/stress response
+YDR346C	Signaling/stress response
+YDR373W	Signaling/stress response
+YDR389W	Signaling/stress response
+YDR420W	Signaling/stress response
+YDR422C	Signaling/stress response
+YDR423C	Signaling/stress response
+YDR435C	Signaling/stress response
+YDR436W	Signaling/stress response
+YDR459C	Signaling/stress response
+YDR466W	Signaling/stress response
+YDR477W	Signaling/stress response
+YDR480W	Signaling/stress response
+YDR528W	Signaling/stress response
+YER042W	Signaling/stress response
+YER054C	Signaling/stress response
+YER075C	Signaling/stress response
+YER089C	Signaling/stress response
+YER093C	Signaling/stress response
+YER109C	Signaling/stress response
+YER118C	Signaling/stress response
+YER129W	Signaling/stress response
+YER133W	Signaling/stress response
+YER150W	Signaling/stress response
+YER167W	Signaling/stress response
+YER177W	Signaling/stress response
+YFL007W	Signaling/stress response
+YFL014W	Signaling/stress response
+YFL029C	Signaling/stress response
+YFL033C	Signaling/stress response
+YFL034C-B	Signaling/stress response
+YFR003C	Signaling/stress response
+YFR014C	Signaling/stress response
+YFR040W	Signaling/stress response
+YGL019W	Signaling/stress response
+YGL045W	Signaling/stress response
+YGL073W	Signaling/stress response
+YGL089C	Signaling/stress response
+YGL115W	Signaling/stress response
+YGL121C	Signaling/stress response
+YGL158W	Signaling/stress response
+YGL208W	Signaling/stress response
+YGL229C	Signaling/stress response
+YGL248W	Signaling/stress response
+YGL252C	Signaling/stress response
+YGR014W	Signaling/stress response
+YGR019W	Signaling/stress response
+YGR023W	Signaling/stress response
+YGR040W	Signaling/stress response
+YGR044C	Signaling/stress response
+YGR108W	Signaling/stress response
+YGR109C	Signaling/stress response
+YGR123C	Signaling/stress response
+YGR147C	Signaling/stress response
+YGR161C	Signaling/stress response
+YGR209C	Signaling/stress response
+YGR233C	Signaling/stress response
+YHL009C	Signaling/stress response
+YHL029C	Signaling/stress response
+YHR004C	Signaling/stress response
+YHR076W	Signaling/stress response
+YHR082C	Signaling/stress response
+YHR084W	Signaling/stress response
+YHR104W	Signaling/stress response
+YHR186C	Signaling/stress response
+YHR206W	Signaling/stress response
+YIL002C	Signaling/stress response
+YIL010W	Signaling/stress response
+YIL033C	Signaling/stress response
+YIL035C	Signaling/stress response
+YIL045W	Signaling/stress response
+YIL046W	Signaling/stress response
+YIL101C	Signaling/stress response
+YIL105C	Signaling/stress response
+YIL106W	Signaling/stress response
+YIL113W	Signaling/stress response
+YIL118W	Signaling/stress response
+YIL119C	Signaling/stress response
+YIL122W	Signaling/stress response
+YIL129C	Signaling/stress response
+YIL147C	Signaling/stress response
+YIR018W	Signaling/stress response
+YIR019C	Signaling/stress response
+YIR037W	Signaling/stress response
+YJL005W	Signaling/stress response
+YJL058C	Signaling/stress response
+YJL073W	Signaling/stress response
+YJL083W	Signaling/stress response
+YJL098W	Signaling/stress response
+YJL128C	Signaling/stress response
+YJL134W	Signaling/stress response
+YJL141C	Signaling/stress response
+YJL157C	Signaling/stress response
+YJL164C	Signaling/stress response
+YJL170C	Signaling/stress response
+YJR059W	Signaling/stress response
+YJR066W	Signaling/stress response
+YJR110W	Signaling/stress response
+YJR147W	Signaling/stress response
+YKL004W	Signaling/stress response
+YKL019W	Signaling/stress response
+YKL051W	Signaling/stress response
+YKL062W	Signaling/stress response
+YKL101W	Signaling/stress response
+YKL116C	Signaling/stress response
+YKL159C	Signaling/stress response
+YKL163W	Signaling/stress response
+YKL166C	Signaling/stress response
+YKL178C	Signaling/stress response
+YKL189W	Signaling/stress response
+YKL190W	Signaling/stress response
+YKL193C	Signaling/stress response
+YKL203C	Signaling/stress response
+YKR028W	Signaling/stress response
+YKR053C	Signaling/stress response
+YKR055W	Signaling/stress response
+YKR063C	Signaling/stress response
+YKR102W	Signaling/stress response
+YLL010C	Signaling/stress response
+YLL017W	Signaling/stress response
+YLR006C	Signaling/stress response
+YLR019W	Signaling/stress response
+YLR043C	Signaling/stress response
+YLR097C	Signaling/stress response
+YLR109W	Signaling/stress response
+YLR113W	Signaling/stress response
+YLR178C	Signaling/stress response
+YLR195C	Signaling/stress response
+YLR210W	Signaling/stress response
+YLR246W	Signaling/stress response
+YLR248W	Signaling/stress response
+YLR273C	Signaling/stress response
+YLR310C	Signaling/stress response
+YLR336C	Signaling/stress response
+YLR371W	Signaling/stress response
+YLR389C	Signaling/stress response
+YLR403W	Signaling/stress response
+YLR433C	Signaling/stress response
+YLR452C	Signaling/stress response
+YML006C	Signaling/stress response
+YML007W	Signaling/stress response
+YML016C	Signaling/stress response
+YML028W	Signaling/stress response
+YML057W	Signaling/stress response
+YML064C	Signaling/stress response
+YMR016C	Signaling/stress response
+YMR028W	Signaling/stress response
+YMR037C	Signaling/stress response
+YMR063W	Signaling/stress response
+YMR068W	Signaling/stress response
+YMR116C	Signaling/stress response
+YMR139W	Signaling/stress response
+YMR140W	Signaling/stress response
+YMR172W	Signaling/stress response
+YMR199W	Signaling/stress response
+YMR296C	Signaling/stress response
+YNL006W	Signaling/stress response
+YNL023C	Signaling/stress response
+YNL027W	Signaling/stress response
+YNL032W	Signaling/stress response
+YNL047C	Signaling/stress response
+YNL056W	Signaling/stress response
+YNL076W	Signaling/stress response
+YNL098C	Signaling/stress response
+YNL099C	Signaling/stress response
+YNL123W	Signaling/stress response
+YNL128W	Signaling/stress response
+YNL161W	Signaling/stress response
+YNL216W	Signaling/stress response
+YNL240C	Signaling/stress response
+YNL255C	Signaling/stress response
+YNL257C	Signaling/stress response
+YNL267W	Signaling/stress response
+YNL289W	Signaling/stress response
+YNL307C	Signaling/stress response
+YNR031C	Signaling/stress response
+YOL001W	Signaling/stress response
+YOL016C	Signaling/stress response
+YOL065C	Signaling/stress response
+YOL067C	Signaling/stress response
+YOL078W	Signaling/stress response
+YOL081W	Signaling/stress response
+YOL089C	Signaling/stress response
+YOL109W	Signaling/stress response
+YOL110W	Signaling/stress response
+YOL113W	Signaling/stress response
+YOL116W	Signaling/stress response
+YOL128C	Signaling/stress response
+YOL133W	Signaling/stress response
+YOL151W	Signaling/stress response
+YOR027W	Signaling/stress response
+YOR028C	Signaling/stress response
+YOR032C	Signaling/stress response
+YOR039W	Signaling/stress response
+YOR043W	Signaling/stress response
+YOR047C	Signaling/stress response
+YOR054C	Signaling/stress response
+YOR061W	Signaling/stress response
+YOR083W	Signaling/stress response
+YOR090C	Signaling/stress response
+YOR101W	Signaling/stress response
+YOR107W	Signaling/stress response
+YOR120W	Signaling/stress response
+YOR140W	Signaling/stress response
+YOR178C	Signaling/stress response
+YOR208W	Signaling/stress response
+YOR219C	Signaling/stress response
+YOR233W	Signaling/stress response
+YOR329C	Signaling/stress response
+YOR353C	Signaling/stress response
+YOR360C	Signaling/stress response
+YOR371C	Signaling/stress response
+YPL026C	Signaling/stress response
+YPL048W	Signaling/stress response
+YPL133C	Signaling/stress response
+YPL137C	Signaling/stress response
+YPL152W	Signaling/stress response
+YPL187W	Signaling/stress response
+YPL192C	Signaling/stress response
+YPL203W	Signaling/stress response
+YPL204W	Signaling/stress response
+YPL209C	Signaling/stress response
+YPL219W	Signaling/stress response
+YPL230W	Signaling/stress response
+YPL256C	Signaling/stress response
+YPR025C	Signaling/stress response
+YPR040W	Signaling/stress response
+YPR048W	Signaling/stress response
+YPR075C	Signaling/stress response
+YPR093C	Signaling/stress response
+YPR113W	Signaling/stress response
+YPR119W	Signaling/stress response
+YPR120C	Signaling/stress response
+YPR161C	Signaling/stress response
+YPR165W	Signaling/stress response
+YPR199C	Signaling/stress response
+YDL090C	Signaling/stress response
+YNL138W	Signaling/stress response
+YHR005C	Signaling/stress response
+YAL001C	Ribosome/translation
+YAL003W	Ribosome/translation
+YAL020C	Ribosome/translation
+YAL025C	Ribosome/translation
+YAL033W	Ribosome/translation
+YAL036C	Ribosome/translation
+YAL059W	Ribosome/translation
+YAR008W	Ribosome/translation
+YBL004W	Ribosome/translation
+YBL013W	Ribosome/translation
+YBL014C	Ribosome/translation
+YBL018C	Ribosome/translation
+YBL024W	Ribosome/translation
+YBL027W	Ribosome/translation
+YBL057C	Ribosome/translation
+YBL072C	Ribosome/translation
+YBL076C	Ribosome/translation
+YBL087C	Ribosome/translation
+YBL091C	Ribosome/translation
+YBL092W	Ribosome/translation
+YBR022W	Ribosome/translation
+YBR031W	Ribosome/translation
+YBR034C	Ribosome/translation
+YBR048W	Ribosome/translation
+YBR049C	Ribosome/translation
+YBR079C	Ribosome/translation
+YBR084W	Ribosome/translation
+YBR118W	Ribosome/translation
+YBR121C	Ribosome/translation
+YBR123C	Ribosome/translation
+YBR142W	Ribosome/translation
+YBR143C	Ribosome/translation
+YBR153W	Ribosome/translation
+YBR167C	Ribosome/translation
+YBR181C	Ribosome/translation
+YBR247C	Ribosome/translation
+YBR256C	Ribosome/translation
+YBR257W	Ribosome/translation
+YBR267W	Ribosome/translation
+YCL031C	Ribosome/translation
+YCL054W	Ribosome/translation
+YCL059C	Ribosome/translation
+YCR031C	Ribosome/translation
+YCR057C	Ribosome/translation
+YCR059C	Ribosome/translation
+YCR060W	Ribosome/translation
+YCR072C	Ribosome/translation
+YDL014W	Ribosome/translation
+YDL031W	Ribosome/translation
+YDL033C	Ribosome/translation
+YDL036C	Ribosome/translation
+YDL060W	Ribosome/translation
+YDL061C	Ribosome/translation
+YDL081C	Ribosome/translation
+YDL082W	Ribosome/translation
+YDL083C	Ribosome/translation
+YDL112W	Ribosome/translation
+YDL130W	Ribosome/translation
+YDL133C-A	Ribosome/translation
+YDL136W	Ribosome/translation
+YDL148C	Ribosome/translation
+YDL150W	Ribosome/translation
+YDL166C	Ribosome/translation
+YDL184C	Ribosome/translation
+YDL191W	Ribosome/translation
+YDL201W	Ribosome/translation
+YDL208W	Ribosome/translation
+YDL213C	Ribosome/translation
+YDL219W	Ribosome/translation
+YDR005C	Ribosome/translation
+YDR021W	Ribosome/translation
+YDR023W	Ribosome/translation
+YDR037W	Ribosome/translation
+YDR041W	Ribosome/translation
+YDR060W	Ribosome/translation
+YDR064W	Ribosome/translation
+YDR083W	Ribosome/translation
+YDR087C	Ribosome/translation
+YDR091C	Ribosome/translation
+YDR116C	Ribosome/translation
+YDR120C	Ribosome/translation
+YDR152W	Ribosome/translation
+YDR165W	Ribosome/translation
+YDR169C	Ribosome/translation
+YDR172W	Ribosome/translation
+YDR174W	Ribosome/translation
+YDR190C	Ribosome/translation
+YDR197W	Ribosome/translation
+YDR198C	Ribosome/translation
+YDR206W	Ribosome/translation
+YDR211W	Ribosome/translation
+YDR223W	Ribosome/translation
+YDR299W	Ribosome/translation
+YDR312W	Ribosome/translation
+YDR324C	Ribosome/translation
+YDR339C	Ribosome/translation
+YDR341C	Ribosome/translation
+YDR362C	Ribosome/translation
+YDR365C	Ribosome/translation
+YDR382W	Ribosome/translation
+YDR385W	Ribosome/translation
+YDR398W	Ribosome/translation
+YDR412W	Ribosome/translation
+YDR429C	Ribosome/translation
+YDR447C	Ribosome/translation
+YDR449C	Ribosome/translation
+YDR463W	Ribosome/translation
+YDR465C	Ribosome/translation
+YDR471W	Ribosome/translation
+YDR487C	Ribosome/translation
+YDR494W	Ribosome/translation
+YDR496C	Ribosome/translation
+YDR500C	Ribosome/translation
+YDR515W	Ribosome/translation
+YEL034W	Ribosome/translation
+YEL050C	Ribosome/translation
+YER002W	Ribosome/translation
+YER006W	Ribosome/translation
+YER025W	Ribosome/translation
+YER036C	Ribosome/translation
+YER063W	Ribosome/translation
+YER074W	Ribosome/translation
+YER082C	Ribosome/translation
+YER088C	Ribosome/translation
+YER126C	Ribosome/translation
+YER127W	Ribosome/translation
+YER131W	Ribosome/translation
+YER153C	Ribosome/translation
+YER165W	Ribosome/translation
+YER168C	Ribosome/translation
+YFL001W	Ribosome/translation
+YFL002C	Ribosome/translation
+YFL022C	Ribosome/translation
+YFL034C-A	Ribosome/translation
+YFR031C-A	Ribosome/translation
+YFR032C-A	Ribosome/translation
+YFR049W	Ribosome/translation
+YGL014W	Ribosome/translation
+YGL017W	Ribosome/translation
+YGL029W	Ribosome/translation
+YGL030W	Ribosome/translation
+YGL031C	Ribosome/translation
+YGL063W	Ribosome/translation
+YGL078C	Ribosome/translation
+YGL099W	Ribosome/translation
+YGL103W	Ribosome/translation
+YGL105W	Ribosome/translation
+YGL111W	Ribosome/translation
+YGL123W	Ribosome/translation
+YGL135W	Ribosome/translation
+YGL147C	Ribosome/translation
+YGL171W	Ribosome/translation
+YGL189C	Ribosome/translation
+YGL211W	Ribosome/translation
+YGL232W	Ribosome/translation
+YGL243W	Ribosome/translation
+YGL245W	Ribosome/translation
+YGR005C	Ribosome/translation
+YGR024C	Ribosome/translation
+YGR027C	Ribosome/translation
+YGR030C	Ribosome/translation
+YGR034W	Ribosome/translation
+YGR047C	Ribosome/translation
+YGR054W	Ribosome/translation
+YGR074W	Ribosome/translation
+YGR083C	Ribosome/translation
+YGR084C	Ribosome/translation
+YGR085C	Ribosome/translation
+YGR090W	Ribosome/translation
+YGR094W	Ribosome/translation
+YGR103W	Ribosome/translation
+YGR118W	Ribosome/translation
+YGR128C	Ribosome/translation
+YGR145W	Ribosome/translation
+YGR148C	Ribosome/translation
+YGR156W	Ribosome/translation
+YGR169C	Ribosome/translation
+YGR185C	Ribosome/translation
+YGR186W	Ribosome/translation
+YGR187C	Ribosome/translation
+YGR200C	Ribosome/translation
+YGR214W	Ribosome/translation
+YGR245C	Ribosome/translation
+YGR246C	Ribosome/translation
+YGR247W	Ribosome/translation
+YGR251W	Ribosome/translation
+YGR264C	Ribosome/translation
+YGR271W	Ribosome/translation
+YGR276C	Ribosome/translation
+YGR280C	Ribosome/translation
+YHL001W	Ribosome/translation
+YHL015W	Ribosome/translation
+YHL033C	Ribosome/translation
+YHL034C	Ribosome/translation
+YHR019C	Ribosome/translation
+YHR020W	Ribosome/translation
+YHR021C	Ribosome/translation
+YHR034C	Ribosome/translation
+YHR038W	Ribosome/translation
+YHR062C	Ribosome/translation
+YHR065C	Ribosome/translation
+YHR066W	Ribosome/translation
+YHR068W	Ribosome/translation
+YHR070W	Ribosome/translation
+YHR072W-A	Ribosome/translation
+YHR085W	Ribosome/translation
+YHR086W	Ribosome/translation
+YHR088W	Ribosome/translation
+YHR111W	Ribosome/translation
+YHR148W	Ribosome/translation
+YHR170W	Ribosome/translation
+YHR187W	Ribosome/translation
+YHR189W	Ribosome/translation
+YHR196W	Ribosome/translation
+YHR197W	Ribosome/translation
+YHR203C	Ribosome/translation
+YIL008W	Ribosome/translation
+YIL018W	Ribosome/translation
+YIL019W	Ribosome/translation
+YIL052C	Ribosome/translation
+YIL069C	Ribosome/translation
+YIL078W	Ribosome/translation
+YIL079C	Ribosome/translation
+YIL091C	Ribosome/translation
+YIL096C	Ribosome/translation
+YIL103W	Ribosome/translation
+YIL104C	Ribosome/translation
+YIL133C	Ribosome/translation
+YIL137C	Ribosome/translation
+YIR001C	Ribosome/translation
+YIR012W	Ribosome/translation
+YIR015W	Ribosome/translation
+YJL010C	Ribosome/translation
+YJL011C	Ribosome/translation
+YJL025W	Ribosome/translation
+YJL033W	Ribosome/translation
+YJL035C	Ribosome/translation
+YJL069C	Ribosome/translation
+YJL087C	Ribosome/translation
+YJL109C	Ribosome/translation
+YJL122W	Ribosome/translation
+YJL123C	Ribosome/translation
+YJL125C	Ribosome/translation
+YJL136C	Ribosome/translation
+YJL138C	Ribosome/translation
+YJL177W	Ribosome/translation
+YJL191W	Ribosome/translation
+YJR002W	Ribosome/translation
+YJR007W	Ribosome/translation
+YJR041C	Ribosome/translation
+YJR047C	Ribosome/translation
+YJR070C	Ribosome/translation
+YJR094W-A	Ribosome/translation
+YJR097W	Ribosome/translation
+YJR113C	Ribosome/translation
+YJR123W	Ribosome/translation
+YKL006W	Ribosome/translation
+YKL009W	Ribosome/translation
+YKL014C	Ribosome/translation
+YKL021C	Ribosome/translation
+YKL056C	Ribosome/translation
+YKL078W	Ribosome/translation
+YKL081W	Ribosome/translation
+YKL082C	Ribosome/translation
+YKL099C	Ribosome/translation
+YKL110C	Ribosome/translation
+YKL125W	Ribosome/translation
+YKL142W	Ribosome/translation
+YKL144C	Ribosome/translation
+YKL156W	Ribosome/translation
+YKL167C	Ribosome/translation
+YKL172W	Ribosome/translation
+YKL180W	Ribosome/translation
+YKL191W	Ribosome/translation
+YKL205W	Ribosome/translation
+YKR024C	Ribosome/translation
+YKR025W	Ribosome/translation
+YKR056W	Ribosome/translation
+YKR057W	Ribosome/translation
+YKR059W	Ribosome/translation
+YKR060W	Ribosome/translation
+YKR079C	Ribosome/translation
+YKR081C	Ribosome/translation
+YKR092C	Ribosome/translation
+YKR094C	Ribosome/translation
+YLL008W	Ribosome/translation
+YLL011W	Ribosome/translation
+YLL018C	Ribosome/translation
+YLL034C	Ribosome/translation
+YLL035W	Ribosome/translation
+YLL045C	Ribosome/translation
+YLR002C	Ribosome/translation
+YLR003C	Ribosome/translation
+YLR009W	Ribosome/translation
+YLR022C	Ribosome/translation
+YLR029C	Ribosome/translation
+YLR048W	Ribosome/translation
+YLR051C	Ribosome/translation
+YLR060W	Ribosome/translation
+YLR061W	Ribosome/translation
+YLR068W	Ribosome/translation
+YLR075W	Ribosome/translation
+YLR105C	Ribosome/translation
+YLR106C	Ribosome/translation
+YLR107W	Ribosome/translation
+YLR129W	Ribosome/translation
+YLR141W	Ribosome/translation
+YLR145W	Ribosome/translation
+YLR147C	Ribosome/translation
+YLR165C	Ribosome/translation
+YLR167W	Ribosome/translation
+YLR172C	Ribosome/translation
+YLR175W	Ribosome/translation
+YLR185W	Ribosome/translation
+YLR186W	Ribosome/translation
+YLR192C	Ribosome/translation
+YLR196W	Ribosome/translation
+YLR197W	Ribosome/translation
+YLR221C	Ribosome/translation
+YLR222C	Ribosome/translation
+YLR223C	Ribosome/translation
+YLR249W	Ribosome/translation
+YLR264W	Ribosome/translation
+YLR275W	Ribosome/translation
+YLR276C	Ribosome/translation
+YLR287C-A	Ribosome/translation
+YLR289W	Ribosome/translation
+YLR291C	Ribosome/translation
+YLR316C	Ribosome/translation
+YLR325C	Ribosome/translation
+YLR333C	Ribosome/translation
+YLR334C	Ribosome/translation
+YLR336C	Ribosome/translation
+YLR344W	Ribosome/translation
+YLR363C	Ribosome/translation
+YLR367W	Ribosome/translation
+YLR375W	Ribosome/translation
+YLR384C	Ribosome/translation
+YLR388W	Ribosome/translation
+YLR397C	Ribosome/translation
+YLR401C	Ribosome/translation
+YLR403W	Ribosome/translation
+YLR405W	Ribosome/translation
+YLR406C	Ribosome/translation
+YLR409C	Ribosome/translation
+YLR441C	Ribosome/translation
+YLR448W	Ribosome/translation
+YML005W	Ribosome/translation
+YML009C	Ribosome/translation
+YML014W	Ribosome/translation
+YML026C	Ribosome/translation
+YML043C	Ribosome/translation
+YML063W	Ribosome/translation
+YML068W	Ribosome/translation
+YML073C	Ribosome/translation
+YML093W	Ribosome/translation
+YMR012W	Ribosome/translation
+YMR023C	Ribosome/translation
+YMR049C	Ribosome/translation
+YMR059W	Ribosome/translation
+YMR093W	Ribosome/translation
+YMR116C	Ribosome/translation
+YMR121C	Ribosome/translation
+YMR128W	Ribosome/translation
+YMR131C	Ribosome/translation
+YMR143W	Ribosome/translation
+YMR146C	Ribosome/translation
+YMR193C-A	Ribosome/translation
+YMR194W	Ribosome/translation
+YMR225C	Ribosome/translation
+YMR229C	Ribosome/translation
+YMR230W	Ribosome/translation
+YMR239C	Ribosome/translation
+YMR260C	Ribosome/translation
+YMR270C	Ribosome/translation
+YMR282C	Ribosome/translation
+YMR283C	Ribosome/translation
+YMR285C	Ribosome/translation
+YMR290C	Ribosome/translation
+YMR309C	Ribosome/translation
+YMR312W	Ribosome/translation
+YNL002C	Ribosome/translation
+YNL014W	Ribosome/translation
+YNL039W	Ribosome/translation
+YNL061W	Ribosome/translation
+YNL062C	Ribosome/translation
+YNL067W	Ribosome/translation
+YNL075W	Ribosome/translation
+YNL081C	Ribosome/translation
+YNL096C	Ribosome/translation
+YNL110C	Ribosome/translation
+YNL112W	Ribosome/translation
+YNL113W	Ribosome/translation
+YNL119W	Ribosome/translation
+YNL124W	Ribosome/translation
+YNL132W	Ribosome/translation
+YNL151C	Ribosome/translation
+YNL162W	Ribosome/translation
+YNL163C	Ribosome/translation
+YNL178W	Ribosome/translation
+YNL182C	Ribosome/translation
+YNL207W	Ribosome/translation
+YNL221C	Ribosome/translation
+YNL244C	Ribosome/translation
+YNL247W	Ribosome/translation
+YNL282W	Ribosome/translation
+YNL292W	Ribosome/translation
+YNL299W	Ribosome/translation
+YNL302C	Ribosome/translation
+YNL308C	Ribosome/translation
+YNR003C	Ribosome/translation
+YNR015W	Ribosome/translation
+YNR022C	Ribosome/translation
+YNR038W	Ribosome/translation
+YNR046W	Ribosome/translation
+YNR052C	Ribosome/translation
+YNR053C	Ribosome/translation
+YNR054C	Ribosome/translation
+YOL010W	Ribosome/translation
+YOL022C	Ribosome/translation
+YOL039W	Ribosome/translation
+YOL040C	Ribosome/translation
+YOL041C	Ribosome/translation
+YOL066C	Ribosome/translation
+YOL077C	Ribosome/translation
+YOL080C	Ribosome/translation
+YOL093W	Ribosome/translation
+YOL097C	Ribosome/translation
+YOL102C	Ribosome/translation
+YOL115W	Ribosome/translation
+YOL120C	Ribosome/translation
+YOL124C	Ribosome/translation
+YOL127W	Ribosome/translation
+YOL141W	Ribosome/translation
+YOL144W	Ribosome/translation
+YOR004W	Ribosome/translation
+YOR046C	Ribosome/translation
+YOR048C	Ribosome/translation
+YOR056C	Ribosome/translation
+YOR063W	Ribosome/translation
+YOR078W	Ribosome/translation
+YOR119C	Ribosome/translation
+YOR133W	Ribosome/translation
+YOR149C	Ribosome/translation
+YOR159C	Ribosome/translation
+YOR167C	Ribosome/translation
+YOR168W	Ribosome/translation
+YOR182C	Ribosome/translation
+YOR206W	Ribosome/translation
+YOR243C	Ribosome/translation
+YOR260W	Ribosome/translation
+YOR272W	Ribosome/translation
+YOR274W	Ribosome/translation
+YOR276W	Ribosome/translation
+YOR287C	Ribosome/translation
+YOR293W	Ribosome/translation
+YOR294W	Ribosome/translation
+YOR309C	Ribosome/translation
+YOR310C	Ribosome/translation
+YOR335C	Ribosome/translation
+YOR361C	Ribosome/translation
+YPL007C	Ribosome/translation
+YPL012W	Ribosome/translation
+YPL029W	Ribosome/translation
+YPL043W	Ribosome/translation
+YPL079W	Ribosome/translation
+YPL081W	Ribosome/translation
+YPL083C	Ribosome/translation
+YPL086C	Ribosome/translation
+YPL090C	Ribosome/translation
+YPL093W	Ribosome/translation
+YPL101W	Ribosome/translation
+YPL102C	Ribosome/translation
+YPL104W	Ribosome/translation
+YPL119C	Ribosome/translation
+YPL126W	Ribosome/translation
+YPL131W	Ribosome/translation
+YPL143W	Ribosome/translation
+YPL146C	Ribosome/translation
+YPL160W	Ribosome/translation
+YPL183W-A	Ribosome/translation
+YPL198W	Ribosome/translation
+YPL207W	Ribosome/translation
+YPL208W	Ribosome/translation
+YPL211W	Ribosome/translation
+YPL212C	Ribosome/translation
+YPL217C	Ribosome/translation
+YPL220W	Ribosome/translation
+YPL235W	Ribosome/translation
+YPL237W	Ribosome/translation
+YPL266W	Ribosome/translation
+YPR016C	Ribosome/translation
+YPR033C	Ribosome/translation
+YPR041W	Ribosome/translation
+YPR043W	Ribosome/translation
+YPR104C	Ribosome/translation
+YPR110C	Ribosome/translation
+YPR112C	Ribosome/translation
+YPR132W	Ribosome/translation
+YPR137W	Ribosome/translation
+YPR143W	Ribosome/translation
+YPR144C	Ribosome/translation
+YPR169W	Ribosome/translation
+YPR186C	Ribosome/translation
+YPR190C	Ribosome/translation
+YLR293C	Ribosome/translation
+YHR052W	Ribosome/translation
+YAL021C	RNA processing
+YAL021C	RNA processing
+YAL032C	RNA processing
+YAL033W	RNA processing
+YAL043C	RNA processing
+YAR008W	RNA processing
+YBL004W	RNA processing
+YBL018C	RNA processing
+YBL026W	RNA processing
+YBL032W	RNA processing
+YBL074C	RNA processing
+YBR022W	RNA processing
+YBR034C	RNA processing
+YBR049C	RNA processing
+YBR055C	RNA processing
+YBR064W	RNA processing
+YBR065C	RNA processing
+YBR102C	RNA processing
+YBR111W-A	RNA processing
+YBR119W	RNA processing
+YBR130C	RNA processing
+YBR142W	RNA processing
+YBR152W	RNA processing
+YBR167C	RNA processing
+YBR188C	RNA processing
+YBR236C	RNA processing
+YBR237W	RNA processing
+YBR257W	RNA processing
+YCL011C	RNA processing
+YCL031C	RNA processing
+YCL054W	RNA processing
+YCL059C	RNA processing
+YCR019W	RNA processing
+YCR035C	RNA processing
+YCR057C	RNA processing
+YCR063W	RNA processing
+YCR072C	RNA processing
+YCR077C	RNA processing
+YCR079W	RNA processing
+YCR093W	RNA processing
+YDL014W	RNA processing
+YDL030W	RNA processing
+YDL031W	RNA processing
+YDL043C	RNA processing
+YDL051W	RNA processing
+YDL060W	RNA processing
+YDL084W	RNA processing
+YDL087C	RNA processing
+YDL098C	RNA processing
+YDL111C	RNA processing
+YDL140C	RNA processing
+YDL148C	RNA processing
+YDL150W	RNA processing
+YDL153C	RNA processing
+YDL165W	RNA processing
+YDL175C	RNA processing
+YDL207W	RNA processing
+YDL208W	RNA processing
+YDL209C	RNA processing
+YDL213C	RNA processing
+YDL219W	RNA processing
+YDR002W	RNA processing
+YDR021W	RNA processing
+YDR023W	RNA processing
+YDR037W	RNA processing
+YDR083W	RNA processing
+YDR087C	RNA processing
+YDR088C	RNA processing
+YDR151C	RNA processing
+YDR152W	RNA processing
+YDR159W	RNA processing
+YDR163W	RNA processing
+YDR206W	RNA processing
+YDR228C	RNA processing
+YDR235W	RNA processing
+YDR240C	RNA processing
+YDR243C	RNA processing
+YDR252W	RNA processing
+YDR280W	RNA processing
+YDR299W	RNA processing
+YDR301W	RNA processing
+YDR324C	RNA processing
+YDR339C	RNA processing
+YDR364C	RNA processing
+YDR365C	RNA processing
+YDR378C	RNA processing
+YDR381W	RNA processing
+YDR398W	RNA processing
+YDR412W	RNA processing
+YDR416W	RNA processing
+YDR432W	RNA processing
+YDR449C	RNA processing
+YDR464W	RNA processing
+YDR473C	RNA processing
+YDR478W	RNA processing
+YDR482C	RNA processing
+YEL026W	RNA processing
+YER013W	RNA processing
+YER032W	RNA processing
+YER035W	RNA processing
+YER082C	RNA processing
+YER112W	RNA processing
+YER127W	RNA processing
+YER146W	RNA processing
+YER165W	RNA processing
+YER168C	RNA processing
+YER172C	RNA processing
+YFL002C	RNA processing
+YFL017W-A	RNA processing
+YFL022C	RNA processing
+YFL028C	RNA processing
+YFR005C	RNA processing
+YGL014W	RNA processing
+YGL044C	RNA processing
+YGL063W	RNA processing
+YGL094C	RNA processing
+YGL120C	RNA processing
+YGL122C	RNA processing
+YGL128C	RNA processing
+YGL130W	RNA processing
+YGL171W	RNA processing
+YGL174W	RNA processing
+YGL213C	RNA processing
+YGL222C	RNA processing
+YGL243W	RNA processing
+YGL245W	RNA processing
+YGR006W	RNA processing
+YGR013W	RNA processing
+YGR024C	RNA processing
+YGR030C	RNA processing
+YGR072W	RNA processing
+YGR074W	RNA processing
+YGR075C	RNA processing
+YGR090W	RNA processing
+YGR091W	RNA processing
+YGR095C	RNA processing
+YGR103W	RNA processing
+YGR128C	RNA processing
+YGR129W	RNA processing
+YGR156W	RNA processing
+YGR158C	RNA processing
+YGR195W	RNA processing
+YGR246C	RNA processing
+YGR251W	RNA processing
+YGR264C	RNA processing
+YGR271W	RNA processing
+YGR276C	RNA processing
+YGR278W	RNA processing
+YGR280C	RNA processing
+YHR019C	RNA processing
+YHR020W	RNA processing
+YHR040W	RNA processing
+YHR062C	RNA processing
+YHR065C	RNA processing
+YHR069C	RNA processing
+YHR072W-A	RNA processing
+YHR077C	RNA processing
+YHR081W	RNA processing
+YHR085W	RNA processing
+YHR086W	RNA processing
+YHR148W	RNA processing
+YHR156C	RNA processing
+YHR165C	RNA processing
+YHR170W	RNA processing
+YHR196W	RNA processing
+YHR197W	RNA processing
+YIL019W	RNA processing
+YIL038C	RNA processing
+YIL061C	RNA processing
+YIL079C	RNA processing
+YIL091C	RNA processing
+YIL096C	RNA processing
+YIL104C	RNA processing
+YIL149C	RNA processing
+YIR001C	RNA processing
+YIR005W	RNA processing
+YIR015W	RNA processing
+YJL010C	RNA processing
+YJL011C	RNA processing
+YJL033W	RNA processing
+YJL050W	RNA processing
+YJL069C	RNA processing
+YJL109C	RNA processing
+YJL124C	RNA processing
+YJL203W	RNA processing
+YJR002W	RNA processing
+YJR022W	RNA processing
+YJR050W	RNA processing
+YJR091C	RNA processing
+YJR093C	RNA processing
+YKL009W	RNA processing
+YKL012W	RNA processing
+YKL025C	RNA processing
+YKL059C	RNA processing
+YKL074C	RNA processing
+YKL078W	RNA processing
+YKL082C	RNA processing
+YKL095W	RNA processing
+YKL099C	RNA processing
+YKL130C	RNA processing
+YKL139W	RNA processing
+YKL144C	RNA processing
+YKL149C	RNA processing
+YKL173W	RNA processing
+YKL186C	RNA processing
+YKL205W	RNA processing
+YKL208W	RNA processing
+YKL214C	RNA processing
+YKR002W	RNA processing
+YKR022C	RNA processing
+YKR025W	RNA processing
+YKR036C	RNA processing
+YKR052C	RNA processing
+YKR060W	RNA processing
+YKR079C	RNA processing
+YKR081C	RNA processing
+YKR084C	RNA processing
+YKR086W	RNA processing
+YKR095W	RNA processing
+YLL008W	RNA processing
+YLL013C	RNA processing
+YLL018C	RNA processing
+YLL034C	RNA processing
+YLL035W	RNA processing
+YLL036C	RNA processing
+YLR016C	RNA processing
+YLR051C	RNA processing
+YLR059C	RNA processing
+YLR060W	RNA processing
+YLR105C	RNA processing
+YLR107W	RNA processing
+YLR115W	RNA processing
+YLR116W	RNA processing
+YLR117C	RNA processing
+YLR129W	RNA processing
+YLR136C	RNA processing
+YLR145W	RNA processing
+YLR147C	RNA processing
+YLR175W	RNA processing
+YLR186W	RNA processing
+YLR196W	RNA processing
+YLR197W	RNA processing
+YLR222C	RNA processing
+YLR275W	RNA processing
+YLR276C	RNA processing
+YLR277C	RNA processing
+YLR298C	RNA processing
+YLR323C	RNA processing
+YLR340W	RNA processing
+YLR363C	RNA processing
+YLR375W	RNA processing
+YLR397C	RNA processing
+YLR398C	RNA processing
+YLR409C	RNA processing
+YLR424W	RNA processing
+YLR438C-A	RNA processing
+YML017W	RNA processing
+YML046W	RNA processing
+YML049C	RNA processing
+YML091C	RNA processing
+YML093W	RNA processing
+YML112W	RNA processing
+YMR059W	RNA processing
+YMR061W	RNA processing
+YMR080C	RNA processing
+YMR093W	RNA processing
+YMR125W	RNA processing
+YMR128W	RNA processing
+YMR180C	RNA processing
+YMR213W	RNA processing
+YMR229C	RNA processing
+YMR235C	RNA processing
+YMR239C	RNA processing
+YMR240C	RNA processing
+YMR268C	RNA processing
+YMR285C	RNA processing
+YMR288W	RNA processing
+YMR290C	RNA processing
+YNL001W	RNA processing
+YNL004W	RNA processing
+YNL016W	RNA processing
+YNL039W	RNA processing
+YNL061W	RNA processing
+YNL075W	RNA processing
+YNL110C	RNA processing
+YNL112W	RNA processing
+YNL113W	RNA processing
+YNL118C	RNA processing
+YNL124W	RNA processing
+YNL138W-A	RNA processing
+YNL147W	RNA processing
+YNL151C	RNA processing
+YNL182C	RNA processing
+YNL187W	RNA processing
+YNL197C	RNA processing
+YNL207W	RNA processing
+YNL221C	RNA processing
+YNL222W	RNA processing
+YNL232W	RNA processing
+YNL245C	RNA processing
+YNL247W	RNA processing
+YNL251C	RNA processing
+YNL253W	RNA processing
+YNL282W	RNA processing
+YNL299W	RNA processing
+YNL317W	RNA processing
+YNR003C	RNA processing
+YNR011C	RNA processing
+YNR032C-A	RNA processing
+YNR038W	RNA processing
+YNR052C	RNA processing
+YNR054C	RNA processing
+YOL010W	RNA processing
+YOL021C	RNA processing
+YOL022C	RNA processing
+YOL041C	RNA processing
+YOL077C	RNA processing
+YOL102C	RNA processing
+YOL115W	RNA processing
+YOL123W	RNA processing
+YOL139C	RNA processing
+YOL144W	RNA processing
+YOL149W	RNA processing
+YOR001W	RNA processing
+YOR004W	RNA processing
+YOR017W	RNA processing
+YOR046C	RNA processing
+YOR048C	RNA processing
+YOR056C	RNA processing
+YOR076C	RNA processing
+YOR116C	RNA processing
+YOR119C	RNA processing
+YOR148C	RNA processing
+YOR149C	RNA processing
+YOR159C	RNA processing
+YOR168W	RNA processing
+YOR179C	RNA processing
+YOR185C	RNA processing
+YOR204W	RNA processing
+YOR243C	RNA processing
+YOR250C	RNA processing
+YOR287C	RNA processing
+YOR294W	RNA processing
+YOR308C	RNA processing
+YOR309C	RNA processing
+YOR310C	RNA processing
+YOR319W	RNA processing
+YOR361C	RNA processing
+YPL012W	RNA processing
+YPL029W	RNA processing
+YPL043W	RNA processing
+YPL064C	RNA processing
+YPL083C	RNA processing
+YPL119C	RNA processing
+YPL123C	RNA processing
+YPL126W	RNA processing
+YPL146C	RNA processing
+YPL151C	RNA processing
+YPL157W	RNA processing
+YPL169C	RNA processing
+YPL178W	RNA processing
+YPL190C	RNA processing
+YPL211W	RNA processing
+YPL213W	RNA processing
+YPL217C	RNA processing
+YPL228W	RNA processing
+YPL266W	RNA processing
+YPR057W	RNA processing
+YPR082C	RNA processing
+YPR085C	RNA processing
+YPR094W	RNA processing
+YPR101W	RNA processing
+YPR107C	RNA processing
+YPR110C	RNA processing
+YPR112C	RNA processing
+YPR129W	RNA processing
+YPR134W	RNA processing
+YPR137W	RNA processing
+YPR143W	RNA processing
+YPR152C	RNA processing
+YPR169W	RNA processing
+YPR178W	RNA processing
+YPR182W	RNA processing
+YPR187W	RNA processing
+YPR189W	RNA processing
+YPR190C	RNA processing
+YLR293C	RNA processing
+YHR052W	RNA processing
+YNL210W	RNA processing
+YAL029C	Cell polarity/morphogenesis
+YAL041W	Cell polarity/morphogenesis
+YAL063C	Cell polarity/morphogenesis
+YAR014C	Cell polarity/morphogenesis
+YAR050W	Cell polarity/morphogenesis
+YBL007C	Cell polarity/morphogenesis
+YBL037W	Cell polarity/morphogenesis
+YBL047C	Cell polarity/morphogenesis
+YBL060W	Cell polarity/morphogenesis
+YBL061C	Cell polarity/morphogenesis
+YBL062W	Cell polarity/morphogenesis
+YBL105C	Cell polarity/morphogenesis
+YBL106C	Cell polarity/morphogenesis
+YBR005W	Cell polarity/morphogenesis
+YBR023C	Cell polarity/morphogenesis
+YBR038W	Cell polarity/morphogenesis
+YBR040W	Cell polarity/morphogenesis
+YBR058C-A	Cell polarity/morphogenesis
+YBR059C	Cell polarity/morphogenesis
+YBR083W	Cell polarity/morphogenesis
+YBR102C	Cell polarity/morphogenesis
+YBR108W	Cell polarity/morphogenesis
+YBR109C	Cell polarity/morphogenesis
+YBR134W	Cell polarity/morphogenesis
+YBR158W	Cell polarity/morphogenesis
+YBR200W	Cell polarity/morphogenesis
+YBR234C	Cell polarity/morphogenesis
+YCL014W	Cell polarity/morphogenesis
+YCL024W	Cell polarity/morphogenesis
+YCL027W	Cell polarity/morphogenesis
+YCL032W	Cell polarity/morphogenesis
+YCL048W	Cell polarity/morphogenesis
+YCR002C	Cell polarity/morphogenesis
+YCR009C	Cell polarity/morphogenesis
+YCR030C	Cell polarity/morphogenesis
+YCR073C	Cell polarity/morphogenesis
+YCR088W	Cell polarity/morphogenesis
+YCR089W	Cell polarity/morphogenesis
+YDL029W	Cell polarity/morphogenesis
+YDL117W	Cell polarity/morphogenesis
+YDL127W	Cell polarity/morphogenesis
+YDL135C	Cell polarity/morphogenesis
+YDL143W	Cell polarity/morphogenesis
+YDL161W	Cell polarity/morphogenesis
+YDL214C	Cell polarity/morphogenesis
+YDL223C	Cell polarity/morphogenesis
+YDL225W	Cell polarity/morphogenesis
+YDL235C	Cell polarity/morphogenesis
+YDR036C	Cell polarity/morphogenesis
+YDR055W	Cell polarity/morphogenesis
+YDR062W	Cell polarity/morphogenesis
+YDR085C	Cell polarity/morphogenesis
+YDR099W	Cell polarity/morphogenesis
+YDR122W	Cell polarity/morphogenesis
+YDR141C	Cell polarity/morphogenesis
+YDR160W	Cell polarity/morphogenesis
+YDR162C	Cell polarity/morphogenesis
+YDR164C	Cell polarity/morphogenesis
+YDR182W	Cell polarity/morphogenesis
+YDR183W	Cell polarity/morphogenesis
+YDR188W	Cell polarity/morphogenesis
+YDR208W	Cell polarity/morphogenesis
+YDR212W	Cell polarity/morphogenesis
+YDR218C	Cell polarity/morphogenesis
+YDR264C	Cell polarity/morphogenesis
+YDR309C	Cell polarity/morphogenesis
+YDR361C	Cell polarity/morphogenesis
+YDR373W	Cell polarity/morphogenesis
+YDR379W	Cell polarity/morphogenesis
+YDR388W	Cell polarity/morphogenesis
+YDR388W	Cell polarity/morphogenesis
+YDR389W	Cell polarity/morphogenesis
+YDR480W	Cell polarity/morphogenesis
+YDR507C	Cell polarity/morphogenesis
+YEL040W	Cell polarity/morphogenesis
+YER031C	Cell polarity/morphogenesis
+YER075C	Cell polarity/morphogenesis
+YER093C	Cell polarity/morphogenesis
+YER109C	Cell polarity/morphogenesis
+YER114C	Cell polarity/morphogenesis
+YER118C	Cell polarity/morphogenesis
+YER123W	Cell polarity/morphogenesis
+YER124C	Cell polarity/morphogenesis
+YER130C	Cell polarity/morphogenesis
+YER149C	Cell polarity/morphogenesis
+YER155C	Cell polarity/morphogenesis
+YER177W	Cell polarity/morphogenesis
+YFL034C-B	Cell polarity/morphogenesis
+YFL039C	Cell polarity/morphogenesis
+YFL047W	Cell polarity/morphogenesis
+YFR024C-A	Cell polarity/morphogenesis
+YFR029W	Cell polarity/morphogenesis
+YGL001C	Cell polarity/morphogenesis
+YGL008C	Cell polarity/morphogenesis
+YGL089C	Cell polarity/morphogenesis
+YGL121C	Cell polarity/morphogenesis
+YGL150C	Cell polarity/morphogenesis
+YGL155W	Cell polarity/morphogenesis
+YGL181W	Cell polarity/morphogenesis
+YGL210W	Cell polarity/morphogenesis
+YGR014W	Cell polarity/morphogenesis
+YGR023W	Cell polarity/morphogenesis
+YGR040W	Cell polarity/morphogenesis
+YGR058W	Cell polarity/morphogenesis
+YGR060W	Cell polarity/morphogenesis
+YGR068C	Cell polarity/morphogenesis
+YGR080W	Cell polarity/morphogenesis
+YGR086C	Cell polarity/morphogenesis
+YGR136W	Cell polarity/morphogenesis
+YGR152C	Cell polarity/morphogenesis
+YGR167W	Cell polarity/morphogenesis
+YGR175C	Cell polarity/morphogenesis
+YGR198W	Cell polarity/morphogenesis
+YGR221C	Cell polarity/morphogenesis
+YGR241C	Cell polarity/morphogenesis
+YGR245C	Cell polarity/morphogenesis
+YGR268C	Cell polarity/morphogenesis
+YHL019C	Cell polarity/morphogenesis
+YHR007C	Cell polarity/morphogenesis
+YHR016C	Cell polarity/morphogenesis
+YHR023W	Cell polarity/morphogenesis
+YHR042W	Cell polarity/morphogenesis
+YHR061C	Cell polarity/morphogenesis
+YHR072W	Cell polarity/morphogenesis
+YHR082C	Cell polarity/morphogenesis
+YHR084W	Cell polarity/morphogenesis
+YHR107C	Cell polarity/morphogenesis
+YHR114W	Cell polarity/morphogenesis
+YHR135C	Cell polarity/morphogenesis
+YHR142W	Cell polarity/morphogenesis
+YHR161C	Cell polarity/morphogenesis
+YHR190W	Cell polarity/morphogenesis
+YIL002C	Cell polarity/morphogenesis
+YIL034C	Cell polarity/morphogenesis
+YIL062C	Cell polarity/morphogenesis
+YIL095W	Cell polarity/morphogenesis
+YIL105C	Cell polarity/morphogenesis
+YIL118W	Cell polarity/morphogenesis
+YIL122W	Cell polarity/morphogenesis
+YIL129C	Cell polarity/morphogenesis
+YIL138C	Cell polarity/morphogenesis
+YIL140W	Cell polarity/morphogenesis
+YIL141W	Cell polarity/morphogenesis
+YIL142W	Cell polarity/morphogenesis
+YIL147C	Cell polarity/morphogenesis
+YIR006C	Cell polarity/morphogenesis
+YIR019C	Cell polarity/morphogenesis
+YJL008C	Cell polarity/morphogenesis
+YJL014W	Cell polarity/morphogenesis
+YJL020C	Cell polarity/morphogenesis
+YJL058C	Cell polarity/morphogenesis
+YJL081C	Cell polarity/morphogenesis
+YJL084C	Cell polarity/morphogenesis
+YJL085W	Cell polarity/morphogenesis
+YJL099W	Cell polarity/morphogenesis
+YJL111W	Cell polarity/morphogenesis
+YJL128C	Cell polarity/morphogenesis
+YJL156C	Cell polarity/morphogenesis
+YJL157C	Cell polarity/morphogenesis
+YJL167W	Cell polarity/morphogenesis
+YJL170C	Cell polarity/morphogenesis
+YJL187C	Cell polarity/morphogenesis
+YJR005W	Cell polarity/morphogenesis
+YJR058C	Cell polarity/morphogenesis
+YJR064W	Cell polarity/morphogenesis
+YJR065C	Cell polarity/morphogenesis
+YJR076C	Cell polarity/morphogenesis
+YJR083C	Cell polarity/morphogenesis
+YJR092W	Cell polarity/morphogenesis
+YJR147W	Cell polarity/morphogenesis
+YKL004W	Cell polarity/morphogenesis
+YKL007W	Cell polarity/morphogenesis
+YKL013C	Cell polarity/morphogenesis
+YKL019W	Cell polarity/morphogenesis
+YKL043W	Cell polarity/morphogenesis
+YKL048C	Cell polarity/morphogenesis
+YKL051W	Cell polarity/morphogenesis
+YKL079W	Cell polarity/morphogenesis
+YKL092C	Cell polarity/morphogenesis
+YKL101W	Cell polarity/morphogenesis
+YKL104C	Cell polarity/morphogenesis
+YKL116C	Cell polarity/morphogenesis
+YKL129C	Cell polarity/morphogenesis
+YKL136W	Cell polarity/morphogenesis
+YKL178C	Cell polarity/morphogenesis
+YKL189W	Cell polarity/morphogenesis
+YKL193C	Cell polarity/morphogenesis
+YKL203C	Cell polarity/morphogenesis
+YKR014C	Cell polarity/morphogenesis
+YKR021W	Cell polarity/morphogenesis
+YKR048C	Cell polarity/morphogenesis
+YKR055W	Cell polarity/morphogenesis
+YKR063C	Cell polarity/morphogenesis
+YKR090W	Cell polarity/morphogenesis
+YKR100C	Cell polarity/morphogenesis
+YKR102W	Cell polarity/morphogenesis
+YLL017W	Cell polarity/morphogenesis
+YLL021W	Cell polarity/morphogenesis
+YLL050C	Cell polarity/morphogenesis
+YLR084C	Cell polarity/morphogenesis
+YLR088W	Cell polarity/morphogenesis
+YLR096W	Cell polarity/morphogenesis
+YLR100W	Cell polarity/morphogenesis
+YLR113W	Cell polarity/morphogenesis
+YLR114C	Cell polarity/morphogenesis
+YLR144C	Cell polarity/morphogenesis
+YLR166C	Cell polarity/morphogenesis
+YLR169W	Cell polarity/morphogenesis
+YLR170C	Cell polarity/morphogenesis
+YLR171W	Cell polarity/morphogenesis
+YLR190W	Cell polarity/morphogenesis
+YLR206W	Cell polarity/morphogenesis
+YLR229C	Cell polarity/morphogenesis
+YLR286C	Cell polarity/morphogenesis
+YLR307W	Cell polarity/morphogenesis
+YLR308W	Cell polarity/morphogenesis
+YLR313C	Cell polarity/morphogenesis
+YLR314C	Cell polarity/morphogenesis
+YLR319C	Cell polarity/morphogenesis
+YLR330W	Cell polarity/morphogenesis
+YLR337C	Cell polarity/morphogenesis
+YLR353W	Cell polarity/morphogenesis
+YLR370C	Cell polarity/morphogenesis
+YLR371W	Cell polarity/morphogenesis
+YLR389C	Cell polarity/morphogenesis
+YLR429W	Cell polarity/morphogenesis
+YLR452C	Cell polarity/morphogenesis
+YLR459W	Cell polarity/morphogenesis
+YML052W	Cell polarity/morphogenesis
+YML064C	Cell polarity/morphogenesis
+YML126C	Cell polarity/morphogenesis
+YMR007W	Cell polarity/morphogenesis
+YMR028W	Cell polarity/morphogenesis
+YMR032W	Cell polarity/morphogenesis
+YMR036C	Cell polarity/morphogenesis
+YMR043W	Cell polarity/morphogenesis
+YMR068W	Cell polarity/morphogenesis
+YMR109W	Cell polarity/morphogenesis
+YMR164C	Cell polarity/morphogenesis
+YMR192W	Cell polarity/morphogenesis
+YMR200W	Cell polarity/morphogenesis
+YMR208W	Cell polarity/morphogenesis
+YMR220W	Cell polarity/morphogenesis
+YMR232W	Cell polarity/morphogenesis
+YMR296C	Cell polarity/morphogenesis
+YNL006W	Cell polarity/morphogenesis
+YNL020C	Cell polarity/morphogenesis
+YNL032W	Cell polarity/morphogenesis
+YNL059C	Cell polarity/morphogenesis
+YNL079C	Cell polarity/morphogenesis
+YNL089C	Cell polarity/morphogenesis
+YNL090W	Cell polarity/morphogenesis
+YNL093W	Cell polarity/morphogenesis
+YNL094W	Cell polarity/morphogenesis
+YNL152W	Cell polarity/morphogenesis
+YNL154C	Cell polarity/morphogenesis
+YNL161W	Cell polarity/morphogenesis
+YNL233W	Cell polarity/morphogenesis
+YNL267W	Cell polarity/morphogenesis
+YNL271C	Cell polarity/morphogenesis
+YNL289W	Cell polarity/morphogenesis
+YNL298W	Cell polarity/morphogenesis
+YNR031C	Cell polarity/morphogenesis
+YNR035C	Cell polarity/morphogenesis
+YNR043W	Cell polarity/morphogenesis
+YNR044W	Cell polarity/morphogenesis
+YNR049C	Cell polarity/morphogenesis
+YNR067C	Cell polarity/morphogenesis
+YOL003C	Cell polarity/morphogenesis
+YOL062C	Cell polarity/morphogenesis
+YOL065C	Cell polarity/morphogenesis
+YOL078W	Cell polarity/morphogenesis
+YOL112W	Cell polarity/morphogenesis
+YOL113W	Cell polarity/morphogenesis
+YOR018W	Cell polarity/morphogenesis
+YOR034C	Cell polarity/morphogenesis
+YOR035C	Cell polarity/morphogenesis
+YOR094W	Cell polarity/morphogenesis
+YOR122C	Cell polarity/morphogenesis
+YOR127W	Cell polarity/morphogenesis
+YOR129C	Cell polarity/morphogenesis
+YOR134W	Cell polarity/morphogenesis
+YOR181W	Cell polarity/morphogenesis
+YOR208W	Cell polarity/morphogenesis
+YOR209C	Cell polarity/morphogenesis
+YOR219C	Cell polarity/morphogenesis
+YOR237W	Cell polarity/morphogenesis
+YOR239W	Cell polarity/morphogenesis
+YOR281C	Cell polarity/morphogenesis
+YOR301W	Cell polarity/morphogenesis
+YOR326W	Cell polarity/morphogenesis
+YOR329C	Cell polarity/morphogenesis
+YOR353C	Cell polarity/morphogenesis
+YOR367W	Cell polarity/morphogenesis
+YPL004C	Cell polarity/morphogenesis
+YPL028W	Cell polarity/morphogenesis
+YPL032C	Cell polarity/morphogenesis
+YPL057C	Cell polarity/morphogenesis
+YPL115C	Cell polarity/morphogenesis
+YPL161C	Cell polarity/morphogenesis
+YPL187W	Cell polarity/morphogenesis
+YPL192C	Cell polarity/morphogenesis
+YPL204W	Cell polarity/morphogenesis
+YPL242C	Cell polarity/morphogenesis
+YPL259C	Cell polarity/morphogenesis
+YPR029C	Cell polarity/morphogenesis
+YPR030W	Cell polarity/morphogenesis
+YPR040W	Cell polarity/morphogenesis
+YPR075C	Cell polarity/morphogenesis
+YPR113W	Cell polarity/morphogenesis
+YPR122W	Cell polarity/morphogenesis
+YPR124W	Cell polarity/morphogenesis
+YPR129W	Cell polarity/morphogenesis
+YPR165W	Cell polarity/morphogenesis
+YPR171W	Cell polarity/morphogenesis
+YPR188C	Cell polarity/morphogenesis
+YDL090C	Cell polarity/morphogenesis
+YNL138W	Cell polarity/morphogenesis
+YHR005C	Cell polarity/morphogenesis
+YAL058W	Protein degredation/proteosome
+YBL041W	Protein degredation/proteosome
+YBL058W	Protein degredation/proteosome
+YBL084C	Protein degredation/proteosome
+YBR082C	Protein degredation/proteosome
+YBR165W	Protein degredation/proteosome
+YBR201W	Protein degredation/proteosome
+YBR280C	Protein degredation/proteosome
+YCL043C	Protein degredation/proteosome
+YCL057W	Protein degredation/proteosome
+YDL007W	Protein degredation/proteosome
+YDL008W	Protein degredation/proteosome
+YDL020C	Protein degredation/proteosome
+YDL045C	Protein degredation/proteosome
+YDL091C	Protein degredation/proteosome
+YDL097C	Protein degredation/proteosome
+YDL126C	Protein degredation/proteosome
+YDL132W	Protein degredation/proteosome
+YDL147W	Protein degredation/proteosome
+YDL190C	Protein degredation/proteosome
+YDL216C	Protein degredation/proteosome
+YDR054C	Protein degredation/proteosome
+YDR057W	Protein degredation/proteosome
+YDR118W	Protein degredation/proteosome
+YDR131C	Protein degredation/proteosome
+YDR139C	Protein degredation/proteosome
+YDR143C	Protein degredation/proteosome
+YDR179C	Protein degredation/proteosome
+YDR304C	Protein degredation/proteosome
+YDR363W-A	Protein degredation/proteosome
+YDR394W	Protein degredation/proteosome
+YDR400W	Protein degredation/proteosome
+YDR411C	Protein degredation/proteosome
+YDR427W	Protein degredation/proteosome
+YER012W	Protein degredation/proteosome
+YER017C	Protein degredation/proteosome
+YER019C-A	Protein degredation/proteosome
+YER021W	Protein degredation/proteosome
+YER094C	Protein degredation/proteosome
+YER100W	Protein degredation/proteosome
+YER143W	Protein degredation/proteosome
+YER171W	Protein degredation/proteosome
+YFL007W	Protein degredation/proteosome
+YFL009W	Protein degredation/proteosome
+YFL044C	Protein degredation/proteosome
+YFR004W	Protein degredation/proteosome
+YFR041C	Protein degredation/proteosome
+YFR050C	Protein degredation/proteosome
+YFR052W	Protein degredation/proteosome
+YGL003C	Protein degredation/proteosome
+YGL004C	Protein degredation/proteosome
+YGL011C	Protein degredation/proteosome
+YGL048C	Protein degredation/proteosome
+YGL058W	Protein degredation/proteosome
+YGL116W	Protein degredation/proteosome
+YGL141W	Protein degredation/proteosome
+YGR003W	Protein degredation/proteosome
+YGR038W	Protein degredation/proteosome
+YGR048W	Protein degredation/proteosome
+YGR049W	Protein degredation/proteosome
+YGR135W	Protein degredation/proteosome
+YGR225W	Protein degredation/proteosome
+YGR232W	Protein degredation/proteosome
+YGR253C	Protein degredation/proteosome
+YHL030W	Protein degredation/proteosome
+YHR079C	Protein degredation/proteosome
+YHR166C	Protein degredation/proteosome
+YHR176W	Protein degredation/proteosome
+YHR200W	Protein degredation/proteosome
+YHR204W	Protein degredation/proteosome
+YIL005W	Protein degredation/proteosome
+YIL007C	Protein degredation/proteosome
+YIL015W	Protein degredation/proteosome
+YIL030C	Protein degredation/proteosome
+YIL046W	Protein degredation/proteosome
+YIL071C	Protein degredation/proteosome
+YIL075C	Protein degredation/proteosome
+YIR011C	Protein degredation/proteosome
+YJL001W	Protein degredation/proteosome
+YJL073W	Protein degredation/proteosome
+YJL149W	Protein degredation/proteosome
+YJR052W	Protein degredation/proteosome
+YJR062C	Protein degredation/proteosome
+YJR084W	Protein degredation/proteosome
+YJR099W	Protein degredation/proteosome
+YJR131W	Protein degredation/proteosome
+YKL022C	Protein degredation/proteosome
+YKL073W	Protein degredation/proteosome
+YKL145W	Protein degredation/proteosome
+YKL206C	Protein degredation/proteosome
+YKR087C	Protein degredation/proteosome
+YLR021W	Protein degredation/proteosome
+YLR097C	Protein degredation/proteosome
+YLR127C	Protein degredation/proteosome
+YLR128W	Protein degredation/proteosome
+YLR199C	Protein degredation/proteosome
+YLR207W	Protein degredation/proteosome
+YLR306W	Protein degredation/proteosome
+YLR350W	Protein degredation/proteosome
+YLR368W	Protein degredation/proteosome
+YLR421C	Protein degredation/proteosome
+YML029W	Protein degredation/proteosome
+YML092C	Protein degredation/proteosome
+YML130C	Protein degredation/proteosome
+YMR022W	Protein degredation/proteosome
+YMR025W	Protein degredation/proteosome
+YMR067C	Protein degredation/proteosome
+YMR161W	Protein degredation/proteosome
+YMR200W	Protein degredation/proteosome
+YMR214W	Protein degredation/proteosome
+YMR264W	Protein degredation/proteosome
+YMR276W	Protein degredation/proteosome
+YMR314W	Protein degredation/proteosome
+YNL172W	Protein degredation/proteosome
+YOL013C	Protein degredation/proteosome
+YOL038W	Protein degredation/proteosome
+YOL088C	Protein degredation/proteosome
+YOL117W	Protein degredation/proteosome
+YOL133W	Protein degredation/proteosome
+YOR042W	Protein degredation/proteosome
+YOR056C	Protein degredation/proteosome
+YOR117W	Protein degredation/proteosome
+YOR157C	Protein degredation/proteosome
+YOR249C	Protein degredation/proteosome
+YOR259C	Protein degredation/proteosome
+YOR261C	Protein degredation/proteosome
+YOR362C	Protein degredation/proteosome
+YPL003W	Protein degredation/proteosome
+YPL046C	Protein degredation/proteosome
+YPL144W	Protein degredation/proteosome
+YPL153C	Protein degredation/proteosome
+YPL267W	Protein degredation/proteosome
+YPR061C	Protein degredation/proteosome
+YPR066W	Protein degredation/proteosome
+YPR103W	Protein degredation/proteosome
+YPR108W	Protein degredation/proteosome
+YPR122W	Protein degredation/proteosome
+YHR027C	Protein degredation/proteosome
+YHR052W	Protein degredation/proteosome
+YAL001C	Chromatin/transcription
+YAL011W	Chromatin/transcription
+YAL013W	Chromatin/transcription
+YAL021C	Chromatin/transcription
+YAL021C	Chromatin/transcription
+YAL051W	Chromatin/transcription
+YAR003W	Chromatin/transcription
+YBL003C	Chromatin/transcription
+YBL008W	Chromatin/transcription
+YBL014C	Chromatin/transcription
+YBL021C	Chromatin/transcription
+YBL052C	Chromatin/transcription
+YBL103C	Chromatin/transcription
+YBR009C	Chromatin/transcription
+YBR010W	Chromatin/transcription
+YBR049C	Chromatin/transcription
+YBR066C	Chromatin/transcription
+YBR083W	Chromatin/transcription
+YBR095C	Chromatin/transcription
+YBR103W	Chromatin/transcription
+YBR111W-A	Chromatin/transcription
+YBR112C	Chromatin/transcription
+YBR123C	Chromatin/transcription
+YBR154C	Chromatin/transcription
+YBR175W	Chromatin/transcription
+YBR182C	Chromatin/transcription
+YBR193C	Chromatin/transcription
+YBR195C	Chromatin/transcription
+YBR198C	Chromatin/transcription
+YBR215W	Chromatin/transcription
+YBR216C	Chromatin/transcription
+YBR231C	Chromatin/transcription
+YBR245C	Chromatin/transcription
+YBR253W	Chromatin/transcription
+YBR258C	Chromatin/transcription
+YBR289W	Chromatin/transcription
+YCL010C	Chromatin/transcription
+YCL017C	Chromatin/transcription
+YCL055W	Chromatin/transcription
+YCR033W	Chromatin/transcription
+YCR052W	Chromatin/transcription
+YCR082W	Chromatin/transcription
+YCR091W	Chromatin/transcription
+YCR093W	Chromatin/transcription
+YDL002C	Chromatin/transcription
+YDL005C	Chromatin/transcription
+YDL056W	Chromatin/transcription
+YDL070W	Chromatin/transcription
+YDL074C	Chromatin/transcription
+YDL108W	Chromatin/transcription
+YDL139C	Chromatin/transcription
+YDL140C	Chromatin/transcription
+YDL150W	Chromatin/transcription
+YDL170W	Chromatin/transcription
+YDL197C	Chromatin/transcription
+YDL236W	Chromatin/transcription
+YDR009W	Chromatin/transcription
+YDR045C	Chromatin/transcription
+YDR073W	Chromatin/transcription
+YDR081C	Chromatin/transcription
+YDR096W	Chromatin/transcription
+YDR123C	Chromatin/transcription
+YDR145W	Chromatin/transcription
+YDR146C	Chromatin/transcription
+YDR151C	Chromatin/transcription
+YDR155C	Chromatin/transcription
+YDR156W	Chromatin/transcription
+YDR167W	Chromatin/transcription
+YDR174W	Chromatin/transcription
+YDR181C	Chromatin/transcription
+YDR190C	Chromatin/transcription
+YDR207C	Chromatin/transcription
+YDR216W	Chromatin/transcription
+YDR223W	Chromatin/transcription
+YDR224C	Chromatin/transcription
+YDR225W	Chromatin/transcription
+YDR252W	Chromatin/transcription
+YDR253C	Chromatin/transcription
+YDR257C	Chromatin/transcription
+YDR259C	Chromatin/transcription
+YDR289C	Chromatin/transcription
+YDR303C	Chromatin/transcription
+YDR308C	Chromatin/transcription
+YDR310C	Chromatin/transcription
+YDR311W	Chromatin/transcription
+YDR334W	Chromatin/transcription
+YDR359C	Chromatin/transcription
+YDR360W	Chromatin/transcription
+YDR362C	Chromatin/transcription
+YDR392W	Chromatin/transcription
+YDR397C	Chromatin/transcription
+YDR404C	Chromatin/transcription
+YDR423C	Chromatin/transcription
+YDR440W	Chromatin/transcription
+YDR448W	Chromatin/transcription
+YDR451C	Chromatin/transcription
+YDR457W	Chromatin/transcription
+YDR460W	Chromatin/transcription
+YDR469W	Chromatin/transcription
+YDR485C	Chromatin/transcription
+YDR501W	Chromatin/transcription
+YDR527W	Chromatin/transcription
+YEL018W	Chromatin/transcription
+YER022W	Chromatin/transcription
+YER030W	Chromatin/transcription
+YER045C	Chromatin/transcription
+YER051W	Chromatin/transcription
+YER063W	Chromatin/transcription
+YER088C	Chromatin/transcription
+YER109C	Chromatin/transcription
+YER111C	Chromatin/transcription
+YER148W	Chromatin/transcription
+YER159C	Chromatin/transcription
+YER161C	Chromatin/transcription
+YER164W	Chromatin/transcription
+YFL013C	Chromatin/transcription
+YFL021W	Chromatin/transcription
+YFL024C	Chromatin/transcription
+YFL028C	Chromatin/transcription
+YFR013W	Chromatin/transcription
+YFR034C	Chromatin/transcription
+YFR037C	Chromatin/transcription
+YGL013C	Chromatin/transcription
+YGL014W	Chromatin/transcription
+YGL037C	Chromatin/transcription
+YGL043W	Chromatin/transcription
+YGL060W	Chromatin/transcription
+YGL066W	Chromatin/transcription
+YGL073W	Chromatin/transcription
+YGL096W	Chromatin/transcription
+YGL112C	Chromatin/transcription
+YGL127C	Chromatin/transcription
+YGL133W	Chromatin/transcription
+YGL149W	Chromatin/transcription
+YGL150C	Chromatin/transcription
+YGL151W	Chromatin/transcription
+YGL162W	Chromatin/transcription
+YGL166W	Chromatin/transcription
+YGL194C	Chromatin/transcription
+YGL207W	Chromatin/transcription
+YGL209W	Chromatin/transcription
+YGL224C	Chromatin/transcription
+YGL237C	Chromatin/transcription
+YGL244W	Chromatin/transcription
+YGL252C	Chromatin/transcription
+YGL254W	Chromatin/transcription
+YGR002C	Chromatin/transcription
+YGR005C	Chromatin/transcription
+YGR044C	Chromatin/transcription
+YGR047C	Chromatin/transcription
+YGR097W	Chromatin/transcription
+YGR116W	Chromatin/transcription
+YGR134W	Chromatin/transcription
+YGR147C	Chromatin/transcription
+YGR186W	Chromatin/transcription
+YGR246C	Chromatin/transcription
+YGR252W	Chromatin/transcription
+YGR262C	Chromatin/transcription
+YGR270W	Chromatin/transcription
+YGR274C	Chromatin/transcription
+YGR275W	Chromatin/transcription
+YHL009C	Chromatin/transcription
+YHL025W	Chromatin/transcription
+YHR006W	Chromatin/transcription
+YHR013C	Chromatin/transcription
+YHR041C	Chromatin/transcription
+YHR058C	Chromatin/transcription
+YHR074W	Chromatin/transcription
+YHR124W	Chromatin/transcription
+YHR143W-A	Chromatin/transcription
+YIL010W	Chromatin/transcription
+YIL021W	Chromatin/transcription
+YIL036W	Chromatin/transcription
+YIL038C	Chromatin/transcription
+YIL056W	Chromatin/transcription
+YIL084C	Chromatin/transcription
+YIL101C	Chromatin/transcription
+YIL112W	Chromatin/transcription
+YIL119C	Chromatin/transcription
+YIL126W	Chromatin/transcription
+YIL131C	Chromatin/transcription
+YIL143C	Chromatin/transcription
+YIR013C	Chromatin/transcription
+YIR018W	Chromatin/transcription
+YJL011C	Chromatin/transcription
+YJL025W	Chromatin/transcription
+YJL065C	Chromatin/transcription
+YJL076W	Chromatin/transcription
+YJL081C	Chromatin/transcription
+YJL110C	Chromatin/transcription
+YJL116C	Chromatin/transcription
+YJL148W	Chromatin/transcription
+YJL168C	Chromatin/transcription
+YJL176C	Chromatin/transcription
+YJR017C	Chromatin/transcription
+YJR049C	Chromatin/transcription
+YJR082C	Chromatin/transcription
+YJR093C	Chromatin/transcription
+YJR119C	Chromatin/transcription
+YJR127C	Chromatin/transcription
+YJR140C	Chromatin/transcription
+YJR147W	Chromatin/transcription
+YKL005C	Chromatin/transcription
+YKL015W	Chromatin/transcription
+YKL018W	Chromatin/transcription
+YKL028W	Chromatin/transcription
+YKL033W	Chromatin/transcription
+YKL038W	Chromatin/transcription
+YKL043W	Chromatin/transcription
+YKL058W	Chromatin/transcription
+YKL109W	Chromatin/transcription
+YKL112W	Chromatin/transcription
+YKL125W	Chromatin/transcription
+YKL139W	Chromatin/transcription
+YKL144C	Chromatin/transcription
+YKL160W	Chromatin/transcription
+YKL185W	Chromatin/transcription
+YKR008W	Chromatin/transcription
+YKR025W	Chromatin/transcription
+YKR029C	Chromatin/transcription
+YKR036C	Chromatin/transcription
+YKR038C	Chromatin/transcription
+YKR062W	Chromatin/transcription
+YKR077W	Chromatin/transcription
+YKR101W	Chromatin/transcription
+YLR005W	Chromatin/transcription
+YLR013W	Chromatin/transcription
+YLR014C	Chromatin/transcription
+YLR015W	Chromatin/transcription
+YLR033W	Chromatin/transcription
+YLR071C	Chromatin/transcription
+YLR085C	Chromatin/transcription
+YLR092W	Chromatin/transcription
+YLR095C	Chromatin/transcription
+YLR098C	Chromatin/transcription
+YLR131C	Chromatin/transcription
+YLR141W	Chromatin/transcription
+YLR153C	Chromatin/transcription
+YLR176C	Chromatin/transcription
+YLR182W	Chromatin/transcription
+YLR215C	Chromatin/transcription
+YLR223C	Chromatin/transcription
+YLR285W	Chromatin/transcription
+YLR321C	Chromatin/transcription
+YLR340W	Chromatin/transcription
+YLR357W	Chromatin/transcription
+YLR357W	Chromatin/transcription
+YLR385C	Chromatin/transcription
+YLR403W	Chromatin/transcription
+YLR418C	Chromatin/transcription
+YLR430W	Chromatin/transcription
+YLR449W	Chromatin/transcription
+YML007W	Chromatin/transcription
+YML010C-B	Chromatin/transcription
+YML010W	Chromatin/transcription
+YML015C	Chromatin/transcription
+YML027W	Chromatin/transcription
+YML041C	Chromatin/transcription
+YML043C	Chromatin/transcription
+YML051W	Chromatin/transcription
+YML069W	Chromatin/transcription
+YML076C	Chromatin/transcription
+YML098W	Chromatin/transcription
+YML102W	Chromatin/transcription
+YML112W	Chromatin/transcription
+YML114C	Chromatin/transcription
+YML127W	Chromatin/transcription
+YMR005W	Chromatin/transcription
+YMR033W	Chromatin/transcription
+YMR039C	Chromatin/transcription
+YMR043W	Chromatin/transcription
+YMR044W	Chromatin/transcription
+YMR053C	Chromatin/transcription
+YMR069W	Chromatin/transcription
+YMR070W	Chromatin/transcription
+YMR075W	Chromatin/transcription
+YMR112C	Chromatin/transcription
+YMR127C	Chromatin/transcription
+YMR136W	Chromatin/transcription
+YMR164C	Chromatin/transcription
+YMR172W	Chromatin/transcription
+YMR179W	Chromatin/transcription
+YMR219W	Chromatin/transcription
+YMR223W	Chromatin/transcription
+YMR227C	Chromatin/transcription
+YMR236W	Chromatin/transcription
+YMR263W	Chromatin/transcription
+YMR270C	Chromatin/transcription
+YMR277W	Chromatin/transcription
+YMR280C	Chromatin/transcription
+YNL021W	Chromatin/transcription
+YNL030W	Chromatin/transcription
+YNL031C	Chromatin/transcription
+YNL039W	Chromatin/transcription
+YNL059C	Chromatin/transcription
+YNL068C	Chromatin/transcription
+YNL076W	Chromatin/transcription
+YNL097C	Chromatin/transcription
+YNL107W	Chromatin/transcription
+YNL113W	Chromatin/transcription
+YNL136W	Chromatin/transcription
+YNL151C	Chromatin/transcription
+YNL215W	Chromatin/transcription
+YNL216W	Chromatin/transcription
+YNL222W	Chromatin/transcription
+YNL230C	Chromatin/transcription
+YNL236W	Chromatin/transcription
+YNL251C	Chromatin/transcription
+YNL309W	Chromatin/transcription
+YNL314W	Chromatin/transcription
+YNL330C	Chromatin/transcription
+YNR003C	Chromatin/transcription
+YNR009W	Chromatin/transcription
+YNR010W	Chromatin/transcription
+YOL004W	Chromatin/transcription
+YOL005C	Chromatin/transcription
+YOL012C	Chromatin/transcription
+YOL017W	Chromatin/transcription
+YOL050C	Chromatin/transcription
+YOL054W	Chromatin/transcription
+YOL063C	Chromatin/transcription
+YOL067C	Chromatin/transcription
+YOL068C	Chromatin/transcription
+YOL089C	Chromatin/transcription
+YOL116W	Chromatin/transcription
+YOL135C	Chromatin/transcription
+YOR023C	Chromatin/transcription
+YOR028C	Chromatin/transcription
+YOR032C	Chromatin/transcription
+YOR038C	Chromatin/transcription
+YOR064C	Chromatin/transcription
+YOR066W	Chromatin/transcription
+YOR083W	Chromatin/transcription
+YOR113W	Chromatin/transcription
+YOR116C	Chromatin/transcription
+YOR123C	Chromatin/transcription
+YOR140W	Chromatin/transcription
+YOR151C	Chromatin/transcription
+YOR162C	Chromatin/transcription
+YOR172W	Chromatin/transcription
+YOR174W	Chromatin/transcription
+YOR189W	Chromatin/transcription
+YOR194C	Chromatin/transcription
+YOR209C	Chromatin/transcription
+YOR210W	Chromatin/transcription
+YOR213C	Chromatin/transcription
+YOR224C	Chromatin/transcription
+YOR230W	Chromatin/transcription
+YOR244W	Chromatin/transcription
+YOR279C	Chromatin/transcription
+YOR290C	Chromatin/transcription
+YOR295W	Chromatin/transcription
+YOR298C-A	Chromatin/transcription
+YOR304W	Chromatin/transcription
+YOR337W	Chromatin/transcription
+YOR340C	Chromatin/transcription
+YOR341W	Chromatin/transcription
+YOR358W	Chromatin/transcription
+YOR363C	Chromatin/transcription
+YOR372C	Chromatin/transcription
+YOR380W	Chromatin/transcription
+YPL001W	Chromatin/transcription
+YPL007C	Chromatin/transcription
+YPL011C	Chromatin/transcription
+YPL015C	Chromatin/transcription
+YPL016W	Chromatin/transcription
+YPL038W	Chromatin/transcription
+YPL047W	Chromatin/transcription
+YPL048W	Chromatin/transcription
+YPL055C	Chromatin/transcription
+YPL075W	Chromatin/transcription
+YPL082C	Chromatin/transcription
+YPL116W	Chromatin/transcription
+YPL122C	Chromatin/transcription
+YPL127C	Chromatin/transcription
+YPL128C	Chromatin/transcription
+YPL133C	Chromatin/transcription
+YPL138C	Chromatin/transcription
+YPL139C	Chromatin/transcription
+YPL181W	Chromatin/transcription
+YPL202C	Chromatin/transcription
+YPL230W	Chromatin/transcription
+YPL235W	Chromatin/transcription
+YPL248C	Chromatin/transcription
+YPR008W	Chromatin/transcription
+YPR010C	Chromatin/transcription
+YPR018W	Chromatin/transcription
+YPR023C	Chromatin/transcription
+YPR025C	Chromatin/transcription
+YPR031W	Chromatin/transcription
+YPR034W	Chromatin/transcription
+YPR052C	Chromatin/transcription
+YPR056W	Chromatin/transcription
+YPR065W	Chromatin/transcription
+YPR068C	Chromatin/transcription
+YPR070W	Chromatin/transcription
+YPR085C	Chromatin/transcription
+YPR086W	Chromatin/transcription
+YPR093C	Chromatin/transcription
+YPR104C	Chromatin/transcription
+YPR110C	Chromatin/transcription
+YPR133C	Chromatin/transcription
+YPR161C	Chromatin/transcription
+YPR168W	Chromatin/transcription
+YPR179C	Chromatin/transcription
+YPR186C	Chromatin/transcription
+YPR187W	Chromatin/transcription
+YPR190C	Chromatin/transcription
+YPR193C	Chromatin/transcription
+YPR199C	Chromatin/transcription
+YLR293C	Chromatin/transcription
+YCR042C	Chromatin/transcription
+YBL093C	Chromatin/transcription
+YAL023C	Protein folding & glycosylation/cell wall
+YAL053W	Protein folding & glycosylation/cell wall
+YAL058C-A	Protein folding & glycosylation/cell wall
+YAL063C	Protein folding & glycosylation/cell wall
+YAR071W	Protein folding & glycosylation/cell wall
+YBL082C	Protein folding & glycosylation/cell wall
+YBL083C	Protein folding & glycosylation/cell wall
+YBL105C	Protein folding & glycosylation/cell wall
+YBR004C	Protein folding & glycosylation/cell wall
+YBR015C	Protein folding & glycosylation/cell wall
+YBR038W	Protein folding & glycosylation/cell wall
+YBR067C	Protein folding & glycosylation/cell wall
+YBR070C	Protein folding & glycosylation/cell wall
+YBR110W	Protein folding & glycosylation/cell wall
+YBR161W	Protein folding & glycosylation/cell wall
+YBR199W	Protein folding & glycosylation/cell wall
+YBR205W	Protein folding & glycosylation/cell wall
+YBR229C	Protein folding & glycosylation/cell wall
+YBR243C	Protein folding & glycosylation/cell wall
+YBR260C	Protein folding & glycosylation/cell wall
+YBR270C	Protein folding & glycosylation/cell wall
+YBR301W	Protein folding & glycosylation/cell wall
+YCL051W	Protein folding & glycosylation/cell wall
+YCL052C	Protein folding & glycosylation/cell wall
+YCR017C	Protein folding & glycosylation/cell wall
+YCR044C	Protein folding & glycosylation/cell wall
+YCR073C	Protein folding & glycosylation/cell wall
+YDL055C	Protein folding & glycosylation/cell wall
+YDL095W	Protein folding & glycosylation/cell wall
+YDL103C	Protein folding & glycosylation/cell wall
+YDL143W	Protein folding & glycosylation/cell wall
+YDL203C	Protein folding & glycosylation/cell wall
+YDL239C	Protein folding & glycosylation/cell wall
+YDL240W	Protein folding & glycosylation/cell wall
+YDR055W	Protein folding & glycosylation/cell wall
+YDR077W	Protein folding & glycosylation/cell wall
+YDR162C	Protein folding & glycosylation/cell wall
+YDR188W	Protein folding & glycosylation/cell wall
+YDR221W	Protein folding & glycosylation/cell wall
+YDR245W	Protein folding & glycosylation/cell wall
+YDR261C	Protein folding & glycosylation/cell wall
+YDR302W	Protein folding & glycosylation/cell wall
+YDR331W	Protein folding & glycosylation/cell wall
+YDR351W	Protein folding & glycosylation/cell wall
+YDR372C	Protein folding & glycosylation/cell wall
+YDR402C	Protein folding & glycosylation/cell wall
+YDR403W	Protein folding & glycosylation/cell wall
+YDR414C	Protein folding & glycosylation/cell wall
+YDR420W	Protein folding & glycosylation/cell wall
+YDR434W	Protein folding & glycosylation/cell wall
+YDR437W	Protein folding & glycosylation/cell wall
+YDR454C	Protein folding & glycosylation/cell wall
+YDR466W	Protein folding & glycosylation/cell wall
+YDR490C	Protein folding & glycosylation/cell wall
+YDR518W	Protein folding & glycosylation/cell wall
+YDR522C	Protein folding & glycosylation/cell wall
+YDR525W	Protein folding & glycosylation/cell wall
+YDR528W	Protein folding & glycosylation/cell wall
+YEL002C	Protein folding & glycosylation/cell wall
+YEL031W	Protein folding & glycosylation/cell wall
+YEL036C	Protein folding & glycosylation/cell wall
+YEL040W	Protein folding & glycosylation/cell wall
+YEL058W	Protein folding & glycosylation/cell wall
+YER003C	Protein folding & glycosylation/cell wall
+YER005W	Protein folding & glycosylation/cell wall
+YER075C	Protein folding & glycosylation/cell wall
+YER087C-A	Protein folding & glycosylation/cell wall
+YER096W	Protein folding & glycosylation/cell wall
+YER118C	Protein folding & glycosylation/cell wall
+YER124C	Protein folding & glycosylation/cell wall
+YER150W	Protein folding & glycosylation/cell wall
+YFL025C	Protein folding & glycosylation/cell wall
+YFL031W	Protein folding & glycosylation/cell wall
+YFL032W	Protein folding & glycosylation/cell wall
+YGL022W	Protein folding & glycosylation/cell wall
+YGL027C	Protein folding & glycosylation/cell wall
+YGL028C	Protein folding & glycosylation/cell wall
+YGL032C	Protein folding & glycosylation/cell wall
+YGL047W	Protein folding & glycosylation/cell wall
+YGL065C	Protein folding & glycosylation/cell wall
+YGL084C	Protein folding & glycosylation/cell wall
+YGL142C	Protein folding & glycosylation/cell wall
+YGL225W	Protein folding & glycosylation/cell wall
+YGL226C-A	Protein folding & glycosylation/cell wall
+YGL257C	Protein folding & glycosylation/cell wall
+YGR014W	Protein folding & glycosylation/cell wall
+YGR023W	Protein folding & glycosylation/cell wall
+YGR032W	Protein folding & glycosylation/cell wall
+YGR044C	Protein folding & glycosylation/cell wall
+YGR070W	Protein folding & glycosylation/cell wall
+YGR189C	Protein folding & glycosylation/cell wall
+YGR192C	Protein folding & glycosylation/cell wall
+YGR196C	Protein folding & glycosylation/cell wall
+YGR216C	Protein folding & glycosylation/cell wall
+YGR227W	Protein folding & glycosylation/cell wall
+YGR228W	Protein folding & glycosylation/cell wall
+YGR229C	Protein folding & glycosylation/cell wall
+YGR279C	Protein folding & glycosylation/cell wall
+YGR282C	Protein folding & glycosylation/cell wall
+YHL020C	Protein folding & glycosylation/cell wall
+YHR030C	Protein folding & glycosylation/cell wall
+YHR101C	Protein folding & glycosylation/cell wall
+YHR139C	Protein folding & glycosylation/cell wall
+YHR188C	Protein folding & glycosylation/cell wall
+YIL011W	Protein folding & glycosylation/cell wall
+YIL014W	Protein folding & glycosylation/cell wall
+YIL085C	Protein folding & glycosylation/cell wall
+YIL099W	Protein folding & glycosylation/cell wall
+YIL113W	Protein folding & glycosylation/cell wall
+YIL118W	Protein folding & glycosylation/cell wall
+YIL142W	Protein folding & glycosylation/cell wall
+YIL147C	Protein folding & glycosylation/cell wall
+YJL002C	Protein folding & glycosylation/cell wall
+YJL008C	Protein folding & glycosylation/cell wall
+YJL014W	Protein folding & glycosylation/cell wall
+YJL052W	Protein folding & glycosylation/cell wall
+YJL062W	Protein folding & glycosylation/cell wall
+YJL091C	Protein folding & glycosylation/cell wall
+YJL095W	Protein folding & glycosylation/cell wall
+YJL111W	Protein folding & glycosylation/cell wall
+YJL128C	Protein folding & glycosylation/cell wall
+YJL139C	Protein folding & glycosylation/cell wall
+YJL153C	Protein folding & glycosylation/cell wall
+YJL158C	Protein folding & glycosylation/cell wall
+YJL159W	Protein folding & glycosylation/cell wall
+YJL174W	Protein folding & glycosylation/cell wall
+YJL183W	Protein folding & glycosylation/cell wall
+YJL186W	Protein folding & glycosylation/cell wall
+YJR013W	Protein folding & glycosylation/cell wall
+YJR064W	Protein folding & glycosylation/cell wall
+YJR075W	Protein folding & glycosylation/cell wall
+YJR150C	Protein folding & glycosylation/cell wall
+YJR151C	Protein folding & glycosylation/cell wall
+YJR153W	Protein folding & glycosylation/cell wall
+YKL046C	Protein folding & glycosylation/cell wall
+YKL096W	Protein folding & glycosylation/cell wall
+YKL096W-A	Protein folding & glycosylation/cell wall
+YKL104C	Protein folding & glycosylation/cell wall
+YKL163W	Protein folding & glycosylation/cell wall
+YKL164C	Protein folding & glycosylation/cell wall
+YKL165C	Protein folding & glycosylation/cell wall
+YKL201C	Protein folding & glycosylation/cell wall
+YKL213C	Protein folding & glycosylation/cell wall
+YKR027W	Protein folding & glycosylation/cell wall
+YKR061W	Protein folding & glycosylation/cell wall
+YKR100C	Protein folding & glycosylation/cell wall
+YKR102W	Protein folding & glycosylation/cell wall
+YLL031C	Protein folding & glycosylation/cell wall
+YLR037C	Protein folding & glycosylation/cell wall
+YLR054C	Protein folding & glycosylation/cell wall
+YLR088W	Protein folding & glycosylation/cell wall
+YLR110C	Protein folding & glycosylation/cell wall
+YLR113W	Protein folding & glycosylation/cell wall
+YLR144C	Protein folding & glycosylation/cell wall
+YLR194C	Protein folding & glycosylation/cell wall
+YLR213C	Protein folding & glycosylation/cell wall
+YLR242C	Protein folding & glycosylation/cell wall
+YLR286C	Protein folding & glycosylation/cell wall
+YLR300W	Protein folding & glycosylation/cell wall
+YLR305C	Protein folding & glycosylation/cell wall
+YLR307W	Protein folding & glycosylation/cell wall
+YLR308W	Protein folding & glycosylation/cell wall
+YLR314C	Protein folding & glycosylation/cell wall
+YLR332W	Protein folding & glycosylation/cell wall
+YLR342W	Protein folding & glycosylation/cell wall
+YLR371W	Protein folding & glycosylation/cell wall
+YLR390W-A	Protein folding & glycosylation/cell wall
+YLR459W	Protein folding & glycosylation/cell wall
+YML019W	Protein folding & glycosylation/cell wall
+YML117W	Protein folding & glycosylation/cell wall
+YML125C	Protein folding & glycosylation/cell wall
+YMR101C	Protein folding & glycosylation/cell wall
+YMR104C	Protein folding & glycosylation/cell wall
+YMR149W	Protein folding & glycosylation/cell wall
+YMR215W	Protein folding & glycosylation/cell wall
+YMR237W	Protein folding & glycosylation/cell wall
+YMR238W	Protein folding & glycosylation/cell wall
+YMR281W	Protein folding & glycosylation/cell wall
+YMR305C	Protein folding & glycosylation/cell wall
+YMR306W	Protein folding & glycosylation/cell wall
+YMR307W	Protein folding & glycosylation/cell wall
+YNL029C	Protein folding & glycosylation/cell wall
+YNL038W	Protein folding & glycosylation/cell wall
+YNL053W	Protein folding & glycosylation/cell wall
+YNL066W	Protein folding & glycosylation/cell wall
+YNL080C	Protein folding & glycosylation/cell wall
+YNL149C	Protein folding & glycosylation/cell wall
+YNL158W	Protein folding & glycosylation/cell wall
+YNL161W	Protein folding & glycosylation/cell wall
+YNL219C	Protein folding & glycosylation/cell wall
+YNL322C	Protein folding & glycosylation/cell wall
+YNR030W	Protein folding & glycosylation/cell wall
+YNR031C	Protein folding & glycosylation/cell wall
+YNR044W	Protein folding & glycosylation/cell wall
+YNR059W	Protein folding & glycosylation/cell wall
+YNR067C	Protein folding & glycosylation/cell wall
+YOL030W	Protein folding & glycosylation/cell wall
+YOL045W	Protein folding & glycosylation/cell wall
+YOL105C	Protein folding & glycosylation/cell wall
+YOL109W	Protein folding & glycosylation/cell wall
+YOL132W	Protein folding & glycosylation/cell wall
+YOL155C	Protein folding & glycosylation/cell wall
+YOR002W	Protein folding & glycosylation/cell wall
+YOR009W	Protein folding & glycosylation/cell wall
+YOR067C	Protein folding & glycosylation/cell wall
+YOR085W	Protein folding & glycosylation/cell wall
+YOR099W	Protein folding & glycosylation/cell wall
+YOR103C	Protein folding & glycosylation/cell wall
+YOR134W	Protein folding & glycosylation/cell wall
+YOR181W	Protein folding & glycosylation/cell wall
+YOR188W	Protein folding & glycosylation/cell wall
+YOR190W	Protein folding & glycosylation/cell wall
+YOR208W	Protein folding & glycosylation/cell wall
+YOR231W	Protein folding & glycosylation/cell wall
+YOR247W	Protein folding & glycosylation/cell wall
+YOR248W	Protein folding & glycosylation/cell wall
+YOR255W	Protein folding & glycosylation/cell wall
+YOR281C	Protein folding & glycosylation/cell wall
+YOR299W	Protein folding & glycosylation/cell wall
+YOR320C	Protein folding & glycosylation/cell wall
+YOR336W	Protein folding & glycosylation/cell wall
+YOR382W	Protein folding & glycosylation/cell wall
+YPL053C	Protein folding & glycosylation/cell wall
+YPL076W	Protein folding & glycosylation/cell wall
+YPL089C	Protein folding & glycosylation/cell wall
+YPL096C-A	Protein folding & glycosylation/cell wall
+YPL096W	Protein folding & glycosylation/cell wall
+YPL140C	Protein folding & glycosylation/cell wall
+YPL175W	Protein folding & glycosylation/cell wall
+YPL192C	Protein folding & glycosylation/cell wall
+YPL227C	Protein folding & glycosylation/cell wall
+YPR026W	Protein folding & glycosylation/cell wall
+YPR030W	Protein folding & glycosylation/cell wall
+YPR075C	Protein folding & glycosylation/cell wall
+YPR124W	Protein folding & glycosylation/cell wall
+YPR165W	Protein folding & glycosylation/cell wall
+YPR183W	Protein folding & glycosylation/cell wall
+YDL090C	Protein folding & glycosylation/cell wall
+YAL015C	DNA replication & repair/HR/cohesion
+YAL034W-A	DNA replication & repair/HR/cohesion
+YAR007C	DNA replication & repair/HR/cohesion
+YBL019W	DNA replication & repair/HR/cohesion
+YBL023C	DNA replication & repair/HR/cohesion
+YBL035C	DNA replication & repair/HR/cohesion
+YBL088C	DNA replication & repair/HR/cohesion
+YBL097W	DNA replication & repair/HR/cohesion
+YBR057C	DNA replication & repair/HR/cohesion
+YBR060C	DNA replication & repair/HR/cohesion
+YBR073W	DNA replication & repair/HR/cohesion
+YBR087W	DNA replication & repair/HR/cohesion
+YBR088C	DNA replication & repair/HR/cohesion
+YBR098W	DNA replication & repair/HR/cohesion
+YBR099C	DNA replication & repair/HR/cohesion
+YBR100W	DNA replication & repair/HR/cohesion
+YBR114W	DNA replication & repair/HR/cohesion
+YBR136W	DNA replication & repair/HR/cohesion
+YBR202W	DNA replication & repair/HR/cohesion
+YBR211C	DNA replication & repair/HR/cohesion
+YBR223C	DNA replication & repair/HR/cohesion
+YBR228W	DNA replication & repair/HR/cohesion
+YBR233W-A	DNA replication & repair/HR/cohesion
+YBR252W	DNA replication & repair/HR/cohesion
+YBR272C	DNA replication & repair/HR/cohesion
+YBR274W	DNA replication & repair/HR/cohesion
+YBR275C	DNA replication & repair/HR/cohesion
+YBR277C	DNA replication & repair/HR/cohesion
+YBR278W	DNA replication & repair/HR/cohesion
+YCL016C	DNA replication & repair/HR/cohesion
+YCL060C	DNA replication & repair/HR/cohesion
+YCL061C	DNA replication & repair/HR/cohesion
+YCR014C	DNA replication & repair/HR/cohesion
+YCR066W	DNA replication & repair/HR/cohesion
+YCR092C	DNA replication & repair/HR/cohesion
+YDL003W	DNA replication & repair/HR/cohesion
+YDL013W	DNA replication & repair/HR/cohesion
+YDL017W	DNA replication & repair/HR/cohesion
+YDL059C	DNA replication & repair/HR/cohesion
+YDL101C	DNA replication & repair/HR/cohesion
+YDL102W	DNA replication & repair/HR/cohesion
+YDL105W	DNA replication & repair/HR/cohesion
+YDL154W	DNA replication & repair/HR/cohesion
+YDL164C	DNA replication & repair/HR/cohesion
+YDL200C	DNA replication & repair/HR/cohesion
+YDL220C	DNA replication & repair/HR/cohesion
+YDR004W	DNA replication & repair/HR/cohesion
+YDR013W	DNA replication & repair/HR/cohesion
+YDR016C	DNA replication & repair/HR/cohesion
+YDR030C	DNA replication & repair/HR/cohesion
+YDR052C	DNA replication & repair/HR/cohesion
+YDR076W	DNA replication & repair/HR/cohesion
+YDR082W	DNA replication & repair/HR/cohesion
+YDR092W	DNA replication & repair/HR/cohesion
+YDR097C	DNA replication & repair/HR/cohesion
+YDR110W	DNA replication & repair/HR/cohesion
+YDR121W	DNA replication & repair/HR/cohesion
+YDR174W	DNA replication & repair/HR/cohesion
+YDR180W	DNA replication & repair/HR/cohesion
+YDR191W	DNA replication & repair/HR/cohesion
+YDR201W	DNA replication & repair/HR/cohesion
+YDR217C	DNA replication & repair/HR/cohesion
+YDR226W	DNA replication & repair/HR/cohesion
+YDR263C	DNA replication & repair/HR/cohesion
+YDR279W	DNA replication & repair/HR/cohesion
+YDR288W	DNA replication & repair/HR/cohesion
+YDR311W	DNA replication & repair/HR/cohesion
+YDR314C	DNA replication & repair/HR/cohesion
+YDR325W	DNA replication & repair/HR/cohesion
+YDR356W	DNA replication & repair/HR/cohesion
+YDR363W	DNA replication & repair/HR/cohesion
+YDR364C	DNA replication & repair/HR/cohesion
+YDR369C	DNA replication & repair/HR/cohesion
+YDR386W	DNA replication & repair/HR/cohesion
+YDR419W	DNA replication & repair/HR/cohesion
+YDR460W	DNA replication & repair/HR/cohesion
+YDR489W	DNA replication & repair/HR/cohesion
+YDR499W	DNA replication & repair/HR/cohesion
+YDR501W	DNA replication & repair/HR/cohesion
+YDR505C	DNA replication & repair/HR/cohesion
+YEL019C	DNA replication & repair/HR/cohesion
+YEL032W	DNA replication & repair/HR/cohesion
+YEL037C	DNA replication & repair/HR/cohesion
+YEL055C	DNA replication & repair/HR/cohesion
+YER018C	DNA replication & repair/HR/cohesion
+YER038C	DNA replication & repair/HR/cohesion
+YER070W	DNA replication & repair/HR/cohesion
+YER095W	DNA replication & repair/HR/cohesion
+YER104W	DNA replication & repair/HR/cohesion
+YER106W	DNA replication & repair/HR/cohesion
+YER116C	DNA replication & repair/HR/cohesion
+YER129W	DNA replication & repair/HR/cohesion
+YER142C	DNA replication & repair/HR/cohesion
+YER147C	DNA replication & repair/HR/cohesion
+YER162C	DNA replication & repair/HR/cohesion
+YER171W	DNA replication & repair/HR/cohesion
+YER173W	DNA replication & repair/HR/cohesion
+YER176W	DNA replication & repair/HR/cohesion
+YER179W	DNA replication & repair/HR/cohesion
+YFL008W	DNA replication & repair/HR/cohesion
+YFL009W	DNA replication & repair/HR/cohesion
+YFR023W	DNA replication & repair/HR/cohesion
+YFR027W	DNA replication & repair/HR/cohesion
+YFR031C	DNA replication & repair/HR/cohesion
+YGL061C	DNA replication & repair/HR/cohesion
+YGL087C	DNA replication & repair/HR/cohesion
+YGL090W	DNA replication & repair/HR/cohesion
+YGL093W	DNA replication & repair/HR/cohesion
+YGL113W	DNA replication & repair/HR/cohesion
+YGL158W	DNA replication & repair/HR/cohesion
+YGL163C	DNA replication & repair/HR/cohesion
+YGL168W	DNA replication & repair/HR/cohesion
+YGL169W	DNA replication & repair/HR/cohesion
+YGL175C	DNA replication & repair/HR/cohesion
+YGL201C	DNA replication & repair/HR/cohesion
+YGL249W	DNA replication & repair/HR/cohesion
+YGL250W	DNA replication & repair/HR/cohesion
+YGR099W	DNA replication & repair/HR/cohesion
+YGR109C	DNA replication & repair/HR/cohesion
+YGR113W	DNA replication & repair/HR/cohesion
+YGR179C	DNA replication & repair/HR/cohesion
+YHL006C	DNA replication & repair/HR/cohesion
+YHR014W	DNA replication & repair/HR/cohesion
+YHR031C	DNA replication & repair/HR/cohesion
+YHR118C	DNA replication & repair/HR/cohesion
+YHR120W	DNA replication & repair/HR/cohesion
+YHR122W	DNA replication & repair/HR/cohesion
+YHR134W	DNA replication & repair/HR/cohesion
+YHR154W	DNA replication & repair/HR/cohesion
+YHR164C	DNA replication & repair/HR/cohesion
+YHR172W	DNA replication & repair/HR/cohesion
+YHR191C	DNA replication & repair/HR/cohesion
+YIL009C-A	DNA replication & repair/HR/cohesion
+YIL026C	DNA replication & repair/HR/cohesion
+YIL042C	DNA replication & repair/HR/cohesion
+YIL066C	DNA replication & repair/HR/cohesion
+YIL132C	DNA replication & repair/HR/cohesion
+YIL139C	DNA replication & repair/HR/cohesion
+YIL144W	DNA replication & repair/HR/cohesion
+YIL150C	DNA replication & repair/HR/cohesion
+YIR002C	DNA replication & repair/HR/cohesion
+YIR008C	DNA replication & repair/HR/cohesion
+YIR010W	DNA replication & repair/HR/cohesion
+YIR036C	DNA replication & repair/HR/cohesion
+YJL026W	DNA replication & repair/HR/cohesion
+YJL047C	DNA replication & repair/HR/cohesion
+YJL072C	DNA replication & repair/HR/cohesion
+YJL074C	DNA replication & repair/HR/cohesion
+YJL090C	DNA replication & repair/HR/cohesion
+YJL092W	DNA replication & repair/HR/cohesion
+YJL115W	DNA replication & repair/HR/cohesion
+YJL173C	DNA replication & repair/HR/cohesion
+YJL194W	DNA replication & repair/HR/cohesion
+YJR006W	DNA replication & repair/HR/cohesion
+YJR035W	DNA replication & repair/HR/cohesion
+YJR043C	DNA replication & repair/HR/cohesion
+YJR046W	DNA replication & repair/HR/cohesion
+YJR052W	DNA replication & repair/HR/cohesion
+YJR057W	DNA replication & repair/HR/cohesion
+YJR068W	DNA replication & repair/HR/cohesion
+YJR069C	DNA replication & repair/HR/cohesion
+YJR112W	DNA replication & repair/HR/cohesion
+YJR135C	DNA replication & repair/HR/cohesion
+YKL017C	DNA replication & repair/HR/cohesion
+YKL042W	DNA replication & repair/HR/cohesion
+YKL045W	DNA replication & repair/HR/cohesion
+YKL049C	DNA replication & repair/HR/cohesion
+YKL052C	DNA replication & repair/HR/cohesion
+YKL089W	DNA replication & repair/HR/cohesion
+YKL108W	DNA replication & repair/HR/cohesion
+YKL112W	DNA replication & repair/HR/cohesion
+YKL113C	DNA replication & repair/HR/cohesion
+YKL114C	DNA replication & repair/HR/cohesion
+YKL138C-A	DNA replication & repair/HR/cohesion
+YKL193C	DNA replication & repair/HR/cohesion
+YKR037C	DNA replication & repair/HR/cohesion
+YKR071C	DNA replication & repair/HR/cohesion
+YKR083C	DNA replication & repair/HR/cohesion
+YLL002W	DNA replication & repair/HR/cohesion
+YLL004W	DNA replication & repair/HR/cohesion
+YLR003C	DNA replication & repair/HR/cohesion
+YLR007W	DNA replication & repair/HR/cohesion
+YLR010C	DNA replication & repair/HR/cohesion
+YLR032W	DNA replication & repair/HR/cohesion
+YLR035C	DNA replication & repair/HR/cohesion
+YLR066W	DNA replication & repair/HR/cohesion
+YLR079W	DNA replication & repair/HR/cohesion
+YLR086W	DNA replication & repair/HR/cohesion
+YLR103C	DNA replication & repair/HR/cohesion
+YLR135W	DNA replication & repair/HR/cohesion
+YLR154C	DNA replication & repair/HR/cohesion
+YLR176C	DNA replication & repair/HR/cohesion
+YLR219W	DNA replication & repair/HR/cohesion
+YLR233C	DNA replication & repair/HR/cohesion
+YLR247C	DNA replication & repair/HR/cohesion
+YLR265C	DNA replication & repair/HR/cohesion
+YLR272C	DNA replication & repair/HR/cohesion
+YLR274W	DNA replication & repair/HR/cohesion
+YLR288C	DNA replication & repair/HR/cohesion
+YLR320W	DNA replication & repair/HR/cohesion
+YLR359W	DNA replication & repair/HR/cohesion
+YLR376C	DNA replication & repair/HR/cohesion
+YLR383W	DNA replication & repair/HR/cohesion
+YLR427W	DNA replication & repair/HR/cohesion
+YLR453C	DNA replication & repair/HR/cohesion
+YML011C	DNA replication & repair/HR/cohesion
+YML017W	DNA replication & repair/HR/cohesion
+YML021C	DNA replication & repair/HR/cohesion
+YML023C	DNA replication & repair/HR/cohesion
+YML032C	DNA replication & repair/HR/cohesion
+YML058W	DNA replication & repair/HR/cohesion
+YML060W	DNA replication & repair/HR/cohesion
+YML065W	DNA replication & repair/HR/cohesion
+YML095C	DNA replication & repair/HR/cohesion
+YML096W	DNA replication & repair/HR/cohesion
+YML128C	DNA replication & repair/HR/cohesion
+YMR048W	DNA replication & repair/HR/cohesion
+YMR078C	DNA replication & repair/HR/cohesion
+YMR094W	DNA replication & repair/HR/cohesion
+YMR106C	DNA replication & repair/HR/cohesion
+YMR117C	DNA replication & repair/HR/cohesion
+YMR133W	DNA replication & repair/HR/cohesion
+YMR137C	DNA replication & repair/HR/cohesion
+YMR156C	DNA replication & repair/HR/cohesion
+YMR167W	DNA replication & repair/HR/cohesion
+YMR173W	DNA replication & repair/HR/cohesion
+YMR190C	DNA replication & repair/HR/cohesion
+YMR201C	DNA replication & repair/HR/cohesion
+YMR224C	DNA replication & repair/HR/cohesion
+YMR284W	DNA replication & repair/HR/cohesion
+YNL047C	DNA replication & repair/HR/cohesion
+YNL072W	DNA replication & repair/HR/cohesion
+YNL082W	DNA replication & repair/HR/cohesion
+YNL085W	DNA replication & repair/HR/cohesion
+YNL088W	DNA replication & repair/HR/cohesion
+YNL102W	DNA replication & repair/HR/cohesion
+YNL126W	DNA replication & repair/HR/cohesion
+YNL136W	DNA replication & repair/HR/cohesion
+YNL250W	DNA replication & repair/HR/cohesion
+YNL261W	DNA replication & repair/HR/cohesion
+YNL262W	DNA replication & repair/HR/cohesion
+YNL273W	DNA replication & repair/HR/cohesion
+YNL290W	DNA replication & repair/HR/cohesion
+YNL299W	DNA replication & repair/HR/cohesion
+YNL307C	DNA replication & repair/HR/cohesion
+YNL312W	DNA replication & repair/HR/cohesion
+YNR009W	DNA replication & repair/HR/cohesion
+YOL006C	DNA replication & repair/HR/cohesion
+YOL015W	DNA replication & repair/HR/cohesion
+YOL034W	DNA replication & repair/HR/cohesion
+YOL043C	DNA replication & repair/HR/cohesion
+YOL063C	DNA replication & repair/HR/cohesion
+YOL069W	DNA replication & repair/HR/cohesion
+YOL090W	DNA replication & repair/HR/cohesion
+YOL094C	DNA replication & repair/HR/cohesion
+YOL146W	DNA replication & repair/HR/cohesion
+YOR005C	DNA replication & repair/HR/cohesion
+YOR025W	DNA replication & repair/HR/cohesion
+YOR033C	DNA replication & repair/HR/cohesion
+YOR057W	DNA replication & repair/HR/cohesion
+YOR074C	DNA replication & repair/HR/cohesion
+YOR077W	DNA replication & repair/HR/cohesion
+YOR080W	DNA replication & repair/HR/cohesion
+YOR144C	DNA replication & repair/HR/cohesion
+YOR217W	DNA replication & repair/HR/cohesion
+YOR230W	DNA replication & repair/HR/cohesion
+YOR236W	DNA replication & repair/HR/cohesion
+YOR262W	DNA replication & repair/HR/cohesion
+YOR346W	DNA replication & repair/HR/cohesion
+YOR351C	DNA replication & repair/HR/cohesion
+YOR368W	DNA replication & repair/HR/cohesion
+YOR372C	DNA replication & repair/HR/cohesion
+YOR386W	DNA replication & repair/HR/cohesion
+YPL008W	DNA replication & repair/HR/cohesion
+YPL022W	DNA replication & repair/HR/cohesion
+YPL121C	DNA replication & repair/HR/cohesion
+YPL122C	DNA replication & repair/HR/cohesion
+YPL124W	DNA replication & repair/HR/cohesion
+YPL153C	DNA replication & repair/HR/cohesion
+YPL164C	DNA replication & repair/HR/cohesion
+YPL167C	DNA replication & repair/HR/cohesion
+YPL194W	DNA replication & repair/HR/cohesion
+YPL209C	DNA replication & repair/HR/cohesion
+YPL233W	DNA replication & repair/HR/cohesion
+YPR019W	DNA replication & repair/HR/cohesion
+YPR048W	DNA replication & repair/HR/cohesion
+YPR056W	DNA replication & repair/HR/cohesion
+YPR120C	DNA replication & repair/HR/cohesion
+YPR135W	DNA replication & repair/HR/cohesion
+YPR162C	DNA replication & repair/HR/cohesion
+YPR164W	DNA replication & repair/HR/cohesion
+YPR175W	DNA replication & repair/HR/cohesion
+YAL007C	ER-Golgi traffic
+YAL042W	ER-Golgi traffic
+YAR002C-A	ER-Golgi traffic
+YBL020W	ER-Golgi traffic
+YBL040C	ER-Golgi traffic
+YBL050W	ER-Golgi traffic
+YBL060W	ER-Golgi traffic
+YBL075C	ER-Golgi traffic
+YBL078C	ER-Golgi traffic
+YBL102W	ER-Golgi traffic
+YBR002C	ER-Golgi traffic
+YBR058C-A	ER-Golgi traffic
+YBR080C	ER-Golgi traffic
+YBR171W	ER-Golgi traffic
+YBR172C	ER-Golgi traffic
+YBR210W	ER-Golgi traffic
+YBR254C	ER-Golgi traffic
+YBR283C	ER-Golgi traffic
+YCL001W	ER-Golgi traffic
+YCL043C	ER-Golgi traffic
+YCL052C	ER-Golgi traffic
+YCR067C	ER-Golgi traffic
+YDL015C	ER-Golgi traffic
+YDL018C	ER-Golgi traffic
+YDL045C	ER-Golgi traffic
+YDL058W	ER-Golgi traffic
+YDL092W	ER-Golgi traffic
+YDL099W	ER-Golgi traffic
+YDL100C	ER-Golgi traffic
+YDL126C	ER-Golgi traffic
+YDL145C	ER-Golgi traffic
+YDL193W	ER-Golgi traffic
+YDL195W	ER-Golgi traffic
+YDL212W	ER-Golgi traffic
+YDL226C	ER-Golgi traffic
+YDR086C	ER-Golgi traffic
+YDR108W	ER-Golgi traffic
+YDR141C	ER-Golgi traffic
+YDR164C	ER-Golgi traffic
+YDR166C	ER-Golgi traffic
+YDR170C	ER-Golgi traffic
+YDR182W	ER-Golgi traffic
+YDR189W	ER-Golgi traffic
+YDR233C	ER-Golgi traffic
+YDR238C	ER-Golgi traffic
+YDR246W	ER-Golgi traffic
+YDR292C	ER-Golgi traffic
+YDR323C	ER-Golgi traffic
+YDR361C	ER-Golgi traffic
+YDR407C	ER-Golgi traffic
+YDR411C	ER-Golgi traffic
+YDR468C	ER-Golgi traffic
+YDR472W	ER-Golgi traffic
+YDR498C	ER-Golgi traffic
+YDR517W	ER-Golgi traffic
+YDR524C	ER-Golgi traffic
+YEL002C	ER-Golgi traffic
+YER008C	ER-Golgi traffic
+YER019C-A	ER-Golgi traffic
+YER074W-A	ER-Golgi traffic
+YER083C	ER-Golgi traffic
+YER084W	ER-Golgi traffic
+YER087C-B	ER-Golgi traffic
+YER122C	ER-Golgi traffic
+YER136W	ER-Golgi traffic
+YER151C	ER-Golgi traffic
+YER157W	ER-Golgi traffic
+YFL005W	ER-Golgi traffic
+YFL027C	ER-Golgi traffic
+YFL038C	ER-Golgi traffic
+YFL045C	ER-Golgi traffic
+YFL048C	ER-Golgi traffic
+YFR042W	ER-Golgi traffic
+YFR051C	ER-Golgi traffic
+YGL002W	ER-Golgi traffic
+YGL020C	ER-Golgi traffic
+YGL022W	ER-Golgi traffic
+YGL051W	ER-Golgi traffic
+YGL054C	ER-Golgi traffic
+YGL098W	ER-Golgi traffic
+YGL137W	ER-Golgi traffic
+YGL145W	ER-Golgi traffic
+YGL155W	ER-Golgi traffic
+YGL200C	ER-Golgi traffic
+YGL225W	ER-Golgi traffic
+YGL233W	ER-Golgi traffic
+YGR009C	ER-Golgi traffic
+YGR120C	ER-Golgi traffic
+YGR166W	ER-Golgi traffic
+YGR172C	ER-Golgi traffic
+YGR198W	ER-Golgi traffic
+YGR209C	ER-Golgi traffic
+YGR284C	ER-Golgi traffic
+YHL028W	ER-Golgi traffic
+YHR098C	ER-Golgi traffic
+YHR101C	ER-Golgi traffic
+YHR110W	ER-Golgi traffic
+YHR181W	ER-Golgi traffic
+YIL002C	ER-Golgi traffic
+YIL004C	ER-Golgi traffic
+YIL044C	ER-Golgi traffic
+YIL048W	ER-Golgi traffic
+YIL068C	ER-Golgi traffic
+YIL076W	ER-Golgi traffic
+YIL109C	ER-Golgi traffic
+YIR022W	ER-Golgi traffic
+YJL031C	ER-Golgi traffic
+YJL034W	ER-Golgi traffic
+YJL085W	ER-Golgi traffic
+YJL097W	ER-Golgi traffic
+YJL117W	ER-Golgi traffic
+YJL123C	ER-Golgi traffic
+YJL192C	ER-Golgi traffic
+YJR010C-A	ER-Golgi traffic
+YJR031C	ER-Golgi traffic
+YJR032W	ER-Golgi traffic
+YKL006C-A	ER-Golgi traffic
+YKL122C	ER-Golgi traffic
+YKL154W	ER-Golgi traffic
+YKL196C	ER-Golgi traffic
+YKR068C	ER-Golgi traffic
+YLL024C	ER-Golgi traffic
+YLR026C	ER-Golgi traffic
+YLR043C	ER-Golgi traffic
+YLR078C	ER-Golgi traffic
+YLR080W	ER-Golgi traffic
+YLR166C	ER-Golgi traffic
+YLR208W	ER-Golgi traffic
+YLR220W	ER-Golgi traffic
+YLR240W	ER-Golgi traffic
+YLR268W	ER-Golgi traffic
+YLR268W	ER-Golgi traffic
+YLR269C	ER-Golgi traffic
+YLR292C	ER-Golgi traffic
+YLR305C	ER-Golgi traffic
+YLR378C	ER-Golgi traffic
+YLR440C	ER-Golgi traffic
+YML012W	ER-Golgi traffic
+YML049C	ER-Golgi traffic
+YML055W	ER-Golgi traffic
+YML067C	ER-Golgi traffic
+YML077W	ER-Golgi traffic
+YML105C	ER-Golgi traffic
+YML125C	ER-Golgi traffic
+YML130C	ER-Golgi traffic
+YMR013C	ER-Golgi traffic
+YMR071C	ER-Golgi traffic
+YMR079W	ER-Golgi traffic
+YMR149W	ER-Golgi traffic
+YMR192W	ER-Golgi traffic
+YMR197C	ER-Golgi traffic
+YMR200W	ER-Golgi traffic
+YMR218C	ER-Golgi traffic
+YMR292W	ER-Golgi traffic
+YMR298W	ER-Golgi traffic
+YNL024C-A	ER-Golgi traffic
+YNL043C	ER-Golgi traffic
+YNL044W	ER-Golgi traffic
+YNL049C	ER-Golgi traffic
+YNL149C	ER-Golgi traffic
+YNL158W	ER-Golgi traffic
+YNL246W	ER-Golgi traffic
+YNL258C	ER-Golgi traffic
+YNL263C	ER-Golgi traffic
+YNL272C	ER-Golgi traffic
+YNL287W	ER-Golgi traffic
+YNR026C	ER-Golgi traffic
+YNR051C	ER-Golgi traffic
+YOL031C	ER-Golgi traffic
+YOL065C	ER-Golgi traffic
+YOL112W	ER-Golgi traffic
+YOR016C	ER-Golgi traffic
+YOR036W	ER-Golgi traffic
+YOR075W	ER-Golgi traffic
+YOR094W	ER-Golgi traffic
+YOR106W	ER-Golgi traffic
+YOR115C	ER-Golgi traffic
+YOR207C	ER-Golgi traffic
+YOR216C	ER-Golgi traffic
+YOR254C	ER-Golgi traffic
+YOR307C	ER-Golgi traffic
+YOR326W	ER-Golgi traffic
+YOR370C	ER-Golgi traffic
+YPL010W	ER-Golgi traffic
+YPL045W	ER-Golgi traffic
+YPL085W	ER-Golgi traffic
+YPL094C	ER-Golgi traffic
+YPL204W	ER-Golgi traffic
+YPL210C	ER-Golgi traffic
+YPL218W	ER-Golgi traffic
+YPL243W	ER-Golgi traffic
+YPL249C	ER-Golgi traffic
+YPR037C	ER-Golgi traffic
+YPR055W	ER-Golgi traffic
+YPR088C	ER-Golgi traffic
+YPR105C	ER-Golgi traffic
+YPR176C	ER-Golgi traffic
+YPR181C	ER-Golgi traffic
+YPR183W	ER-Golgi traffic
+YIL039W	ER-Golgi traffic
+YAL002W	Golgi/endosome/vacuole sorting
+YAL014C	Golgi/endosome/vacuole sorting
+YAL030W	Golgi/endosome/vacuole sorting
+YBL017C	Golgi/endosome/vacuole sorting
+YBL040C	Golgi/endosome/vacuole sorting
+YBL050W	Golgi/endosome/vacuole sorting
+YBL060W	Golgi/endosome/vacuole sorting
+YBL102W	Golgi/endosome/vacuole sorting
+YBR002C	Golgi/endosome/vacuole sorting
+YBR014C	Golgi/endosome/vacuole sorting
+YBR080C	Golgi/endosome/vacuole sorting
+YBR102C	Golgi/endosome/vacuole sorting
+YBR131W	Golgi/endosome/vacuole sorting
+YBR164C	Golgi/endosome/vacuole sorting
+YBR254C	Golgi/endosome/vacuole sorting
+YBR264C	Golgi/endosome/vacuole sorting
+YBR288C	Golgi/endosome/vacuole sorting
+YCL005W-A	Golgi/endosome/vacuole sorting
+YCL008C	Golgi/endosome/vacuole sorting
+YCL063W	Golgi/endosome/vacuole sorting
+YCR030C	Golgi/endosome/vacuole sorting
+YCR032W	Golgi/endosome/vacuole sorting
+YDL058W	Golgi/endosome/vacuole sorting
+YDL077C	Golgi/endosome/vacuole sorting
+YDL092W	Golgi/endosome/vacuole sorting
+YDL137W	Golgi/endosome/vacuole sorting
+YDL145C	Golgi/endosome/vacuole sorting
+YDL161W	Golgi/endosome/vacuole sorting
+YDL185W	Golgi/endosome/vacuole sorting
+YDL192W	Golgi/endosome/vacuole sorting
+YDL193W	Golgi/endosome/vacuole sorting
+YDL195W	Golgi/endosome/vacuole sorting
+YDL212W	Golgi/endosome/vacuole sorting
+YDL234C	Golgi/endosome/vacuole sorting
+YDR003W	Golgi/endosome/vacuole sorting
+YDR069C	Golgi/endosome/vacuole sorting
+YDR080W	Golgi/endosome/vacuole sorting
+YDR084C	Golgi/endosome/vacuole sorting
+YDR086C	Golgi/endosome/vacuole sorting
+YDR099W	Golgi/endosome/vacuole sorting
+YDR100W	Golgi/endosome/vacuole sorting
+YDR126W	Golgi/endosome/vacuole sorting
+YDR137W	Golgi/endosome/vacuole sorting
+YDR141C	Golgi/endosome/vacuole sorting
+YDR153C	Golgi/endosome/vacuole sorting
+YDR164C	Golgi/endosome/vacuole sorting
+YDR166C	Golgi/endosome/vacuole sorting
+YDR170C	Golgi/endosome/vacuole sorting
+YDR182W	Golgi/endosome/vacuole sorting
+YDR189W	Golgi/endosome/vacuole sorting
+YDR202C	Golgi/endosome/vacuole sorting
+YDR203W	Golgi/endosome/vacuole sorting
+YDR229W	Golgi/endosome/vacuole sorting
+YDR233C	Golgi/endosome/vacuole sorting
+YDR238C	Golgi/endosome/vacuole sorting
+YDR246W	Golgi/endosome/vacuole sorting
+YDR292C	Golgi/endosome/vacuole sorting
+YDR313C	Golgi/endosome/vacuole sorting
+YDR323C	Golgi/endosome/vacuole sorting
+YDR358W	Golgi/endosome/vacuole sorting
+YDR361C	Golgi/endosome/vacuole sorting
+YDR407C	Golgi/endosome/vacuole sorting
+YDR425W	Golgi/endosome/vacuole sorting
+YDR468C	Golgi/endosome/vacuole sorting
+YDR472W	Golgi/endosome/vacuole sorting
+YDR486C	Golgi/endosome/vacuole sorting
+YDR495C	Golgi/endosome/vacuole sorting
+YDR498C	Golgi/endosome/vacuole sorting
+YEL027W	Golgi/endosome/vacuole sorting
+YEL051W	Golgi/endosome/vacuole sorting
+YER008C	Golgi/endosome/vacuole sorting
+YER072W	Golgi/endosome/vacuole sorting
+YER074W-A	Golgi/endosome/vacuole sorting
+YER136W	Golgi/endosome/vacuole sorting
+YER157W	Golgi/endosome/vacuole sorting
+YER177W	Golgi/endosome/vacuole sorting
+YER180C-A	Golgi/endosome/vacuole sorting
+YFL004W	Golgi/endosome/vacuole sorting
+YFL005W	Golgi/endosome/vacuole sorting
+YFL038C	Golgi/endosome/vacuole sorting
+YFL045C	Golgi/endosome/vacuole sorting
+YFR042W	Golgi/endosome/vacuole sorting
+YFR051C	Golgi/endosome/vacuole sorting
+YGL005C	Golgi/endosome/vacuole sorting
+YGL023C	Golgi/endosome/vacuole sorting
+YGL045W	Golgi/endosome/vacuole sorting
+YGL095C	Golgi/endosome/vacuole sorting
+YGL098W	Golgi/endosome/vacuole sorting
+YGL104C	Golgi/endosome/vacuole sorting
+YGL124C	Golgi/endosome/vacuole sorting
+YGL137W	Golgi/endosome/vacuole sorting
+YGL145W	Golgi/endosome/vacuole sorting
+YGL155W	Golgi/endosome/vacuole sorting
+YGL181W	Golgi/endosome/vacuole sorting
+YGL212W	Golgi/endosome/vacuole sorting
+YGL225W	Golgi/endosome/vacuole sorting
+YGL233W	Golgi/endosome/vacuole sorting
+YGR009C	Golgi/endosome/vacuole sorting
+YGR068C	Golgi/endosome/vacuole sorting
+YGR100W	Golgi/endosome/vacuole sorting
+YGR105W	Golgi/endosome/vacuole sorting
+YGR106C	Golgi/endosome/vacuole sorting
+YGR120C	Golgi/endosome/vacuole sorting
+YGR142W	Golgi/endosome/vacuole sorting
+YGR167W	Golgi/endosome/vacuole sorting
+YGR172C	Golgi/endosome/vacuole sorting
+YGR198W	Golgi/endosome/vacuole sorting
+YGR206W	Golgi/endosome/vacuole sorting
+YGR209C	Golgi/endosome/vacuole sorting
+YGR241C	Golgi/endosome/vacuole sorting
+YGR261C	Golgi/endosome/vacuole sorting
+YHL002W	Golgi/endosome/vacuole sorting
+YHR012W	Golgi/endosome/vacuole sorting
+YHR016C	Golgi/endosome/vacuole sorting
+YHR039C-A	Golgi/endosome/vacuole sorting
+YHR060W	Golgi/endosome/vacuole sorting
+YHR098C	Golgi/endosome/vacuole sorting
+YHR103W	Golgi/endosome/vacuole sorting
+YHR105W	Golgi/endosome/vacuole sorting
+YHR108W	Golgi/endosome/vacuole sorting
+YIL002C	Golgi/endosome/vacuole sorting
+YIL004C	Golgi/endosome/vacuole sorting
+YIL041W	Golgi/endosome/vacuole sorting
+YIL048W	Golgi/endosome/vacuole sorting
+YIL068C	Golgi/endosome/vacuole sorting
+YIL109C	Golgi/endosome/vacuole sorting
+YIL173W	Golgi/endosome/vacuole sorting
+YIR022W	Golgi/endosome/vacuole sorting
+YJL004C	Golgi/endosome/vacuole sorting
+YJL012C	Golgi/endosome/vacuole sorting
+YJL024C	Golgi/endosome/vacuole sorting
+YJL031C	Golgi/endosome/vacuole sorting
+YJL034W	Golgi/endosome/vacuole sorting
+YJL036W	Golgi/endosome/vacuole sorting
+YJL044C	Golgi/endosome/vacuole sorting
+YJL053W	Golgi/endosome/vacuole sorting
+YJL085W	Golgi/endosome/vacuole sorting
+YJL123C	Golgi/endosome/vacuole sorting
+YJL154C	Golgi/endosome/vacuole sorting
+YJL172W	Golgi/endosome/vacuole sorting
+YJR033C	Golgi/endosome/vacuole sorting
+YJR044C	Golgi/endosome/vacuole sorting
+YJR058C	Golgi/endosome/vacuole sorting
+YJR102C	Golgi/endosome/vacuole sorting
+YJR110W	Golgi/endosome/vacuole sorting
+YJR125C	Golgi/endosome/vacuole sorting
+YJR126C	Golgi/endosome/vacuole sorting
+YKL002W	Golgi/endosome/vacuole sorting
+YKL006C-A	Golgi/endosome/vacuole sorting
+YKL034W	Golgi/endosome/vacuole sorting
+YKL041W	Golgi/endosome/vacuole sorting
+YKL080W	Golgi/endosome/vacuole sorting
+YKL122C	Golgi/endosome/vacuole sorting
+YKL124W	Golgi/endosome/vacuole sorting
+YKL135C	Golgi/endosome/vacuole sorting
+YKL154W	Golgi/endosome/vacuole sorting
+YKL179C	Golgi/endosome/vacuole sorting
+YKL196C	Golgi/endosome/vacuole sorting
+YKL212W	Golgi/endosome/vacuole sorting
+YKR014C	Golgi/endosome/vacuole sorting
+YKR020W	Golgi/endosome/vacuole sorting
+YKR027W	Golgi/endosome/vacuole sorting
+YKR030W	Golgi/endosome/vacuole sorting
+YKR035C	Golgi/endosome/vacuole sorting
+YKR035W-A	Golgi/endosome/vacuole sorting
+YKR068C	Golgi/endosome/vacuole sorting
+YKR088C	Golgi/endosome/vacuole sorting
+YLL038C	Golgi/endosome/vacuole sorting
+YLL040C	Golgi/endosome/vacuole sorting
+YLR026C	Golgi/endosome/vacuole sorting
+YLR039C	Golgi/endosome/vacuole sorting
+YLR043C	Golgi/endosome/vacuole sorting
+YLR078C	Golgi/endosome/vacuole sorting
+YLR093C	Golgi/endosome/vacuole sorting
+YLR096W	Golgi/endosome/vacuole sorting
+YLR114C	Golgi/endosome/vacuole sorting
+YLR119W	Golgi/endosome/vacuole sorting
+YLR148W	Golgi/endosome/vacuole sorting
+YLR166C	Golgi/endosome/vacuole sorting
+YLR181C	Golgi/endosome/vacuole sorting
+YLR206W	Golgi/endosome/vacuole sorting
+YLR208W	Golgi/endosome/vacuole sorting
+YLR220W	Golgi/endosome/vacuole sorting
+YLR240W	Golgi/endosome/vacuole sorting
+YLR261C	Golgi/endosome/vacuole sorting
+YLR262C	Golgi/endosome/vacuole sorting
+YLR309C	Golgi/endosome/vacuole sorting
+YLR360W	Golgi/endosome/vacuole sorting
+YLR373C	Golgi/endosome/vacuole sorting
+YLR378C	Golgi/endosome/vacuole sorting
+YLR396C	Golgi/endosome/vacuole sorting
+YLR410W	Golgi/endosome/vacuole sorting
+YLR417W	Golgi/endosome/vacuole sorting
+YLR440C	Golgi/endosome/vacuole sorting
+YLR447C	Golgi/endosome/vacuole sorting
+YML001W	Golgi/endosome/vacuole sorting
+YML049C	Golgi/endosome/vacuole sorting
+YML052W	Golgi/endosome/vacuole sorting
+YML071C	Golgi/endosome/vacuole sorting
+YML077W	Golgi/endosome/vacuole sorting
+YML097C	Golgi/endosome/vacuole sorting
+YML105C	Golgi/endosome/vacuole sorting
+YML125C	Golgi/endosome/vacuole sorting
+YMR004W	Golgi/endosome/vacuole sorting
+YMR013C	Golgi/endosome/vacuole sorting
+YMR017W	Golgi/endosome/vacuole sorting
+YMR054W	Golgi/endosome/vacuole sorting
+YMR063W	Golgi/endosome/vacuole sorting
+YMR071C	Golgi/endosome/vacuole sorting
+YMR077C	Golgi/endosome/vacuole sorting
+YMR079W	Golgi/endosome/vacuole sorting
+YMR123W	Golgi/endosome/vacuole sorting
+YMR154C	Golgi/endosome/vacuole sorting
+YMR171C	Golgi/endosome/vacuole sorting
+YMR183C	Golgi/endosome/vacuole sorting
+YMR197C	Golgi/endosome/vacuole sorting
+YMR218C	Golgi/endosome/vacuole sorting
+YMR237W	Golgi/endosome/vacuole sorting
+YNL015W	Golgi/endosome/vacuole sorting
+YNL024C-A	Golgi/endosome/vacuole sorting
+YNL032W	Golgi/endosome/vacuole sorting
+YNL041C	Golgi/endosome/vacuole sorting
+YNL051W	Golgi/endosome/vacuole sorting
+YNL149C	Golgi/endosome/vacuole sorting
+YNL158W	Golgi/endosome/vacuole sorting
+YNL246W	Golgi/endosome/vacuole sorting
+YNL258C	Golgi/endosome/vacuole sorting
+YNL263C	Golgi/endosome/vacuole sorting
+YNL272C	Golgi/endosome/vacuole sorting
+YNL287W	Golgi/endosome/vacuole sorting
+YNR006W	Golgi/endosome/vacuole sorting
+YNR026C	Golgi/endosome/vacuole sorting
+YOL018C	Golgi/endosome/vacuole sorting
+YOL065C	Golgi/endosome/vacuole sorting
+YOL128C	Golgi/endosome/vacuole sorting
+YOL129W	Golgi/endosome/vacuole sorting
+YOR030W	Golgi/endosome/vacuole sorting
+YOR034C	Golgi/endosome/vacuole sorting
+YOR036W	Golgi/endosome/vacuole sorting
+YOR068C	Golgi/endosome/vacuole sorting
+YOR069W	Golgi/endosome/vacuole sorting
+YOR070C	Golgi/endosome/vacuole sorting
+YOR075W	Golgi/endosome/vacuole sorting
+YOR079C	Golgi/endosome/vacuole sorting
+YOR089C	Golgi/endosome/vacuole sorting
+YOR094W	Golgi/endosome/vacuole sorting
+YOR106W	Golgi/endosome/vacuole sorting
+YOR109W	Golgi/endosome/vacuole sorting
+YOR132W	Golgi/endosome/vacuole sorting
+YOR207C	Golgi/endosome/vacuole sorting
+YOR254C	Golgi/endosome/vacuole sorting
+YOR270C	Golgi/endosome/vacuole sorting
+YOR275C	Golgi/endosome/vacuole sorting
+YOR299W	Golgi/endosome/vacuole sorting
+YOR322C	Golgi/endosome/vacuole sorting
+YOR326W	Golgi/endosome/vacuole sorting
+YOR327C	Golgi/endosome/vacuole sorting
+YOR357C	Golgi/endosome/vacuole sorting
+YOR370C	Golgi/endosome/vacuole sorting
+YPL002C	Golgi/endosome/vacuole sorting
+YPL010W	Golgi/endosome/vacuole sorting
+YPL019C	Golgi/endosome/vacuole sorting
+YPL045W	Golgi/endosome/vacuole sorting
+YPL051W	Golgi/endosome/vacuole sorting
+YPL065W	Golgi/endosome/vacuole sorting
+YPL069C	Golgi/endosome/vacuole sorting
+YPL085W	Golgi/endosome/vacuole sorting
+YPL094C	Golgi/endosome/vacuole sorting
+YPL100W	Golgi/endosome/vacuole sorting
+YPL120W	Golgi/endosome/vacuole sorting
+YPL154C	Golgi/endosome/vacuole sorting
+YPL195W	Golgi/endosome/vacuole sorting
+YPL204W	Golgi/endosome/vacuole sorting
+YPL210C	Golgi/endosome/vacuole sorting
+YPL218W	Golgi/endosome/vacuole sorting
+YPL232W	Golgi/endosome/vacuole sorting
+YPL243W	Golgi/endosome/vacuole sorting
+YPR017C	Golgi/endosome/vacuole sorting
+YPR028W	Golgi/endosome/vacuole sorting
+YPR032W	Golgi/endosome/vacuole sorting
+YPR036W	Golgi/endosome/vacuole sorting
+YPR055W	Golgi/endosome/vacuole sorting
+YPR079W	Golgi/endosome/vacuole sorting
+YPR088C	Golgi/endosome/vacuole sorting
+YPR095C	Golgi/endosome/vacuole sorting
+YPR105C	Golgi/endosome/vacuole sorting
+YPR173C	Golgi/endosome/vacuole sorting
+YPR176C	Golgi/endosome/vacuole sorting
+YPR181C	Golgi/endosome/vacuole sorting
+YIL039W	Golgi/endosome/vacuole sorting
+YAL024C	Chrom. seg./kinetoch./spindle/microtub.
+YAL031C	Chrom. seg./kinetoch./spindle/microtub.
+YAL034W-A	Chrom. seg./kinetoch./spindle/microtub.
+YAR019C	Chrom. seg./kinetoch./spindle/microtub.
+YBL031W	Chrom. seg./kinetoch./spindle/microtub.
+YBL034C	Chrom. seg./kinetoch./spindle/microtub.
+YBL063W	Chrom. seg./kinetoch./spindle/microtub.
+YBL084C	Chrom. seg./kinetoch./spindle/microtub.
+YBL085W	Chrom. seg./kinetoch./spindle/microtub.
+YBL097W	Chrom. seg./kinetoch./spindle/microtub.
+YBR107C	Chrom. seg./kinetoch./spindle/microtub.
+YBR130C	Chrom. seg./kinetoch./spindle/microtub.
+YBR158W	Chrom. seg./kinetoch./spindle/microtub.
+YBR186W	Chrom. seg./kinetoch./spindle/microtub.
+YBR211C	Chrom. seg./kinetoch./spindle/microtub.
+YBR233W-A	Chrom. seg./kinetoch./spindle/microtub.
+YCL029C	Chrom. seg./kinetoch./spindle/microtub.
+YCR065W	Chrom. seg./kinetoch./spindle/microtub.
+YCR086W	Chrom. seg./kinetoch./spindle/microtub.
+YDL007W	Chrom. seg./kinetoch./spindle/microtub.
+YDL008W	Chrom. seg./kinetoch./spindle/microtub.
+YDL028C	Chrom. seg./kinetoch./spindle/microtub.
+YDL089W	Chrom. seg./kinetoch./spindle/microtub.
+YDL105W	Chrom. seg./kinetoch./spindle/microtub.
+YDL139C	Chrom. seg./kinetoch./spindle/microtub.
+YDL155W	Chrom. seg./kinetoch./spindle/microtub.
+YDL239C	Chrom. seg./kinetoch./spindle/microtub.
+YDR014W	Chrom. seg./kinetoch./spindle/microtub.
+YDR016C	Chrom. seg./kinetoch./spindle/microtub.
+YDR110W	Chrom. seg./kinetoch./spindle/microtub.
+YDR113C	Chrom. seg./kinetoch./spindle/microtub.
+YDR118W	Chrom. seg./kinetoch./spindle/microtub.
+YDR130C	Chrom. seg./kinetoch./spindle/microtub.
+YDR146C	Chrom. seg./kinetoch./spindle/microtub.
+YDR149C	Chrom. seg./kinetoch./spindle/microtub.
+YDR150W	Chrom. seg./kinetoch./spindle/microtub.
+YDR174W	Chrom. seg./kinetoch./spindle/microtub.
+YDR201W	Chrom. seg./kinetoch./spindle/microtub.
+YDR254W	Chrom. seg./kinetoch./spindle/microtub.
+YDR260C	Chrom. seg./kinetoch./spindle/microtub.
+YDR273W	Chrom. seg./kinetoch./spindle/microtub.
+YDR285W	Chrom. seg./kinetoch./spindle/microtub.
+YDR288W	Chrom. seg./kinetoch./spindle/microtub.
+YDR318W	Chrom. seg./kinetoch./spindle/microtub.
+YDR325W	Chrom. seg./kinetoch./spindle/microtub.
+YDR328C	Chrom. seg./kinetoch./spindle/microtub.
+YDR356W	Chrom. seg./kinetoch./spindle/microtub.
+YDR383C	Chrom. seg./kinetoch./spindle/microtub.
+YDR394W	Chrom. seg./kinetoch./spindle/microtub.
+YDR424C	Chrom. seg./kinetoch./spindle/microtub.
+YDR439W	Chrom. seg./kinetoch./spindle/microtub.
+YDR488C	Chrom. seg./kinetoch./spindle/microtub.
+YDR516C	Chrom. seg./kinetoch./spindle/microtub.
+YDR532C	Chrom. seg./kinetoch./spindle/microtub.
+YEL003W	Chrom. seg./kinetoch./spindle/microtub.
+YEL003W	Chrom. seg./kinetoch./spindle/microtub.
+YEL019C	Chrom. seg./kinetoch./spindle/microtub.
+YEL061C	Chrom. seg./kinetoch./spindle/microtub.
+YER016W	Chrom. seg./kinetoch./spindle/microtub.
+YER018C	Chrom. seg./kinetoch./spindle/microtub.
+YER047C	Chrom. seg./kinetoch./spindle/microtub.
+YER098W	Chrom. seg./kinetoch./spindle/microtub.
+YER106W	Chrom. seg./kinetoch./spindle/microtub.
+YER133W	Chrom. seg./kinetoch./spindle/microtub.
+YFL008W	Chrom. seg./kinetoch./spindle/microtub.
+YFL037W	Chrom. seg./kinetoch./spindle/microtub.
+YFR027W	Chrom. seg./kinetoch./spindle/microtub.
+YFR028C	Chrom. seg./kinetoch./spindle/microtub.
+YFR031C	Chrom. seg./kinetoch./spindle/microtub.
+YFR036W	Chrom. seg./kinetoch./spindle/microtub.
+YFR046C	Chrom. seg./kinetoch./spindle/microtub.
+YGL003C	Chrom. seg./kinetoch./spindle/microtub.
+YGL048C	Chrom. seg./kinetoch./spindle/microtub.
+YGL060W	Chrom. seg./kinetoch./spindle/microtub.
+YGL061C	Chrom. seg./kinetoch./spindle/microtub.
+YGL075C	Chrom. seg./kinetoch./spindle/microtub.
+YGL086W	Chrom. seg./kinetoch./spindle/microtub.
+YGL093W	Chrom. seg./kinetoch./spindle/microtub.
+YGL116W	Chrom. seg./kinetoch./spindle/microtub.
+YGL216W	Chrom. seg./kinetoch./spindle/microtub.
+YGL217C	Chrom. seg./kinetoch./spindle/microtub.
+YGR092W	Chrom. seg./kinetoch./spindle/microtub.
+YGR098C	Chrom. seg./kinetoch./spindle/microtub.
+YGR109C	Chrom. seg./kinetoch./spindle/microtub.
+YGR140W	Chrom. seg./kinetoch./spindle/microtub.
+YGR179C	Chrom. seg./kinetoch./spindle/microtub.
+YGR188C	Chrom. seg./kinetoch./spindle/microtub.
+YGR225W	Chrom. seg./kinetoch./spindle/microtub.
+YGR230W	Chrom. seg./kinetoch./spindle/microtub.
+YGR238C	Chrom. seg./kinetoch./spindle/microtub.
+YHR122W	Chrom. seg./kinetoch./spindle/microtub.
+YHR129C	Chrom. seg./kinetoch./spindle/microtub.
+YHR152W	Chrom. seg./kinetoch./spindle/microtub.
+YHR153C	Chrom. seg./kinetoch./spindle/microtub.
+YHR158C	Chrom. seg./kinetoch./spindle/microtub.
+YHR166C	Chrom. seg./kinetoch./spindle/microtub.
+YHR172W	Chrom. seg./kinetoch./spindle/microtub.
+YHR185C	Chrom. seg./kinetoch./spindle/microtub.
+YIL065C	Chrom. seg./kinetoch./spindle/microtub.
+YIL073C	Chrom. seg./kinetoch./spindle/microtub.
+YIL106W	Chrom. seg./kinetoch./spindle/microtub.
+YIL144W	Chrom. seg./kinetoch./spindle/microtub.
+YIL159W	Chrom. seg./kinetoch./spindle/microtub.
+YIR010W	Chrom. seg./kinetoch./spindle/microtub.
+YIR025W	Chrom. seg./kinetoch./spindle/microtub.
+YJL013C	Chrom. seg./kinetoch./spindle/microtub.
+YJL019W	Chrom. seg./kinetoch./spindle/microtub.
+YJL030W	Chrom. seg./kinetoch./spindle/microtub.
+YJL042W	Chrom. seg./kinetoch./spindle/microtub.
+YJL074C	Chrom. seg./kinetoch./spindle/microtub.
+YJL112W	Chrom. seg./kinetoch./spindle/microtub.
+YJR053W	Chrom. seg./kinetoch./spindle/microtub.
+YJR112W	Chrom. seg./kinetoch./spindle/microtub.
+YJR135C	Chrom. seg./kinetoch./spindle/microtub.
+YKL022C	Chrom. seg./kinetoch./spindle/microtub.
+YKL042W	Chrom. seg./kinetoch./spindle/microtub.
+YKL048C	Chrom. seg./kinetoch./spindle/microtub.
+YKL049C	Chrom. seg./kinetoch./spindle/microtub.
+YKL052C	Chrom. seg./kinetoch./spindle/microtub.
+YKL089W	Chrom. seg./kinetoch./spindle/microtub.
+YKL130C	Chrom. seg./kinetoch./spindle/microtub.
+YKL138C-A	Chrom. seg./kinetoch./spindle/microtub.
+YKL145W	Chrom. seg./kinetoch./spindle/microtub.
+YKL193C	Chrom. seg./kinetoch./spindle/microtub.
+YKR010C	Chrom. seg./kinetoch./spindle/microtub.
+YKR037C	Chrom. seg./kinetoch./spindle/microtub.
+YKR054C	Chrom. seg./kinetoch./spindle/microtub.
+YKR083C	Chrom. seg./kinetoch./spindle/microtub.
+YLL001W	Chrom. seg./kinetoch./spindle/microtub.
+YLL003W	Chrom. seg./kinetoch./spindle/microtub.
+YLL049W	Chrom. seg./kinetoch./spindle/microtub.
+YLR007W	Chrom. seg./kinetoch./spindle/microtub.
+YLR045C	Chrom. seg./kinetoch./spindle/microtub.
+YLR066W	Chrom. seg./kinetoch./spindle/microtub.
+YLR086W	Chrom. seg./kinetoch./spindle/microtub.
+YLR102C	Chrom. seg./kinetoch./spindle/microtub.
+YLR106C	Chrom. seg./kinetoch./spindle/microtub.
+YLR127C	Chrom. seg./kinetoch./spindle/microtub.
+YLR186W	Chrom. seg./kinetoch./spindle/microtub.
+YLR200W	Chrom. seg./kinetoch./spindle/microtub.
+YLR212C	Chrom. seg./kinetoch./spindle/microtub.
+YLR227C	Chrom. seg./kinetoch./spindle/microtub.
+YLR254C	Chrom. seg./kinetoch./spindle/microtub.
+YLR263W	Chrom. seg./kinetoch./spindle/microtub.
+YLR272C	Chrom. seg./kinetoch./spindle/microtub.
+YLR315W	Chrom. seg./kinetoch./spindle/microtub.
+YLR381W	Chrom. seg./kinetoch./spindle/microtub.
+YLR457C	Chrom. seg./kinetoch./spindle/microtub.
+YML023C	Chrom. seg./kinetoch./spindle/microtub.
+YML031W	Chrom. seg./kinetoch./spindle/microtub.
+YML085C	Chrom. seg./kinetoch./spindle/microtub.
+YML094W	Chrom. seg./kinetoch./spindle/microtub.
+YML109W	Chrom. seg./kinetoch./spindle/microtub.
+YML124C	Chrom. seg./kinetoch./spindle/microtub.
+YML128C	Chrom. seg./kinetoch./spindle/microtub.
+YMR001C	Chrom. seg./kinetoch./spindle/microtub.
+YMR055C	Chrom. seg./kinetoch./spindle/microtub.
+YMR076C	Chrom. seg./kinetoch./spindle/microtub.
+YMR094W	Chrom. seg./kinetoch./spindle/microtub.
+YMR117C	Chrom. seg./kinetoch./spindle/microtub.
+YMR138W	Chrom. seg./kinetoch./spindle/microtub.
+YMR168C	Chrom. seg./kinetoch./spindle/microtub.
+YMR198W	Chrom. seg./kinetoch./spindle/microtub.
+YMR273C	Chrom. seg./kinetoch./spindle/microtub.
+YMR294W	Chrom. seg./kinetoch./spindle/microtub.
+YMR299C	Chrom. seg./kinetoch./spindle/microtub.
+YMR311C	Chrom. seg./kinetoch./spindle/microtub.
+YNL116W	Chrom. seg./kinetoch./spindle/microtub.
+YNL126W	Chrom. seg./kinetoch./spindle/microtub.
+YNL153C	Chrom. seg./kinetoch./spindle/microtub.
+YNL172W	Chrom. seg./kinetoch./spindle/microtub.
+YNL188W	Chrom. seg./kinetoch./spindle/microtub.
+YNL307C	Chrom. seg./kinetoch./spindle/microtub.
+YOL034W	Chrom. seg./kinetoch./spindle/microtub.
+YOL069W	Chrom. seg./kinetoch./spindle/microtub.
+YOL091W	Chrom. seg./kinetoch./spindle/microtub.
+YOR014W	Chrom. seg./kinetoch./spindle/microtub.
+YOR026W	Chrom. seg./kinetoch./spindle/microtub.
+YOR057W	Chrom. seg./kinetoch./spindle/microtub.
+YOR058C	Chrom. seg./kinetoch./spindle/microtub.
+YOR117W	Chrom. seg./kinetoch./spindle/microtub.
+YOR177C	Chrom. seg./kinetoch./spindle/microtub.
+YOR195W	Chrom. seg./kinetoch./spindle/microtub.
+YOR233W	Chrom. seg./kinetoch./spindle/microtub.
+YOR249C	Chrom. seg./kinetoch./spindle/microtub.
+YOR257W	Chrom. seg./kinetoch./spindle/microtub.
+YOR259C	Chrom. seg./kinetoch./spindle/microtub.
+YOR262W	Chrom. seg./kinetoch./spindle/microtub.
+YOR265W	Chrom. seg./kinetoch./spindle/microtub.
+YOR269W	Chrom. seg./kinetoch./spindle/microtub.
+YOR349W	Chrom. seg./kinetoch./spindle/microtub.
+YOR373W	Chrom. seg./kinetoch./spindle/microtub.
+YPL017C	Chrom. seg./kinetoch./spindle/microtub.
+YPL018W	Chrom. seg./kinetoch./spindle/microtub.
+YPL124W	Chrom. seg./kinetoch./spindle/microtub.
+YPL137C	Chrom. seg./kinetoch./spindle/microtub.
+YPL155C	Chrom. seg./kinetoch./spindle/microtub.
+YPL174C	Chrom. seg./kinetoch./spindle/microtub.
+YPL192C	Chrom. seg./kinetoch./spindle/microtub.
+YPL200W	Chrom. seg./kinetoch./spindle/microtub.
+YPL204W	Chrom. seg./kinetoch./spindle/microtub.
+YPL209C	Chrom. seg./kinetoch./spindle/microtub.
+YPL233W	Chrom. seg./kinetoch./spindle/microtub.
+YPL241C	Chrom. seg./kinetoch./spindle/microtub.
+YPL253C	Chrom. seg./kinetoch./spindle/microtub.
+YPL255W	Chrom. seg./kinetoch./spindle/microtub.
+YPL267W	Chrom. seg./kinetoch./spindle/microtub.
+YPL269W	Chrom. seg./kinetoch./spindle/microtub.
+YPR046W	Chrom. seg./kinetoch./spindle/microtub.
+YPR111W	Chrom. seg./kinetoch./spindle/microtub.
+YPR141C	Chrom. seg./kinetoch./spindle/microtub.
+YBR156C	Chrom. seg./kinetoch./spindle/microtub.
+YAR002W	Nuclear-cytoplasmic transport
+YBL079W	Nuclear-cytoplasmic transport
+YBR034C	Nuclear-cytoplasmic transport
+YBR111W-A	Nuclear-cytoplasmic transport
+YCL011C	Nuclear-cytoplasmic transport
+YDL084W	Nuclear-cytoplasmic transport
+YDL088C	Nuclear-cytoplasmic transport
+YDL175C	Nuclear-cytoplasmic transport
+YDL207W	Nuclear-cytoplasmic transport
+YDR002W	Nuclear-cytoplasmic transport
+YDR101C	Nuclear-cytoplasmic transport
+YDR192C	Nuclear-cytoplasmic transport
+YDR193W	Nuclear-cytoplasmic transport
+YDR335W	Nuclear-cytoplasmic transport
+YDR381W	Nuclear-cytoplasmic transport
+YDR395W	Nuclear-cytoplasmic transport
+YDR457W	Nuclear-cytoplasmic transport
+YER006W	Nuclear-cytoplasmic transport
+YER009W	Nuclear-cytoplasmic transport
+YER105C	Nuclear-cytoplasmic transport
+YER107C	Nuclear-cytoplasmic transport
+YER110C	Nuclear-cytoplasmic transport
+YFR002W	Nuclear-cytoplasmic transport
+YGL016W	Nuclear-cytoplasmic transport
+YGL092W	Nuclear-cytoplasmic transport
+YGL097W	Nuclear-cytoplasmic transport
+YGL172W	Nuclear-cytoplasmic transport
+YGL238W	Nuclear-cytoplasmic transport
+YGL241W	Nuclear-cytoplasmic transport
+YGL247W	Nuclear-cytoplasmic transport
+YGR081C	Nuclear-cytoplasmic transport
+YGR119C	Nuclear-cytoplasmic transport
+YGR218W	Nuclear-cytoplasmic transport
+YHR015W	Nuclear-cytoplasmic transport
+YHR036W	Nuclear-cytoplasmic transport
+YHR088W	Nuclear-cytoplasmic transport
+YHR167W	Nuclear-cytoplasmic transport
+YIL016W	Nuclear-cytoplasmic transport
+YIL063C	Nuclear-cytoplasmic transport
+YIL115C	Nuclear-cytoplasmic transport
+YIR011C	Nuclear-cytoplasmic transport
+YJL039C	Nuclear-cytoplasmic transport
+YJL041W	Nuclear-cytoplasmic transport
+YJL061W	Nuclear-cytoplasmic transport
+YJR042W	Nuclear-cytoplasmic transport
+YJR074W	Nuclear-cytoplasmic transport
+YKL057C	Nuclear-cytoplasmic transport
+YKL068W	Nuclear-cytoplasmic transport
+YKL069W	Nuclear-cytoplasmic transport
+YKL130C	Nuclear-cytoplasmic transport
+YKL186C	Nuclear-cytoplasmic transport
+YKL205W	Nuclear-cytoplasmic transport
+YKL214C	Nuclear-cytoplasmic transport
+YKR082W	Nuclear-cytoplasmic transport
+YKR092C	Nuclear-cytoplasmic transport
+YLR018C	Nuclear-cytoplasmic transport
+YLR335W	Nuclear-cytoplasmic transport
+YLR347C	Nuclear-cytoplasmic transport
+YML031W	Nuclear-cytoplasmic transport
+YML103C	Nuclear-cytoplasmic transport
+YML107C	Nuclear-cytoplasmic transport
+YMR047C	Nuclear-cytoplasmic transport
+YMR129W	Nuclear-cytoplasmic transport
+YMR153C-A	Nuclear-cytoplasmic transport
+YMR153W	Nuclear-cytoplasmic transport
+YMR235C	Nuclear-cytoplasmic transport
+YMR253C	Nuclear-cytoplasmic transport
+YMR255W	Nuclear-cytoplasmic transport
+YMR308C	Nuclear-cytoplasmic transport
+YNL004W	Nuclear-cytoplasmic transport
+YNL140C	Nuclear-cytoplasmic transport
+YNL189W	Nuclear-cytoplasmic transport
+YNL197C	Nuclear-cytoplasmic transport
+YNL253W	Nuclear-cytoplasmic transport
+YOR098C	Nuclear-cytoplasmic transport
+YOR112W	Nuclear-cytoplasmic transport
+YOR160W	Nuclear-cytoplasmic transport
+YOR185C	Nuclear-cytoplasmic transport
+YLR293C	Nuclear-cytoplasmic transport
+

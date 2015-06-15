@@ -1,0 +1,122 @@
+\chapter{Introduction}
+\label{chp:introduction}
+%(3-4 pages). It should begin with a clear statement of what the project is about so that the nature and scope of the project can be understood by a lay reader. It should summarise everything you set out to achieve, provide a clear summary of the project's background, relevance and main contributions. It should explain the motivation for the project (i.e., why the problem is important) and identify the issues to be addressed (i.e., why the problem is difficult). The introduction should set the scene for the project and should provide the reader with a summary of the key things to look out for in the remainder of the report. When detailing the contributions it is helpful to provide pointers to the section(s) of the report that provide the relevant technical details. The introduction itself should be largely non-technical. It is sometimes useful to state the main objectives of the project as part of the introduction. However, avoid the temptation to list low-level objectives one after another in the 
+
+In a complex network, studying the neighbourhood of a node is important for understanding the function of that node within the network. For example, vertex neighbourhoods have been used by Schwikowski et al. for predicting protein function in protein-protein Interaction (PPI) networks \cite{schwikowski2000network}. A. Hertz and D. de Werra have used node neighbourhoods for graph colouring using tabu search techniques \cite{hertz1987using}. For the World Wide Web network, query-dependent ranking algorithms calculate neighbourhood graphs of a given webpage in order to measure its relevance and quality \cite{henzinger2001hyperlink}. On the other hand, local properties of vertices in a network have also been studied by N. Pr\v{z}ulj using graphlets, which are small induced subgraphs of the original network. For each node in the network, a Graphlet Distribution Vector (GDV) can be constructed that captures the local topological structure around the node \cite{milenkoviae2008uncovering}. However, this GDV 
+signature cannot capture the topological structure in the neighbourhood set of a vertex. This project addresses this issue by defining and analysing a novel signature called the \emph{Graphlet Cluster Vector} (GCV), which will calculate the frequency of graphlets in the neighbourhood of a node. Therefore, the GCV signature will be able to bridge the gap between node neighbourhood analysis and graphlet analysis by combining both approaches. 
+
+\section{Motivation}
+
+We developed the novel GCV signature in order to gather insights from two main types of networks: biological and economic. Over the past few decades, major advancements in Genomics and Molecular Research technologies have made available large biological networks of chemical interactions that can help us better understand molecular processes. On the other hand, economic networks have also been produced that track trade flows between countries or cities. Because of the sheer size of the networks, suitable algorithms need to be devised that capture important patterns in the data automatically. 
+
+We believe that studying the neighbourhood of nodes in biological or economic networks can yield very interesting insights and correlations that other classical methods cannot capture. For instance, it has been shown that in protein-protein interaction (PPI) networks, proteins that interact in a similar manner with their neighbours will probably have similar functions, even if the proteins are at a large distance from each other in the PPI network \cite{schwikowski2000network}. Therefore, studying the interactions of the neighbours of a node can tell us something about the properties of that node itself. We also believe that exploring new ways to analyse biological networks will help us shed a new light on complex biological processes. This could further lead to an increased understanding of diseases such as cancer or cardiovascular disorders that are leading causes of death worldwide \cite{jemal2008cancer,world2004annex}.
+
+For each node in a given input network, our novel GCV signature will count the frequency of different graphlets in the neighbouring subgraph of the node. Unfortunately, hub nodes (i.e.\ nodes with a high degree) have a large neighbouring subgraph and computing the GCV signature for these nodes can easily become infeasible. As a result, the computation needs to be parallelised for large networks with tens of thousands of nodes, such as the PPI networks.
+
+Apart from getting insights from the network data, our GCV signature can also be used to align networks or assess which random model fits the real data best. The GCV signature can also be used in conjunction with other local and global properties of networks, such as the degree distribution,
+average diameter or node centralities. These network properties have so far been successfully used to identify enzymes or reactions that are crucial for the survival of organisms \cite{rahman2006observing}, model drug design trends \cite{yildirim2007drug} or modeling the world-wide airport network \cite{guimera2004modeling}.
+
+Our technique builds upon work done by the Pr\v{z}ulj group, which has developed a signature called \emph{Graphlet Distribution Vector} (GDV) that counts the number of graphlets that a node touches \cite{prvzulj2007biological}. This has been successfully used to fit random network models to real world networks \cite{prvzulj2004modeling}, uncover biological network function \cite{milenkoviae2008uncovering} and topologically align networks \cite{kuchaiev2010topological}. Our novel \emph{Graphlet Cluster Vector} signature can be seen as a generalisation of the GDV signature, by extending it on the neighbourhood set of a node. Given the different areas where the GDV signature has been successfully applied, we believe the new GCV signature can also be successful at uncovering insights and patterns from the networks we will apply it on. 
+
+\section{Objectives}
+
+The project was concerned with exploring the properties of the novel GCV signature and using it for uncovering hidden patterns from the network data. Since the GCV signature is built on the older GDV signature developed by N. Pr\v{z}ulj, we applied previously used statistical techniques such as Canonical Correlation Analysis and Pearson's correlation matrices that have been successfully used with the older GDV signature. Our objectives were to:
+\begin{enumerate}
+ \item Implement an algorithm that calculates the GCV signature for every node in a given network.
+ \item Calculate the GCV signatures for several biological and economic networks as well as random networks that have been generated from these. If the computation is taking too long, parallelise the processing.
+ \item Use statistical techniques to find out which graphlets from the GCV signature have a behaviour similar with each other.
+ \item Correlate the GCV signature with functional node annotations.
+ \item Implement a framework that automatically pre-processes a large number of networks and performs all the statistical experiments on each of them.
+ \item Identify which network dataset gives the best correlations with the GCV signature. Perform deeper experiments in the chosen dataset. 
+ \item Interpret the results and report on the findings.
+\end{enumerate}
+
+While objectives 1 and 2 represented the implementation of the core algorithms in this project, the rest of the objectives were focused on data analysis. In the data analysis part of the project, we tested our methods on a variety of networks, using different GCV normalisation procedures and functional annotations. The main network classes we applied this to are as follows:
+\begin{itemize}
+ \item Real networks
+ \begin{enumerate}
+    \item Protein-Protein Interaction (PPI) networks
+    \item Metabolic networks
+    \item World Trade networks
+  \end{enumerate}
+ \item Random networks
+ \begin{enumerate}
+    \item Erd\H{o}s-R\'{e}nyi \cite{erdHos1959random}
+    \item Erd\H{o}s-R\'{e}nyi (with preserved degree distribution)
+    \item Geometric networks \cite{penrose2003random}
+    \item Barab\'{a}si-Albert (preferential attachment) \cite{barabasi1999emergence}
+    \item Stickiness index-based \cite{prvzulj2006modelling}
+  \end{enumerate}
+\end{itemize}
+
+Optionally, the following extra objectives have also been considered:
+\begin{itemize}
+ \item Parallelising the computation for the GCV signature. This is required for large networks such as the PPI networks.
+ \item Implementing a classifier that uses the GCV signature of proteins in PPI networks to predict protein function.
+ \item Using the GCV signature to cluster random network models.
+\end{itemize}
+
+Finally, this work was a research project that had a certain amount of risk associated to it. The GCV is a novel signature that has not been studied before by the scientific community, so we could not predict beforehand how well it performs on our experiments. Throughout the project, we guided our experiments by the signals we got from initial experiments. Nevertheless, when analysing some network data such as the enzyme-based Metabolic networks we hit a dead end multiple times, suggesting that our signature is not suitable for analysing these types of networks. 
+
+\section{Contributions}
+
+The main contributions of the project are summarised below:
+\begin{itemize}
+ \item development of the mathematical model of the GCV signature followed by the implementation and parallelisation of the algorithm that computes it.
+ \item implementation of algorithms that compute Pearson's correlation matrices and Canonical Correlation Analysis on several classes on networks
+ \item interpretations of the results obtained by the initial experiments and the identification of the World Trade networks (WTNs) as the dataset which offered the best results.
+ \item results in the WTN showing that:
+  \begin{itemize}
+   \item Changes in the structure of the WTN are inversely correlated with the changes in the price of crude oil. Since the changes in the network structure happen one year before the changes in oil prices, we believe that the network structure causes the price of crude oil to change. This is one of the main results of the project (section \ref{trade_change_orig}).
+   \item For a certain country, sparse networks of trading partners are a sign of its economic well-being. On the other hand, dense networks of trading partners are detrimental for its economy  (section \ref{cca_trade_norm1})
+   \item The structure of trading partners of Saudi Arabia, a major oil exporter, is influenced by the change in oil price (section \ref{case_study_saudi}).
+   \item A clustered structure of the trading partners network of a country is correlated with the level of regional integration of the country (section \ref{sec:cca_integration}).
+   \item A trading partner sparsity index score has been computed for a variety of countries for the time period 1962--2010. The index correlates with major economic events such as oil crises, political revolutions, economic reforms or changes in foreign policy (section \ref{sec:sparsity_index}).
+  \end{itemize}
+ \item results in the PPI networks showing that the interaction neighbourhood of a protein is related to the protein's involvement in several processes (section \ref{sec:18_ppi_cca_results}):
+  \begin{itemize}
+   \item Ribosome translation
+   \item RNA processing
+   \item Metabolism
+   \item Golgi endosome vacuole sorting
+  \end{itemize}
+
+ \item results in the Metabolic network showing that the interaction neighbourhood of an enzyme is related to the enzyme's involvement in:
+ \begin{itemize}
+  \item Cellular Processes (section \ref{cca_kegg_cellular})
+  \begin{itemize}
+    \item Transport and Catabolism
+    \item Cell communication
+    \item Cell growth and death
+  \end{itemize}
+  
+  \item Organismal Systems (section \ref{cca_kegg_organismal})
+  \begin{itemize}
+    \item Environmental adaptation
+    \item Excretory system
+    \item Digestive system
+    \item Circulatory system
+  \end{itemize}
+  
+  \item Human diseases (section \ref{cca_kegg_human})
+  \begin{itemize}
+    \item Cardiovascular diseases
+    \item Substance dependence
+  \end{itemize}
+  
+ \end{itemize}
+ 
+\end{itemize}
+
+Although more experiments are needed to confirm some of these results, they all have the potential to be published in a scientific journal. Unfortunately, the given time frame didn't allow us to perform supporting experiments to further certify the results.
+
+\section{Report Structure}
+
+The report structure can be summarised as follows:
+\begin{itemize}
+ \item \textbf{Chapter \ref{chp:background}} provides the background research on Graph theory, Global and Local Network Properties, Random Graphs, Pearson's and Spearman's correlation coefficients and Canonical Correlation Analysis. At the end of the chapter, section \ref{sec:networks_analysed} provides detailed information about the networks analysed. 
+ \item \textbf{Chapter \ref{chp:methodology}} describes the methodology used for developing the algorithms that compute the GCV signature, the Pearson's Correlation matrices and the Canonical Correlation Analysis.
+ \item \textbf{Chapter \ref{chp:applications}} presents the results of the analysis on three different network classes: World Trade networks, PPI networks and Metabolic networks. % and Literature networks.
+ \item \textbf{Chapter \ref{chp:evaluation}} describes the evaluation of the GCV signature on clustering random networks generated using different algorithms.
+ \item \textbf{Chapter \ref{chp:conclusion}} outlines a summary of the project achievements, a critique of the current approach and future directions.
+\end{itemize}

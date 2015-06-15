@@ -1,0 +1,32 @@
+We have not normalised the GDV values of the vertices of the GDV because the relative difference between 2 GDVs would still be the same. Furthermore, the main difference between the values comes from the actual number of graphlets in the neighbourhood, and a pairwise normalization step can be performed at the end, once the number of all the graphlets has been obtained.
+
+In the neighbour set, we do not include the main node itself.
+
+The GDV vectors are normalised, the values of the AVG GDV would be too small. However, the magnitude of the values are lost, and only the relative differences are maintained
+
+Avg-GDV = pairwise average over all the 29 types of graphlets
+  - n to 1
+Normalised = one vector is normalised so that all the 29 entries sum up to 1.0
+  - 1 to 1
+
+project plan:
+1. avg gdv + normalised/network + compare networks (PPI vs PPI, PPI vs trade, facebook vs metabolic)
+
+2. generate random models (code in graph-crunch2/gc101/crunch -m "er erdd sf geo" 10 HUMAN.gw). When generating random netowrks, I should use the same input data. Compare avg gcv in random networks vs real networks
+
+2.1 run the avg_egdv on the thresholded trade network - DONE
+
+2.2 compare egdvs vs normal gdv
+
+2.3 generate around 10 instances of each random network. For each random net, calc the avg_egdv and then calc the mean and std_dev of the AVG_EGDV. When plotting them on the graph, put both the mean and a bar representing the std_dev
+
+2.4 check why I don't get G0 graphlets - DONE .. ncount cannot count G0 graphlets
+
+3. for random networks, compute the raphlet degree dist agreement instead
+
+4. use the metric to get new biological and economic insights
+
+5. Calculate the correlation between column vectors V_i corresponding to graphlet type i. Look into Pearson's correlation coefficient. Compute a 30x30 matrix for each network. Use these matrices to get a distance measure of how similar they are.
+
+as of 15 March, there is something wrong when calculating ./e_gdv with multiple threads. More precisely, only a few GCVs get outputed and in a wrong order. Everything works fine with only one thread.
+

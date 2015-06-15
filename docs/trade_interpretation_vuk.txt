@@ -1,0 +1,4 @@
+And rather than "Black Monday" which is a single-day event and I don't think it would affect the ~5 year period of big change in topology as much, try explaining the changes in "neighbourhood topology" by something like:
+1969~1973 -- "The Great Inflation", US Dollar devalued; US trade deficit, rising energy prices, etc.
+~1987 -- something like figure 1.1 in http://www.fdic.gov/bank/historical/history/3_85.pdf
+(just examples, look into it and see whether it actually corresponds to what the results say)

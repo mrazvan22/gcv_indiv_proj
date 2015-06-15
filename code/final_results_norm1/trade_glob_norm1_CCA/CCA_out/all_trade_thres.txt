@@ -1,0 +1,8 @@
+data1:  ../CCA_in/1980to2010_complete-countries_augmented_matched-to_combined_network_years.csv
+data2:  ../CCA_in/combined_network_years_matched-to_1980to2010_complete-countries_augmented.csv
+instance-name mismatches:  0
+x-transform: (none)
+y-transform: (none)
+not normalizing x-rows
+not normalizing y-rows
+scaling X and Y

@@ -1,0 +1,567 @@
+1,Aber
+2,Adam
+3,Agafea Mihalovna
+4,Alabin
+5,Alexander
+6,Alexander Dmitrievitch Shtcherbatsky
+7,Alexander Nevsky
+8,Alexander Nikolaevitch
+9,Alexander Shtcherbatsky
+10,Alexander Vronsky
+11,Alexey
+12,Alexey Alexandrovitch
+13,Alexey Alexandrovitch Karenin
+14,Alexey Kirillovitch
+15,Alexey Kirillovitch Vronsky
+16,Alexey Vronsky
+17,Aline
+18,Aline Stahl
+19,Aline-Nadine
+20,Aliosha
+21,Alioshka
+22,Allons
+23,Alphonse Karr
+24,Andreevna
+25,Andrey
+26,Andrey Pervozvanny
+27,Anna
+28,Anna Arkadyevna
+29,Anna Arkadyevna Karenina
+30,Anna Karenina
+31,Anna Pavlovna
+32,Anna of Annushka
+33,Annie
+34,Annushka
+35,Apostle Paul
+36,Arhip
+37,Arseny
+38,Astafieva
+39,Atlas
+40,Bach
+41,Baden
+42,Baroness
+43,Baroness Shilton
+44,Baroness Shtoltz
+45,Bartnyansky
+46,Beethoven
+47,Bentham
+48,Berkoot
+49,Berkoshov
+50,Bertenev
+51,Betsy
+52,Betsy Tverskaya
+53,Bezzubov
+54,Bezzubova
+55,Bibish
+56,Bill
+57,Birch Dale
+58,Biryuzovsky
+59,Bobrishtchevs
+60,Bola
+61,Bondarenko
+62,Bonina
+63,Borozdina
+64,Bravo
+65,Brenteln
+66,Brindle
+67,Brownie
+68,Bryansky
+69,Bryantsev
+70,Buslaev
+71,Buzulukov
+72,Capuan
+73,Catherine
+74,Cessez
+75,Château des Fleurs
+76,Chablis
+77,Charles
+78,Charmante
+79,Christ
+80,Christian
+81,Claire
+82,Cordelia
+83,Count Anitchkin
+84,Count Beist
+85,Count Bezzubov
+86,Count Bol
+87,Count Paskudin
+88,Count Siniavin
+89,Countess Bezzubova
+90,Countess Bola
+91,Countess Bonina
+92,Countess Lidia Ivanovna
+93,Countess Nordston
+94,Countess Vronskaya
+95,Darya
+96,Darya Alexandrovna
+97,Darya Alexandrovna Oblonskaya
+98,Darya Dmitrievna
+99,Daryalov
+100,Das lässt sich ausrechnen
+101,Daudet
+102,Delicieux
+103,Demin
+104,Der Preis vom Draht
+105,Diana
+106,Dimer-Bartnyansky
+107,Dmitri
+108,Dolgovushin
+109,Dolinka
+110,Dolly
+111,Don
+112,Drabanti
+113,Dubois
+114,Dunyasha
+115,Durchlaucht
+116,Dussot
+117,Ekaterina
+118,Eletsky
+119,Elizaveta Federovna Tverskaya
+120,Enoch
+121,Enos
+122,Entrez
+123,Ergushovo
+124,Erlaucht
+125,Fanny
+126,Fedot
+127,Fertinghof
+128,Finogen
+129,Flerov
+130,Fokanitch
+131,Fomitch
+132,Foulde
+133,Franklin
+134,Friedrich
+135,Fyodor
+136,Fyodor Bogdanitch
+137,Fyodor Ryezunov
+138,Fyodor Vassilievitch
+139,Gagin
+140,Galtsin
+141,Gambetta
+142,Gautier
+143,Gemahlin
+144,Gerasim
+145,Gladiator
+146,God
+147,Golenishtchev
+148,Golistin
+149,Golubtsov
+150,Grabovsky
+151,Gretchen
+152,Grimm
+153,Grinevitch
+154,Grisha
+155,Gritsky
+156,Gvozdyov
+157,Hagar
+158,Hannah
+159,Helen
+160,Helsingfors
+161,Hliustov
+162,Homiakov
+163,I.
+164,Ignat
+165,Ignatov
+166,Ipat
+167,Isaac
+168,Ivan
+169,Ivan Ivanovitch
+170,Ivan Ivanovitch Ragozov
+171,Ivan Parmenov
+172,Ivan Petrovitch
+173,Ivanov
+174,Ivanov-Strauss-Renan
+175,Jesus Christ
+176,John
+177,Jones
+178,Joseph
+179,Jove
+180,Jules Landau
+181,K.
+182,Kalinin
+183,Kaluzhsky
+184,Kamerovsky
+185,Kammerjunker
+186,Kammerjunker Grinevitch
+187,Kant
+188,Kapitonitch
+189,Karenin
+190,Karenina
+191,Karenins
+192,Karibanov
+193,Karl Fedoritch
+194,Kartasov
+195,Kashinsky
+196,Katavasov
+197,Katerina Alexandrovna
+198,Katerina Alexandrovna Levin
+199,Katerina Andreevna
+200,Katerina Pavlovna
+201,Katia
+202,Katinka
+203,Katka Maslov
+204,Katya
+205,Kauffmann
+206,Kaulbach
+207,Kazan
+208,Kedrov
+209,Keiss
+210,Kirill Ivanovitch Vronsky
+211,Kirillov
+212,Kislovka
+213,Kitty
+214,Kitty Levin
+215,Kitty Shtcherbatskaya
+216,Klaras
+217,Klopot
+218,Klopots
+219,Knaust
+220,Kolok
+221,Kolpik
+222,Komissarov
+223,Kondraty
+224,Konstantin
+225,Konstantin Demitrievitch
+226,Konstantin Dmitrich
+227,Konstantin Dmitrievitch
+228,Konstantin Dmitrievitch Levin
+229,Konstantin Levin
+230,Kootik
+231,Korney
+232,Korney Vassilievitch
+233,Korsunsky
+234,Korsunskys
+235,Korzinskaya
+236,Kostya
+237,Kostya Levin
+238,Kouzma
+239,Koznishev
+240,Krilov
+241,Kritsky
+242,Krivin
+243,Krivtsov
+244,Kruzin
+245,Kuzovlev
+246,Kvitsky
+247,Lafitte
+248,Landau
+249,Lankovsky
+250,Laska
+251,Lassalle
+252,Laura
+253,Le moule
+254,Le roi est mort
+255,Lear
+256,Les amis de nos amis
+257,Levin
+258,Levins
+259,Levins Varenka
+260,Levy
+261,Lidia
+262,Lidia Ivanovna
+263,Lieschen
+264,Lili
+265,Lily
+266,Linon
+267,Liza
+268,Liza Merkalova
+269,Liza Mertsalova
+270,Liza Neptunova
+271,Lizaveta Petrovna
+272,Louis Quinze
+273,Low
+274,Lucca
+275,Madame Apraksina
+276,Madame Avenieva
+277,Madame Berthe
+278,Madame Karenina
+279,Madame Kartasova
+280,Madame Korsunskaya
+281,Madame Lvova
+282,Madame Maltishtcheva
+283,Madame Mamonova
+284,Madame Nikolaeva
+285,Madame Petrova
+286,Madame Sorokina
+287,Madame Stahl
+288,Madame Sviazhskaya
+289,Madame Trubetskaya
+290,Madame Vassiltchikova
+291,Madame Vrede
+292,Madame la Comtesse
+293,Mademoiselle Linon
+294,Mademoiselle Varenka
+295,Maecenas
+296,Mahotin
+297,Mak
+298,Malthus
+299,Mamma
+300,Marie
+301,Marie Sanina
+302,Mariette
+303,Mary
+304,Marya
+305,Marya Borissovna
+306,Marya Dmitrievna
+307,Marya Efimovna
+308,Marya Ivanovna
+309,Marya Nikolaevna
+310,Marya Petrovna
+311,Marya Philimonovna
+312,Marya Semyonovna
+313,Marya Vassilievna
+314,Marya Vlasyevna
+315,Marya Yevgenyevna
+316,Marya Yevgenyevna Rtishtcheva
+317,Masha
+318,Masha Tchibisova
+319,Matrona
+320,Matrona Philimonovna
+321,Matrona Semyenovna
+322,Matthew
+323,Matvey
+324,Meidel
+325,Meine
+326,Metrov
+327,Michelli
+328,Mihail
+329,Mihail Alexeyevitch
+330,Mihail Ignatitch
+331,Mihail Ivanitch
+332,Mihail Petrovitch
+333,Mihail Semyonovitch
+334,Mihail Stanislavitch Grinevitch
+335,Mihail Stepanovitch Snetkov
+336,Mihail Vassilievitch
+337,Mihail Vassilievitch Sludin
+338,Mihailov
+339,Mihalitch
+340,Mileev
+341,Misha
+342,Miss Edwarde
+343,Miss Elliot
+344,Miss Hoole
+345,Mitin
+346,Mituh
+347,Mitya
+348,Mlle
+349,Mon ami
+350,Monsieur Landau
+351,Mordvinsky
+352,Moses
+353,Mother
+354,Mulhausen
+355,Myakaya
+356,Myakov
+357,Myaskin
+358,Nadinka
+359,Nastia
+360,Natalia
+361,Natalia Alexandrovna
+362,Natalia Golitzina
+363,Nevyedovsky
+364,Nikitin
+365,Nikitsky
+366,Nikolay
+367,Nikolay Dmitrievitch
+368,Nikolay Ivanitch
+369,Nikolay Ivanovitch
+370,Nikolay Ivanovitch Sviazhsky
+371,Nikolay Levin
+372,Nikolay Shtcherbatsky
+373,Nikolinka
+374,Nilsson
+375,Nordston
+376,Obiralovka
+377,Oblonskaya
+378,Oblonsky
+379,Oblonskys
+380,Ohotny Row
+381,Papa
+382,Parasha
+383,Parfen Denisitch
+384,Parmenitch
+385,Paskudin
+386,Patti
+387,Paul
+388,Pava
+389,Penza
+390,Pestsov
+391,Peter
+392,Petersburg
+393,Petersburg Alexey Alexandrovitch
+394,Petritsky
+395,Petrov
+396,Petrovsky
+397,Philip
+398,Philip Ivanitch Nikitin
+399,Pierre
+400,Pilate
+401,Piotr
+402,Piotr Ignatitch
+403,Plaisir
+404,Platon
+405,Pogatchev
+406,Pokrovskoe
+407,Poltavsky
+408,Pomorsky
+409,Pravdin
+410,Prince Kaluzhsky
+411,Prince Karibanov
+412,Prince Kedrov
+413,Prince Oblonsky
+414,Prince Serpuhovskoy
+415,Prince Shtcherbatsky
+416,Prince Tcharsky
+417,Prince Tchetchensky
+418,Prince Yashvin
+419,Princess Varvara
+420,Printaniere
+421,Pripasov
+422,Prohor
+423,Prohor Yermilin
+424,Pryatchnikov
+425,Putyatov
+426,Pyevtsov
+427,Pyotr
+428,Pyotr Dmitrievitch
+429,Pyotr Illyitch Vinovsky
+430,Pyotr Ivanovitch
+431,Pyotr Oblonsky
+432,Pyotr Petrovitch Bol
+433,Rachel
+434,Raphael
+435,Raven
+436,Rebecca
+437,Revenez
+438,Ristitch-Kudzhitsky
+439,Roland
+440,Rolandak
+441,Rossi
+442,Rubens
+443,Ryabinin
+444,Ryezunov
+445,Sam Nikandrov
+446,Samson
+447,Sappho
+448,Sappho Shtoltz
+449,Sarmatskys
+450,Sasha
+451,Saul
+452,Schopenhauer
+453,Semyon
+454,Semyonov
+455,Sergey
+456,Sergey Alexeitch
+457,Sergey Alexyevitch
+458,Sergey Ivanovitch
+459,Sergey Ivanovitch Koznishev
+460,Sergey Koznishev
+461,Serpuhovskoy
+462,Servia
+463,Seryozha
+464,Sestrin
+465,Shahovskaya
+466,Shakespeare
+467,Shirkov
+468,Shtcherbatskaya
+469,Shtcherbatsky
+470,Shtcherbatskys
+471,Shuraev
+472,Sigonin
+473,Sitnikov
+474,Skorodumov
+475,Sludin
+476,Snetkov
+477,Soden
+478,Sokolov
+479,Sorokina
+480,Sorrento
+481,Spencer
+482,Spinoza
+483,Stahl
+484,Stepan Arkadyevitch
+485,Stepan Arkadyevitch Oblonsky
+486,Stepan Vassilievitch
+487,Stephan Arkadyevitch
+488,Stiva
+489,Stiva Oblonsky
+490,Stremov
+491,Surovsky
+492,Sventitsky
+493,Sviazhsky
+494,Sviazhskys
+495,Tanitchka
+496,Tanya
+497,Tashkend
+498,Tatar
+499,Tchagin
+500,Tcharskaya
+501,Tchetchensky
+502,Tchirikov
+503,Tchudovo
+504,Terenty
+505,Tereshtchenko
+506,Thèrése
+507,Tochter
+508,Topov
+509,Troitsa
+510,Trubin
+511,Turovtsin
+512,Tushkevitch
+513,Tverskaya
+514,Tverskoys
+515,Tversky
+516,Varenka
+517,Varvara
+518,Varvara Andreevna
+519,Varya
+520,Varya Tchirkova
+521,Vashtchenkov
+522,Vaska
+523,Vassenka
+524,Vassenka Veslovsky
+525,Vassiliev
+526,Vassiltchikov
+527,Vassily
+528,Vassily Fedorovitch
+529,Vassily Lukitch
+530,Vassily Semyonitch
+531,Vasya Pryatchnikov
+532,Vatkovskaya
+533,Venden
+534,Venovsky
+535,Venus
+536,Veslovsky
+537,Vladimir
+538,Vladimirsky
+539,Vlassieva
+540,Volgarinov
+541,Volkov
+542,Vorknev
+543,Vorkuev
+544,Voytov
+545,Vozdvizhenskoe
+546,Vronskaya
+547,Vronsky
+548,Wünscht man Dochots
+549,Wagner
+550,Weibliche
+551,Wilson
+552,Wurt
+553,Yashvin
+554,Yausky
+555,Yegor
+556,Yegorov
+557,Yegorushka Korsunsky
+558,Yeliseev
+559,Yermil
+560,Yevgeney Ivanovitch Apuhtin
+561,Young Shtcherbatsky
+562,Yury Meledinsky
+563,Zahar Nikititch
+564,Zaraisky
+565,Zhivahov
+566,Zipporah
+567,Zola

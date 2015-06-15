@@ -1,0 +1,1745 @@
+A<b>Cellular Processes</b>
+B
+B  <b>Transport and catabolism</b>
+C    04144 Endocytosis [PATH:hsa04144]
+D      7040 TGFB1; transforming growth factor, beta 1	K13375 TGFB1; transforming growth factor beta-1
+D      7042 TGFB2; transforming growth factor, beta 2	K13376 TGFB2; transforming growth factor beta-2
+D      7043 TGFB3; transforming growth factor, beta 3	K13377 TGFB3; transforming growth factor beta-3
+D      7046 TGFBR1; transforming growth factor, beta receptor 1 	K04674 TGFBR1; TGF-beta receptor type-1 [EC:2.7.11.30]
+D      7048 TGFBR2; transforming growth factor, beta receptor II (70/80kDa) 	K04388 TGFBR2; TGF-beta receptor type-2 [EC:2.7.11.30]
+D      9372 ZFYVE9; zinc finger, FYVE domain containing 9	K04679 MADHIP; MAD, mothers against decapentaplegic interacting protein
+D      9765 ZFYVE16; zinc finger, FYVE domain containing 16	K04679 MADHIP; MAD, mothers against decapentaplegic interacting protein
+D      5371 PML; promyelocytic leukemia	K10054 PML; probable transcription factor PML
+D      4087 SMAD2; SMAD family member 2	K04500 SMAD2_3; mothers against decapentaplegic homolog 2/3
+D      4088 SMAD3; SMAD family member 3	K04500 SMAD2_3; mothers against decapentaplegic homolog 2/3
+D      7037 TFRC; transferrin receptor	K06503 TFRC; transferrin receptor
+D      1956 EGFR; epidermal growth factor receptor 	K04361 EGFR; epidermal growth factor receptor [EC:2.7.10.1]
+D      2321 FLT1; fms-related tyrosine kinase 1 	K05096 FLT1; FMS-like tyrosine kinase 1 [EC:2.7.10.1]
+D      3791 KDR; kinase insert domain receptor (a type III receptor tyrosine kinase) 	K05098 KDR; kinase insert domain protein receptor [EC:2.7.10.1]
+D      5156 PDGFRA; platelet-derived growth factor receptor, alpha polypeptide 	K04363 PDGFRA; platelet-derived growth factor receptor alpha [EC:2.7.10.1]
+D      2263 FGFR2; fibroblast growth factor receptor 2 	K05093 FGFR2; fibroblast growth factor receptor 2 [EC:2.7.10.1]
+D      2261 FGFR3; fibroblast growth factor receptor 3 	K05094 FGFR3; fibroblast growth factor receptor 3 [EC:2.7.10.1]
+D      2264 FGFR4; fibroblast growth factor receptor 4 	K05095 FGFR4; fibroblast growth factor receptor 4 [EC:2.7.10.1]
+D      3480 IGF1R; insulin-like growth factor 1 receptor 	K05087 IGF1R; insulin-like growth factor 1 receptor [EC:2.7.10.1]
+D      4233 MET; met proto-oncogene 	K05099 MET; proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]
+D      4914 NTRK1; neurotrophic tyrosine kinase, receptor, type 1 	K03176 NTRK1; neurotrophic tyrosine kinase receptor type 1 [EC:2.7.10.1]
+D      2065 ERBB3; v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 3 	K05084 ERBB3; receptor tyrosine-protein kinase erbB-3 [EC:2.7.10.1]
+D      2066 ERBB4; v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 4 	K05085 ERBB4; receptor tyrosine-protein kinase erbB-4 [EC:2.7.10.1]
+D      3815 KIT; v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog 	K05091 KIT; proto-oncogene tyrosine-protein kinase Kit [EC:2.7.10.1]
+D      5979 RET; ret proto-oncogene 	K05126 RET; proto-oncogene tyrosine-protein kinase Ret [EC:2.7.10.1]
+D      1436 CSF1R; colony stimulating factor 1 receptor 	K05090 CSF1R; macrophage colony-stimulating factor 1 receptor [EC:2.7.10.1]
+D      1950 EGF; epidermal growth factor	K04357 EGF; epidermal growth factor
+D      1759 DNM1; dynamin 1 	K01528 DNM; dynamin GTPase [EC:3.6.5.5]
+D      1785 DNM2; dynamin 2 	K01528 DNM; dynamin GTPase [EC:3.6.5.5]
+D      26052 DNM3; dynamin 3 	K01528 DNM; dynamin GTPase [EC:3.6.5.5]
+D      382 ARF6; ADP-ribosylation factor 6	K07941 ARF6; ADP-ribosylation factor 6
+D      23396 PIP5K1C; phosphatidylinositol-4-phosphate 5-kinase, type I, gamma 	K00889 E2.7.1.68; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+D      8394 PIP5K1A; phosphatidylinositol-4-phosphate 5-kinase, type I, alpha 	K00889 E2.7.1.68; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+D      8395 PIP5K1B; phosphatidylinositol-4-phosphate 5-kinase, type I, beta 	K00889 E2.7.1.68; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+D      138429 PIP5KL1; phosphatidylinositol-4-phosphate 5-kinase-like 1 	K13712 PIP5KL1; phosphatidylinositol-4-phosphate 5-kinase-like protein 1 [EC:2.7.1.68]
+D      5337 PLD1; phospholipase D1, phosphatidylcholine-specific 	K01115 PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+D      5338 PLD2; phospholipase D2 	K01115 PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+D      1211 CLTA; clathrin, light chain A	K04644 CLTA; clathrin light chain A
+D      1212 CLTB; clathrin, light chain B	K04645 CLTB; clathrin light chain B
+D      1213 CLTC; clathrin, heavy chain (Hc)	K04646 CLTC; clathrin heavy chain
+D      8218 CLTCL1; clathrin, heavy chain-like 1	K04646 CLTC; clathrin heavy chain
+D      161 AP2A2; adaptor-related protein complex 2, alpha 2 subunit	K11824 AP2A; AP-2 complex subunit alpha
+D      160 AP2A1; adaptor-related protein complex 2, alpha 1 subunit	K11824 AP2A; AP-2 complex subunit alpha
+D      163 AP2B1; adaptor-related protein complex 2, beta 1 subunit	K11825 AP2B1; AP-2 complex subunit beta-1
+D      1173 AP2M1; adaptor-related protein complex 2, mu 1 subunit	K11826 AP2M1; AP-2 complex subunit mu-1
+D      1175 AP2S1; adaptor-related protein complex 2, sigma 1 subunit	K11827 AP2S1; AP-2 complex subunit sigma-1
+D      30846 EHD2; EH-domain containing 2	K12469 EHD2; EH domain-containing protein 2
+D      23624 CBLC; Cbl proto-oncogene C, E3 ubiquitin protein ligase	K04707 CBL; E3 ubiquitin-protein ligase CBL [EC:6.3.2.19]
+D      867 CBL; Cbl proto-oncogene, E3 ubiquitin protein ligase	K04707 CBL; E3 ubiquitin-protein ligase CBL [EC:6.3.2.19]
+D      868 CBLB; Cbl proto-oncogene B, E3 ubiquitin protein ligase	K04707 CBL; E3 ubiquitin-protein ligase CBL [EC:6.3.2.19]
+D      4734 NEDD4; neural precursor cell expressed, developmentally down-regulated 4, E3 ubiquitin protein ligase 	K10591 NEDD4; E3 ubiquitin-protein ligase NEDD4 [EC:6.3.2.19]
+D      23327 NEDD4L; neural precursor cell expressed, developmentally down-regulated 4-like, E3 ubiquitin protein ligase 	K13305 NEDD4L; E3 ubiquitin-protein ligase NEDD4-like [EC:6.3.2.19]
+D      4193 MDM2; MDM2 oncogene, E3 ubiquitin protein ligase	K06643 MDM2; E3 ubiquitin-protein ligase Mdm2 [EC:6.3.2.19]
+D      7189 TRAF6; TNF receptor-associated factor 6, E3 ubiquitin protein ligase	K03175 TRAF6; TNF receptor-associated factor 6
+D      10193 RNF41; ring finger protein 41 	K11981 RNF41; E3 ubiquitin-protein ligase NRDP1 [EC:6.3.2.19]
+D      83737 ITCH; itchy E3 ubiquitin protein ligase	K05632 AIP4; atrophin-1 interacting protein 4 [EC:6.3.2.19]
+D      57154 SMURF1; SMAD specific E3 ubiquitin protein ligase 1	K04678 SMURF; E3 ubiquitin ligase SMURF1/2 [EC:6.3.2.19]
+D      64750 SMURF2; SMAD specific E3 ubiquitin protein ligase 2	K04678 SMURF; E3 ubiquitin ligase SMURF1/2 [EC:6.3.2.19]
+D      11059 WWP1; WW domain containing E3 ubiquitin protein ligase 1	K05633 AIP5; atrophin-1 interacting protein 5 (WW domain containing E3 ubiquitin protein ligase 1) [EC:6.3.2.19]
+D      30011 SH3KBP1; SH3-domain kinase binding protein 1	K12470 SH3KBP1; SH3 domain-containing kinase-binding protein 1
+D      6457 SH3GL3; SH3-domain GRB2-like 3	K11247 SH3GL; endophilin-A
+D      6456 SH3GL2; SH3-domain GRB2-like 2	K11247 SH3GL; endophilin-A
+D      6455 SH3GL1; SH3-domain GRB2-like 1	K11247 SH3GL; endophilin-A
+D      51100 SH3GLB1; SH3-domain GRB2-like endophilin B1	K11248 SH3GLB; endophilin-B
+D      56904 SH3GLB2; SH3-domain GRB2-like endophilin B2	K11248 SH3GLB; endophilin-B
+D      29924 EPN1; epsin 1	K12471 EPN; epsin
+D      55040 EPN3; epsin 3	K12471 EPN; epsin
+D      22905 EPN2; epsin 2	K12471 EPN; epsin
+D      2060 EPS15; epidermal growth factor receptor pathway substrate 15	K12472 EPS15; epidermal growth factor receptor substrate 15
+D      3949 LDLR; low density lipoprotein receptor	K12473 LDLR; low-density lipoprotein receptor
+D      26119 LDLRAP1; low density lipoprotein receptor adaptor protein 1	K12474 LDLRAP1; low density lipoprotein receptor adapter protein 1
+D      1601 DAB2; Dab, mitogen-responsive phosphoprotein, homolog 2 (Drosophila)	K12475 DAB2; disabled homolog 2
+D      1234 CCR5; chemokine (C-C motif) receptor 5 (gene/pseudogene)	K04180 CCR5; C-C chemokine receptor type 5
+D      3577 CXCR1; chemokine (C-X-C motif) receptor 1	K04175 IL8RA; interleukin 8 receptor alpha
+D      3579 CXCR2; chemokine (C-X-C motif) receptor 2	K05050 IL8RB; interleukin 8 receptor beta
+D      7852 CXCR4; chemokine (C-X-C motif) receptor 4	K04189 CXCR4; C-X-C chemokine receptor type 4
+D      2149 F2R; coagulation factor II (thrombin) receptor	K03914 F2R; coagulation factor II (thrombin) receptor
+D      153 ADRB1; adrenoceptor beta 1	K04141 ADRB1; adrenergic receptor beta-1
+D      154 ADRB2; adrenoceptor beta 2, surface	K04142 ADRB2; adrenergic receptor beta-2
+D      155 ADRB3; adrenoceptor beta 3	K04143 ADRB3; adrenergic receptor beta-3
+D      131890 GRK7; G protein-coupled receptor kinase 7 	K00909 GRK1_7; rhodopsin kinase [EC:2.7.11.14]
+D      6011 GRK1; G protein-coupled receptor kinase 1 	K00909 GRK1_7; rhodopsin kinase [EC:2.7.11.14]
+D      156 ADRBK1; adrenergic, beta, receptor kinase 1 	K00910 ADRBK; beta-adrenergic-receptor kinase [EC:2.7.11.15]
+D      157 ADRBK2; adrenergic, beta, receptor kinase 2 	K00910 ADRBK; beta-adrenergic-receptor kinase [EC:2.7.11.15]
+D      2868 GRK4; G protein-coupled receptor kinase 4 	K08291 GRK4_5_6; G protein-coupled receptor kinase [EC:2.7.11.16]
+D      2869 GRK5; G protein-coupled receptor kinase 5 	K08291 GRK4_5_6; G protein-coupled receptor kinase [EC:2.7.11.16]
+D      2870 GRK6; G protein-coupled receptor kinase 6 	K08291 GRK4_5_6; G protein-coupled receptor kinase [EC:2.7.11.16]
+D      408 ARRB1; arrestin, beta 1	K04439 ARRB; beta-arrestin
+D      409 ARRB2; arrestin, beta 2	K04439 ARRB; beta-arrestin
+D      4091 SMAD6; SMAD family member 6	K04677 SMAD6_7; mothers against decapentaplegic homolog 6/7
+D      4092 SMAD7; SMAD family member 7	K04677 SMAD6_7; mothers against decapentaplegic homolog 6/7
+D      2348 FOLR1; folate receptor 1 (adult)	K13649 FOLR; folate receptor
+D      2350 FOLR2; folate receptor 2 (fetal)	K13649 FOLR; folate receptor
+D      2352 FOLR3; folate receptor 3 (gamma)	K13649 FOLR; folate receptor
+D      390243 FOLR4; folate receptor 4, delta (putative)	K13649 FOLR; folate receptor
+D      857 CAV1; caveolin 1, caveolae protein, 22kDa	K06278 CAV1; caveolin 1
+D      858 CAV2; caveolin 2	K12958 CAV2; caveolin 2
+D      859 CAV3; caveolin 3	K12959 CAV3; caveolin 3
+D      3105 HLA-A; major histocompatibility complex, class I, A	K06751 MHC1; major histocompatibility complex, class I
+D      3106 HLA-B; major histocompatibility complex, class I, B	K06751 MHC1; major histocompatibility complex, class I
+D      3107 HLA-C; major histocompatibility complex, class I, C	K06751 MHC1; major histocompatibility complex, class I
+D      3134 HLA-F; major histocompatibility complex, class I, F	K06751 MHC1; major histocompatibility complex, class I
+D      3135 HLA-G; major histocompatibility complex, class I, G	K06751 MHC1; major histocompatibility complex, class I
+D      3133 HLA-E; major histocompatibility complex, class I, E	K06751 MHC1; major histocompatibility complex, class I
+D      3559 IL2RA; interleukin 2 receptor, alpha	K05068 IL2RA; interleukin 2 receptor alpha
+D      3560 IL2RB; interleukin 2 receptor, beta	K05069 IL2RB; interleukin 2 receptor beta
+D      3561 IL2RG; interleukin 2 receptor, gamma	K05070 IL2RG; interleukin 2 receptor gamma
+D      6714 SRC; v-src avian sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog 	K05704 SRC; tyrosine-protein kinase Src [EC:2.7.10.2]
+D      3265 HRAS; Harvey rat sarcoma viral oncogene homolog	K02833 HRAS; GTPase HRas
+D      387 RHOA; ras homolog family member A	K04513 RHOA; Ras homolog gene family, member A
+D      3312 HSPA8; heat shock 70kDa protein 8	K03283 HSPA1_8; heat shock 70kDa protein 1/8
+D      3303 HSPA1A; heat shock 70kDa protein 1A	K03283 HSPA1_8; heat shock 70kDa protein 1/8
+D      3306 HSPA2; heat shock 70kDa protein 2	K03283 HSPA1_8; heat shock 70kDa protein 1/8
+D      3305 HSPA1L; heat shock 70kDa protein 1-like	K03283 HSPA1_8; heat shock 70kDa protein 1/8
+D      3304 HSPA1B; heat shock 70kDa protein 1B	K03283 HSPA1_8; heat shock 70kDa protein 1/8
+D      3310 HSPA6; heat shock 70kDa protein 6 (HSP70B')	K03283 HSPA1_8; heat shock 70kDa protein 1/8
+D      9829 DNAJC6; DnaJ (Hsp40) homolog, subfamily C, member 6 	K09526 DNAJC6; DnaJ homolog subfamily C member 6
+D      9101 USP8; ubiquitin specific peptidase 8 	K11839 USP8; ubiquitin carboxyl-terminal hydrolase 8 [EC:3.1.2.15]
+D      10617 STAMBP; STAM binding protein 	K11866 STAMBP; STAM-binding protein [EC:3.1.2.15]
+D      7879 RAB7A; RAB7A, member RAS oncogene family	K07897 RAB7A; Ras-related protein Rab-7A
+D      9146 HGS; hepatocyte growth factor-regulated tyrosine kinase substrate	K12182 HGS; hepatocyte growth factor-regulated tyrosine kinase substrate
+D      10254 STAM2; signal transducing adaptor molecule (SH3 domain and ITAM motif) 2	K04705 STAM; signal transducing adaptor molecule
+D      8027 STAM; signal transducing adaptor molecule (SH3 domain and ITAM motif) 1	K04705 STAM; signal transducing adaptor molecule
+D      7251 TSG101; tumor susceptibility 101	K12183 TSG101; ESCRT-I complex subunit TSG101
+D      93343 MVB12A; multivesicular body subunit 12A	K12186 FAM125; ESCRT-I complex subunit MVB12
+D      89853 MVB12B; multivesicular body subunit 12B	K12186 FAM125; ESCRT-I complex subunit MVB12
+D      51160 VPS28; vacuolar protein sorting 28 homolog (S. cerevisiae)	K12184 VPS28; ESCRT-I complex subunit VPS28
+D      155382 VPS37D; vacuolar protein sorting 37 homolog D (S. cerevisiae)	K12185 VPS37; ESCRT-I complex subunit VPS37
+D      137492 VPS37A; vacuolar protein sorting 37 homolog A (S. cerevisiae)	K12185 VPS37; ESCRT-I complex subunit VPS37
+D      79720 VPS37B; vacuolar protein sorting 37 homolog B (S. cerevisiae)	K12185 VPS37; ESCRT-I complex subunit VPS37
+D      55048 VPS37C; vacuolar protein sorting 37 homolog C (S. cerevisiae)	K12185 VPS37; ESCRT-I complex subunit VPS37
+D      11267 SNF8; SNF8, ESCRT-II complex subunit	K12188 SNF8; ESCRT-II complex subunit VPS22
+D      51028 VPS36; vacuolar protein sorting 36 homolog (S. cerevisiae)	K12190 VPS36; ESCRT-II complex subunit VPS36
+D      84313 VPS25; vacuolar protein sorting 25 homolog (S. cerevisiae)	K12189 VPS25; ESCRT-II complex subunit VPS25
+D      79643 CHMP6; charged multivesicular body protein 6	K12195 CHMP6; charged multivesicular body protein 6
+D      92421 CHMP4C; charged multivesicular body protein 4C	K12194 CHMP4; charged multivesicular body protein 4
+D      128866 CHMP4B; charged multivesicular body protein 4B	K12194 CHMP4; charged multivesicular body protein 4
+D      29082 CHMP4A; charged multivesicular body protein 4A	K12194 CHMP4; charged multivesicular body protein 4
+D      51652 CHMP3; charged multivesicular body protein 3	K12193 VPS24; charged multivesicular body protein 3
+D      100526767 RNF103-CHMP3; RNF103-CHMP3 readthrough	K12193 VPS24; charged multivesicular body protein 3
+D      27243 CHMP2A; charged multivesicular body protein 2A	K12191 CHMP2A; charged multivesicular body protein 2A
+D      25978 CHMP2B; charged multivesicular body protein 2B	K12192 CHMP2B; charged multivesicular body protein 2B
+D      91782 CHMP7; charged multivesicular body protein 7	K15053 CHMP7; charged multivesicular body protein 7
+D      9525 VPS4B; vacuolar protein sorting 4 homolog B (S. cerevisiae) 	K12196 VPS4; vacuolar protein-sorting-associated protein 4
+D      27183 VPS4A; vacuolar protein sorting 4 homolog A (S. cerevisiae) 	K12196 VPS4; vacuolar protein-sorting-associated protein 4
+D      51534 VTA1; vesicle (multivesicular body) trafficking 1	K12199 VTA1; vacuolar protein sorting-associated protein VTA1
+D      57132 CHMP1B; charged multivesicular body protein 1B	K12197 CHMP1; charged multivesicular body protein 1
+D      51510 CHMP5; charged multivesicular body protein 5	K12198 CHMP5; charged multivesicular body protein 5
+D      10015 PDCD6IP; programmed cell death 6 interacting protein	K12200 PDCD6IP; programmed cell death 6-interacting protein
+D      30845 EHD3; EH-domain containing 3	K12476 EHD3; EH domain-containing protein 3
+D      30844 EHD4; EH-domain containing 4	K12477 EHD4; EH domain-containing protein 4
+D      8411 EEA1; early endosome antigen 1	K12478 EEA1; early endosome antigen 1
+D      5868 RAB5A; RAB5A, member RAS oncogene family	K07887 RAB5A; Ras-related protein Rab-5A
+D      5869 RAB5B; RAB5B, member RAS oncogene family	K07888 RAB5B; Ras-related protein Rab-5B
+D      5878 RAB5C; RAB5C, member RAS oncogene family	K07889 RAB5C; Ras-related protein Rab-5C
+D      11311 VPS45; vacuolar protein sorting 45 homolog (S. cerevisiae)	K12479 VPS45; vacuolar protein sorting-associated protein 45
+D      9135 RABEP1; rabaptin, RAB GTPase binding effector protein 1	K12480 RABEP1; Rab GTPase-binding effector protein 1
+D      64145 ZFYVE20; zinc finger, FYVE domain containing 20	K12481 ZFYVE20; rabenosyn-5
+D      5867 RAB4A; RAB4A, member RAS oncogene family	K07879 RAB4A; Ras-related protein Rab-4A
+D      80230 RUFY1; RUN and FYVE domain containing 1	K12482 RUFY1; RUN and FYVE domain-containing protein 1
+D      10938 EHD1; EH-domain containing 1	K12483 EHD1; EH domain-containing protein 1
+D      8766 RAB11A; RAB11A, member RAS oncogene family	K07904 RAB11A; Ras-related protein Rab-11A
+D      9230 RAB11B; RAB11B, member RAS oncogene family	K07905 RAB11B; Ras-related protein Rab-11B
+D      22841 RAB11FIP2; RAB11 family interacting protein 2 (class I)	K12484 RAB11FIP1_2_5; Rab11 family-interacting protein 1/2/5
+D      80223 RAB11FIP1; RAB11 family interacting protein 1 (class I)	K12484 RAB11FIP1_2_5; Rab11 family-interacting protein 1/2/5
+D      26056 RAB11FIP5; RAB11 family interacting protein 5 (class I)	K12484 RAB11FIP1_2_5; Rab11 family-interacting protein 1/2/5
+D      84440 RAB11FIP4; RAB11 family interacting protein 4 (class II)	K12485 RAB11FIP3_4; Rab11 family-interacting protein 3/4
+D      9727 RAB11FIP3; RAB11 family interacting protein 3 (class II) 	K12485 RAB11FIP3_4; Rab11 family-interacting protein 3/4
+D      57403 RAB22A; RAB22A, member RAS oncogene family	K07891 RAB22; Ras-related protein Rab-22
+D      11031 RAB31; RAB31, member RAS oncogene family	K07891 RAB22; Ras-related protein Rab-22
+D      56288 PARD3; par-3 family cell polarity regulator	K04237 PARD3; partitioning defective protein 3
+D      50855 PARD6A; par-6 family cell polarity regulator alpha	K06093 PARD6; partitioning defective protein 6
+D      84552 PARD6G; par-6 family cell polarity regulator gamma	K06093 PARD6; partitioning defective protein 6
+D      84612 PARD6B; par-6 family cell polarity regulator beta	K06093 PARD6; partitioning defective protein 6
+D      5584 PRKCI; protein kinase C, iota 	K06069 APKC; atypical protein kinase C [EC:2.7.11.13]
+D      5590 PRKCZ; protein kinase C, zeta 	K06069 APKC; atypical protein kinase C [EC:2.7.11.13]
+D      998 CDC42; cell division cycle 42	K04393 CDC42; cell division control protein 42
+D      64744 SMAP2; small ArfGAP2	K12486 SMAP; stromal membrane-associated protein
+D      60682 SMAP1; small ArfGAP 1	K12486 SMAP; stromal membrane-associated protein
+D      28964 GIT1; G protein-coupled receptor kinase interacting ArfGAP 1	K05737 GIT1; G protein-coupled receptor kinase interactor 1
+D      9815 GIT2; G protein-coupled receptor kinase interacting ArfGAP 2	K12487 GIT2; G protein-coupled receptor kinase interactor 2
+D      50807 ASAP1; ArfGAP with SH3 domain, ankyrin repeat and PH domain 1	K12488 ASAP; Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein
+D      55616 ASAP3; ArfGAP with SH3 domain, ankyrin repeat and PH domain 3	K12488 ASAP; Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein
+D      8853 ASAP2; ArfGAP with SH3 domain, ankyrin repeat and PH domain 2	K12488 ASAP; Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein
+D      116983 ACAP3; ArfGAP with coiled-coil, ankyrin repeat and PH domains 3	K12489 ACAP; Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein
+D      23527 ACAP2; ArfGAP with coiled-coil, ankyrin repeat and PH domains 2	K12489 ACAP; Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein
+D      9744 ACAP1; ArfGAP with coiled-coil, ankyrin repeat and PH domains 1	K12489 ACAP; Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein
+D      116985 ARAP1; ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	K12490 ARAP; Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein
+D      116984 ARAP2; ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2	K12490 ARAP; Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein
+D      64411 ARAP3; ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3	K12490 ARAP; Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein
+D      116987 AGAP1; ArfGAP with GTPase domain, ankyrin repeat and PH domain 1	K12491 AGAP1_3; Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 1/3
+D      116988 AGAP3; ArfGAP with GTPase domain, ankyrin repeat and PH domain 3	K12491 AGAP1_3; Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 1/3
+D      116986 AGAP2; ArfGAP with GTPase domain, ankyrin repeat and PH domain 2	K17848 AGAP2; Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 2
+D      55738 ARFGAP1; ADP-ribosylation factor GTPase activating protein 1	K12492 ARFGAP1; ADP-ribosylation factor GTPase-activating protein 1
+D      26286 ARFGAP3; ADP-ribosylation factor GTPase activating protein 3	K12493 ARFGAP2_3; ADP-ribosylation factor GTPase-activating protein 2/3
+D      84364 ARFGAP2; ADP-ribosylation factor GTPase activating protein 2	K12493 ARFGAP2_3; ADP-ribosylation factor GTPase-activating protein 2/3
+D      23362 PSD3; pleckstrin and Sec7 domain containing 3	K12494 PSD; PH and SEC7 domain-containing protein
+D      23550 PSD4; pleckstrin and Sec7 domain containing 4	K12494 PSD; PH and SEC7 domain-containing protein
+D      5662 PSD; pleckstrin and Sec7 domain containing	K12494 PSD; PH and SEC7 domain-containing protein
+D      84249 PSD2; pleckstrin and Sec7 domain containing 2	K12494 PSD; PH and SEC7 domain-containing protein
+D      23096 IQSEC2; IQ motif and Sec7 domain 2	K12495 IQSEC; IQ motif and SEC7 domain-containing protein
+D      9922 IQSEC1; IQ motif and Sec7 domain 1	K12495 IQSEC; IQ motif and SEC7 domain-containing protein
+D      440073 IQSEC3; IQ motif and Sec7 domain 3	K12495 IQSEC; IQ motif and SEC7 domain-containing protein
+C    04147 Exosome [BR:hsa04147]
+C    04145 Phagosome [PATH:hsa04145]
+D      9341 VAMP3; vesicle-associated membrane protein 3	K13505 VAMP3; vesicle-associated membrane protein 3
+D      23673 STX12; syntaxin 12	K13813 STX12; syntaxin 12/13
+D      8417 STX7; syntaxin 7	K08488 STX7; syntaxin 7
+D      60 ACTB; actin, beta	K05692 ACTB_G1; actin beta/gamma 1
+D      71 ACTG1; actin, gamma 1	K05692 ACTB_G1; actin beta/gamma 1
+D      11151 CORO1A; coronin, actin binding protein, 1A	K13882 CORO1A; coronin-1A
+D      53407 STX18; syntaxin 18	K08492 STX18; syntaxin 18
+D      9554 SEC22B; SEC22 vesicle trafficking protein homolog B (S. cerevisiae) (gene/pseudogene)	K08517 SEC22; vesicle transport protein SEC22
+D      3105 HLA-A; major histocompatibility complex, class I, A	K06751 MHC1; major histocompatibility complex, class I
+D      3106 HLA-B; major histocompatibility complex, class I, B	K06751 MHC1; major histocompatibility complex, class I
+D      3107 HLA-C; major histocompatibility complex, class I, C	K06751 MHC1; major histocompatibility complex, class I
+D      3134 HLA-F; major histocompatibility complex, class I, F	K06751 MHC1; major histocompatibility complex, class I
+D      3135 HLA-G; major histocompatibility complex, class I, G	K06751 MHC1; major histocompatibility complex, class I
+D      3133 HLA-E; major histocompatibility complex, class I, E	K06751 MHC1; major histocompatibility complex, class I
+D      3108 HLA-DMA; major histocompatibility complex, class II, DM alpha	K06752 MHC2; major histocompatibility complex, class II
+D      3109 HLA-DMB; major histocompatibility complex, class II, DM beta	K06752 MHC2; major histocompatibility complex, class II
+D      3111 HLA-DOA; major histocompatibility complex, class II, DO alpha	K06752 MHC2; major histocompatibility complex, class II
+D      3112 HLA-DOB; major histocompatibility complex, class II, DO beta	K06752 MHC2; major histocompatibility complex, class II
+D      3113 HLA-DPA1; major histocompatibility complex, class II, DP alpha 1	K06752 MHC2; major histocompatibility complex, class II
+D      3115 HLA-DPB1; major histocompatibility complex, class II, DP beta 1	K06752 MHC2; major histocompatibility complex, class II
+D      3117 HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1	K06752 MHC2; major histocompatibility complex, class II
+D      3118 HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2	K06752 MHC2; major histocompatibility complex, class II
+D      3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1	K06752 MHC2; major histocompatibility complex, class II
+D      3122 HLA-DRA; major histocompatibility complex, class II, DR alpha	K06752 MHC2; major histocompatibility complex, class II
+D      3123 HLA-DRB1; major histocompatibility complex, class II, DR beta 1	K06752 MHC2; major histocompatibility complex, class II
+D      3125 HLA-DRB3; major histocompatibility complex, class II, DR beta 3	K06752 MHC2; major histocompatibility complex, class II
+D      3126 HLA-DRB4; major histocompatibility complex, class II, DR beta 4	K06752 MHC2; major histocompatibility complex, class II
+D      3127 HLA-DRB5; major histocompatibility complex, class II, DR beta 5	K06752 MHC2; major histocompatibility complex, class II
+D      100509457 HLA class II histocompatibility antigen	K06752 MHC2; major histocompatibility complex, class II
+D      101060835 HLA class II histocompatibility antigen	K06752 MHC2; major histocompatibility complex, class II
+D      5868 RAB5A; RAB5A, member RAS oncogene family	K07887 RAB5A; Ras-related protein Rab-5A
+D      5869 RAB5B; RAB5B, member RAS oncogene family	K07888 RAB5B; Ras-related protein Rab-5B
+D      5878 RAB5C; RAB5C, member RAS oncogene family	K07889 RAB5C; Ras-related protein Rab-5C
+D      8411 EEA1; early endosome antigen 1	K12478 EEA1; early endosome antigen 1
+D      5289 PIK3C3; phosphatidylinositol 3-kinase, catalytic subunit type 3 	K00914 PIK3C3; phosphatidylinositol 3-kinase [EC:2.7.1.137]
+D      7037 TFRC; transferrin receptor	K06503 TFRC; transferrin receptor
+D      9146 HGS; hepatocyte growth factor-regulated tyrosine kinase substrate	K12182 HGS; hepatocyte growth factor-regulated tyrosine kinase substrate
+D      523 ATP6V1A; ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A 	K02145 ATPeV1A; V-type H+-transporting ATPase subunit A [EC:3.6.3.14]
+D      525 ATP6V1B1; ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B1 	K02147 ATPeV1B; V-type H+-transporting ATPase subunit B
+D      526 ATP6V1B2; ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 	K02147 ATPeV1B; V-type H+-transporting ATPase subunit B
+D      245973 ATP6V1C2; ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C2 	K02148 ATPeV1C; V-type H+-transporting ATPase subunit C
+D      528 ATP6V1C1; ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 	K02148 ATPeV1C; V-type H+-transporting ATPase subunit C
+D      51382 ATP6V1D; ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D 	K02149 ATPeV1D; V-type H+-transporting ATPase subunit D
+D      90423 ATP6V1E2; ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E2	K02150 ATPeV1E; V-type H+-transporting ATPase subunit E
+D      529 ATP6V1E1; ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 	K02150 ATPeV1E; V-type H+-transporting ATPase subunit E
+D      9296 ATP6V1F; ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F 	K02151 ATPeV1F; V-type H+-transporting ATPase subunit F
+D      9550 ATP6V1G1; ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1 	K02152 ATPeV1G; V-type H+-transporting ATPase subunit G
+D      127124 ATP6V1G3; ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G3 	K02152 ATPeV1G; V-type H+-transporting ATPase subunit G
+D      534 ATP6V1G2; ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2 	K02152 ATPeV1G; V-type H+-transporting ATPase subunit G
+D      8992 ATP6V0E1; ATPase, H+ transporting, lysosomal 9kDa, V0 subunit e1 	K02153 ATPeV0E; V-type H+-transporting ATPase subunit e
+D      155066 ATP6V0E2; ATPase, H+ transporting V0 subunit e2	K02153 ATPeV0E; V-type H+-transporting ATPase subunit e
+D      10312 TCIRG1; T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3 	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      23545 ATP6V0A2; ATPase, H+ transporting, lysosomal V0 subunit a2 	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      50617 ATP6V0A4; ATPase, H+ transporting, lysosomal V0 subunit a4 	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      535 ATP6V0A1; ATPase, H+ transporting, lysosomal V0 subunit a1 	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      9114 ATP6V0D1; ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 	K02146 ATPeV0D; V-type H+-transporting ATPase subunit d
+D      245972 ATP6V0D2; ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d2 	K02146 ATPeV0D; V-type H+-transporting ATPase subunit d
+D      51606 ATP6V1H; ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H 	K02144 ATPeV1H; V-type H+-transporting ATPase subunit H
+D      527 ATP6V0C; ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c 	K02155 ATPeV0C; V-type H+-transporting ATPase 16kDa proteolipid subunit
+D      533 ATP6V0B; ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b 	K03661 ATPeV0B; V-type H+-transporting ATPase 21kDa proteolipid subunit
+D      537 ATP6AP1; ATPase, H+ transporting, lysosomal accessory protein 1 	K03662 ATPeVS1; V-type H+-transporting ATPase S1 subunit
+D      7879 RAB7A; RAB7A, member RAS oncogene family	K07897 RAB7A; Ras-related protein Rab-7A
+D      338382 RAB7B; RAB7B, member RAS oncogene family	K07898 RAB7B; Ras-related protein Rab-7B
+D      83547 RILP; Rab interacting lysosomal protein	K13883 RILP; Rab-interacting lysosomal protein
+D      1778 DYNC1H1; dynein, cytoplasmic 1, heavy chain 1	K10413 DYNC1H; dynein heavy chain 1, cytosolic
+D      79659 DYNC2H1; dynein, cytoplasmic 2, heavy chain 1	K10414 DYNC2H; dynein heavy chain 2, cytosolic
+D      1780 DYNC1I1; dynein, cytoplasmic 1, intermediate chain 1	K10415 DYNC1I; dynein intermediate chain, cytosolic
+D      1781 DYNC1I2; dynein, cytoplasmic 1, intermediate chain 2	K10415 DYNC1I; dynein intermediate chain, cytosolic
+D      1783 DYNC1LI2; dynein, cytoplasmic 1, light intermediate chain 2	K10416 DYNC1LI; dynein light intermediate chain 1, cytosolic
+D      51143 DYNC1LI1; dynein, cytoplasmic 1, light intermediate chain 1	K10416 DYNC1LI; dynein light intermediate chain 1, cytosolic
+D      10376 TUBA1B; tubulin, alpha 1b	K07374 TUBA; tubulin alpha
+D      7277 TUBA4A; tubulin, alpha 4a	K07374 TUBA; tubulin alpha
+D      7278 TUBA3C; tubulin, alpha 3c	K07374 TUBA; tubulin alpha
+D      7846 TUBA1A; tubulin, alpha 1a	K07374 TUBA; tubulin alpha
+D      84790 TUBA1C; tubulin, alpha 1c	K07374 TUBA; tubulin alpha
+D      51807 TUBA8; tubulin, alpha 8	K07374 TUBA; tubulin alpha
+D      112714 TUBA3E; tubulin, alpha 3e	K07374 TUBA; tubulin alpha
+D      113457 TUBA3D; tubulin, alpha 3d	K07374 TUBA; tubulin alpha
+D      79861 TUBAL3; tubulin, alpha-like 3	K07374 TUBA; tubulin alpha
+D      84617 TUBB6; tubulin, beta 6 class V	K07375 TUBB; tubulin beta
+D      203068 TUBB; tubulin, beta class I	K07375 TUBB; tubulin beta
+D      81027 TUBB1; tubulin, beta 1 class VI	K07375 TUBB; tubulin beta
+D      7280 TUBB2A; tubulin, beta 2A class IIa	K07375 TUBB; tubulin beta
+D      10381 TUBB3; tubulin, beta 3 class III	K07375 TUBB; tubulin beta
+D      10382 TUBB4A; tubulin, beta 4A class IVa	K07375 TUBB; tubulin beta
+D      347688 TUBB8; tubulin, beta 8 class VIII	K07375 TUBB; tubulin beta
+D      347733 TUBB2B; tubulin, beta 2B class IIb	K07375 TUBB; tubulin beta
+D      10383 TUBB4B; tubulin, beta 4B class IVb	K07375 TUBB; tubulin beta
+D      3916 LAMP1; lysosomal-associated membrane protein 1	K06528 LAMP1_2; lysosomal-associated membrane protein 1/2
+D      3920 LAMP2; lysosomal-associated membrane protein 2	K06528 LAMP1_2; lysosomal-associated membrane protein 1/2
+D      200576 PIKFYVE; phosphoinositide kinase, FYVE finger containing 	K00921 PIKFYVE; 1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]
+D      4074 M6PR; mannose-6-phosphate receptor (cation dependent)	K10089 M6PR; cation-dependent mannose-6-phosphate receptor
+D      4842 NOS1; nitric oxide synthase 1 (neuronal) 	K13240 NOS1; nitric-oxide synthase, brain [EC:1.14.13.39]
+D      4353 MPO; myeloperoxidase 	K10789 MPO; myeloperoxidase [EC:1.11.2.2]
+D      1514 CTSL; cathepsin L 	K01365 CTSL; cathepsin L [EC:3.4.22.15]
+D      1520 CTSS; cathepsin S 	K01368 CTSS; cathepsin S [EC:3.4.22.27]
+D      29927 SEC61A1; Sec61 alpha 1 subunit (S. cerevisiae)	K10956 SEC61A; protein transport protein SEC61 subunit alpha
+D      55176 SEC61A2; Sec61 alpha 2 subunit (S. cerevisiae)	K10956 SEC61A; protein transport protein SEC61 subunit alpha
+D      10952 SEC61B; Sec61 beta subunit	K09481 SEC61B; protein transport protein SEC61 subunit beta
+D      23480 SEC61G; Sec61 gamma subunit	K07342 SEC61G; protein transport protein SEC61 subunit gamma and related proteins
+D      6890 TAP1; transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)	K05653 ABCB2; ATP-binding cassette, subfamily B (MDR/TAP), member 2
+D      6891 TAP2; transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)	K05654 ABCB3; ATP-binding cassette, subfamily B (MDR/TAP), member 3
+D      811 CALR; calreticulin	K08057 CALR; calreticulin
+D      821 CANX; calnexin	K08054 CANX; calnexin
+D      2204 FCAR; Fc fragment of IgA, receptor for	K06513 FCAR; CD89 antigen
+D      2209 FCGR1A; Fc fragment of IgG, high affinity Ia, receptor (CD64)	K06498 FCGR1A; high affinity immunoglobulin gamma Fc receptor I
+D      2212 FCGR2A; Fc fragment of IgG, low affinity IIa, receptor (CD32)	K06472 FCGR2A; low affinity immunoglobulin gamma Fc region receptor II-a
+D      2213 FCGR2B; Fc fragment of IgG, low affinity IIb, receptor (CD32)	K12560 FCGR2B; low affinity immunoglobulin gamma Fc region receptor II-b
+D      9103 FCGR2C; Fc fragment of IgG, low affinity IIc, receptor for (CD32) (gene/pseudogene)	K16824 FCGR2C; low affinity immunoglobulin gamma Fc region receptor II-c
+D      2214 FCGR3A; Fc fragment of IgG, low affinity IIIa, receptor (CD16a)	K06463 FCGR3; low affinity immunoglobulin gamma Fc region receptor III
+D      2215 FCGR3B; Fc fragment of IgG, low affinity IIIb, receptor (CD16b)	K06463 FCGR3; low affinity immunoglobulin gamma Fc region receptor III
+D      715 C1R; complement component 1, r subcomponent 	K01330 C1R; complement component 1, r subcomponent [EC:3.4.21.41]
+D      3684 ITGAM; integrin, alpha M (complement component 3 receptor 3 subunit)	K06461 ITGAM; integrin alpha M
+D      3689 ITGB2; integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	K06464 ITGB2; integrin beta 2
+D      718 C3; complement component 3 	K03990 C3; complement component 3
+D      78989 COLEC11; collectin sub-family member 11	K10066 COLEC11; collectin sub-family member 11
+D      81035 COLEC12; collectin sub-family member 12	K10062 COLEC12; collectin sub-family member 12
+D      4153 MBL2; mannose-binding lectin (protein C) 2, soluble	K03991 MBL; mannose-binding lectin
+D      653509 SFTPA1; surfactant protein A1	K10067 SFTPA; pulmonary surfactant-associated protein A
+D      729238 SFTPA2; surfactant protein A2	K10067 SFTPA; pulmonary surfactant-associated protein A
+D      6441 SFTPD; surfactant protein D	K10068 SFTPD; pulmonary surfactant-associated protein D
+D      3685 ITGAV; integrin, alpha V	K06487 ITGAV; integrin alpha V
+D      3673 ITGA2; integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)	K06481 ITGA2; integrin alpha 2
+D      3678 ITGA5; integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	K06484 ITGA5; integrin alpha 5
+D      3688 ITGB1; integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	K05719 ITGB1; integrin beta 1
+D      3690 ITGB3; integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	K06493 ITGB3; integrin beta 3
+D      3693 ITGB5; integrin, beta 5	K06588 ITGB5; integrin beta 5
+D      7057 THBS1; thrombospondin 1	K16857 THBS1; thrombospondin 1
+D      1311 COMP; cartilage oligomeric matrix protein	K04659 THBS2S; thrombospondin 2/3/4/5
+D      7058 THBS2; thrombospondin 2	K04659 THBS2S; thrombospondin 2/3/4/5
+D      7059 THBS3; thrombospondin 3	K04659 THBS2S; thrombospondin 2/3/4/5
+D      7060 THBS4; thrombospondin 4	K04659 THBS2S; thrombospondin 2/3/4/5
+D      7097 TLR2; toll-like receptor 2	K10159 TLR2; toll-like receptor 2
+D      10333 TLR6; toll-like receptor 6	K10169 TLR6; toll-like receptor 6
+D      7099 TLR4; toll-like receptor 4	K10160 TLR4; toll-like receptor 4
+D      929 CD14; CD14 molecule	K04391 CD14; CD14 antigen
+D      22925 PLA2R1; phospholipase A2 receptor 1, 180kDa	K06560 MRC; mannose receptor, C type
+D      4360 MRC1; mannose receptor, C type 1	K06560 MRC; mannose receptor, C type
+D      9902 MRC2; mannose receptor, C type 2	K06560 MRC; mannose receptor, C type
+D      10332 CLEC4M; C-type lectin domain family 4, member M	K06563 CD209; CD209 antigen
+D      30835 CD209; CD209 molecule	K06563 CD209; CD209 antigen
+D      64581 CLEC7A; C-type lectin domain family 7, member A	K10074 CLEC7A; C-type lectin domain family 7 member A
+D      4481 MSR1; macrophage scavenger receptor 1	K06558 MSR1; macrophage scavenger receptor 1
+D      8685 MARCO; macrophage receptor with collagenous structure	K13884 MARCO; macrophage receptor with collagenous structure
+D      4973 OLR1; oxidized low density lipoprotein (lectin-like) receptor 1	K08763 OLR1; oxidised low-density lipoprotein receptor 1
+D      949 SCARB1; scavenger receptor class B, member 1	K13885 SCARB1; scavenger receptor class B, member 1
+D      948 CD36; CD36 molecule (thrombospondin receptor)	K06259 CD36; CD36 antigen
+D      1535 CYBA; cytochrome b-245, alpha polypeptide	K08009 CYBA; cytochrome b-245, alpha polypeptide
+D      50508 NOX3; NADPH oxidase 3	K08008 NOX; NADPH oxidase
+D      27035 NOX1; NADPH oxidase 1	K08008 NOX; NADPH oxidase
+D      1536 CYBB; cytochrome b-245, beta polypeptide	K08008 NOX; NADPH oxidase
+D      5879 RAC1; ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	K04392 RAC1; Ras-related C3 botulinum toxin substrate 1
+D      653361 NCF1; neutrophil cytosolic factor 1	K08011 NCF1; neutrophil cytosolic factor 1
+D      4688 NCF2; neutrophil cytosolic factor 2	K08010 NCF2; neutrophil cytosolic factor 2
+D      4689 NCF4; neutrophil cytosolic factor 4, 40kDa	K08012 NCF4; neutrophil cytosolic factor 4
+C    04142 Lysosome [PATH:hsa04142]
+D      10312 TCIRG1; T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3 	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      23545 ATP6V0A2; ATPase, H+ transporting, lysosomal V0 subunit a2 	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      50617 ATP6V0A4; ATPase, H+ transporting, lysosomal V0 subunit a4 	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      535 ATP6V0A1; ATPase, H+ transporting, lysosomal V0 subunit a1 	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      9114 ATP6V0D1; ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 	K02146 ATPeV0D; V-type H+-transporting ATPase subunit d
+D      245972 ATP6V0D2; ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d2 	K02146 ATPeV0D; V-type H+-transporting ATPase subunit d
+D      51606 ATP6V1H; ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H 	K02144 ATPeV1H; V-type H+-transporting ATPase subunit H
+D      537 ATP6AP1; ATPase, H+ transporting, lysosomal accessory protein 1 	K03662 ATPeVS1; V-type H+-transporting ATPase S1 subunit
+D      527 ATP6V0C; ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c 	K02155 ATPeV0C; V-type H+-transporting ATPase 16kDa proteolipid subunit
+D      533 ATP6V0B; ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b 	K03661 ATPeV0B; V-type H+-transporting ATPase 21kDa proteolipid subunit
+D      5476 CTSA; cathepsin A 	K13289 CTSA; cathepsin A (carboxypeptidase C) [EC:3.4.16.5]
+D      1508 CTSB; cathepsin B 	K01363 CTSB; cathepsin B [EC:3.4.22.1]
+D      1075 CTSC; cathepsin C 	K01275 CTSC; cathepsin C [EC:3.4.14.1]
+D      1509 CTSD; cathepsin D 	K01379 CTSD; cathepsin D [EC:3.4.23.5]
+D      1510 CTSE; cathepsin E 	K01382 CTSE; cathepsin E [EC:3.4.23.34]
+D      8722 CTSF; cathepsin F 	K01373 CTSF; cathepsin F [EC:3.4.22.41]
+D      1511 CTSG; cathepsin G 	K01319 CTSG; cathepsin G [EC:3.4.21.20]
+D      1512 CTSH; cathepsin H 	K01366 CTSH; cathepsin H [EC:3.4.22.16]
+D      1513 CTSK; cathepsin K 	K01371 CTSK; cathepsin K [EC:3.4.22.38]
+D      1514 CTSL; cathepsin L 	K01365 CTSL; cathepsin L [EC:3.4.22.15]
+D      1519 CTSO; cathepsin O 	K01374 CTSO; cathepsin O [EC:3.4.22.42]
+D      1520 CTSS; cathepsin S 	K01368 CTSS; cathepsin S [EC:3.4.22.27]
+D      1515 CTSV; cathepsin V 	K01375 CTSL2; cathepsin V [EC:3.4.22.43]
+D      1521 CTSW; cathepsin W	K08569 CTSW; cathepsin W [EC:3.4.22.-]
+D      1522 CTSZ; cathepsin Z 	K08568 CTSZ; cathepsin X [EC:3.4.18.1]
+D      9476 NAPSA; napsin A aspartic peptidase	K08565 NAPSA; napsin-A [EC:3.4.23.-]
+D      5641 LGMN; legumain 	K01369 LGMN; legumain [EC:3.4.22.34]
+D      1200 TPP1; tripeptidyl peptidase I 	K01279 TPP1; tripeptidyl-peptidase I [EC:3.4.14.9]
+D      2717 GLA; galactosidase, alpha 	K01189 GLA; alpha-galactosidase [EC:3.2.1.22]
+D      2720 GLB1; galactosidase, beta 1 	K12309 GLB1; beta-galactosidase [EC:3.2.1.23]
+D      2548 GAA; glucosidase, alpha; acid 	K12316 GAA; lysosomal alpha-glucosidase [EC:3.2.1.20]
+D      2629 GBA; glucosidase, beta, acid 	K01201 GBA; glucosylceramidase [EC:3.2.1.45]
+D      3425 IDUA; iduronidase, alpha-L- 	K01217 IDUA; L-iduronidase [EC:3.2.1.76]
+D      4668 NAGA; N-acetylgalactosaminidase, alpha- 	K01204 NAGA; alpha-N-acetylgalactosaminidase [EC:3.2.1.49]
+D      4669 NAGLU; N-acetylglucosaminidase, alpha 	K01205 NAGLU; alpha-N-acetylglucosaminidase [EC:3.2.1.50]
+D      2581 GALC; galactosylceramidase 	K01202 GALC; galactosylceramidase [EC:3.2.1.46]
+D      2990 GUSB; glucuronidase, beta 	K01195 uidA; beta-glucuronidase [EC:3.2.1.31]
+D      3073 HEXA; hexosaminidase A (alpha polypeptide) 	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+D      3074 HEXB; hexosaminidase B (beta polypeptide) 	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+D      4126 MANBA; mannosidase, beta A, lysosomal 	K01192 E3.2.1.25; beta-mannosidase [EC:3.2.1.25]
+D      4125 MAN2B1; mannosidase, alpha, class 2B, member 1 	K12311 MAN2B1; lysosomal alpha-mannosidase [EC:3.2.1.24]
+D      4758 NEU1; sialidase 1 (lysosomal sialidase) 	K01186 NEU1; sialidase-1 [EC:3.2.1.18]
+D      410 ARSA; arylsulfatase A 	K01134 ARSA; arylsulfatase A [EC:3.1.6.8]
+D      411 ARSB; arylsulfatase B 	K01135 ARSB; arylsulfatase B [EC:3.1.6.12]
+D      22901 ARSG; arylsulfatase G	K12381 ARSG; arylsulfatase G [EC:3.1.6.-]
+D      2588 GALNS; galactosamine (N-acetyl)-6-sulfate sulfatase 	K01132 GALNS; N-acetylgalactosamine-6-sulfatase [EC:3.1.6.4]
+D      2799 GNS; glucosamine (N-acetyl)-6-sulfatase 	K01137 GNS; N-acetylglucosamine-6-sulfatase [EC:3.1.6.14]
+D      3423 IDS; iduronate 2-sulfatase 	K01136 IDS; iduronate 2-sulfatase [EC:3.1.6.13]
+D      6448 SGSH; N-sulfoglucosamine sulfohydrolase 	K01565 SGSH; N-sulfoglucosamine sulfohydrolase [EC:3.10.1.1]
+D      3988 LIPA; lipase A, lysosomal acid, cholesterol esterase 	K01052 LIPA; lysosomal acid lipase/cholesteryl ester hydrolase [EC:3.1.1.13]
+D      23659 PLA2G15; phospholipase A2, group XV 	K06129 LYPLA3; lysophospholipase III [EC:3.1.1.5]
+D      1777 DNASE2; deoxyribonuclease II, lysosomal 	K01158 DNASE2; deoxyribonuclease II [EC:3.1.22.1]
+D      58511 DNASE2B; deoxyribonuclease II beta 	K01158 DNASE2; deoxyribonuclease II [EC:3.1.22.1]
+D      6609 SMPD1; sphingomyelin phosphodiesterase 1, acid lysosomal 	K12350 SMPD1; sphingomyelin phosphodiesterase [EC:3.1.4.12]
+D      427 ASAH1; N-acylsphingosine amidohydrolase (acid ceramidase) 1 	K12348 ASAH1; acid ceramidase [EC:3.5.1.23]
+D      175 AGA; aspartylglucosaminidase 	K01444 AGA; N4-(beta-N-acetylglucosaminyl)-L-asparaginase [EC:3.5.1.26]
+D      5660 PSAP; prosaposin	K12382 PSAP; saposin
+D      768239 PSAPL1; prosaposin-like 1 (gene/pseudogene)	K12382 PSAP; saposin
+D      2760 GM2A; GM2 ganglioside activator	K12383 GM2A; ganglioside GM2 activator
+D      5538 PPT1; palmitoyl-protein thioesterase 1 	K01074 PPT; palmitoyl-protein thioesterase [EC:3.1.2.22]
+D      9374 PPT2; palmitoyl-protein thioesterase 2 	K01074 PPT; palmitoyl-protein thioesterase [EC:3.1.2.22]
+D      3916 LAMP1; lysosomal-associated membrane protein 1	K06528 LAMP1_2; lysosomal-associated membrane protein 1/2
+D      3920 LAMP2; lysosomal-associated membrane protein 2	K06528 LAMP1_2; lysosomal-associated membrane protein 1/2
+D      27074 LAMP3; lysosomal-associated membrane protein 3	K06562 LAMP3; lysosomal-associated membrane protein 3
+D      968 CD68; CD68 molecule	K06501 CD68; CD68 antigen
+D      967 CD63; CD63 molecule	K06497 CD63; CD63 antigen
+D      950 SCARB2; scavenger receptor class B, member 2	K12384 SCARB2; lysosome membrane protein 2
+D      4864 NPC1; Niemann-Pick disease, type C1	K12385 NPC1; Niemann-Pick C1 protein
+D      10577 NPC2; Niemann-Pick disease, type C2	K13443 NPC2; Niemann-Pick C2 protein
+D      1497 CTNS; cystinosin, lysosomal cystine transporter	K12386 CTNS; cystinosin
+D      26503 SLC17A5; solute carrier family 17 (acidic sugar transporter), member 5	K12301 SLC17A5; MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5
+D      6556 SLC11A1; solute carrier family 11 (proton-coupled divalent metal ion transporter), member 1	K12347 SLC11A; natural resistance-associated macrophage protein
+D      4891 SLC11A2; solute carrier family 11 (proton-coupled divalent metal ion transporter), member 2	K12347 SLC11A; natural resistance-associated macrophage protein
+D      55353 LAPTM4B; lysosomal protein transmembrane 4 beta	K12387 LAPTM; lysosomal-associated transmembrane protein
+D      7805 LAPTM5; lysosomal protein transmembrane 5	K12387 LAPTM; lysosomal-associated transmembrane protein
+D      9741 LAPTM4A; lysosomal protein transmembrane 4 alpha	K12387 LAPTM; lysosomal-associated transmembrane protein
+D      20 ABCA2; ATP-binding cassette, sub-family A (ABC1), member 2	K05642 ABCA2; ATP-binding cassette, subfamily A (ABC1), member 2
+D      23457 ABCB9; ATP-binding cassette, sub-family B (MDR/TAP), member 9	K05656 ABCB9; ATP-binding cassette, subfamily B (MDR/TAP), member 9
+D      8763 CD164; CD164 molecule, sialomucin	K06546 CD164; CD164 antigen
+D      9583 ENTPD4; ectonucleoside triphosphate diphosphohydrolase 4 	K12305 ENTPD4; ectonucleoside triphosphate diphosphohydrolase 4 [EC:3.6.1.6]
+D      6272 SORT1; sortilin 1	K12388 SORT1; sortilin
+D      1201 CLN3; ceroid-lipofuscinosis, neuronal 3	K12389 BTS; battenin
+D      1203 CLN5; ceroid-lipofuscinosis, neuronal 5	K12390 CLN5; ceroid-lipofuscinosis neuronal protein 5
+D      256471 MFSD8; major facilitator superfamily domain containing 8	K12307 MSFD8; MFS transporter, ceroid-lipofuscinosis neuronal protein 7
+D      138050 HGSNAT; heparan-alpha-glucosaminide N-acetyltransferase 	K10532 HGSNAT; heparan-alpha-glucosaminide N-acetyltransferase [EC:2.3.1.78]
+D      285362 SUMF1; sulfatase modifying factor 1 	K13444 SUMF1; sulfatase modifying factor 1
+D      79158 GNPTAB; N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits 	K08239 GNPTAB; UDP-N-acetylglucosamine-lysosomal-enzyme [EC:2.7.8.17]
+D      84572 GNPTG; N-acetylglucosamine-1-phosphate transferase, gamma subunit	K10087 GNPTG; N-acetylglucosamine-1-phosphate transferase, gamma subunit
+D      51172 NAGPA; N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase 	K01125 NAGPA; N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase [EC:3.1.4.45]
+D      3482 IGF2R; insulin-like growth factor 2 receptor	K06564 IGF2R; insulin-like growth factor 2 receptor
+D      4074 M6PR; mannose-6-phosphate receptor (cation dependent)	K10089 M6PR; cation-dependent mannose-6-phosphate receptor
+D      1211 CLTA; clathrin, light chain A	K04644 CLTA; clathrin light chain A
+D      1212 CLTB; clathrin, light chain B	K04645 CLTB; clathrin light chain B
+D      1213 CLTC; clathrin, heavy chain (Hc)	K04646 CLTC; clathrin heavy chain
+D      8218 CLTCL1; clathrin, heavy chain-like 1	K04646 CLTC; clathrin heavy chain
+D      164 AP1G1; adaptor-related protein complex 1, gamma 1 subunit	K12391 AP1G1; AP-1 complex subunit gamma-1
+D      8906 AP1G2; adaptor-related protein complex 1, gamma 2 subunit	K12391 AP1G1; AP-1 complex subunit gamma-1
+D      162 AP1B1; adaptor-related protein complex 1, beta 1 subunit	K12392 AP1B1; AP-1 complex subunit beta-1
+D      8907 AP1M1; adaptor-related protein complex 1, mu 1 subunit	K12393 AP1M; AP-1 complex subunit mu
+D      10053 AP1M2; adaptor-related protein complex 1, mu 2 subunit	K12393 AP1M; AP-1 complex subunit mu
+D      1174 AP1S1; adaptor-related protein complex 1, sigma 1 subunit	K12394 AP1S1_2; AP-1 complex subunit sigma 1/2
+D      8905 AP1S2; adaptor-related protein complex 1, sigma 2 subunit	K12394 AP1S1_2; AP-1 complex subunit sigma 1/2
+D      130340 AP1S3; adaptor-related protein complex 1, sigma 3 subunit	K12395 AP1S3; AP-1 complex subunit sigma-3
+D      8943 AP3D1; adaptor-related protein complex 3, delta 1 subunit	K12396 AP3D1; AP-3 complex subunit delta-1
+D      8120 AP3B2; adaptor-related protein complex 3, beta 2 subunit	K12397 AP3B; AP-3 complex subunit beta
+D      8546 AP3B1; adaptor-related protein complex 3, beta 1 subunit	K12397 AP3B; AP-3 complex subunit beta
+D      26985 AP3M1; adaptor-related protein complex 3, mu 1 subunit	K12398 AP3M; AP-3 complex subunit mu
+D      10947 AP3M2; adaptor-related protein complex 3, mu 2 subunit	K12398 AP3M; AP-3 complex subunit mu
+D      10239 AP3S2; adaptor-related protein complex 3, sigma 2 subunit	K12399 AP3S; AP-3 complex subunit sigma
+D      1176 AP3S1; adaptor-related protein complex 3, sigma 1 subunit	K12399 AP3S; AP-3 complex subunit sigma
+D      23431 AP4E1; adaptor-related protein complex 4, epsilon 1 subunit	K12400 AP4E1; AP-4 complex subunit epsilon-1
+D      10717 AP4B1; adaptor-related protein complex 4, beta 1 subunit	K12401 AP4B1; AP-4 complex subunit beta-1
+D      9179 AP4M1; adaptor-related protein complex 4, mu 1 subunit	K12402 AP4M1; AP-4 complex subunit mu-1
+D      11154 AP4S1; adaptor-related protein complex 4, sigma 1 subunit	K12403 AP4S1; AP-4 complex subunit sigma-1
+D      23062 GGA2; golgi-associated, gamma adaptin ear containing, ARF binding protein 2	K12404 GGA; ADP-ribosylation factor-binding protein GGA
+D      23163 GGA3; golgi-associated, gamma adaptin ear containing, ARF binding protein 3	K12404 GGA; ADP-ribosylation factor-binding protein GGA
+D      26088 GGA1; golgi-associated, gamma adaptin ear containing, ARF binding protein 1	K12404 GGA; ADP-ribosylation factor-binding protein GGA
+D      57192 MCOLN1; mucolipin 1	K04992 MCOLN1; mucolipin 1
+D      2517 FUCA1; fucosidase, alpha-L- 1, tissue 	K01206 FUCA; alpha-L-fucosidase [EC:3.2.1.51]
+D      3373 HYAL1; hyaluronoglucosaminidase 1 	K01197 hya; hyaluronoglucosaminidase [EC:3.2.1.35]
+D      53 ACP2; acid phosphatase 2, lysosomal 	K14410 ACP; acid phosphatase [EC:3.1.3.2]
+D      54 ACP5; acid phosphatase 5, tartrate resistant 	K14379 ACP5; tartrate-resistant acid phosphatase type 5 [EC:3.1.3.2]
+
+C    04146 Peroxisome [PATH:hsa04146]
+D      9409 PEX16; peroxisomal biogenesis factor 16	K13335 PEX16; peroxin-16
+D      8504 PEX3; peroxisomal biogenesis factor 3	K13336 PEX3; peroxin-3
+D      5824 PEX19; peroxisomal biogenesis factor 19	K13337 PEX19; peroxin-19
+D      5825 ABCD3; ATP-binding cassette, sub-family D (ALD), member 3	K05677 ABCD3; ATP-binding cassette, subfamily D (ALD), member 3
+D      5189 PEX1; peroxisomal biogenesis factor 1	K13338 PEX1; peroxin-1
+D      5190 PEX6; peroxisomal biogenesis factor 6	K13339 PEX6; peroxin-6
+D      55670 PEX26; peroxisomal biogenesis factor 26	K13340 PEX26; peroxin-26
+D      5191 PEX7; peroxisomal biogenesis factor 7	K13341 PEX7; peroxin-7
+D      5830 PEX5; peroxisomal biogenesis factor 5	K13342 PEX5; peroxin-5
+D      5195 PEX14; peroxisomal biogenesis factor 14	K13343 PEX14; peroxin-14
+D      5194 PEX13; peroxisomal biogenesis factor 13	K13344 PEX13; peroxin-13
+D      5193 PEX12; peroxisomal biogenesis factor 12	K13345 PEX12; peroxin-12
+D      5192 PEX10; peroxisomal biogenesis factor 10	K13346 PEX10; peroxin-10
+D      5828 PEX2; peroxisomal biogenesis factor 2	K06664 PEX2; peroxin-2
+D      5827 PXMP2; peroxisomal membrane protein 2, 22kDa	K13347 PXMP2; peroxisomal membrane protein 2
+D      4358 MPV17; MpV17 mitochondrial inner membrane protein	K13348 MPV17; protein Mpv17
+D      84769 MPV17L2; MPV17 mitochondrial membrane protein-like 2	K13348 MPV17; protein Mpv17
+D      255027 MPV17L; MPV17 mitochondrial membrane protein-like	K13349 MPV17L; Mpv17-like protein
+D      11264 PXMP4; peroxisomal membrane protein 4, 24kDa	K13350 PXMP4; peroxisomal membrane protein 4
+D      8800 PEX11A; peroxisomal biogenesis factor 11 alpha	K13351 PEX11A; peroxin-11A
+D      8799 PEX11B; peroxisomal biogenesis factor 11 beta	K13352 PEX11B; peroxin-11B
+D      92960 PEX11G; peroxisomal biogenesis factor 11 gamma	K13353 PEX11C; peroxin-11C
+D      10478 SLC25A17; solute carrier family 25 (mitochondrial carrier; peroxisomal membrane protein, 34kDa), member 17	K13354 SLC25A17; solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17
+D      26061 HACL1; 2-hydroxyacyl-CoA lyase 1	K12261 HACL1; 2-hydroxyacyl-CoA lyase 1 [EC:4.1.-.-]
+D      23600 AMACR; alpha-methylacyl-CoA racemase 	K01796 E5.1.99.4; alpha-methylacyl-CoA racemase [EC:5.1.99.4]
+D      5264 PHYH; phytanoyl-CoA 2-hydroxylase 	K00477 E1.14.11.18; phytanoyl-CoA hydroxylase [EC:1.14.11.18]
+D      8310 ACOX3; acyl-CoA oxidase 3, pristanoyl 	K00232 E1.3.3.6; acyl-CoA oxidase [EC:1.3.3.6]
+D      51 ACOX1; acyl-CoA oxidase 1, palmitoyl 	K00232 E1.3.3.6; acyl-CoA oxidase [EC:1.3.3.6]
+D      8309 ACOX2; acyl-CoA oxidase 2, branched chain 	K10214 ACOX2; 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase [EC:1.17.99.3]
+D      3295 HSD17B4; hydroxysteroid (17-beta) dehydrogenase 4 	K12405 HSD17B4; 3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase [EC:1.1.1.35 4.2.1.107]
+D      6342 SCP2; sterol carrier protein 2 	K08764 SCP2; sterol carrier protein 2 [EC:2.3.1.176]
+D      570 BAAT; bile acid CoA: amino acid N-acyltransferase (glycine N-choloyltransferase) 	K00659 BAAT; bile acid-CoA:amino acid N-acyltransferase [EC:2.3.1.65 3.1.2.2]
+D      1962 EHHADH; enoyl-CoA, hydratase/3-hydroxyacyl CoA dehydrogenase 	K07514 EHHADH; enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8]
+D      30 ACAA1; acetyl-CoA acyltransferase 1 	K07513 ACAA1; acetyl-CoA acyltransferase 1 [EC:2.3.1.16]
+D      26063 DECR2; 2,4-dienoyl CoA reductase 2, peroxisomal 	K13237 DECR2; peroxisomal 2,4-dienoyl-CoA reductase [EC:1.3.1.34]
+D      1891 ECH1; enoyl CoA hydratase 1, peroxisomal	K12663 ECH1; delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase [EC:5.3.3.-]
+D      215 ABCD1; ATP-binding cassette, sub-family D (ALD), member 1	K05675 ABCD1; ATP-binding cassette, subfamily D (ALD), member 1
+D      225 ABCD2; ATP-binding cassette, sub-family D (ALD), member 2	K05676 ABCD2; ATP-binding cassette, subfamily D (ALD), member 2
+D      5826 ABCD4; ATP-binding cassette, sub-family D (ALD), member 4	K05678 ABCD4; ATP-binding cassette, subfamily D (ALD), member 4
+D      11001 SLC27A2; solute carrier family 27 (fatty acid transporter), member 2 	K08746 SLC27A2; solute carrier family 27 (fatty acid transporter), member 2 [EC:6.2.1.- 6.2.1.3]
+D      23305 ACSL6; acyl-CoA synthetase long-chain family member 6 	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+D      2182 ACSL4; acyl-CoA synthetase long-chain family member 4 	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+D      2180 ACSL1; acyl-CoA synthetase long-chain family member 1 	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+D      51703 ACSL5; acyl-CoA synthetase long-chain family member 5 	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+D      2181 ACSL3; acyl-CoA synthetase long-chain family member 3 	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+D      55825 PECR; peroxisomal trans-2-enoyl-CoA reductase 	K07753 PECR; peroxisomal trans-2-enoyl-CoA reductase [EC:1.3.1.38]
+D      10455 ECI2; enoyl-CoA delta isomerase 2 	K13239 PECI; peroxisomal 3,2-trans-enoyl-CoA isomerase [EC:5.3.3.8]
+D      283927 NUDT7; nudix (nucleoside diphosphate linked moiety X)-type motif 7 	K17879 NUDT7; peroxisomal coenzyme A diphosphatase NUDT7 [EC:3.6.1.-]
+D      83594 NUDT12; nudix (nucleoside diphosphate linked moiety X)-type motif 12 	K03426 E3.6.1.22; NAD+ diphosphatase [EC:3.6.1.22]
+D      390916 NUDT19; nudix (nucleoside diphosphate linked moiety X)-type motif 19	K13355 NUDT19; nucleoside diphosphate-linked moiety X motif 19, mitochondrial [EC:3.6.1.-]
+D      10005 ACOT8; acyl-CoA thioesterase 8 	K11992 ACOT8; acyl-CoA thioesterase 8 [EC:3.1.2.27]
+D      1384 CRAT; carnitine O-acetyltransferase 	K00624 E2.3.1.7; carnitine O-acetyltransferase [EC:2.3.1.7]
+D      54677 CROT; carnitine O-octanoyltransferase 	K05940 CROT; carnitine O-octanoyltransferase [EC:2.3.1.137]
+D      23417 MLYCD; malonyl-CoA decarboxylase 	K01578 E4.1.1.9; malonyl-CoA decarboxylase [EC:4.1.1.9]
+D      8443 GNPAT; glyceronephosphate O-acyltransferase 	K00649 GNPAT; glyceronephosphate O-acyltransferase [EC:2.3.1.42]
+D      8540 AGPS; alkylglycerone phosphate synthase 	K00803 E2.5.1.26; alkyldihydroxyacetonephosphate synthase [EC:2.5.1.26]
+D      55711 FAR2; fatty acyl CoA reductase 2 	K13356 FAR; fatty acyl-CoA reductase [EC:1.2.1.-]
+D      84188 FAR1; fatty acyl CoA reductase 1 	K13356 FAR; fatty acyl-CoA reductase [EC:1.2.1.-]
+D      4598 MVK; mevalonate kinase 	K00869 E2.7.1.36; mevalonate kinase [EC:2.7.1.36]
+D      10654 PMVK; phosphomevalonate kinase 	K13273 PMVK; phosphomevalonate kinase [EC:2.7.4.2]
+D      189 AGXT; alanine-glyoxylate aminotransferase 	K00830 AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+D      1610 DAO; D-amino-acid oxidase 	K00273 DAO; D-amino-acid oxidase [EC:1.4.3.3]
+D      8528 DDO; D-aspartate oxidase 	K00272 DDO; D-aspartate oxidase [EC:1.4.3.1]
+D      3417 IDH1; isocitrate dehydrogenase 1 (NADP+), soluble 	K00031 IDH1; isocitrate dehydrogenase [EC:1.1.1.42]
+D      3418 IDH2; isocitrate dehydrogenase 2 (NADP+), mitochondrial 	K00031 IDH1; isocitrate dehydrogenase [EC:1.1.1.42]
+D      196743 PAOX; polyamine oxidase (exo-N4-amino) 	K00308 PAOX; N1-acetylpolyamine oxidase [EC:1.5.3.13]
+D      51268 PIPOX; pipecolic acid oxidase 	K00306 PIPOX; sarcosine oxidase / L-pipecolate oxidase [EC:1.5.3.1 1.5.3.7]
+D      3155 HMGCL; 3-hydroxymethyl-3-methylglutaryl-CoA lyase 	K01640 E4.1.3.4; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]
+D      51179 HAO2; hydroxyacid oxidase 2 (long chain) 	K11517 HAO; (S)-2-hydroxy-acid oxidase [EC:1.1.3.15]
+D      54363 HAO1; hydroxyacid oxidase (glycolate oxidase) 1 	K11517 HAO; (S)-2-hydroxy-acid oxidase [EC:1.1.3.15]
+D      847 CAT; catalase 	K03781 katE; catalase [EC:1.11.1.6]
+D      25824 PRDX5; peroxiredoxin 5 	K11187 PRDX5; peroxiredoxin 5, atypical 2-Cys peroxiredoxin [EC:1.11.1.15]
+D      6647 SOD1; superoxide dismutase 1, soluble 	K04565 SOD1; superoxide dismutase, Cu-Zn family [EC:1.15.1.1]
+D      6648 SOD2; superoxide dismutase 2, mitochondrial 	K04564 SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+D      4843 NOS2; nitric oxide synthase 2, inducible 	K13241 NOS2; nitric-oxide synthase, inducible [EC:1.14.13.39]
+D      5052 PRDX1; peroxiredoxin 1 	K13279 PRDX1; peroxiredoxin 1 [EC:1.11.1.15]
+D      2053 EPHX2; epoxide hydrolase 2, cytoplasmic 	K08726 EPHX2; soluble epoxide hydrolase [EC:3.3.2.10]
+D      373156 GSTK1; glutathione S-transferase kappa 1 	K13299 GSTK1; glutathione S-transferase kappa 1 [EC:2.5.1.18]
+D      7498 XDH; xanthine dehydrogenase 	K00106 XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]
+D      10901 DHRS4; dehydrogenase/reductase (SDR family) member 4 	K11147 DHRS4; dehydrogenase/reductase SDR family member 4 [EC:1.1.-.-]
+D      728635 DHRS4L1; dehydrogenase/reductase (SDR family) member 4 like 1	K11147 DHRS4; dehydrogenase/reductase SDR family member 4 [EC:1.1.-.-]
+C    04140 Regulation of autophagy [PATH:hsa04140]
+D      3630 INS; insulin	K04526 INS; insulin
+D      5562 PRKAA1; protein kinase, AMP-activated, alpha 1 catalytic subunit 	K07198 PRKAA; 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11]
+D      5563 PRKAA2; protein kinase, AMP-activated, alpha 2 catalytic subunit 	K07198 PRKAA; 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11]
+D      3439 IFNA1; interferon, alpha 1	K05414 IFNA; interferon alpha
+D      3440 IFNA2; interferon, alpha 2	K05414 IFNA; interferon alpha
+D      3441 IFNA4; interferon, alpha 4	K05414 IFNA; interferon alpha
+D      3442 IFNA5; interferon, alpha 5	K05414 IFNA; interferon alpha
+D      3443 IFNA6; interferon, alpha 6	K05414 IFNA; interferon alpha
+D      3444 IFNA7; interferon, alpha 7	K05414 IFNA; interferon alpha
+D      3445 IFNA8; interferon, alpha 8	K05414 IFNA; interferon alpha
+D      3446 IFNA10; interferon, alpha 10	K05414 IFNA; interferon alpha
+D      3447 IFNA13; interferon, alpha 13	K05414 IFNA; interferon alpha
+D      3448 IFNA14; interferon, alpha 14	K05414 IFNA; interferon alpha
+D      3449 IFNA16; interferon, alpha 16	K05414 IFNA; interferon alpha
+D      3451 IFNA17; interferon, alpha 17	K05414 IFNA; interferon alpha
+D      3452 IFNA21; interferon, alpha 21	K05414 IFNA; interferon alpha
+D      3458 IFNG; interferon, gamma	K04687 IFNG; interferon gamma
+D      25989 ULK3; unc-51 like kinase 3 	K08269 ULK1_2_3; serine/threonine-protein kinase ULK/ATG1 [EC:2.7.11.1]
+D      8408 ULK1; unc-51 like autophagy activating kinase 1 	K08269 ULK1_2_3; serine/threonine-protein kinase ULK/ATG1 [EC:2.7.11.1]
+D      9706 ULK2; unc-51 like autophagy activating kinase 2 	K08269 ULK1_2_3; serine/threonine-protein kinase ULK/ATG1 [EC:2.7.11.1]
+D      9776 ATG13; autophagy related 13	K08331 ATG13; autophagy-related protein 13
+D      30849 PIK3R4; phosphoinositide-3-kinase, regulatory subunit 4 	K08333 PIK3R4; phosphoinositide-3-kinase, regulatory subunit 4 [EC:2.7.11.1]
+D      8678 BECN1; beclin 1, autophagy related	K08334 BECN1; beclin 1
+D      22863 ATG14; autophagy related 14	K17889 ATG14L; beclin 1-associated autophagy-related key regulator
+D      5289 PIK3C3; phosphatidylinositol 3-kinase, catalytic subunit type 3 	K00914 PIK3C3; phosphatidylinositol 3-kinase [EC:2.7.1.137]
+D      9140 ATG12; autophagy related 12	K08336 ATG12; ubiquitin-like protein ATG12
+D      10533 ATG7; autophagy related 7	K08337 ATG7; ubiquitin-like modifier-activating enzyme ATG7
+D      83734 ATG10; autophagy related 10	K17888 ATG10L; ubiquitin-like-conjugating enzyme ATG10, animal type [EC:6.3.2.19]
+D      9474 ATG5; autophagy related 5	K08339 ATG5; autophagy-related protein 5
+D      55054 ATG16L1; autophagy related 16-like 1 (S. cerevisiae)	K17890 ATG16L; autophagy-related protein 16, animal type
+D      89849 ATG16L2; autophagy related 16-like 2 (S. cerevisiae)	K17890 ATG16L; autophagy-related protein 16, animal type
+D      11337 GABARAP; GABA(A) receptor-associated protein	K08341 GABARAP; GABA(A) receptor-associated protein
+D      23710 GABARAPL1; GABA(A) receptor-associated protein like 1	K08341 GABARAP; GABA(A) receptor-associated protein
+D      11345 GABARAPL2; GABA(A) receptor-associated protein-like 2	K08341 GABARAP; GABA(A) receptor-associated protein
+D      115201 ATG4A; autophagy related 4A, cysteine peptidase	K08342 ATG4; cysteine protease ATG4 [EC:3.4.22.-]
+D      23192 ATG4B; autophagy related 4B, cysteine peptidase	K08342 ATG4; cysteine protease ATG4 [EC:3.4.22.-]
+D      84938 ATG4C; autophagy related 4C, cysteine peptidase	K08342 ATG4; cysteine protease ATG4 [EC:3.4.22.-]
+D      84971 ATG4D; autophagy related 4D, cysteine peptidase	K08342 ATG4; cysteine protease ATG4 [EC:3.4.22.-]
+D      64422 ATG3; autophagy related 3	K08343 ATG3; ubiquitin-like-conjugating enzyme ATG3 [EC:6.3.2.19]
+B
+B  <b>Cell motility</b>
+C    02030 Bacterial chemotaxis
+C    02035 Bacterial motility proteins
+C    02040 Flagellar assembly
+C    04810 Regulation of actin cytoskeleton [PATH:hsa04810]
+D      2147 F2; coagulation factor II (thrombin) 	K01313 F2; coagulation factor II (thrombin) [EC:3.4.21.5]
+D      2149 F2R; coagulation factor II (thrombin) receptor	K03914 F2R; coagulation factor II (thrombin) receptor
+D      929 CD14; CD14 molecule	K04391 CD14; CD14 antigen
+D      3630 INS; insulin	K04526 INS; insulin
+D      1950 EGF; epidermal growth factor	K04357 EGF; epidermal growth factor
+D      2246 FGF1; fibroblast growth factor 1 (acidic)	K04358 FGF; fibroblast growth factor
+D      2247 FGF2; fibroblast growth factor 2 (basic)	K04358 FGF; fibroblast growth factor
+D      2248 FGF3; fibroblast growth factor 3	K04358 FGF; fibroblast growth factor
+D      2249 FGF4; fibroblast growth factor 4	K04358 FGF; fibroblast growth factor
+D      8822 FGF17; fibroblast growth factor 17	K04358 FGF; fibroblast growth factor
+D      2251 FGF6; fibroblast growth factor 6	K04358 FGF; fibroblast growth factor
+D      2252 FGF7; fibroblast growth factor 7	K04358 FGF; fibroblast growth factor
+D      2253 FGF8; fibroblast growth factor 8 (androgen-induced)	K04358 FGF; fibroblast growth factor
+D      2254 FGF9; fibroblast growth factor 9	K04358 FGF; fibroblast growth factor
+D      2255 FGF10; fibroblast growth factor 10	K04358 FGF; fibroblast growth factor
+D      2256 FGF11; fibroblast growth factor 11	K04358 FGF; fibroblast growth factor
+D      2257 FGF12; fibroblast growth factor 12	K04358 FGF; fibroblast growth factor
+D      2258 FGF13; fibroblast growth factor 13	K04358 FGF; fibroblast growth factor
+D      2259 FGF14; fibroblast growth factor 14	K04358 FGF; fibroblast growth factor
+D      8823 FGF16; fibroblast growth factor 16	K04358 FGF; fibroblast growth factor
+D      2250 FGF5; fibroblast growth factor 5	K04358 FGF; fibroblast growth factor
+D      8817 FGF18; fibroblast growth factor 18	K04358 FGF; fibroblast growth factor
+D      9965 FGF19; fibroblast growth factor 19	K04358 FGF; fibroblast growth factor
+D      26281 FGF20; fibroblast growth factor 20	K04358 FGF; fibroblast growth factor
+D      26291 FGF21; fibroblast growth factor 21	K04358 FGF; fibroblast growth factor
+D      27006 FGF22; fibroblast growth factor 22	K04358 FGF; fibroblast growth factor
+D      8074 FGF23; fibroblast growth factor 23	K04358 FGF; fibroblast growth factor
+D      5154 PDGFA; platelet-derived growth factor alpha polypeptide	K04359 PDGFA; platelet-derived growth factor subunit A
+D      5155 PDGFB; platelet-derived growth factor beta polypeptide	K17386 PDGFB; platelet-derived growth factor subunit B
+D      56034 PDGFC; platelet derived growth factor C	K05450 PDGFC_D; platelet derived growth factor C/D
+D      80310 PDGFD; platelet derived growth factor D	K05450 PDGFC_D; platelet derived growth factor C/D
+D      3645 INSRR; insulin receptor-related receptor 	K05086 INSRR; insulin receptor-related receptor [EC:2.7.10.1]
+D      1956 EGFR; epidermal growth factor receptor 	K04361 EGFR; epidermal growth factor receptor [EC:2.7.10.1]
+D      2260 FGFR1; fibroblast growth factor receptor 1 	K04362 FGFR1; fibroblast growth factor receptor 1 [EC:2.7.10.1]
+D      2263 FGFR2; fibroblast growth factor receptor 2 	K05093 FGFR2; fibroblast growth factor receptor 2 [EC:2.7.10.1]
+D      2261 FGFR3; fibroblast growth factor receptor 3 	K05094 FGFR3; fibroblast growth factor receptor 3 [EC:2.7.10.1]
+D      2264 FGFR4; fibroblast growth factor receptor 4 	K05095 FGFR4; fibroblast growth factor receptor 4 [EC:2.7.10.1]
+D      5156 PDGFRA; platelet-derived growth factor receptor, alpha polypeptide 	K04363 PDGFRA; platelet-derived growth factor receptor alpha [EC:2.7.10.1]
+D      5159 PDGFRB; platelet-derived growth factor receptor, beta polypeptide 	K05089 PDGFRB; platelet-derived growth factor receptor beta [EC:2.7.10.1]
+D      2335 FN1; fibronectin 1	K05717 FN1; fibronectin 1
+D      3672 ITGA1; integrin, alpha 1	K06480 ITGA1; integrin alpha 1
+D      3673 ITGA2; integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)	K06481 ITGA2; integrin alpha 2
+D      3674 ITGA2B; integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	K06476 ITGA2B; integrin alpha 2B
+D      3675 ITGA3; integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor)	K06482 ITGA3; integrin alpha 3
+D      3676 ITGA4; integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	K06483 ITGA4; integrin alpha 4
+D      3678 ITGA5; integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	K06484 ITGA5; integrin alpha 5
+D      3655 ITGA6; integrin, alpha 6	K06485 ITGA6; integrin alpha 6
+D      3679 ITGA7; integrin, alpha 7	K06583 ITGA7; integrin alpha 7
+D      8516 ITGA8; integrin, alpha 8	K06584 ITGA8; integrin alpha 8
+D      3680 ITGA9; integrin, alpha 9	K06585 ITGA9; integrin alpha 9
+D      8515 ITGA10; integrin, alpha 10	K06586 ITGA10; integrin alpha 10
+D      22801 ITGA11; integrin, alpha 11	K06587 ITGA11; integrin alpha 11
+D      3685 ITGAV; integrin, alpha V	K06487 ITGAV; integrin alpha V
+D      3683 ITGAL; integrin, alpha L (antigen CD11A (p180), lymphocyte function-associated antigen 1; alpha polypeptide)	K05718 ITGAL; integrin alpha L
+D      3684 ITGAM; integrin, alpha M (complement component 3 receptor 3 subunit)	K06461 ITGAM; integrin alpha M
+D      3687 ITGAX; integrin, alpha X (complement component 3 receptor 4 subunit)	K06462 ITGAX; integrin alpha X
+D      3681 ITGAD; integrin, alpha D	K06594 ITGAD; integrin alpha D
+D      3682 ITGAE; integrin, alpha E (antigen CD103, human mucosal lymphocyte antigen 1; alpha polypeptide)	K06524 ITGAE; integrin alpha E
+D      3688 ITGB1; integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	K05719 ITGB1; integrin beta 1
+D      3689 ITGB2; integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	K06464 ITGB2; integrin beta 2
+D      3690 ITGB3; integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	K06493 ITGB3; integrin beta 3
+D      3691 ITGB4; integrin, beta 4	K06525 ITGB4; integrin beta 4
+D      3693 ITGB5; integrin, beta 5	K06588 ITGB5; integrin beta 5
+D      3694 ITGB6; integrin, beta 6	K06589 ITGB6; integrin beta 6
+D      3695 ITGB7; integrin, beta 7	K06590 ITGB7; integrin beta 7
+D      3696 ITGB8; integrin, beta 8	K06591 ITGB8; integrin beta 8
+D      623 BDKRB1; bradykinin receptor B1	K03915 BDKRB1; bradykinin receptor B1
+D      624 BDKRB2; bradykinin receptor B2	K03916 BDKRB2; bradykinin receptor B2
+D      1128 CHRM1; cholinergic receptor, muscarinic 1	K04129 CHRM1; muscarinic acetylcholine receptor M1
+D      1129 CHRM2; cholinergic receptor, muscarinic 2	K04130 CHRM2; muscarinic acetylcholine receptor M2
+D      1131 CHRM3; cholinergic receptor, muscarinic 3	K04131 CHRM3; muscarinic acetylcholine receptor M3
+D      1132 CHRM4; cholinergic receptor, muscarinic 4	K04132 CHRM4; muscarinic acetylcholine receptor M4
+D      1133 CHRM5; cholinergic receptor, muscarinic 5	K04133 CHRM5; muscarinic acetylcholine receptor M5
+D      2768 GNA12; guanine nucleotide binding protein (G protein) alpha 12	K04346 GNA12; guanine nucleotide-binding protein subunit alpha-12
+D      10672 GNA13; guanine nucleotide binding protein (G protein), alpha 13	K04639 GNA13; guanine nucleotide-binding protein subunit alpha-13
+D      55970 GNG12; guanine nucleotide binding protein (G protein), gamma 12	K04347 GNG12; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12
+D      648044 guanine nucleotide binding protein (G protein)	K04347 GNG12; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12
+D      2245 FGD1; FYVE, RhoGEF and PH domain containing 1	K05720 FGD1; FYVE, RhoGEF and PH domain containing 1
+D      89846 FGD3; FYVE, RhoGEF and PH domain containing 3	K05722 FGD3; FYVE, RhoGEF and PH domain containing 3
+D      5747 PTK2; protein tyrosine kinase 2 	K05725 PTK2; focal adhesion kinase 1 [EC:2.7.10.2]
+D      9564 BCAR1; breast cancer anti-estrogen resistance 1	K05726 BCAR1; breast cancer anti-estrogen resistance 1
+D      1398 CRK; v-crk avian sarcoma virus CT10 oncogene homolog	K04438 CRK; proto-oncogene C-crk
+D      1399 CRKL; v-crk avian sarcoma virus CT10 oncogene homolog-like	K04438 CRK; proto-oncogene C-crk
+D      1793 DOCK1; dedicator of cytokinesis 1	K13708 DOCK1; dedicator of cytokinesis protein 1
+D      6714 SRC; v-src avian sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog 	K05704 SRC; tyrosine-protein kinase Src [EC:2.7.10.2]
+D      6654 SOS1; son of sevenless homolog 1 (Drosophila)	K03099 SOS; son of sevenless
+D      6655 SOS2; son of sevenless homolog 2 (Drosophila)	K03099 SOS; son of sevenless
+D      3265 HRAS; Harvey rat sarcoma viral oncogene homolog	K02833 HRAS; GTPase HRas
+D      3845 KRAS; Kirsten rat sarcoma viral oncogene homolog	K07827 KRAS; GTPase KRas
+D      4893 NRAS; neuroblastoma RAS viral (v-ras) oncogene homolog	K07828 NRAS; GTPase NRas
+D      6237 RRAS; related RAS viral (r-ras) oncogene homolog	K07829 RRAS; Ras-related protein R-Ras
+D      22800 RRAS2; related RAS viral (r-ras) oncogene homolog 2	K07830 RRAS2; Ras-related protein R-Ras2
+D      22808 MRAS; muscle RAS oncogene homolog	K07831 MRAS; Ras-related protein M-Ras
+D      9459 ARHGEF6; Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6	K05729 ARHGEF6; Rho guanine nucleotide exchange factor 6
+D      5290 PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5293 PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit delta 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5291 PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit beta 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5294 PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit gamma 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5295 PIK3R1; phosphoinositide-3-kinase, regulatory subunit 1 (alpha)	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      23533 PIK3R5; phosphoinositide-3-kinase, regulatory subunit 5	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      5296 PIK3R2; phosphoinositide-3-kinase, regulatory subunit 2 (beta)	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      8503 PIK3R3; phosphoinositide-3-kinase, regulatory subunit 3 (gamma)	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      10451 VAV3; vav 3 guanine nucleotide exchange factor	K05730 VAV; guanine nucleotide exchange factor VAV
+D      7409 VAV1; vav 1 guanine nucleotide exchange factor	K05730 VAV; guanine nucleotide exchange factor VAV
+D      7410 VAV2; vav 2 guanine nucleotide exchange factor	K05730 VAV; guanine nucleotide exchange factor VAV
+D      7074 TIAM1; T-cell lymphoma invasion and metastasis 1	K05731 TIAM1; T-lymphoma invasion and metastasis-inducing protein 1
+D      369 ARAF; v-raf murine sarcoma 3611 viral oncogene homolog 	K08845 ARAF; A-Raf proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]
+D      673 BRAF; v-raf murine sarcoma viral oncogene homolog B 	K04365 BRAF; B-Raf proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]
+D      5894 RAF1; v-raf-1 murine leukemia viral oncogene homolog 1 	K04366 RAF1; RAF proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]
+D      4342 MOS; v-mos Moloney murine sarcoma viral oncogene homolog 	K04367 MOS; proto-oncogene serine/threonine-protein kinase mos [EC:2.7.11.1]
+D      5604 MAP2K1; mitogen-activated protein kinase kinase 1 	K04368 MAP2K1; mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]
+D      5605 MAP2K2; mitogen-activated protein kinase kinase 2 	K04369 MAP2K2; mitogen-activated protein kinase kinase 2 [EC:2.7.12.2]
+D      5594 MAPK1; mitogen-activated protein kinase 1 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      5595 MAPK3; mitogen-activated protein kinase 3 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      9138 ARHGEF1; Rho guanine nucleotide exchange factor (GEF) 1	K12330 ARHGEF1; Rho guanine nucleotide exchange factor 1
+D      23365 ARHGEF12; Rho guanine nucleotide exchange factor (GEF) 12	K07532 ARHGEF12; Rho guanine nucleotide exchange factor 12
+D      2909 ARHGAP35; Rho GTPase activating protein 35	K05732 GRLF1; glucocorticoid receptor DNA-binding factor 1
+D      387 RHOA; ras homolog family member A	K04513 RHOA; Ras homolog gene family, member A
+D      5879 RAC1; ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	K04392 RAC1; Ras-related C3 botulinum toxin substrate 1
+D      5880 RAC2; ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	K07860 RAC2; Ras-related C3 botulinum toxin substrate 2
+D      5881 RAC3; ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)	K07861 RAC3; Ras-related C3 botulinum toxin substrate 3
+D      998 CDC42; cell division cycle 42	K04393 CDC42; cell division control protein 42
+D      5058 PAK1; p21 protein (Cdc42/Rac)-activated kinase 1 	K04409 PAK1; p21-activated kinase 1 [EC:2.7.11.1]
+D      5062 PAK2; p21 protein (Cdc42/Rac)-activated kinase 2 	K04410 PAK2; p21-activated kinase 2 [EC:2.7.11.1]
+D      5063 PAK3; p21 protein (Cdc42/Rac)-activated kinase 3 	K05733 PAK3; p21-activated kinase 3 [EC:2.7.11.1]
+D      10298 PAK4; p21 protein (Cdc42/Rac)-activated kinase 4 	K05734 PAK4; p21-activated kinase 4 [EC:2.7.11.1]
+D      56924 PAK6; p21 protein (Cdc42/Rac)-activated kinase 6 	K05735 PAK6; p21-activated kinase 6 [EC:2.7.11.1]
+D      57144 PAK7; p21 protein (Cdc42/Rac)-activated kinase 7 	K05736 PAK7; p21-activated kinase 7 [EC:2.7.11.1]
+D      8874 ARHGEF7; Rho guanine nucleotide exchange factor (GEF) 7	K13710 ARHGEF7; Rho guanine nucleotide exchange factor 7
+D      28964 GIT1; G protein-coupled receptor kinase interacting ArfGAP 1	K05737 GIT1; G protein-coupled receptor kinase interactor 1
+D      6093 ROCK1; Rho-associated, coiled-coil containing protein kinase 1 	K04514 ROCK1; Rho-associated protein kinase 1 [EC:2.7.11.1]
+D      9475 ROCK2; Rho-associated, coiled-coil containing protein kinase 2 	K17388 ROCK2; Rho-associated protein kinase 2 [EC:2.7.11.1]
+D      4638 MYLK; myosin light chain kinase 	K00907 MYLK; myosin-light-chain kinase [EC:2.7.11.18]
+D      85366 MYLK2; myosin light chain kinase 2 	K00907 MYLK; myosin-light-chain kinase [EC:2.7.11.18]
+D      91807 MYLK3; myosin light chain kinase 3 	K00907 MYLK; myosin-light-chain kinase [EC:2.7.11.18]
+D      340156 MYLK4; myosin light chain kinase family, member 4 	K00907 MYLK; myosin-light-chain kinase [EC:2.7.11.18]
+D      5499 PPP1CA; protein phosphatase 1, catalytic subunit, alpha isozyme 	K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+D      5500 PPP1CB; protein phosphatase 1, catalytic subunit, beta isozyme 	K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+D      5501 PPP1CC; protein phosphatase 1, catalytic subunit, gamma isozyme 	K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+D      4659 PPP1R12A; protein phosphatase 1, regulatory subunit 12A	K06270 PPP1R12A; protein phosphatase 1 regulatory subunit 12A
+D      4660 PPP1R12B; protein phosphatase 1, regulatory subunit 12B 	K12329 PPP1R12B; protein phosphatase 1 regulatory subunit 12B
+D      54776 PPP1R12C; protein phosphatase 1, regulatory subunit 12C	K17457 PPP1R12C; protein phosphatase 1 regulatory subunit 12C
+D      4633 MYL2; myosin, light chain 2, regulatory, cardiac, slow	K10351 MYL2; myosin regulatory light chain 2
+D      4636 MYL5; myosin, light chain 5, regulatory	K12753 MYL5; myosin regulatory light chain 5
+D      58498 MYL7; myosin, light chain 7, regulatory	K12754 MYL7; myosin regulatory light chain 7
+D      10398 MYL9; myosin, light chain 9, regulatory	K12755 MYL9; myosin regulatory light chain 9
+D      93408 MYL10; myosin, light chain 10, regulatory	K12756 MYL10; myosin regulatory light chain 10
+D      103910 MYL12B; myosin, light chain 12B, regulatory	K12757 MYL12; myosin regulatory light chain 12
+D      10627 MYL12A; myosin, light chain 12A, regulatory, non-sarcomeric	K12757 MYL12; myosin regulatory light chain 12
+D      29895 MYLPF; myosin light chain, phosphorylatable, fast skeletal muscle	K12758 MYLPF; fast skeletal myosin light chain 2
+D      1729 DIAPH1; diaphanous-related formin 1	K05740 DIAPH1; diaphanous 1
+D      1730 DIAPH2; diaphanous-related formin 2	K05741 DIAPH2; diaphanous 2
+D      6548 SLC9A1; solute carrier family 9, subfamily A (NHE1, cation proton antiporter 1), member 1	K05742 SLC9A1; solute carrier family 9 (sodium/hydrogen exchanger), member 1
+D      23396 PIP5K1C; phosphatidylinositol-4-phosphate 5-kinase, type I, gamma 	K00889 E2.7.1.68; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+D      8394 PIP5K1A; phosphatidylinositol-4-phosphate 5-kinase, type I, alpha 	K00889 E2.7.1.68; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+D      8395 PIP5K1B; phosphatidylinositol-4-phosphate 5-kinase, type I, beta 	K00889 E2.7.1.68; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+D      79837 PIP4K2C; phosphatidylinositol-5-phosphate 4-kinase, type II, gamma 	K00920 E2.7.1.149; 1-phosphatidylinositol-5-phosphate 4-kinase [EC:2.7.1.149]
+D      5305 PIP4K2A; phosphatidylinositol-5-phosphate 4-kinase, type II, alpha 	K00920 E2.7.1.149; 1-phosphatidylinositol-5-phosphate 4-kinase [EC:2.7.1.149]
+D      8396 PIP4K2B; phosphatidylinositol-5-phosphate 4-kinase, type II, beta 	K00920 E2.7.1.149; 1-phosphatidylinositol-5-phosphate 4-kinase [EC:2.7.1.149]
+D      200576 PIKFYVE; phosphoinositide kinase, FYVE finger containing 	K00921 PIKFYVE; 1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]
+D      3984 LIMK1; LIM domain kinase 1 	K05743 LIMK1; LIM domain kinase 1 [EC:2.7.11.1]
+D      3985 LIMK2; LIM domain kinase 2 	K05744 LIMK2; LIM domain kinase 2 [EC:2.7.11.1]
+D      81624 DIAPH3; diaphanous-related formin 3	K05745 DIAPH3; diaphanous 3
+D      10458 BAIAP2; BAI1-associated protein 2	K05627 BAIAP2; BAI1-associated protein 2
+D      55740 ENAH; enabled homolog (Drosophila)	K05746 ENAH; enabled
+D      7454 WAS; Wiskott-Aldrich syndrome	K05747 WAS; Wiskott-Aldrich syndrome protein
+D      8976 WASL; Wiskott-Aldrich syndrome-like	K05747 WAS; Wiskott-Aldrich syndrome protein
+D      10163 WASF2; WAS protein family, member 2	K05748 WASF2; WAS protein family, member 2
+D      23191 CYFIP1; cytoplasmic FMR1 interacting protein 1	K05749 CYFIP; cytoplasmic FMR1 interacting protein
+D      26999 CYFIP2; cytoplasmic FMR1 interacting protein 2	K05749 CYFIP; cytoplasmic FMR1 interacting protein
+D      10787 NCKAP1; NCK-associated protein 1	K05750 NCKAP1; NCK-associated protein 1
+D      3071 NCKAP1L; NCK-associated protein 1-like	K05750 NCKAP1; NCK-associated protein 1
+D      10152 ABI2; abl-interactor 2	K05751 ABI2; abl interactor 2
+D      55845 BRK1; BRICK1, SCAR/WAVE actin-nucleating complex subunit	K05752 C3ORF10; chromosome 3 open reading frame 10
+D      8936 WASF1; WAS protein family, member 1	K05753 WASF1; WAS protein family, member 1
+D      10092 ARPC5; actin related protein 2/3 complex, subunit 5, 16kDa	K05754 ARPC5; actin related protein 2/3 complex, subunit 5
+D      81873 ARPC5L; actin related protein 2/3 complex, subunit 5-like	K05754 ARPC5; actin related protein 2/3 complex, subunit 5
+D      10093 ARPC4; actin related protein 2/3 complex, subunit 4, 20kDa	K05755 ARPC4; actin related protein 2/3 complex, subunit 4
+D      10094 ARPC3; actin related protein 2/3 complex, subunit 3, 21kDa	K05756 ARPC3; actin related protein 2/3 complex, subunit 3
+D      10095 ARPC1B; actin related protein 2/3 complex, subunit 1B, 41kDa	K05757 ARPC1A_B; actin related protein 2/3 complex, subunit 1A/1B
+D      10552 ARPC1A; actin related protein 2/3 complex, subunit 1A, 41kDa	K05757 ARPC1A_B; actin related protein 2/3 complex, subunit 1A/1B
+D      10109 ARPC2; actin related protein 2/3 complex, subunit 2, 34kDa	K05758 ARPC2; actin related protein 2/3 complex, subunit 2
+D      60 ACTB; actin, beta	K05692 ACTB_G1; actin beta/gamma 1
+D      71 ACTG1; actin, gamma 1	K05692 ACTB_G1; actin beta/gamma 1
+D      345456 PFN3; profilin 3	K05759 PFN; profilin
+D      5216 PFN1; profilin 1	K05759 PFN; profilin
+D      5217 PFN2; profilin 2	K05759 PFN; profilin
+D      375189 PFN4; profilin family, member 4	K05759 PFN; profilin
+D      5829 PXN; paxillin	K05760 PXN; paxillin
+D      7430 EZR; ezrin	K08007 VIL2; villin 2 (ezrin)
+D      5962 RDX; radixin	K05762 RDX; radixin
+D      4478 MSN; moesin	K05763 MSN; moesin
+D      7114 TMSB4X; thymosin beta 4, X-linked	K05764 TMSB4; thymosin, beta 4
+D      9087 TMSB4Y; thymosin beta 4, Y-linked	K05764 TMSB4; thymosin, beta 4
+D      1072 CFL1; cofilin 1 (non-muscle)	K05765 CFL; cofilin
+D      1073 CFL2; cofilin 2 (muscle)	K05765 CFL; cofilin
+D      54434 SSH1; slingshot protein phosphatase 1 	K05766 SSH; protein phosphatase slingshot [EC:3.1.3.16 3.1.3.48]
+D      54961 SSH3; slingshot protein phosphatase 3 	K05766 SSH; protein phosphatase slingshot [EC:3.1.3.16 3.1.3.48]
+D      85464 SSH2; slingshot protein phosphatase 2 	K05766 SSH; protein phosphatase slingshot [EC:3.1.3.16 3.1.3.48]
+D      7414 VCL; vinculin	K05700 VCL; vinculin
+D      8826 IQGAP1; IQ motif containing GTPase activating protein 1	K16848 IQGAP1; Ras GTPase-activating-like protein IQGAP1
+D      10788 IQGAP2; IQ motif containing GTPase activating protein 2	K05767 IQGAP2_3; Ras GTPase-activating-like protein IQGAP2/3
+D      128239 IQGAP3; IQ motif containing GTPase activating protein 3	K05767 IQGAP2_3; Ras GTPase-activating-like protein IQGAP2/3
+D      2934 GSN; gelsolin	K05768 GSN; gelsolin
+D      85477 SCIN; scinderin	K05768 GSN; gelsolin
+D      87 ACTN1; actinin, alpha 1	K05699 ACTN; actinin alpha
+D      88 ACTN2; actinin, alpha 2	K05699 ACTN; actinin alpha
+D      89 ACTN3; actinin, alpha 3	K05699 ACTN; actinin alpha
+D      81 ACTN4; actinin, alpha 4	K05699 ACTN; actinin alpha
+D      324 APC; adenomatous polyposis coli	K02085 APC; adenomatosis polyposis coli protein
+D      10297 APC2; adenomatosis polyposis coli 2	K02085 APC; adenomatosis polyposis coli protein
+D      50649 ARHGEF4; Rho guanine nucleotide exchange factor (GEF) 4	K05769 ARHGEF4; Rho guanine nucleotide exchange factor 4
+D      4627 MYH9; myosin, heavy chain 9, non-muscle	K10352 MYH; myosin heavy chain
+D      4628 MYH10; myosin, heavy chain 10, non-muscle	K10352 MYH; myosin heavy chain
+D      79784 MYH14; myosin, heavy chain 14, non-muscle 	K10352 MYH; myosin heavy chain
+
+C    04812 Cytoskeleton proteins [BR:hsa04812]
+B
+B  <b>Cell growth and death</b>
+C    04110 Cell cycle [PATH:hsa04110]
+D      595 CCND1; cyclin D1	K04503 CCND1; cyclin D1
+D      894 CCND2; cyclin D2	K10151 CCND2; cyclin D2
+D      896 CCND3; cyclin D3	K10152 CCND3; cyclin D3
+D      1019 CDK4; cyclin-dependent kinase 4 	K02089 CDK4; cyclin-dependent kinase 4 [EC:2.7.11.22]
+D      1021 CDK6; cyclin-dependent kinase 6 	K02091 CDK6; cyclin-dependent kinase 6 [EC:2.7.11.22]
+D      5925 RB1; retinoblastoma 1	K06618 RB1; retinoblastoma-associated protein
+D      5933 RBL1; retinoblastoma-like 1	K04681 RBL1; retinoblastoma-like protein 1
+D      5934 RBL2; retinoblastoma-like 2	K16332 RBL2; retinoblastoma-like protein 2
+D      25 ABL1; c-abl oncogene 1, non-receptor tyrosine kinase 	K06619 ABL1; abelson tyrosine-protein kinase 1 [EC:2.7.10.2]
+D      3065 HDAC1; histone deacetylase 1 	K06067 HDAC1_2; histone deacetylase 1/2 [EC:3.5.1.98]
+D      3066 HDAC2; histone deacetylase 2 	K06067 HDAC1_2; histone deacetylase 1/2 [EC:3.5.1.98]
+D      1869 E2F1; E2F transcription factor 1	K17454 E2F1; transcription factor E2F1
+D      1870 E2F2; E2F transcription factor 2	K09389 E2F2; transcription factor E2F2
+D      1871 E2F3; E2F transcription factor 3	K06620 E2F3; transcription factor E2F3
+D      1874 E2F4; E2F transcription factor 4, p107/p130-binding	K04682 E2F4_5; transcription factor E2F4/5
+D      1875 E2F5; E2F transcription factor 5, p130-binding	K04682 E2F4_5; transcription factor E2F4/5
+D      7027 TFDP1; transcription factor Dp-1	K04683 TFDP1; transcription factor Dp-1
+D      7029 TFDP2; transcription factor Dp-2 (E2F dimerization partner 2)	K09392 TFDP2; transcription factor Dp-2
+D      2932 GSK3B; glycogen synthase kinase 3 beta 	K03083 GSK3B; glycogen synthase kinase 3 beta [EC:2.7.11.26]
+D      7040 TGFB1; transforming growth factor, beta 1	K13375 TGFB1; transforming growth factor beta-1
+D      7042 TGFB2; transforming growth factor, beta 2	K13376 TGFB2; transforming growth factor beta-2
+D      7043 TGFB3; transforming growth factor, beta 3	K13377 TGFB3; transforming growth factor beta-3
+D      4087 SMAD2; SMAD family member 2	K04500 SMAD2_3; mothers against decapentaplegic homolog 2/3
+D      4088 SMAD3; SMAD family member 3	K04500 SMAD2_3; mothers against decapentaplegic homolog 2/3
+D      4089 SMAD4; SMAD family member 4	K04501 SMAD4; mothers against decapentaplegic homolog 4
+D      4609 MYC; v-myc avian myelocytomatosis viral oncogene homolog	K04377 MYC; Myc proto-oncogene protein
+D      7709 ZBTB17; zinc finger and BTB domain containing 17	K10500 ZBTB17; zinc finger and BTB domain-containing protein 17
+D      1029 CDKN2A; cyclin-dependent kinase inhibitor 2A	K06621 CDKN2A; cyclin-dependent kinase inhibitor 2A
+D      1030 CDKN2B; cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	K04685 CDKN2B; cyclin-dependent kinase inhibitor 2B
+D      1031 CDKN2C; cyclin-dependent kinase inhibitor 2C (p18, inhibits CDK4)	K06622 CDKN2C; cyclin-dependent kinase inhibitor 2C
+D      1032 CDKN2D; cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	K06623 CDKN2D; cyclin-dependent kinase inhibitor 2D
+D      1027 CDKN1B; cyclin-dependent kinase inhibitor 1B (p27, Kip1)	K06624 CDKN1B; cyclin-dependent kinase inhibitor 1B
+D      1028 CDKN1C; cyclin-dependent kinase inhibitor 1C (p57, Kip2)	K09993 CDKN1C; cyclin-dependent kinase inhibitor 1C
+D      1026 CDKN1A; cyclin-dependent kinase inhibitor 1A (p21, Cip1)	K06625 CDKN1A; cyclin-dependent kinase inhibitor 1A
+D      898 CCNE1; cyclin E1	K06626 CCNE; cyclin E
+D      9134 CCNE2; cyclin E2	K06626 CCNE; cyclin E
+D      1017 CDK2; cyclin-dependent kinase 2 	K02206 CDK2; cyclin-dependent kinase 2 [EC:2.7.11.22]
+D      6500 SKP1; S-phase kinase-associated protein 1 	K03094 SKP1; S-phase kinase-associated protein 1
+D      8454 CUL1; cullin 1	K03347 CUL1; cullin 1
+D      9978 RBX1; ring-box 1, E3 ubiquitin protein ligase	K03868 RBX1; RING-box protein 1
+D      6502 SKP2; S-phase kinase-associated protein 2, E3 ubiquitin protein ligase	K03875 SKP2; F-box and leucine-rich repeat protein 1 (S-phase kinase-associated protein 2)
+D      890 CCNA2; cyclin A2	K06627 CCNA; cyclin A
+D      8900 CCNA1; cyclin A1	K06627 CCNA; cyclin A
+D      990 CDC6; cell division cycle 6	K02213 CDC6; cell division control protein 6
+D      8318 CDC45; cell division cycle 45	K06628 CDC45; cell division control protein 45
+D      8317 CDC7; cell division cycle 7 	K02214 CDC7; cell division control protein 7 [EC:2.7.11.1]
+D      10926 DBF4; DBF4 zinc finger	K06629 ASK; activator of S phase kinase
+D      983 CDK1; cyclin-dependent kinase 1 	K02087 CDK1; cyclin-dependent kinase 1 [EC:2.7.11.22 2.7.11.23]
+D      891 CCNB1; cyclin B1	K05868 CCNB; cyclin B
+D      9133 CCNB2; cyclin B2	K05868 CCNB; cyclin B
+D      85417 CCNB3; cyclin B3	K05868 CCNB; cyclin B
+D      994 CDC25B; cell division cycle 25B 	K05866 CDC25B; M-phase inducer phosphatase 2 [EC:3.1.3.48]
+D      995 CDC25C; cell division cycle 25C 	K05867 CDC25C; M-phase inducer phosphatase 3 [EC:3.1.3.48]
+D      7534 YWHAZ; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta	K16197 YWHAB_Q_Z; 14-3-3 protein beta/theta/zeta
+D      7529 YWHAB; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta	K16197 YWHAB_Q_Z; 14-3-3 protein beta/theta/zeta
+D      10971 YWHAQ; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, theta	K16197 YWHAB_Q_Z; 14-3-3 protein beta/theta/zeta
+D      7531 YWHAE; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon	K06630 YWHAE; 14-3-3 protein epsilon
+D      7533 YWHAH; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta	K16198 YWHAG_H; 14-3-3 protein gamma/eta
+D      7532 YWHAG; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma	K16198 YWHAG_H; 14-3-3 protein gamma/eta
+D      5347 PLK1; polo-like kinase 1 	K06631 PLK1; polo-like kinase 1 [EC:2.7.11.21]
+D      7465 WEE1; WEE1 G2 checkpoint kinase 	K06632 WEE1; wee1-like protein kinase [EC:2.7.11.1]
+D      494551 WEE2; WEE1 homolog 2 (S. pombe) 	K06632 WEE1; wee1-like protein kinase [EC:2.7.11.1]
+D      9088 PKMYT1; protein kinase, membrane associated tyrosine/threonine 1 	K06633 PKMYT; membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase [EC:2.7.11.1]
+D      902 CCNH; cyclin H	K06634 CCNH; cyclin H
+D      1022 CDK7; cyclin-dependent kinase 7 	K02202 CDK7; cyclin-dependent kinase 7 [EC:2.7.11.22 2.7.11.23]
+D      64682 ANAPC1; anaphase promoting complex subunit 1	K03348 APC1; anaphase-promoting complex subunit 1
+D      29882 ANAPC2; anaphase promoting complex subunit 2	K03349 APC2; anaphase-promoting complex subunit 2
+D      996 CDC27; cell division cycle 27	K03350 APC3; anaphase-promoting complex subunit 3
+D      29945 ANAPC4; anaphase promoting complex subunit 4	K03351 APC4; anaphase-promoting complex subunit 4
+D      51433 ANAPC5; anaphase promoting complex subunit 5	K03352 APC5; anaphase-promoting complex subunit 5
+D      8881 CDC16; cell division cycle 16	K03353 APC6; anaphase-promoting complex subunit 6
+D      51434 ANAPC7; anaphase promoting complex subunit 7	K03354 APC7; anaphase-promoting complex subunit 7
+D      8697 CDC23; cell division cycle 23	K03355 APC8; anaphase-promoting complex subunit 8
+D      10393 ANAPC10; anaphase promoting complex subunit 10	K03357 APC10; anaphase-promoting complex subunit 10
+D      51529 ANAPC11; anaphase promoting complex subunit 11	K03358 APC11; anaphase-promoting complex subunit 11
+D      246184 CDC26; cell division cycle 26	K03359 APC12; anaphase-promoting complex subunit 12
+D      25847 ANAPC13; anaphase promoting complex subunit 13	K12456 APC13; anaphase-promoting complex subunit 13
+D      991 CDC20; cell division cycle 20	K03363 CDC20; cell division cycle 20, cofactor of APC complex
+D      9232 PTTG1; pituitary tumor-transforming 1	K06635 PTTG; securin
+D      10744 PTTG2; pituitary tumor-transforming 2	K06635 PTTG; securin
+D      9700 ESPL1; extra spindle pole bodies homolog 1 (S. cerevisiae) 	K02365 ESP1; separase [EC:3.4.22.49]
+D      8243 SMC1A; structural maintenance of chromosomes 1A	K06636 SMC1; structural maintenance of chromosome 1
+D      27127 SMC1B; structural maintenance of chromosomes 1B	K06636 SMC1; structural maintenance of chromosome 1
+D      9126 SMC3; structural maintenance of chromosomes 3	K06669 SMC3; structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)
+D      10735 STAG2; stromal antigen 2	K06671 STAG1_2; cohesin complex subunit SA-1/2
+D      10274 STAG1; stromal antigen 1	K06671 STAG1_2; cohesin complex subunit SA-1/2
+D      5885 RAD21; RAD21 homolog (S. pombe)	K06670 SCC1; cohesin complex subunit SCC1
+D      7272 TTK; TTK protein kinase 	K08866 TTK; serine/threonine-protein kinase TTK/MPS1 [EC:2.7.12.1]
+D      699 BUB1; BUB1 mitotic checkpoint serine/threonine kinase 	K02178 BUB1; checkpoint serine/threonine-protein kinase [EC:2.7.11.1]
+D      9184 BUB3; BUB3 mitotic checkpoint protein	K02180 BUB3; cell cycle arrest protein BUB3
+D      701 BUB1B; BUB1 mitotic checkpoint serine/threonine kinase B 	K06637 BUB1B; mitotic checkpoint serine/threonine-protein kinase BUB1 beta [EC:2.7.11.1]
+D      8379 MAD1L1; MAD1 mitotic arrest deficient-like 1 (yeast)	K06638 MAD1L; mitotic spindle assembly checkpoint protein MAD1
+D      4085 MAD2L1; MAD2 mitotic arrest deficient-like 1 (yeast)	K02537 MAD2; mitotic spindle assembly checkpoint protein MAD2
+D      10459 MAD2L2; MAD2 mitotic arrest deficient-like 2 (yeast)	K13728 MAD2L2; mitotic spindle assembly checkpoint protein MAD2B
+D      51343 FZR1; fizzy/cell division cycle 20 related 1 (Drosophila)	K03364 CDH1; cell division cycle 20-like protein 1, cofactor of APC complex
+D      8555 CDC14B; cell division cycle 14B 	K06639 CDC14; cell division cycle 14 [EC:3.1.3.16 3.1.3.48]
+D      8556 CDC14A; cell division cycle 14A 	K06639 CDC14; cell division cycle 14 [EC:3.1.3.16 3.1.3.48]
+D      545 ATR; ataxia telangiectasia and Rad3 related 	K06640 ATR; serine/threonine-protein kinase ATR [EC:2.7.11.1]
+D      472 ATM; ataxia telangiectasia mutated 	K04728 ATM; ataxia telangiectasia mutated family protein [EC:2.7.11.1]
+D      7157 TP53; tumor protein p53	K04451 TP53; tumor protein p53
+D      1111 CHEK1; checkpoint kinase 1 	K02216 CHK1; serine/threonine-protein kinase Chk1 [EC:2.7.11.1]
+D      11200 CHEK2; checkpoint kinase 2 	K06641 CHK2; serine/threonine-protein kinase Chk2 [EC:2.7.11.1]
+D      1387 CREBBP; CREB binding protein 	K04498 EP300; E1A/CREB-binding protein [EC:2.3.1.48]
+D      2033 EP300; E1A binding protein p300 	K04498 EP300; E1A/CREB-binding protein [EC:2.3.1.48]
+D      5591 PRKDC; protein kinase, DNA-activated, catalytic polypeptide 	K06642 PRKDC; DNA-dependent protein kinase catalytic subunit [EC:2.7.11.1]
+D      4193 MDM2; MDM2 oncogene, E3 ubiquitin protein ligase	K06643 MDM2; E3 ubiquitin-protein ligase Mdm2 [EC:6.3.2.19]
+D      1647 GADD45A; growth arrest and DNA-damage-inducible, alpha	K04402 GADD45; growth arrest and DNA-damage-inducible protein
+D      4616 GADD45B; growth arrest and DNA-damage-inducible, beta	K04402 GADD45; growth arrest and DNA-damage-inducible protein
+D      10912 GADD45G; growth arrest and DNA-damage-inducible, gamma	K04402 GADD45; growth arrest and DNA-damage-inducible protein
+D      5111 PCNA; proliferating cell nuclear antigen	K04802 PCNA; proliferating cell nuclear antigen
+D      2810 SFN; stratifin	K06644 SFN; stratifin
+D      993 CDC25A; cell division cycle 25A 	K06645 CDC25A; M-phase inducer phosphatase 1 [EC:3.1.3.48]
+D      4998 ORC1; origin recognition complex, subunit 1	K02603 ORC1; origin recognition complex subunit 1
+D      4999 ORC2; origin recognition complex, subunit 2	K02604 ORC2; origin recognition complex subunit 2
+D      23595 ORC3; origin recognition complex, subunit 3	K02605 ORC3; origin recognition complex subunit 3
+D      5000 ORC4; origin recognition complex, subunit 4	K02606 ORC4; origin recognition complex subunit 4
+D      5001 ORC5; origin recognition complex, subunit 5	K02607 ORC5; origin recognition complex subunit 5
+D      23594 ORC6; origin recognition complex, subunit 6	K02608 ORC6; origin recognition complex subunit 6
+D      4171 MCM2; minichromosome maintenance complex component 2 	K02540 MCM2; DNA replication licensing factor MCM2 [EC:3.6.4.12]
+D      4172 MCM3; minichromosome maintenance complex component 3 	K02541 MCM3; DNA replication licensing factor MCM3 [EC:3.6.4.12]
+D      4173 MCM4; minichromosome maintenance complex component 4 	K02212 MCM4; DNA replication licensing factor MCM4 [EC:3.6.4.12]
+D      4174 MCM5; minichromosome maintenance complex component 5 	K02209 MCM5; DNA replication licensing factor MCM5 [EC:3.6.4.12]
+D      4175 MCM6; minichromosome maintenance complex component 6 	K02542 MCM6; DNA replication licensing factor MCM6 [EC:3.6.4.12]
+D      4176 MCM7; minichromosome maintenance complex component 7 	K02210 MCM7; DNA replication licensing factor MCM7 [EC:3.6.4.12]
+C    04111 Cell cycle - yeast
+C    04112 Cell cycle - Caulobacter
+C    04113 Meiosis - yeast
+C    04114 Oocyte meiosis [PATH:hsa04114]
+D      3630 INS; insulin	K04526 INS; insulin
+D      3479 IGF1; insulin-like growth factor 1 (somatomedin C)	K05459 IGF1; insulin-like growth factor 1
+D      3480 IGF1R; insulin-like growth factor 1 receptor 	K05087 IGF1R; insulin-like growth factor 1 receptor [EC:2.7.10.1]
+D      5241 PGR; progesterone receptor	K08556 NR3C3; progesterone receptor
+D      367 AR; androgen receptor	K08557 NR3C4; androgen receptor
+D      107 ADCY1; adenylate cyclase 1 (brain) 	K08041 ADCY1; adenylate cyclase 1 [EC:4.6.1.1]
+D      108 ADCY2; adenylate cyclase 2 (brain) 	K08042 ADCY2; adenylate cyclase 2 [EC:4.6.1.1]
+D      109 ADCY3; adenylate cyclase 3 	K08043 ADCY3; adenylate cyclase 3 [EC:4.6.1.1]
+D      196883 ADCY4; adenylate cyclase 4 	K08044 ADCY4; adenylate cyclase 4 [EC:4.6.1.1]
+D      111 ADCY5; adenylate cyclase 5 	K08045 ADCY5; adenylate cyclase 5 [EC:4.6.1.1]
+D      112 ADCY6; adenylate cyclase 6 	K08046 ADCY6; adenylate cyclase 6 [EC:4.6.1.1]
+D      113 ADCY7; adenylate cyclase 7 	K08047 ADCY7; adenylate cyclase 7 [EC:4.6.1.1]
+D      114 ADCY8; adenylate cyclase 8 (brain) 	K08048 ADCY8; adenylate cyclase 8 [EC:4.6.1.1]
+D      115 ADCY9; adenylate cyclase 9 	K08049 ADCY9; adenylate cyclase 9 [EC:4.6.1.1]
+D      5566 PRKACA; protein kinase, cAMP-dependent, catalytic, alpha 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      5567 PRKACB; protein kinase, cAMP-dependent, catalytic, beta 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      5568 PRKACG; protein kinase, cAMP-dependent, catalytic, gamma 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      5613 PRKX; protein kinase, X-linked 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      6790 AURKA; aurora kinase A 	K11481 AURKA; aurora kinase A [EC:2.7.11.1]
+D      64506 CPEB1; cytoplasmic polyadenylation element binding protein 1	K02602 ORB; oo18 RNA-binding protein
+D      4342 MOS; v-mos Moloney murine sarcoma viral oncogene homolog 	K04367 MOS; proto-oncogene serine/threonine-protein kinase mos [EC:2.7.11.1]
+D      5604 MAP2K1; mitogen-activated protein kinase kinase 1 	K04368 MAP2K1; mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]
+D      5594 MAPK1; mitogen-activated protein kinase 1 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      5595 MAPK3; mitogen-activated protein kinase 3 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      6197 RPS6KA3; ribosomal protein S6 kinase, 90kDa, polypeptide 3 	K04373 RPS6KA; p90 ribosomal S6 kinase [EC:2.7.11.1]
+D      6195 RPS6KA1; ribosomal protein S6 kinase, 90kDa, polypeptide 1 	K04373 RPS6KA; p90 ribosomal S6 kinase [EC:2.7.11.1]
+D      6196 RPS6KA2; ribosomal protein S6 kinase, 90kDa, polypeptide 2 	K04373 RPS6KA; p90 ribosomal S6 kinase [EC:2.7.11.1]
+D      27330 RPS6KA6; ribosomal protein S6 kinase, 90kDa, polypeptide 6 	K04373 RPS6KA; p90 ribosomal S6 kinase [EC:2.7.11.1]
+D      9088 PKMYT1; protein kinase, membrane associated tyrosine/threonine 1 	K06633 PKMYT; membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase [EC:2.7.11.1]
+D      7534 YWHAZ; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta	K16197 YWHAB_Q_Z; 14-3-3 protein beta/theta/zeta
+D      7529 YWHAB; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta	K16197 YWHAB_Q_Z; 14-3-3 protein beta/theta/zeta
+D      10971 YWHAQ; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, theta	K16197 YWHAB_Q_Z; 14-3-3 protein beta/theta/zeta
+D      7531 YWHAE; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon	K06630 YWHAE; 14-3-3 protein epsilon
+D      7533 YWHAH; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta	K16198 YWHAG_H; 14-3-3 protein gamma/eta
+D      7532 YWHAG; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma	K16198 YWHAG_H; 14-3-3 protein gamma/eta
+D      245711 SPDYA; speedy/RINGO cell cycle regulator family member A	K08694 SPDY; speedy
+D      387778 SPDYC; speedy/RINGO cell cycle regulator family member C	K08694 SPDY; speedy
+D      983 CDK1; cyclin-dependent kinase 1 	K02087 CDK1; cyclin-dependent kinase 1 [EC:2.7.11.22 2.7.11.23]
+D      1017 CDK2; cyclin-dependent kinase 2 	K02206 CDK2; cyclin-dependent kinase 2 [EC:2.7.11.22]
+D      5499 PPP1CA; protein phosphatase 1, catalytic subunit, alpha isozyme 	K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+D      5500 PPP1CB; protein phosphatase 1, catalytic subunit, beta isozyme 	K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+D      5501 PPP1CC; protein phosphatase 1, catalytic subunit, gamma isozyme 	K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+D      9748 SLK; STE20-like kinase 	K08836 SLK; STE20-like kinase [EC:2.7.11.1]
+D      5347 PLK1; polo-like kinase 1 	K06631 PLK1; polo-like kinase 1 [EC:2.7.11.21]
+D      995 CDC25C; cell division cycle 25C 	K05867 CDC25C; M-phase inducer phosphatase 3 [EC:3.1.3.48]
+D      9978 RBX1; ring-box 1, E3 ubiquitin protein ligase	K03868 RBX1; RING-box protein 1
+D      8454 CUL1; cullin 1	K03347 CUL1; cullin 1
+D      6500 SKP1; S-phase kinase-associated protein 1 	K03094 SKP1; S-phase kinase-associated protein 1
+D      8945 BTRC; beta-transducin repeat containing E3 ubiquitin protein ligase	K03362 FBXW1_11; F-box and WD-40 domain protein 1/11
+D      23291 FBXW11; F-box and WD repeat domain containing 11	K03362 FBXW1_11; F-box and WD-40 domain protein 1/11
+D      26271 FBXO5; F-box protein 5	K10292 FBXO5; F-box protein 5
+D      64682 ANAPC1; anaphase promoting complex subunit 1	K03348 APC1; anaphase-promoting complex subunit 1
+D      29882 ANAPC2; anaphase promoting complex subunit 2	K03349 APC2; anaphase-promoting complex subunit 2
+D      996 CDC27; cell division cycle 27	K03350 APC3; anaphase-promoting complex subunit 3
+D      29945 ANAPC4; anaphase promoting complex subunit 4	K03351 APC4; anaphase-promoting complex subunit 4
+D      51433 ANAPC5; anaphase promoting complex subunit 5	K03352 APC5; anaphase-promoting complex subunit 5
+D      8881 CDC16; cell division cycle 16	K03353 APC6; anaphase-promoting complex subunit 6
+D      51434 ANAPC7; anaphase promoting complex subunit 7	K03354 APC7; anaphase-promoting complex subunit 7
+D      8697 CDC23; cell division cycle 23	K03355 APC8; anaphase-promoting complex subunit 8
+D      10393 ANAPC10; anaphase promoting complex subunit 10	K03357 APC10; anaphase-promoting complex subunit 10
+D      51529 ANAPC11; anaphase promoting complex subunit 11	K03358 APC11; anaphase-promoting complex subunit 11
+D      246184 CDC26; cell division cycle 26	K03359 APC12; anaphase-promoting complex subunit 12
+D      25847 ANAPC13; anaphase promoting complex subunit 13	K12456 APC13; anaphase-promoting complex subunit 13
+D      991 CDC20; cell division cycle 20	K03363 CDC20; cell division cycle 20, cofactor of APC complex
+D      286151 FBXO43; F-box protein 43	K10318 FBXO43; F-box protein 43
+D      9232 PTTG1; pituitary tumor-transforming 1	K06635 PTTG; securin
+D      10744 PTTG2; pituitary tumor-transforming 2	K06635 PTTG; securin
+D      9700 ESPL1; extra spindle pole bodies homolog 1 (S. cerevisiae) 	K02365 ESP1; separase [EC:3.4.22.49]
+D      9985 REC8; REC8 meiotic recombination protein	K13054 REC8L; meiotic recombination protein REC8, animal type
+D      10734 STAG3; stromal antigen 3	K13055 STAG3; cohesin complex subunit SA-3
+D      8243 SMC1A; structural maintenance of chromosomes 1A	K06636 SMC1; structural maintenance of chromosome 1
+D      27127 SMC1B; structural maintenance of chromosomes 1B	K06636 SMC1; structural maintenance of chromosome 1
+D      9126 SMC3; structural maintenance of chromosomes 3	K06669 SMC3; structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)
+D      699 BUB1; BUB1 mitotic checkpoint serine/threonine kinase 	K02178 BUB1; checkpoint serine/threonine-protein kinase [EC:2.7.11.1]
+D      4085 MAD2L1; MAD2 mitotic arrest deficient-like 1 (yeast)	K02537 MAD2; mitotic spindle assembly checkpoint protein MAD2
+D      10459 MAD2L2; MAD2 mitotic arrest deficient-like 2 (yeast)	K13728 MAD2L2; mitotic spindle assembly checkpoint protein MAD2B
+D      898 CCNE1; cyclin E1	K06626 CCNE; cyclin E
+D      9134 CCNE2; cyclin E2	K06626 CCNE; cyclin E
+D      151648 SGOL1; shugoshin-like 1 (S. pombe)	K11580 SGOL1; shugoshin-like 1
+D      5526 PPP2R5B; protein phosphatase 2, regulatory subunit B', beta	K11584 PPP2R5; serine/threonine-protein phosphatase 2A regulatory subunit B'
+D      5527 PPP2R5C; protein phosphatase 2, regulatory subunit B', gamma	K11584 PPP2R5; serine/threonine-protein phosphatase 2A regulatory subunit B'
+D      5528 PPP2R5D; protein phosphatase 2, regulatory subunit B', delta	K11584 PPP2R5; serine/threonine-protein phosphatase 2A regulatory subunit B'
+D      5529 PPP2R5E; protein phosphatase 2, regulatory subunit B', epsilon isoform	K11584 PPP2R5; serine/threonine-protein phosphatase 2A regulatory subunit B'
+D      5525 PPP2R5A; protein phosphatase 2, regulatory subunit B', alpha	K11584 PPP2R5; serine/threonine-protein phosphatase 2A regulatory subunit B'
+D      5519 PPP2R1B; protein phosphatase 2, regulatory subunit A, beta 	K03456 PPP2R1; serine/threonine-protein phosphatase 2A regulatory subunit A
+D      5518 PPP2R1A; protein phosphatase 2, regulatory subunit A, alpha 	K03456 PPP2R1; serine/threonine-protein phosphatase 2A regulatory subunit A
+D      5515 PPP2CA; protein phosphatase 2, catalytic subunit, alpha isozyme 	K04382 PPP2C; serine/threonine-protein phosphatase 2A catalytic subunit [EC:3.1.3.16]
+D      5516 PPP2CB; protein phosphatase 2, catalytic subunit, beta isozyme 	K04382 PPP2C; serine/threonine-protein phosphatase 2A catalytic subunit [EC:3.1.3.16]
+D      89869 PLCZ1; phospholipase C, zeta 1 	K05861 PLCZ; phosphatidylinositol phospholipase C, zeta [EC:3.1.4.11]
+D      3708 ITPR1; inositol 1,4,5-trisphosphate receptor, type 1	K04958 ITPR1; inositol 1,4,5-triphosphate receptor type 1
+D      3709 ITPR2; inositol 1,4,5-trisphosphate receptor, type 2	K04959 ITPR2; inositol 1,4,5-triphosphate receptor type 2
+D      3710 ITPR3; inositol 1,4,5-trisphosphate receptor, type 3	K04960 ITPR3; inositol 1,4,5-triphosphate receptor type 3
+D      810 CALML3; calmodulin-like 3	K02183 CALM; calmodulin
+D      805 CALM2; calmodulin 2 (phosphorylase kinase, delta) 	K02183 CALM; calmodulin
+D      808 CALM3; calmodulin 3 (phosphorylase kinase, delta) 	K02183 CALM; calmodulin
+D      801 CALM1; calmodulin 1 (phosphorylase kinase, delta) 	K02183 CALM; calmodulin
+D      163688 CALML6; calmodulin-like 6	K02183 CALM; calmodulin
+D      51806 CALML5; calmodulin-like 5	K02183 CALM; calmodulin
+D      5530 PPP3CA; protein phosphatase 3, catalytic subunit, alpha isozyme 	K04348 PPP3C; serine/threonine-protein phosphatase 2B catalytic subunit [EC:3.1.3.16]
+D      5532 PPP3CB; protein phosphatase 3, catalytic subunit, beta isozyme 	K04348 PPP3C; serine/threonine-protein phosphatase 2B catalytic subunit [EC:3.1.3.16]
+D      5533 PPP3CC; protein phosphatase 3, catalytic subunit, gamma isozyme 	K04348 PPP3C; serine/threonine-protein phosphatase 2B catalytic subunit [EC:3.1.3.16]
+D      5534 PPP3R1; protein phosphatase 3, regulatory subunit B, alpha 	K06268 PPP3R; serine/threonine-protein phosphatase 2B regulatory subunit
+D      5535 PPP3R2; protein phosphatase 3, regulatory subunit B, beta 	K06268 PPP3R; serine/threonine-protein phosphatase 2B regulatory subunit
+D      815 CAMK2A; calcium/calmodulin-dependent protein kinase II alpha 	K04515 CAMK2; calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17]
+D      817 CAMK2D; calcium/calmodulin-dependent protein kinase II delta 	K04515 CAMK2; calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17]
+D      816 CAMK2B; calcium/calmodulin-dependent protein kinase II beta 	K04515 CAMK2; calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17]
+D      818 CAMK2G; calcium/calmodulin-dependent protein kinase II gamma 	K04515 CAMK2; calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17]
+D      6300 MAPK12; mitogen-activated protein kinase 12 	K04441 P38; p38 MAP kinase [EC:2.7.11.24]
+D      891 CCNB1; cyclin B1	K05868 CCNB; cyclin B
+D      9133 CCNB2; cyclin B2	K05868 CCNB; cyclin B
+
+C    04210 Apoptosis [PATH:hsa04210]
+D      356 FASLG; Fas ligand (TNF superfamily, member 6)	K04389 TNFSF6; tumor necrosis factor ligand superfamily member 6
+D      355 FAS; Fas cell surface death receptor	K04390 TNFRSF6; tumor necrosis factor receptor superfamily member 6
+D      8743 TNFSF10; tumor necrosis factor (ligand) superfamily, member 10	K04721 TNFSF10; tumor necrosis factor ligand superfamily member 10
+D      8797 TNFRSF10A; tumor necrosis factor receptor superfamily, member 10a	K04722 TNFRSF10; tumor necrosis factor receptor superfamily member 10
+D      8795 TNFRSF10B; tumor necrosis factor receptor superfamily, member 10b	K04722 TNFRSF10; tumor necrosis factor receptor superfamily member 10
+D      8794 TNFRSF10C; tumor necrosis factor receptor superfamily, member 10c, decoy without an intracellular domain	K04722 TNFRSF10; tumor necrosis factor receptor superfamily member 10
+D      8793 TNFRSF10D; tumor necrosis factor receptor superfamily, member 10d, decoy with truncated death domain	K04722 TNFRSF10; tumor necrosis factor receptor superfamily member 10
+D      7124 TNF; tumor necrosis factor	K03156 TNFA; tumor necrosis factor superfamily, member 2
+D      7132 TNFRSF1A; tumor necrosis factor receptor superfamily, member 1A	K03158 TNFRSF1A; tumor necrosis factor receptor superfamily member 1A
+D      3552 IL1A; interleukin 1, alpha	K04383 IL1A; interleukin 1 alpha
+D      3553 IL1B; interleukin 1, beta	K04519 IL1B; interleukin 1 beta
+D      3554 IL1R1; interleukin 1 receptor, type I	K04386 IL1R1; interleukin 1 receptor type I
+D      3556 IL1RAP; interleukin 1 receptor accessory protein	K04723 IL1RAP; interleukin 1 receptor accessory protein
+D      8772 FADD; Fas (TNFRSF6)-associated via death domain	K02373 FADD; FAS-associated death domain protein
+D      8717 TRADD; TNFRSF1A-associated via death domain	K03171 TRADD; tumor necrosis factor receptor type 1-associated DEATH domain protein
+D      8837 CFLAR; CASP8 and FADD-like apoptosis regulator	K04724 CFLAR; CASP8 and FADD-like apoptosis regulator
+D      843 CASP10; caspase 10, apoptosis-related cysteine peptidase 	K04400 CASP10; caspase 10 [EC:3.4.22.63]
+D      841 CASP8; caspase 8, apoptosis-related cysteine peptidase 	K04398 CASP8; caspase 8 [EC:3.4.22.61]
+D      836 CASP3; caspase 3, apoptosis-related cysteine peptidase 	K02187 CASP3; caspase 3 [EC:3.4.22.56]
+D      840 CASP7; caspase 7, apoptosis-related cysteine peptidase 	K04397 CASP7; caspase 7 [EC:3.4.22.60]
+D      839 CASP6; caspase 6, apoptosis-related cysteine peptidase 	K04396 CASP6; caspase 6 [EC:3.4.22.59]
+D      329 BIRC2; baculoviral IAP repeat containing 2	K16060 BIRC2_3; baculoviral IAP repeat-containing protein 2/3
+D      330 BIRC3; baculoviral IAP repeat containing 3	K16060 BIRC2_3; baculoviral IAP repeat-containing protein 2/3
+D      331 XIAP; X-linked inhibitor of apoptosis	K04725 XIAP; E3 ubiquitin-protein ligase XIAP
+D      79444 BIRC7; baculoviral IAP repeat containing 7	K16061 BIRC7_8; baculoviral IAP repeat-containing protein 7/8
+D      112401 BIRC8; baculoviral IAP repeat containing 8	K16061 BIRC7_8; baculoviral IAP repeat-containing protein 7/8
+D      637 BID; BH3 interacting domain death agonist	K04726 BID; BH3 interacting domain death agonist
+D      596 BCL2; B-cell CLL/lymphoma 2	K02161 BCL2; apoptosis regulator BCL-2
+D      598 BCL2L1; BCL2-like 1	K04570 BCL2L1; BCL2-like 1 (apoptosis regulator Bcl-X)
+D      54205 CYCS; cytochrome c, somatic	K08738 CYC; cytochrome c
+D      317 APAF1; apoptotic peptidase activating factor 1	K02084 APAF1; apoptotic protease-activating factor
+D      842 CASP9; caspase 9, apoptosis-related cysteine peptidase 	K04399 CASP9; caspase 9 [EC:3.4.22.62]
+D      1676 DFFA; DNA fragmentation factor, 45kDa, alpha polypeptide	K02310 DFFA; DNA fragmentation factor, 45 kD, alpha subunit
+D      1677 DFFB; DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	K02311 DFFB; DNA fragmentation factor, 40 kD, beta subunit [EC:3.-.-.-]
+D      9131 AIFM1; apoptosis-inducing factor, mitochondrion-associated, 1	K04727 PDCD8; programmed cell death 8 (apoptosis-inducing factor) [EC:1.-.-.-]
+D      2021 ENDOG; endonuclease G	K01173 ENDOG; endonuclease G, mitochondrial
+D      472 ATM; ataxia telangiectasia mutated 	K04728 ATM; ataxia telangiectasia mutated family protein [EC:2.7.11.1]
+D      7157 TP53; tumor protein p53	K04451 TP53; tumor protein p53
+D      8737 RIPK1; receptor (TNFRSF)-interacting serine-threonine kinase 1 	K02861 RIPK1; receptor-interacting serine/threonine-protein kinase 1 [EC:2.7.11.1]
+D      7186 TRAF2; TNF receptor-associated factor 2	K03173 TRAF2; TNF receptor-associated factor 2
+D      4615 MYD88; myeloid differentiation primary response 88	K04729 MYD88; myeloid differentiation primary response protein MyD88
+D      3654 IRAK1; interleukin-1 receptor-associated kinase 1 	K04730 IRAK1; interleukin-1 receptor-associated kinase 1 [EC:2.7.11.1]
+D      3656 IRAK2; interleukin-1 receptor-associated kinase 2	K04731 IRAK2; interleukin-1 receptor-associated kinase 2 [EC:2.7.11.1]
+D      11213 IRAK3; interleukin-1 receptor-associated kinase 3 	K04732 IRAK3; interleukin-1 receptor-associated kinase 3 [EC:2.7.11.1]
+D      51135 IRAK4; interleukin-1 receptor-associated kinase 4 	K04733 IRAK4; interleukin-1 receptor-associated kinase 4 [EC:2.7.11.1]
+D      9020 MAP3K14; mitogen-activated protein kinase kinase kinase 14 	K04466 MAP3K14; mitogen-activated protein kinase kinase kinase 14 [EC:2.7.11.25]
+D      1147 CHUK; conserved helix-loop-helix ubiquitous kinase 	K04467 IKBKA; inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]
+D      3551 IKBKB; inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta 	K07209 IKBKB; inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10]
+D      8517 IKBKG; inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	K07210 IKBKG; inhibitor of nuclear factor kappa-B kinase subunit gamma
+D      4792 NFKBIA; nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	K04734 NFKBIA; NF-kappa-B inhibitor alpha
+D      4790 NFKB1; nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	K02580 NFKB1; nuclear factor NF-kappa-B p105 subunit
+D      5970 RELA; v-rel avian reticuloendotheliosis viral oncogene homolog A	K04735 RELA; transcription factor p65
+D      4803 NGF; nerve growth factor (beta polypeptide)	K02582 NGFB; nerve growth factor, beta
+D      4914 NTRK1; neurotrophic tyrosine kinase, receptor, type 1 	K03176 NTRK1; neurotrophic tyrosine kinase receptor type 1 [EC:2.7.10.1]
+D      3562 IL3; interleukin 3 (colony-stimulating factor, multiple)	K04736 IL3; interleukin 3
+D      3563 IL3RA; interleukin 3 receptor, alpha (low affinity)	K04737 IL3RA; interleukin 3 receptor alpha
+D      1439 CSF2RB; colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)	K04738 CSF2RB; cytokine receptor common subunit beta
+D      5290 PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5293 PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit delta 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5291 PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit beta 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5294 PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit gamma 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5295 PIK3R1; phosphoinositide-3-kinase, regulatory subunit 1 (alpha)	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      23533 PIK3R5; phosphoinositide-3-kinase, regulatory subunit 5	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      5296 PIK3R2; phosphoinositide-3-kinase, regulatory subunit 2 (beta)	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      8503 PIK3R3; phosphoinositide-3-kinase, regulatory subunit 3 (gamma)	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      207 AKT1; v-akt murine thymoma viral oncogene homolog 1 	K04456 AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]
+D      208 AKT2; v-akt murine thymoma viral oncogene homolog 2 	K04456 AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]
+D      10000 AKT3; v-akt murine thymoma viral oncogene homolog 3 	K04456 AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]
+D      5573 PRKAR1A; protein kinase, cAMP-dependent, regulatory, type I, alpha 	K04739 PRKAR; cAMP-dependent protein kinase regulator
+D      5576 PRKAR2A; protein kinase, cAMP-dependent, regulatory, type II, alpha 	K04739 PRKAR; cAMP-dependent protein kinase regulator
+D      5577 PRKAR2B; protein kinase, cAMP-dependent, regulatory, type II, beta 	K04739 PRKAR; cAMP-dependent protein kinase regulator
+D      5575 PRKAR1B; protein kinase, cAMP-dependent, regulatory, type I, beta 	K04739 PRKAR; cAMP-dependent protein kinase regulator
+D      5566 PRKACA; protein kinase, cAMP-dependent, catalytic, alpha 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      5567 PRKACB; protein kinase, cAMP-dependent, catalytic, beta 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      5568 PRKACG; protein kinase, cAMP-dependent, catalytic, gamma 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      5613 PRKX; protein kinase, X-linked 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      572 BAD; BCL2-associated agonist of cell death	K02158 BAD; BCL2-antagonist of cell death
+D      581 BAX; BCL2-associated X protein	K02159 BAX; apoptosis regulator BAX
+D      5530 PPP3CA; protein phosphatase 3, catalytic subunit, alpha isozyme 	K04348 PPP3C; serine/threonine-protein phosphatase 2B catalytic subunit [EC:3.1.3.16]
+D      5532 PPP3CB; protein phosphatase 3, catalytic subunit, beta isozyme 	K04348 PPP3C; serine/threonine-protein phosphatase 2B catalytic subunit [EC:3.1.3.16]
+D      5533 PPP3CC; protein phosphatase 3, catalytic subunit, gamma isozyme 	K04348 PPP3C; serine/threonine-protein phosphatase 2B catalytic subunit [EC:3.1.3.16]
+D      5534 PPP3R1; protein phosphatase 3, regulatory subunit B, alpha 	K06268 PPP3R; serine/threonine-protein phosphatase 2B regulatory subunit
+D      5535 PPP3R2; protein phosphatase 3, regulatory subunit B, beta 	K06268 PPP3R; serine/threonine-protein phosphatase 2B regulatory subunit
+D      823 CAPN1; calpain 1, (mu/I) large subunit 	K01367 CAPN1; calpain-1 [EC:3.4.22.52]
+D      824 CAPN2; calpain 2, (m/II) large subunit 	K03853 CAPN2; calpain-2 [EC:3.4.22.53]
+D      100506742 CASP12; caspase 12 (gene/pseudogene)	K04741 CASP12; caspase 12 [EC:3.4.22.-]
+C    04115 p53 signaling pathway [PATH:hsa04115]
+D      472 ATM; ataxia telangiectasia mutated 	K04728 ATM; ataxia telangiectasia mutated family protein [EC:2.7.11.1]
+D      11200 CHEK2; checkpoint kinase 2 	K06641 CHK2; serine/threonine-protein kinase Chk2 [EC:2.7.11.1]
+D      545 ATR; ataxia telangiectasia and Rad3 related 	K06640 ATR; serine/threonine-protein kinase ATR [EC:2.7.11.1]
+D      1111 CHEK1; checkpoint kinase 1 	K02216 CHK1; serine/threonine-protein kinase Chk1 [EC:2.7.11.1]
+D      1029 CDKN2A; cyclin-dependent kinase inhibitor 2A	K06621 CDKN2A; cyclin-dependent kinase inhibitor 2A
+D      4193 MDM2; MDM2 oncogene, E3 ubiquitin protein ligase	K06643 MDM2; E3 ubiquitin-protein ligase Mdm2 [EC:6.3.2.19]
+D      4194 MDM4; MDM4, p53 regulator	K10127 MDM4; protein Mdm4
+D      7157 TP53; tumor protein p53	K04451 TP53; tumor protein p53
+D      1026 CDKN1A; cyclin-dependent kinase inhibitor 1A (p21, Cip1)	K06625 CDKN1A; cyclin-dependent kinase inhibitor 1A
+D      595 CCND1; cyclin D1	K04503 CCND1; cyclin D1
+D      894 CCND2; cyclin D2	K10151 CCND2; cyclin D2
+D      896 CCND3; cyclin D3	K10152 CCND3; cyclin D3
+D      1019 CDK4; cyclin-dependent kinase 4 	K02089 CDK4; cyclin-dependent kinase 4 [EC:2.7.11.22]
+D      1021 CDK6; cyclin-dependent kinase 6 	K02091 CDK6; cyclin-dependent kinase 6 [EC:2.7.11.22]
+D      898 CCNE1; cyclin E1	K06626 CCNE; cyclin E
+D      9134 CCNE2; cyclin E2	K06626 CCNE; cyclin E
+D      1017 CDK2; cyclin-dependent kinase 2 	K02206 CDK2; cyclin-dependent kinase 2 [EC:2.7.11.22]
+D      2810 SFN; stratifin	K06644 SFN; stratifin
+D      56475 RPRM; reprimo, TP53 dependent G2 arrest mediator candidate	K10128 RPRM; reprimo, TP53-dependent G2 arrest mediator candidate
+D      891 CCNB1; cyclin B1	K05868 CCNB; cyclin B
+D      9133 CCNB2; cyclin B2	K05868 CCNB; cyclin B
+D      85417 CCNB3; cyclin B3	K05868 CCNB; cyclin B
+D      983 CDK1; cyclin-dependent kinase 1 	K02087 CDK1; cyclin-dependent kinase 1 [EC:2.7.11.22 2.7.11.23]
+D      1647 GADD45A; growth arrest and DNA-damage-inducible, alpha	K04402 GADD45; growth arrest and DNA-damage-inducible protein
+D      4616 GADD45B; growth arrest and DNA-damage-inducible, beta	K04402 GADD45; growth arrest and DNA-damage-inducible protein
+D      10912 GADD45G; growth arrest and DNA-damage-inducible, gamma	K04402 GADD45; growth arrest and DNA-damage-inducible protein
+D      51512 GTSE1; G-2 and S-phase expressed 1	K10129 GTSE1; G-2 and S-phase expressed protein 1
+D      355 FAS; Fas cell surface death receptor	K04390 TNFRSF6; tumor necrosis factor receptor superfamily member 6
+D      55367 PIDD; p53-induced death domain protein	K10130 LRDD; leucine-rich repeats and death domain-containing protein
+D      841 CASP8; caspase 8, apoptosis-related cysteine peptidase 	K04398 CASP8; caspase 8 [EC:3.4.22.61]
+D      637 BID; BH3 interacting domain death agonist	K04726 BID; BH3 interacting domain death agonist
+D      581 BAX; BCL2-associated X protein	K02159 BAX; apoptosis regulator BAX
+D      5366 PMAIP1; phorbol-12-myristate-13-acetate-induced protein 1	K10131 PMAIP1; phorbol-12-myristate-13-acetate-induced protein 1
+D      27113 BBC3; BCL2 binding component 3	K10132 BBC3; BCL2-binding component 3
+D      63970 TP53AIP1; tumor protein p53 regulated apoptosis inducing protein 1	K13773 TP53AIP1; p53-regulated apoptosis-inducing protein 1
+D      9540 TP53I3; tumor protein p53 inducible protein 3	K10133 TP53I3; tumor protein p53-inducible protein 3 [EC:1.-.-.-]
+D      9538 EI24; etoposide induced 2.4	K10134 EI24; etoposide-induced 2.4 mRNA
+D      51246 SHISA5; shisa family member 5	K10135 SCOTIN; scotin
+D      64065 PERP; PERP, TP53 apoptosis effector	K10136 PERP; TP53 apoptosis effector
+D      64393 ZMAT3; zinc finger, matrin-type 3	K10137 ZMAT3; zinc finger, matrin type 3
+D      6477 SIAH1; siah E3 ubiquitin protein ligase 1 	K04506 SIAH1; E3 ubiquitin-protein ligase SIAH1 [EC:6.3.2.19]
+D      54205 CYCS; cytochrome c, somatic	K08738 CYC; cytochrome c
+D      317 APAF1; apoptotic peptidase activating factor 1	K02084 APAF1; apoptotic protease-activating factor
+D      842 CASP9; caspase 9, apoptosis-related cysteine peptidase 	K04399 CASP9; caspase 9 [EC:3.4.22.62]
+D      836 CASP3; caspase 3, apoptosis-related cysteine peptidase 	K02187 CASP3; caspase 3 [EC:3.4.22.56]
+D      3486 IGFBP3; insulin-like growth factor binding protein 3	K10138 IGFBP3; insulin-like growth factor-binding protein 3
+D      3479 IGF1; insulin-like growth factor 1 (somatomedin C)	K05459 IGF1; insulin-like growth factor 1
+D      5054 SERPINE1; serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	K03982 SERPINE1; plasminogen activator inhibitor-1
+D      575 BAI1; brain-specific angiogenesis inhibitor 1	K04596 BAI1; brain-specific angiogenesis inhibitor 1
+D      3732 CD82; CD82 molecule	K06509 KAI1; CD82 antigen
+D      7057 THBS1; thrombospondin 1	K16857 THBS1; thrombospondin 1
+D      5268 SERPINB5; serpin peptidase inhibitor, clade B (ovalbumin), member 5	K10139 SERPINB5; serpin B5
+D      1643 DDB2; damage-specific DNA binding protein 2, 48kDa	K10140 DDB2; DNA damage-binding protein 2
+D      50484 RRM2B; ribonucleotide reductase M2 B (TP53 inducible) 	K10808 RRM2; ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]
+D      6241 RRM2; ribonucleotide reductase M2 	K10808 RRM2; ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]
+D      27244 SESN1; sestrin 1	K10141 SESN; sestrin
+D      83667 SESN2; sestrin 2	K10141 SESN; sestrin
+D      143686 SESN3; sestrin 3	K10141 SESN; sestrin
+D      5728 PTEN; phosphatase and tensin homolog 	K01110 PTEN; phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+D      7249 TSC2; tuberous sclerosis 2	K07207 TSC2; tuberous sclerosis 2
+D      55240 STEAP3; STEAP family member 3, metalloreductase	K10142 STEAP3; metalloreductase STEAP3 [EC:1.16.1.-]
+D      64326 RFWD2; ring finger and WD repeat domain 2, E3 ubiquitin protein ligase	K10143 RFWD2; E3 ubiquitin-protein ligase RFWD2 [EC:6.3.2.19]
+D      25898 RCHY1; ring finger and CHY zinc finger domain containing 1, E3 ubiquitin protein ligase	K10144 RCHY1; RING finger and CHY zinc finger domain-containing protein 1 [EC:6.3.2.19]
+D      900 CCNG1; cyclin G1	K10145 CCNG1; cyclin G1
+D      901 CCNG2; cyclin G2	K10146 CCNG2; cyclin G2
+D      8493 PPM1D; protein phosphatase, Mg2+/Mn2+ dependent, 1D 	K10147 PPM1D; protein phosphatase 1D [EC:3.1.3.16]
+D      7161 TP73; tumor protein p73	K10148 TP73; tumor protein p73
+D      8795 TNFRSF10B; tumor necrosis factor receptor superfamily, member 10b	K04722 TNFRSF10; tumor necrosis factor receptor superfamily member 10
+
+B
+B  <b>Cell communication</b>
+C    04510 Focal adhesion [PATH:hsa04510]
+D      1277 COL1A1; collagen, type I, alpha 1	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      1278 COL1A2; collagen, type I, alpha 2	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      1280 COL2A1; collagen, type II, alpha 1	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      1281 COL3A1; collagen, type III, alpha 1	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      1289 COL5A1; collagen, type V, alpha 1	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      1290 COL5A2; collagen, type V, alpha 2	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      1301 COL11A1; collagen, type XI, alpha 1	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      1302 COL11A2; collagen, type XI, alpha 2	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      50509 COL5A3; collagen, type V, alpha 3	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      255631 COL24A1; collagen, type XXIV, alpha 1	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      85301 COL27A1; collagen, type XXVII, alpha 1	K06236 COL1AS; collagen, type I/II/III/V/XI/XXIV/XXVII, alpha
+D      1284 COL4A2; collagen, type IV, alpha 2	K06237 COL4A; collagen, type IV, alpha
+D      1286 COL4A4; collagen, type IV, alpha 4	K06237 COL4A; collagen, type IV, alpha
+D      1288 COL4A6; collagen, type IV, alpha 6	K06237 COL4A; collagen, type IV, alpha
+D      1282 COL4A1; collagen, type IV, alpha 1	K06237 COL4A; collagen, type IV, alpha
+D      1287 COL4A5; collagen, type IV, alpha 5	K06237 COL4A; collagen, type IV, alpha
+D      1285 COL4A3; collagen, type IV, alpha 3 (Goodpasture antigen)	K06237 COL4A; collagen, type IV, alpha
+D      1291 COL6A1; collagen, type VI, alpha 1	K06238 COL6A; collagen, type VI, alpha
+D      1292 COL6A2; collagen, type VI, alpha 2	K06238 COL6A; collagen, type VI, alpha
+D      1293 COL6A3; collagen, type VI, alpha 3	K06238 COL6A; collagen, type VI, alpha
+D      131873 COL6A6; collagen, type VI, alpha 6	K06238 COL6A; collagen, type VI, alpha
+D      256076 COL6A5; collagen, type VI, alpha 5	K06238 COL6A; collagen, type VI, alpha
+D      284217 LAMA1; laminin, alpha 1	K05637 LAMA1_2; laminin, alpha 1/2
+D      3908 LAMA2; laminin, alpha 2	K05637 LAMA1_2; laminin, alpha 1/2
+D      3909 LAMA3; laminin, alpha 3	K06240 LAMA3_5; laminin, alpha 3/5
+D      3911 LAMA5; laminin, alpha 5	K06240 LAMA3_5; laminin, alpha 3/5
+D      3910 LAMA4; laminin, alpha 4	K06241 LAMA4; laminin, alpha 4
+D      3912 LAMB1; laminin, beta 1	K05636 LAMB1; laminin, beta 1
+D      3913 LAMB2; laminin, beta 2 (laminin S)	K06243 LAMB2; laminin, beta 2
+D      3914 LAMB3; laminin, beta 3	K06244 LAMB3; laminin, beta 3
+D      22798 LAMB4; laminin, beta 4	K06245 LAMB4; laminin, beta 4
+D      3915 LAMC1; laminin, gamma 1 (formerly LAMB2)	K05635 LAMC1; laminin, gamma 1
+D      3918 LAMC2; laminin, gamma 2	K06246 LAMC2; laminin, gamma 2
+D      10319 LAMC3; laminin, gamma 3	K06247 LAMC3; laminin, gamma 3
+D      1101 CHAD; chondroadherin	K06248 CHAD; chondroadherin
+D      5649 RELN; reelin	K06249 RELN; reelin [EC:3.4.21.-]
+D      7057 THBS1; thrombospondin 1	K16857 THBS1; thrombospondin 1
+D      1311 COMP; cartilage oligomeric matrix protein	K04659 THBS2S; thrombospondin 2/3/4/5
+D      7058 THBS2; thrombospondin 2	K04659 THBS2S; thrombospondin 2/3/4/5
+D      7059 THBS3; thrombospondin 3	K04659 THBS2S; thrombospondin 2/3/4/5
+D      7060 THBS4; thrombospondin 4	K04659 THBS2S; thrombospondin 2/3/4/5
+D      2335 FN1; fibronectin 1	K05717 FN1; fibronectin 1
+D      6696 SPP1; secreted phosphoprotein 1	K06250 SPP1; secreted phosphoprotein 1
+D      7448 VTN; vitronectin	K06251 VTN; vitronectin
+D      3371 TNC; tenascin C	K06252 TN; tenascin
+D      63923 TNN; tenascin N	K06252 TN; tenascin
+D      7143 TNR; tenascin R	K06252 TN; tenascin
+D      7148 TNXB; tenascin XB	K06252 TN; tenascin
+D      7450 VWF; von Willebrand factor	K03900 VWF; von Willebrand factor
+D      3381 IBSP; integrin-binding sialoprotein	K06253 IBSP; integrin binding sialoprotein
+D      3672 ITGA1; integrin, alpha 1	K06480 ITGA1; integrin alpha 1
+D      3673 ITGA2; integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)	K06481 ITGA2; integrin alpha 2
+D      3674 ITGA2B; integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	K06476 ITGA2B; integrin alpha 2B
+D      3675 ITGA3; integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor)	K06482 ITGA3; integrin alpha 3
+D      3676 ITGA4; integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	K06483 ITGA4; integrin alpha 4
+D      3678 ITGA5; integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	K06484 ITGA5; integrin alpha 5
+D      3655 ITGA6; integrin, alpha 6	K06485 ITGA6; integrin alpha 6
+D      3679 ITGA7; integrin, alpha 7	K06583 ITGA7; integrin alpha 7
+D      8516 ITGA8; integrin, alpha 8	K06584 ITGA8; integrin alpha 8
+D      3680 ITGA9; integrin, alpha 9	K06585 ITGA9; integrin alpha 9
+D      8515 ITGA10; integrin, alpha 10	K06586 ITGA10; integrin alpha 10
+D      22801 ITGA11; integrin, alpha 11	K06587 ITGA11; integrin alpha 11
+D      3685 ITGAV; integrin, alpha V	K06487 ITGAV; integrin alpha V
+D      3688 ITGB1; integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	K05719 ITGB1; integrin beta 1
+D      3690 ITGB3; integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	K06493 ITGB3; integrin beta 3
+D      3691 ITGB4; integrin, beta 4	K06525 ITGB4; integrin beta 4
+D      3693 ITGB5; integrin, beta 5	K06588 ITGB5; integrin beta 5
+D      3694 ITGB6; integrin, beta 6	K06589 ITGB6; integrin beta 6
+D      3695 ITGB7; integrin, beta 7	K06590 ITGB7; integrin beta 7
+D      3696 ITGB8; integrin, beta 8	K06591 ITGB8; integrin beta 8
+D      5154 PDGFA; platelet-derived growth factor alpha polypeptide	K04359 PDGFA; platelet-derived growth factor subunit A
+D      5155 PDGFB; platelet-derived growth factor beta polypeptide	K17386 PDGFB; platelet-derived growth factor subunit B
+D      56034 PDGFC; platelet derived growth factor C	K05450 PDGFC_D; platelet derived growth factor C/D
+D      80310 PDGFD; platelet derived growth factor D	K05450 PDGFC_D; platelet derived growth factor C/D
+D      1950 EGF; epidermal growth factor	K04357 EGF; epidermal growth factor
+D      3479 IGF1; insulin-like growth factor 1 (somatomedin C)	K05459 IGF1; insulin-like growth factor 1
+D      7422 VEGFA; vascular endothelial growth factor A	K05448 VEGFA; vascular endothelial growth factor A
+D      7423 VEGFB; vascular endothelial growth factor B	K16858 VEGFB; vascular endothelial growth factor B
+D      5228 PGF; placental growth factor	K16859 PGF; placenta growth factor
+D      7424 VEGFC; vascular endothelial growth factor C	K05449 VEGFC_D; vascular endothelial growth factor C/D
+D      2277 FIGF; c-fos induced growth factor (vascular endothelial growth factor D)	K05449 VEGFC_D; vascular endothelial growth factor C/D
+D      3082 HGF; hepatocyte growth factor (hepapoietin A; scatter factor)	K05460 HGF; hepatocyte growth factor
+D      5156 PDGFRA; platelet-derived growth factor receptor, alpha polypeptide 	K04363 PDGFRA; platelet-derived growth factor receptor alpha [EC:2.7.10.1]
+D      5159 PDGFRB; platelet-derived growth factor receptor, beta polypeptide 	K05089 PDGFRB; platelet-derived growth factor receptor beta [EC:2.7.10.1]
+D      3480 IGF1R; insulin-like growth factor 1 receptor 	K05087 IGF1R; insulin-like growth factor 1 receptor [EC:2.7.10.1]
+D      3791 KDR; kinase insert domain receptor (a type III receptor tyrosine kinase) 	K05098 KDR; kinase insert domain protein receptor [EC:2.7.10.1]
+D      1956 EGFR; epidermal growth factor receptor 	K04361 EGFR; epidermal growth factor receptor [EC:2.7.10.1]
+D      2321 FLT1; fms-related tyrosine kinase 1 	K05096 FLT1; FMS-like tyrosine kinase 1 [EC:2.7.10.1]
+D      2324 FLT4; fms-related tyrosine kinase 4 	K05097 FLT4; FMS-like tyrosine kinase 4 [EC:2.7.10.1]
+D      4233 MET; met proto-oncogene 	K05099 MET; proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]
+D      2064 ERBB2; v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2 	K05083 ERBB2; receptor tyrosine-protein kinase erbB-2 [EC:2.7.10.1]
+D      6714 SRC; v-src avian sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog 	K05704 SRC; tyrosine-protein kinase Src [EC:2.7.10.2]
+D      2909 ARHGAP35; Rho GTPase activating protein 35	K05732 GRLF1; glucocorticoid receptor DNA-binding factor 1
+D      394 ARHGAP5; Rho GTPase activating protein 5	K13709 ARHGAP5; Rho GTPase-activating protein 5
+D      387 RHOA; ras homolog family member A	K04513 RHOA; Ras homolog gene family, member A
+D      1729 DIAPH1; diaphanous-related formin 1	K05740 DIAPH1; diaphanous 1
+D      6093 ROCK1; Rho-associated, coiled-coil containing protein kinase 1 	K04514 ROCK1; Rho-associated protein kinase 1 [EC:2.7.11.1]
+D      9475 ROCK2; Rho-associated, coiled-coil containing protein kinase 2 	K17388 ROCK2; Rho-associated protein kinase 2 [EC:2.7.11.1]
+D      4633 MYL2; myosin, light chain 2, regulatory, cardiac, slow	K10351 MYL2; myosin regulatory light chain 2
+D      4636 MYL5; myosin, light chain 5, regulatory	K12753 MYL5; myosin regulatory light chain 5
+D      58498 MYL7; myosin, light chain 7, regulatory	K12754 MYL7; myosin regulatory light chain 7
+D      10398 MYL9; myosin, light chain 9, regulatory	K12755 MYL9; myosin regulatory light chain 9
+D      93408 MYL10; myosin, light chain 10, regulatory	K12756 MYL10; myosin regulatory light chain 10
+D      103910 MYL12B; myosin, light chain 12B, regulatory	K12757 MYL12; myosin regulatory light chain 12
+D      10627 MYL12A; myosin, light chain 12A, regulatory, non-sarcomeric	K12757 MYL12; myosin regulatory light chain 12
+D      29895 MYLPF; myosin light chain, phosphorylatable, fast skeletal muscle	K12758 MYLPF; fast skeletal myosin light chain 2
+D      5499 PPP1CA; protein phosphatase 1, catalytic subunit, alpha isozyme 	K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+D      5500 PPP1CB; protein phosphatase 1, catalytic subunit, beta isozyme 	K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+D      5501 PPP1CC; protein phosphatase 1, catalytic subunit, gamma isozyme 	K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+D      4659 PPP1R12A; protein phosphatase 1, regulatory subunit 12A	K06270 PPP1R12A; protein phosphatase 1 regulatory subunit 12A
+D      4660 PPP1R12B; protein phosphatase 1, regulatory subunit 12B 	K12329 PPP1R12B; protein phosphatase 1 regulatory subunit 12B
+D      54776 PPP1R12C; protein phosphatase 1, regulatory subunit 12C	K17457 PPP1R12C; protein phosphatase 1 regulatory subunit 12C
+D      4638 MYLK; myosin light chain kinase 	K00907 MYLK; myosin-light-chain kinase [EC:2.7.11.18]
+D      85366 MYLK2; myosin light chain kinase 2 	K00907 MYLK; myosin-light-chain kinase [EC:2.7.11.18]
+D      91807 MYLK3; myosin light chain kinase 3 	K00907 MYLK; myosin-light-chain kinase [EC:2.7.11.18]
+D      340156 MYLK4; myosin light chain kinase family, member 4 	K00907 MYLK; myosin-light-chain kinase [EC:2.7.11.18]
+D      60 ACTB; actin, beta	K05692 ACTB_G1; actin beta/gamma 1
+D      71 ACTG1; actin, gamma 1	K05692 ACTB_G1; actin beta/gamma 1
+D      5923 RASGRF1; Ras protein-specific guanine nucleotide-releasing factor 1	K04349 RASGRF1; Ras-specific guanine nucleotide-releasing factor 1
+D      824 CAPN2; calpain 2, (m/II) large subunit 	K03853 CAPN2; calpain-2 [EC:3.4.22.53]
+D      87 ACTN1; actinin, alpha 1	K05699 ACTN; actinin alpha
+D      88 ACTN2; actinin, alpha 2	K05699 ACTN; actinin alpha
+D      89 ACTN3; actinin, alpha 3	K05699 ACTN; actinin alpha
+D      81 ACTN4; actinin, alpha 4	K05699 ACTN; actinin alpha
+D      7094 TLN1; talin 1	K06271 TLN; talin
+D      83660 TLN2; talin 2	K06271 TLN; talin
+D      2316 FLNA; filamin A, alpha	K04437 FLNA; filamin
+D      2318 FLNC; filamin C, gamma	K04437 FLNA; filamin
+D      2317 FLNB; filamin B, beta	K04437 FLNA; filamin
+D      5829 PXN; paxillin	K05760 PXN; paxillin
+D      3611 ILK; integrin-linked kinase 	K06272 ILK; integrin-linked kinase [EC:2.7.11.1]
+D      7791 ZYX; zyxin	K06273 ZYX; zyxin
+D      7408 VASP; vasodilator-stimulated phosphoprotein	K06274 VASP; vasodilator-stimulated phosphoprotein
+D      7414 VCL; vinculin	K05700 VCL; vinculin
+D      29780 PARVB; parvin, beta	K06275 PARV; parvin
+D      55742 PARVA; parvin, alpha	K06275 PARV; parvin
+D      64098 PARVG; parvin, gamma	K06275 PARV; parvin
+D      5170 PDPK1; 3-phosphoinositide dependent protein kinase 1 	K06276 PDPK1; 3-phosphoinositide dependent protein kinase-1 [EC:2.7.11.1]
+D      207 AKT1; v-akt murine thymoma viral oncogene homolog 1 	K04456 AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]
+D      208 AKT2; v-akt murine thymoma viral oncogene homolog 2 	K04456 AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]
+D      10000 AKT3; v-akt murine thymoma viral oncogene homolog 3 	K04456 AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]
+D      2932 GSK3B; glycogen synthase kinase 3 beta 	K03083 GSK3B; glycogen synthase kinase 3 beta [EC:2.7.11.26]
+D      1499 CTNNB1; catenin (cadherin-associated protein), beta 1, 88kDa	K02105 CTNNB1; catenin beta 1
+D      5578 PRKCA; protein kinase C, alpha 	K02677 CPKC; classical protein kinase C [EC:2.7.11.13]
+D      5579 PRKCB; protein kinase C, beta 	K02677 CPKC; classical protein kinase C [EC:2.7.11.13]
+D      5582 PRKCG; protein kinase C, gamma 	K02677 CPKC; classical protein kinase C [EC:2.7.11.13]
+D      5747 PTK2; protein tyrosine kinase 2 	K05725 PTK2; focal adhesion kinase 1 [EC:2.7.10.2]
+D      5290 PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5293 PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit delta 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5291 PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit beta 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5294 PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit gamma 	K00922 PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]
+D      5295 PIK3R1; phosphoinositide-3-kinase, regulatory subunit 1 (alpha)	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      23533 PIK3R5; phosphoinositide-3-kinase, regulatory subunit 5	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      5296 PIK3R2; phosphoinositide-3-kinase, regulatory subunit 2 (beta)	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      8503 PIK3R3; phosphoinositide-3-kinase, regulatory subunit 3 (gamma)	K02649 PIK3R; phosphoinositide-3-kinase, regulatory subunit
+D      5728 PTEN; phosphatase and tensin homolog 	K01110 PTEN; phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+D      10451 VAV3; vav 3 guanine nucleotide exchange factor	K05730 VAV; guanine nucleotide exchange factor VAV
+D      7409 VAV1; vav 1 guanine nucleotide exchange factor	K05730 VAV; guanine nucleotide exchange factor VAV
+D      7410 VAV2; vav 2 guanine nucleotide exchange factor	K05730 VAV; guanine nucleotide exchange factor VAV
+D      5879 RAC1; ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	K04392 RAC1; Ras-related C3 botulinum toxin substrate 1
+D      5880 RAC2; ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	K07860 RAC2; Ras-related C3 botulinum toxin substrate 2
+D      5881 RAC3; ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)	K07861 RAC3; Ras-related C3 botulinum toxin substrate 3
+D      5058 PAK1; p21 protein (Cdc42/Rac)-activated kinase 1 	K04409 PAK1; p21-activated kinase 1 [EC:2.7.11.1]
+D      5062 PAK2; p21 protein (Cdc42/Rac)-activated kinase 2 	K04410 PAK2; p21-activated kinase 2 [EC:2.7.11.1]
+D      5063 PAK3; p21 protein (Cdc42/Rac)-activated kinase 3 	K05733 PAK3; p21-activated kinase 3 [EC:2.7.11.1]
+D      10298 PAK4; p21 protein (Cdc42/Rac)-activated kinase 4 	K05734 PAK4; p21-activated kinase 4 [EC:2.7.11.1]
+D      56924 PAK6; p21 protein (Cdc42/Rac)-activated kinase 6 	K05735 PAK6; p21-activated kinase 6 [EC:2.7.11.1]
+D      57144 PAK7; p21 protein (Cdc42/Rac)-activated kinase 7 	K05736 PAK7; p21-activated kinase 7 [EC:2.7.11.1]
+D      998 CDC42; cell division cycle 42	K04393 CDC42; cell division control protein 42
+D      9564 BCAR1; breast cancer anti-estrogen resistance 1	K05726 BCAR1; breast cancer anti-estrogen resistance 1
+D      1398 CRK; v-crk avian sarcoma virus CT10 oncogene homolog	K04438 CRK; proto-oncogene C-crk
+D      1399 CRKL; v-crk avian sarcoma virus CT10 oncogene homolog-like	K04438 CRK; proto-oncogene C-crk
+D      1793 DOCK1; dedicator of cytokinesis 1	K13708 DOCK1; dedicator of cytokinesis protein 1
+D      2889 RAPGEF1; Rap guanine nucleotide exchange factor (GEF) 1	K06277 RAPGEF1; Rap guanine nucleotide exchange factor 1
+D      5906 RAP1A; RAP1A, member of RAS oncogene family	K04353 RAP1A; Ras-related protein Rap-1A
+D      5908 RAP1B; RAP1B, member of RAS oncogene family	K07836 RAP1B; Ras-related protein Rap-1B
+D      5599 MAPK8; mitogen-activated protein kinase 8 	K04440 JNK; c-Jun N-terminal kinase [EC:2.7.11.24]
+D      5602 MAPK10; mitogen-activated protein kinase 10 	K04440 JNK; c-Jun N-terminal kinase [EC:2.7.11.24]
+D      5601 MAPK9; mitogen-activated protein kinase 9 	K04440 JNK; c-Jun N-terminal kinase [EC:2.7.11.24]
+D      3725 JUN; jun proto-oncogene	K04448 JUN; transcription factor AP-1
+D      673 BRAF; v-raf murine sarcoma viral oncogene homolog B 	K04365 BRAF; B-Raf proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]
+D      857 CAV1; caveolin 1, caveolae protein, 22kDa	K06278 CAV1; caveolin 1
+D      858 CAV2; caveolin 2	K12958 CAV2; caveolin 2
+D      859 CAV3; caveolin 3	K12959 CAV3; caveolin 3
+D      2534 FYN; FYN oncogene related to SRC, FGR, YES 	K05703 FYN; tyrosine-protein kinase Fyn [EC:2.7.10.2]
+D      6464 SHC1; SHC (Src homology 2 domain containing) transforming protein 1	K06279 SHC1; SHC- transforming protein 1
+D      25759 SHC2; SHC (Src homology 2 domain containing) transforming protein 2	K17447 SHC2; SHC- transforming protein 2
+D      53358 SHC3; SHC (Src homology 2 domain containing) transforming protein 3	K17448 SHC3; SHC- transforming protein 3
+D      399694 SHC4; SHC (Src homology 2 domain containing) family, member 4	K17449 SHC4; SHC- transforming protein 4
+D      2885 GRB2; growth factor receptor-bound protein 2	K04364 GRB2; growth factor receptor-binding protein 2
+D      6654 SOS1; son of sevenless homolog 1 (Drosophila)	K03099 SOS; son of sevenless
+D      6655 SOS2; son of sevenless homolog 2 (Drosophila)	K03099 SOS; son of sevenless
+D      3265 HRAS; Harvey rat sarcoma viral oncogene homolog	K02833 HRAS; GTPase HRas
+D      5894 RAF1; v-raf-1 murine leukemia viral oncogene homolog 1 	K04366 RAF1; RAF proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]
+D      5604 MAP2K1; mitogen-activated protein kinase kinase 1 	K04368 MAP2K1; mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]
+D      5594 MAPK1; mitogen-activated protein kinase 1 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      5595 MAPK3; mitogen-activated protein kinase 3 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      2002 ELK1; ELK1, member of ETS oncogene family	K04375 ELK1; ETS domain-containing protein Elk-1
+D      595 CCND1; cyclin D1	K04503 CCND1; cyclin D1
+D      894 CCND2; cyclin D2	K10151 CCND2; cyclin D2
+D      896 CCND3; cyclin D3	K10152 CCND3; cyclin D3
+D      329 BIRC2; baculoviral IAP repeat containing 2	K16060 BIRC2_3; baculoviral IAP repeat-containing protein 2/3
+D      330 BIRC3; baculoviral IAP repeat containing 3	K16060 BIRC2_3; baculoviral IAP repeat-containing protein 2/3
+D      331 XIAP; X-linked inhibitor of apoptosis	K04725 XIAP; E3 ubiquitin-protein ligase XIAP
+D      572 BAD; BCL2-associated agonist of cell death	K02158 BAD; BCL2-antagonist of cell death
+D      596 BCL2; B-cell CLL/lymphoma 2	K02161 BCL2; apoptosis regulator BCL-2
+D      23396 PIP5K1C; phosphatidylinositol-4-phosphate 5-kinase, type I, gamma 	K00889 E2.7.1.68; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+
+C    04520 Adherens junction [PATH:hsa04520]
+D      5818 PVRL1; poliovirus receptor-related 1 (herpesvirus entry mediator C)	K06081 PVRL1; poliovirus receptor-related protein 1
+D      5819 PVRL2; poliovirus receptor-related 2 (herpesvirus entry mediator B)	K06531 PVRL2; poliovirus receptor-related protein 2
+D      25945 PVRL3; poliovirus receptor-related 3	K06592 PVRL3; poliovirus receptor-related protein 3
+D      81607 PVRL4; poliovirus receptor-related 4	K06593 PVRL4; poliovirus receptor-related 4
+D      56288 PARD3; par-3 family cell polarity regulator	K04237 PARD3; partitioning defective protein 3
+D      6714 SRC; v-src avian sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog 	K05704 SRC; tyrosine-protein kinase Src [EC:2.7.10.2]
+D      9855 FARP2; FERM, RhoGEF and pleckstrin domain protein 2	K06082 FARP2; FERM, RhoGEF and pleckstrin domain protein 2
+D      998 CDC42; cell division cycle 42	K04393 CDC42; cell division control protein 42
+D      5879 RAC1; ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	K04392 RAC1; Ras-related C3 botulinum toxin substrate 1
+D      5880 RAC2; ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	K07860 RAC2; Ras-related C3 botulinum toxin substrate 2
+D      5881 RAC3; ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)	K07861 RAC3; Ras-related C3 botulinum toxin substrate 3
+D      7454 WAS; Wiskott-Aldrich syndrome	K05747 WAS; Wiskott-Aldrich syndrome protein
+D      8976 WASL; Wiskott-Aldrich syndrome-like	K05747 WAS; Wiskott-Aldrich syndrome protein
+D      8826 IQGAP1; IQ motif containing GTPase activating protein 1	K16848 IQGAP1; Ras GTPase-activating-like protein IQGAP1
+D      10458 BAIAP2; BAI1-associated protein 2	K05627 BAIAP2; BAI1-associated protein 2
+D      8936 WASF1; WAS protein family, member 1	K05753 WASF1; WAS protein family, member 1
+D      10163 WASF2; WAS protein family, member 2	K05748 WASF2; WAS protein family, member 2
+D      10810 WASF3; WAS protein family, member 3	K06083 WASF3; WAS protein family, member 3
+D      4301 MLLT4; myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 4	K05702 AF6; afadin
+D      4008 LMO7; LIM domain 7	K06084 LMO7; F-box protein 20
+D      117178 SSX2IP; synovial sarcoma, X breakpoint 2 interacting protein	K06085 SSX2IP; synovial sarcoma, X breakpoint 2 interacting protein
+D      10580 SORBS1; sorbin and SH3 domain containing 1	K06086 SORBS1; sorbin and SH3 domain containing 1
+D      87 ACTN1; actinin, alpha 1	K05699 ACTN; actinin alpha
+D      88 ACTN2; actinin, alpha 2	K05699 ACTN; actinin alpha
+D      89 ACTN3; actinin, alpha 3	K05699 ACTN; actinin alpha
+D      81 ACTN4; actinin, alpha 4	K05699 ACTN; actinin alpha
+D      7414 VCL; vinculin	K05700 VCL; vinculin
+D      7082 TJP1; tight junction protein 1	K05701 TJP1; tight junction protein 1
+D      999 CDH1; cadherin 1, type 1, E-cadherin (epithelial)	K05689 CDHE; cadherin 1, type 1, E-cadherin
+D      1500 CTNND1; catenin (cadherin-associated protein), delta 1	K05690 CTNND1; catenin (cadherin-associated protein), delta 1
+D      1499 CTNNB1; catenin (cadherin-associated protein), beta 1, 88kDa	K02105 CTNNB1; catenin beta 1
+D      29119 CTNNA3; catenin (cadherin-associated protein), alpha 3	K05691 CTNNA; catenin alpha
+D      1495 CTNNA1; catenin (cadherin-associated protein), alpha 1, 102kDa	K05691 CTNNA; catenin alpha
+D      1496 CTNNA2; catenin (cadherin-associated protein), alpha 2	K05691 CTNNA; catenin alpha
+D      60 ACTB; actin, beta	K05692 ACTB_G1; actin beta/gamma 1
+D      71 ACTG1; actin, gamma 1	K05692 ACTB_G1; actin beta/gamma 1
+D      387 RHOA; ras homolog family member A	K04513 RHOA; Ras homolog gene family, member A
+D      5797 PTPRM; protein tyrosine phosphatase, receptor type, M 	K05693 PTPRM; receptor-type tyrosine-protein phosphatase mu [EC:3.1.3.48]
+D      5787 PTPRB; protein tyrosine phosphatase, receptor type, B 	K05694 PTPRB; receptor-type tyrosine-protein phosphatase beta [EC:3.1.3.48]
+D      5792 PTPRF; protein tyrosine phosphatase, receptor type, F 	K05695 PTPRF; receptor-type tyrosine-protein phosphatase F [EC:3.1.3.48]
+D      5770 PTPN1; protein tyrosine phosphatase, non-receptor type 1 	K05696 PTPN1; tyrosine-protein phosphatase non-receptor type 1 [EC:3.1.3.48]
+D      5777 PTPN6; protein tyrosine phosphatase, non-receptor type 6 	K05697 PTPN6; tyrosine-protein phosphatase non-receptor type 6 [EC:3.1.3.48]
+D      5795 PTPRJ; protein tyrosine phosphatase, receptor type, J 	K05698 PTPRJ; receptor-type tyrosine-protein phosphatase eta [EC:3.1.3.48]
+D      1457 CSNK2A1; casein kinase 2, alpha 1 polypeptide 	K03097 CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]
+D      1459 CSNK2A2; casein kinase 2, alpha prime polypeptide 	K03097 CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]
+D      1460 CSNK2B; casein kinase 2, beta polypeptide 	K03115 CSNK2B; casein kinase II subunit beta
+D      6932 TCF7; transcription factor 7 (T-cell specific, HMG-box)	K02620 TCF7; transcription factor 7
+D      83439 TCF7L1; transcription factor 7-like 1 (T-cell specific, HMG-box)	K04490 TCF7L1; transcription factor 7-like 1
+D      6934 TCF7L2; transcription factor 7-like 2 (T-cell specific, HMG-box)	K04491 TCF7L2; transcription factor 7-like 2
+D      51176 LEF1; lymphoid enhancer-binding factor 1	K04492 LEF1; lymphoid enhancer-binding factor 1
+D      3480 IGF1R; insulin-like growth factor 1 receptor 	K05087 IGF1R; insulin-like growth factor 1 receptor [EC:2.7.10.1]
+D      3643 INSR; insulin receptor 	K04527 INSR; insulin receptor [EC:2.7.10.1]
+D      4233 MET; met proto-oncogene 	K05099 MET; proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]
+D      1956 EGFR; epidermal growth factor receptor 	K04361 EGFR; epidermal growth factor receptor [EC:2.7.10.1]
+D      2064 ERBB2; v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2 	K05083 ERBB2; receptor tyrosine-protein kinase erbB-2 [EC:2.7.10.1]
+D      2260 FGFR1; fibroblast growth factor receptor 1 	K04362 FGFR1; fibroblast growth factor receptor 1 [EC:2.7.10.1]
+D      2534 FYN; FYN oncogene related to SRC, FGR, YES 	K05703 FYN; tyrosine-protein kinase Fyn [EC:2.7.10.2]
+D      7525 YES1; v-yes-1 Yamaguchi sarcoma viral oncogene homolog 1 	K05705 YES1; tyrosine-protein kinase Yes [EC:2.7.10.2]
+D      5594 MAPK1; mitogen-activated protein kinase 1 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      5595 MAPK3; mitogen-activated protein kinase 3 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      6591 SNAI2; snail family zinc finger 2	K05706 SNAI2; snail 2
+D      6615 SNAI1; snail family zinc finger 1	K05707 SNAI1; snail 1
+D      7046 TGFBR1; transforming growth factor, beta receptor 1 	K04674 TGFBR1; TGF-beta receptor type-1 [EC:2.7.11.30]
+D      7048 TGFBR2; transforming growth factor, beta receptor II (70/80kDa) 	K04388 TGFBR2; TGF-beta receptor type-2 [EC:2.7.11.30]
+D      4087 SMAD2; SMAD family member 2	K04500 SMAD2_3; mothers against decapentaplegic homolog 2/3
+D      4088 SMAD3; SMAD family member 3	K04500 SMAD2_3; mothers against decapentaplegic homolog 2/3
+D      4089 SMAD4; SMAD family member 4	K04501 SMAD4; mothers against decapentaplegic homolog 4
+D      1387 CREBBP; CREB binding protein 	K04498 EP300; E1A/CREB-binding protein [EC:2.3.1.48]
+D      2033 EP300; E1A binding protein p300 	K04498 EP300; E1A/CREB-binding protein [EC:2.3.1.48]
+D      6885 MAP3K7; mitogen-activated protein kinase kinase kinase 7 	K04427 MAP3K7; mitogen-activated protein kinase kinase kinase 7 [EC:2.7.11.25]
+D      51701 NLK; nemo-like kinase 	K04468 NLK; nemo like kinase [EC:2.7.11.24]
+D      2241 FER; fer (fps/fes related) tyrosine kinase 	K08889 FER; tyrosine-protein kinase Fer [EC:2.7.10.2]
+D      52 ACP1; acid phosphatase 1, soluble 	K14394 ACP1; low molecular weight phosphotyrosine protein phosphatase [EC:3.1.3.2 3.1.3.48]
+
+C    04530 Tight junction [PATH:hsa04530]
+D      1364 CLDN4; claudin 4	K06087 CLDN; claudin
+D      1365 CLDN3; claudin 3	K06087 CLDN; claudin
+D      1366 CLDN7; claudin 7	K06087 CLDN; claudin
+D      149461 CLDN19; claudin 19	K06087 CLDN; claudin
+D      10686 CLDN16; claudin 16	K06087 CLDN; claudin
+D      23562 CLDN14; claudin 14	K06087 CLDN; claudin
+D      24146 CLDN15; claudin 15	K06087 CLDN; claudin
+D      26285 CLDN17; claudin 17	K06087 CLDN; claudin
+D      49861 CLDN20; claudin 20	K06087 CLDN; claudin
+D      5010 CLDN11; claudin 11	K06087 CLDN; claudin
+D      51208 CLDN18; claudin 18	K06087 CLDN; claudin
+D      53842 CLDN22; claudin 22	K06087 CLDN; claudin
+D      7122 CLDN5; claudin 5	K06087 CLDN; claudin
+D      9071 CLDN10; claudin 10	K06087 CLDN; claudin
+D      9073 CLDN8; claudin 8	K06087 CLDN; claudin
+D      9074 CLDN6; claudin 6	K06087 CLDN; claudin
+D      9075 CLDN2; claudin 2	K06087 CLDN; claudin
+D      9076 CLDN1; claudin 1	K06087 CLDN; claudin
+D      9080 CLDN9; claudin 9	K06087 CLDN; claudin
+D      137075 CLDN23; claudin 23	K06087 CLDN; claudin
+D      644672 CLDN25; claudin 25	K06087 CLDN; claudin
+D      100132463 CLDN24; claudin 24	K06087 CLDN; claudin
+D      100506658 OCLN; occludin 	K06088 OCLN; occludin
+D      50848 F11R; F11 receptor	K06089 F11R; junctional adhesion molecule 1
+D      58494 JAM2; junctional adhesion molecule 2	K06735 JAM2; junctional adhesion molecule 2
+D      83700 JAM3; junctional adhesion molecule 3	K06785 JAM3; junctional adhesion molecule 3
+D      150084 IGSF5; immunoglobulin superfamily, member 5	K06786 JAM4; junctional adhesion molecule 4
+D      92359 CRB3; crumbs family member 3	K06090 CRB3; crumbs 3
+D      64398 MPP5; membrane protein, palmitoylated 5 (MAGUK p55 subfamily member 5)	K06091 MPP5; MAGUK p55 subfamily member 5
+D      10207 INADL; InaD-like (Drosophila)	K06092 INADL; InaD-like protein
+D      50855 PARD6A; par-6 family cell polarity regulator alpha	K06093 PARD6; partitioning defective protein 6
+D      84552 PARD6G; par-6 family cell polarity regulator gamma	K06093 PARD6; partitioning defective protein 6
+D      84612 PARD6B; par-6 family cell polarity regulator beta	K06093 PARD6; partitioning defective protein 6
+D      5584 PRKCI; protein kinase C, iota 	K06069 APKC; atypical protein kinase C [EC:2.7.11.13]
+D      5590 PRKCZ; protein kinase C, zeta 	K06069 APKC; atypical protein kinase C [EC:2.7.11.13]
+D      56288 PARD3; par-3 family cell polarity regulator	K04237 PARD3; partitioning defective protein 3
+D      3993 LLGL2; lethal giant larvae homolog 2 (Drosophila)	K06094 LLGL; lethal(2) giant larvae protein
+D      3996 LLGL1; lethal giant larvae homolog 1 (Drosophila)	K06094 LLGL; lethal(2) giant larvae protein
+D      998 CDC42; cell division cycle 42	K04393 CDC42; cell division control protein 42
+D      5515 PPP2CA; protein phosphatase 2, catalytic subunit, alpha isozyme 	K04382 PPP2C; serine/threonine-protein phosphatase 2A catalytic subunit [EC:3.1.3.16]
+D      5516 PPP2CB; protein phosphatase 2, catalytic subunit, beta isozyme 	K04382 PPP2C; serine/threonine-protein phosphatase 2A catalytic subunit [EC:3.1.3.16]
+D      5519 PPP2R1B; protein phosphatase 2, regulatory subunit A, beta 	K03456 PPP2R1; serine/threonine-protein phosphatase 2A regulatory subunit A
+D      5518 PPP2R1A; protein phosphatase 2, regulatory subunit A, alpha 	K03456 PPP2R1; serine/threonine-protein phosphatase 2A regulatory subunit A
+D      5520 PPP2R2A; protein phosphatase 2, regulatory subunit B, alpha 	K04354 PPP2R2; serine/threonine-protein phosphatase 2A regulatory subunit B
+D      5521 PPP2R2B; protein phosphatase 2, regulatory subunit B, beta 	K04354 PPP2R2; serine/threonine-protein phosphatase 2A regulatory subunit B
+D      5522 PPP2R2C; protein phosphatase 2, regulatory subunit B, gamma 	K04354 PPP2R2; serine/threonine-protein phosphatase 2A regulatory subunit B
+D      55844 PPP2R2D; protein phosphatase 2, regulatory subunit B, delta	K04354 PPP2R2; serine/threonine-protein phosphatase 2A regulatory subunit B
+D      5578 PRKCA; protein kinase C, alpha 	K02677 CPKC; classical protein kinase C [EC:2.7.11.13]
+D      5579 PRKCB; protein kinase C, beta 	K02677 CPKC; classical protein kinase C [EC:2.7.11.13]
+D      5582 PRKCG; protein kinase C, gamma 	K02677 CPKC; classical protein kinase C [EC:2.7.11.13]
+D      5580 PRKCD; protein kinase C, delta 	K06068 PRKCD; novel protein kinase C delta type [EC:2.7.11.13]
+D      5581 PRKCE; protein kinase C, epsilon 	K18050 PRKCE; novel protein kinase C epsilon type [EC:2.7.11.13]
+D      5583 PRKCH; protein kinase C, eta 	K18051 PRKCH; novel protein kinase C eta type [EC:2.7.11.13]
+D      5588 PRKCQ; protein kinase C, theta 	K18052 PRKCQ; novel protein kinase C theta type [EC:2.7.11.13]
+D      1457 CSNK2A1; casein kinase 2, alpha 1 polypeptide 	K03097 CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]
+D      1459 CSNK2A2; casein kinase 2, alpha prime polypeptide 	K03097 CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]
+D      1460 CSNK2B; casein kinase 2, beta polypeptide 	K03115 CSNK2B; casein kinase II subunit beta
+D      2770 GNAI1; guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	K04630 GNAI; guanine nucleotide-binding protein G(i) subunit alpha
+D      2773 GNAI3; guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	K04630 GNAI; guanine nucleotide-binding protein G(i) subunit alpha
+D      2771 GNAI2; guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2	K04630 GNAI; guanine nucleotide-binding protein G(i) subunit alpha
+D      8777 MPDZ; multiple PDZ domain protein	K06095 MPDZ; multiple PDZ domain protein
+D      9218 VAPA; VAMP (vesicle-associated membrane protein)-associated protein A, 33kDa	K06096 VAPA; vesicle-associated membrane protein-associated protein A
+D      27134 TJP3; tight junction protein 3	K06097 TJP3; tight junction protein 3
+D      7082 TJP1; tight junction protein 1	K05701 TJP1; tight junction protein 1
+D      9414 TJP2; tight junction protein 2	K06098 TJP2; tight junction protein 2
+D      51776 ZAK; sterile alpha motif and leucine zipper containing kinase AZK 	K04424 ZAK; sterile alpha motif and leucine zipper containing kinase AZK [EC:2.7.11.25]
+D      1499 CTNNB1; catenin (cadherin-associated protein), beta 1, 88kDa	K02105 CTNNB1; catenin beta 1
+D      8531 YBX3; Y box binding protein 3	K06099 CSDA; cold shock domain protein A
+D      8189 SYMPK; symplekin	K06100 SYMPK; symplekin
+D      55870 ASH1L; ash1 (absent, small, or homeotic)-like (Drosophila) 	K06101 ASH1L; histone-lysine N-methyltransferase ASH1L [EC:2.1.1.43]
+D      1019 CDK4; cyclin-dependent kinase 4 	K02089 CDK4; cyclin-dependent kinase 4 [EC:2.7.11.22]
+D      57530 CGN; cingulin	K06102 CGN; cingulin
+D      60 ACTB; actin, beta	K05692 ACTB_G1; actin beta/gamma 1
+D      71 ACTG1; actin, gamma 1	K05692 ACTB_G1; actin beta/gamma 1
+D      4633 MYL2; myosin, light chain 2, regulatory, cardiac, slow	K10351 MYL2; myosin regulatory light chain 2
+D      4636 MYL5; myosin, light chain 5, regulatory	K12753 MYL5; myosin regulatory light chain 5
+D      58498 MYL7; myosin, light chain 7, regulatory	K12754 MYL7; myosin regulatory light chain 7
+D      10398 MYL9; myosin, light chain 9, regulatory	K12755 MYL9; myosin regulatory light chain 9
+D      93408 MYL10; myosin, light chain 10, regulatory	K12756 MYL10; myosin regulatory light chain 10
+D      103910 MYL12B; myosin, light chain 12B, regulatory	K12757 MYL12; myosin regulatory light chain 12
+D      10627 MYL12A; myosin, light chain 12A, regulatory, non-sarcomeric	K12757 MYL12; myosin regulatory light chain 12
+D      29895 MYLPF; myosin light chain, phosphorylatable, fast skeletal muscle	K12758 MYLPF; fast skeletal myosin light chain 2
+D      22989 MYH15; myosin, heavy chain 15	K10352 MYH; myosin heavy chain
+D      4619 MYH1; myosin, heavy chain 1, skeletal muscle, adult	K10352 MYH; myosin heavy chain
+D      4620 MYH2; myosin, heavy chain 2, skeletal muscle, adult	K10352 MYH; myosin heavy chain
+D      4621 MYH3; myosin, heavy chain 3, skeletal muscle, embryonic	K10352 MYH; myosin heavy chain
+D      4622 MYH4; myosin, heavy chain 4, skeletal muscle	K10352 MYH; myosin heavy chain
+D      4626 MYH8; myosin, heavy chain 8, skeletal muscle, perinatal	K10352 MYH; myosin heavy chain
+D      4627 MYH9; myosin, heavy chain 9, non-muscle	K10352 MYH; myosin heavy chain
+D      4628 MYH10; myosin, heavy chain 10, non-muscle	K10352 MYH; myosin heavy chain
+D      4629 MYH11; myosin, heavy chain 11, smooth muscle	K10352 MYH; myosin heavy chain
+D      57644 MYH7B; myosin, heavy chain 7B, cardiac muscle, beta	K10352 MYH; myosin heavy chain
+D      79784 MYH14; myosin, heavy chain 14, non-muscle 	K10352 MYH; myosin heavy chain
+D      8735 MYH13; myosin, heavy chain 13, skeletal muscle	K10352 MYH; myosin heavy chain
+D      4625 MYH7; myosin, heavy chain 7, cardiac muscle, beta	K17751 MYH6_7; myosin heavy chain 6/7
+D      4624 MYH6; myosin, heavy chain 6, cardiac muscle, alpha	K17751 MYH6_7; myosin heavy chain 6/7
+D      387 RHOA; ras homolog family member A	K04513 RHOA; Ras homolog gene family, member A
+D      4301 MLLT4; myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 4	K05702 AF6; afadin
+D      3265 HRAS; Harvey rat sarcoma viral oncogene homolog	K02833 HRAS; GTPase HRas
+D      3845 KRAS; Kirsten rat sarcoma viral oncogene homolog	K07827 KRAS; GTPase KRas
+D      4893 NRAS; neuroblastoma RAS viral (v-ras) oncogene homolog	K07828 NRAS; GTPase NRas
+D      6237 RRAS; related RAS viral (r-ras) oncogene homolog	K07829 RRAS; Ras-related protein R-Ras
+D      22800 RRAS2; related RAS viral (r-ras) oncogene homolog 2	K07830 RRAS2; Ras-related protein R-Ras2
+D      22808 MRAS; muscle RAS oncogene homolog	K07831 MRAS; Ras-related protein M-Ras
+D      8573 CASK; calcium/calmodulin-dependent serine protein kinase (MAGUK family) 	K06103 CASK; calcium/calmodulin-dependent serine protein kinase [EC:2.7.11.1]
+D      154810 AMOTL1; angiomotin like 1	K06104 AMOTL1; angiomotin like 1
+D      93643 TJAP1; tight junction associated protein 1 (peripheral)	K06105 TJP4; tight junction protein 4 (peripheral)
+D      2017 CTTN; cortactin	K06106 CTTN; cortactin
+D      3059 HCLS1; hematopoietic cell-specific Lyn substrate 1	K06106 CTTN; cortactin
+D      29119 CTNNA3; catenin (cadherin-associated protein), alpha 3	K05691 CTNNA; catenin alpha
+D      1495 CTNNA1; catenin (cadherin-associated protein), alpha 1, 102kDa	K05691 CTNNA; catenin alpha
+D      1496 CTNNA2; catenin (cadherin-associated protein), alpha 2	K05691 CTNNA; catenin alpha
+D      2035 EPB41; erythrocyte membrane protein band 4.1 (elliptocytosis 1, RH-linked)	K06107 EPB41; erythrocyte membrane protein band 4.1
+D      2036 EPB41L1; erythrocyte membrane protein band 4.1-like 1	K06107 EPB41; erythrocyte membrane protein band 4.1
+D      2037 EPB41L2; erythrocyte membrane protein band 4.1-like 2	K06107 EPB41; erythrocyte membrane protein band 4.1
+D      23136 EPB41L3; erythrocyte membrane protein band 4.1-like 3	K06107 EPB41; erythrocyte membrane protein band 4.1
+D      87 ACTN1; actinin, alpha 1	K05699 ACTN; actinin alpha
+D      88 ACTN2; actinin, alpha 2	K05699 ACTN; actinin alpha
+D      89 ACTN3; actinin, alpha 3	K05699 ACTN; actinin alpha
+D      81 ACTN4; actinin, alpha 4	K05699 ACTN; actinin alpha
+D      6714 SRC; v-src avian sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog 	K05704 SRC; tyrosine-protein kinase Src [EC:2.7.10.2]
+D      7525 YES1; v-yes-1 Yamaguchi sarcoma viral oncogene homolog 1 	K05705 YES1; tyrosine-protein kinase Yes [EC:2.7.10.2]
+D      5865 RAB3B; RAB3B, member RAS oncogene family	K06108 RAB3B; Ras-related protein Rab-3B
+D      5872 RAB13; RAB13, member RAS oncogene family	K06109 RAB13; Ras-related protein Rab-13
+D      11336 EXOC3; exocyst complex component 3	K06110 EXOC3; exocyst complex component 3
+D      60412 EXOC4; exocyst complex component 4	K06111 EXOC4; exocyst complex component 4
+D      9223 MAGI1; membrane associated guanylate kinase, WW and PDZ domain containing 1	K05631 AIP3; atrophin-1 interacting protein 3 (BAI1-associated protein 1)
+D      9863 MAGI2; membrane associated guanylate kinase, WW and PDZ domain containing 2	K05629 AIP1; atrophin-1 interacting protein 1
+D      260425 MAGI3; membrane associated guanylate kinase, WW and PDZ domain containing 3	K06112 MAGI3; membrane-associated guanylate kinase-related
+D      5728 PTEN; phosphatase and tensin homolog 	K01110 PTEN; phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+D      207 AKT1; v-akt murine thymoma viral oncogene homolog 1 	K04456 AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]
+D      208 AKT2; v-akt murine thymoma viral oncogene homolog 2 	K04456 AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]
+D      10000 AKT3; v-akt murine thymoma viral oncogene homolog 3 	K04456 AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]
+D      6709 SPTAN1; spectrin, alpha, non-erythrocytic 1	K06114 SPTA; spectrin alpha
+
+C    04540 Gap junction [PATH:hsa04540]
+D      2697 GJA1; gap junction protein, alpha 1, 43kDa	K07372 GJA1; gap junction protein, alpha 1
+D      57369 GJD2; gap junction protein, delta 2, 36kDa	K07373 GJD2; gap junction delta-2 protein
+D      1902 LPAR1; lysophosphatidic acid receptor 1	K04289 LPAR1; lysophosphatidic acid receptor 1
+D      2770 GNAI1; guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	K04630 GNAI; guanine nucleotide-binding protein G(i) subunit alpha
+D      2773 GNAI3; guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	K04630 GNAI; guanine nucleotide-binding protein G(i) subunit alpha
+D      2771 GNAI2; guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2	K04630 GNAI; guanine nucleotide-binding protein G(i) subunit alpha
+D      5154 PDGFA; platelet-derived growth factor alpha polypeptide	K04359 PDGFA; platelet-derived growth factor subunit A
+D      5155 PDGFB; platelet-derived growth factor beta polypeptide	K17386 PDGFB; platelet-derived growth factor subunit B
+D      56034 PDGFC; platelet derived growth factor C	K05450 PDGFC_D; platelet derived growth factor C/D
+D      80310 PDGFD; platelet derived growth factor D	K05450 PDGFC_D; platelet derived growth factor C/D
+D      1950 EGF; epidermal growth factor	K04357 EGF; epidermal growth factor
+D      5156 PDGFRA; platelet-derived growth factor receptor, alpha polypeptide 	K04363 PDGFRA; platelet-derived growth factor receptor alpha [EC:2.7.10.1]
+D      5159 PDGFRB; platelet-derived growth factor receptor, beta polypeptide 	K05089 PDGFRB; platelet-derived growth factor receptor beta [EC:2.7.10.1]
+D      1956 EGFR; epidermal growth factor receptor 	K04361 EGFR; epidermal growth factor receptor [EC:2.7.10.1]
+D      2885 GRB2; growth factor receptor-bound protein 2	K04364 GRB2; growth factor receptor-binding protein 2
+D      6654 SOS1; son of sevenless homolog 1 (Drosophila)	K03099 SOS; son of sevenless
+D      6655 SOS2; son of sevenless homolog 2 (Drosophila)	K03099 SOS; son of sevenless
+D      3265 HRAS; Harvey rat sarcoma viral oncogene homolog	K02833 HRAS; GTPase HRas
+D      3845 KRAS; Kirsten rat sarcoma viral oncogene homolog	K07827 KRAS; GTPase KRas
+D      4893 NRAS; neuroblastoma RAS viral (v-ras) oncogene homolog	K07828 NRAS; GTPase NRas
+D      5894 RAF1; v-raf-1 murine leukemia viral oncogene homolog 1 	K04366 RAF1; RAF proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]
+D      5604 MAP2K1; mitogen-activated protein kinase kinase 1 	K04368 MAP2K1; mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]
+D      5605 MAP2K2; mitogen-activated protein kinase kinase 2 	K04369 MAP2K2; mitogen-activated protein kinase kinase 2 [EC:2.7.12.2]
+D      5594 MAPK1; mitogen-activated protein kinase 1 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      5595 MAPK3; mitogen-activated protein kinase 3 	K04371 MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+D      6714 SRC; v-src avian sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog 	K05704 SRC; tyrosine-protein kinase Src [EC:2.7.10.2]
+D      10746 MAP3K2; mitogen-activated protein kinase kinase kinase 2 	K04420 MAP3K2; mitogen-activated protein kinase kinase kinase 2 [EC:2.7.11.25]
+D      5607 MAP2K5; mitogen-activated protein kinase kinase 5 	K04463 MAP2K5; mitogen-activated protein kinase kinase 5 [EC:2.7.12.2]
+D      5598 MAPK7; mitogen-activated protein kinase 7 	K04464 MAPK7; mitogen-activated protein kinase 7 [EC:2.7.11.24]
+D      10376 TUBA1B; tubulin, alpha 1b	K07374 TUBA; tubulin alpha
+D      7277 TUBA4A; tubulin, alpha 4a	K07374 TUBA; tubulin alpha
+D      7278 TUBA3C; tubulin, alpha 3c	K07374 TUBA; tubulin alpha
+D      7846 TUBA1A; tubulin, alpha 1a	K07374 TUBA; tubulin alpha
+D      84790 TUBA1C; tubulin, alpha 1c	K07374 TUBA; tubulin alpha
+D      51807 TUBA8; tubulin, alpha 8	K07374 TUBA; tubulin alpha
+D      112714 TUBA3E; tubulin, alpha 3e	K07374 TUBA; tubulin alpha
+D      113457 TUBA3D; tubulin, alpha 3d	K07374 TUBA; tubulin alpha
+D      79861 TUBAL3; tubulin, alpha-like 3	K07374 TUBA; tubulin alpha
+D      84617 TUBB6; tubulin, beta 6 class V	K07375 TUBB; tubulin beta
+D      203068 TUBB; tubulin, beta class I	K07375 TUBB; tubulin beta
+D      81027 TUBB1; tubulin, beta 1 class VI	K07375 TUBB; tubulin beta
+D      7280 TUBB2A; tubulin, beta 2A class IIa	K07375 TUBB; tubulin beta
+D      10381 TUBB3; tubulin, beta 3 class III	K07375 TUBB; tubulin beta
+D      10382 TUBB4A; tubulin, beta 4A class IVa	K07375 TUBB; tubulin beta
+D      347688 TUBB8; tubulin, beta 8 class VIII	K07375 TUBB; tubulin beta
+D      347733 TUBB2B; tubulin, beta 2B class IIb	K07375 TUBB; tubulin beta
+D      10383 TUBB4B; tubulin, beta 4B class IVb	K07375 TUBB; tubulin beta
+D      1453 CSNK1D; casein kinase 1, delta 	K08959 CSNK1D; casein kinase 1, delta [EC:2.7.11.1]
+D      983 CDK1; cyclin-dependent kinase 1 	K02087 CDK1; cyclin-dependent kinase 1 [EC:2.7.11.22 2.7.11.23]
+D      7082 TJP1; tight junction protein 1	K05701 TJP1; tight junction protein 1
+D      153 ADRB1; adrenoceptor beta 1	K04141 ADRB1; adrenergic receptor beta-1
+D      1812 DRD1; dopamine receptor D1	K04144 DRD1; dopamine receptor D1
+D      2778 GNAS; GNAS complex locus	K04632 GNAS; guanine nucleotide-binding protein G(s) subunit alpha
+D      1813 DRD2; dopamine receptor D2	K04145 DRD2; dopamine receptor D2
+D      107 ADCY1; adenylate cyclase 1 (brain) 	K08041 ADCY1; adenylate cyclase 1 [EC:4.6.1.1]
+D      108 ADCY2; adenylate cyclase 2 (brain) 	K08042 ADCY2; adenylate cyclase 2 [EC:4.6.1.1]
+D      109 ADCY3; adenylate cyclase 3 	K08043 ADCY3; adenylate cyclase 3 [EC:4.6.1.1]
+D      196883 ADCY4; adenylate cyclase 4 	K08044 ADCY4; adenylate cyclase 4 [EC:4.6.1.1]
+D      111 ADCY5; adenylate cyclase 5 	K08045 ADCY5; adenylate cyclase 5 [EC:4.6.1.1]
+D      112 ADCY6; adenylate cyclase 6 	K08046 ADCY6; adenylate cyclase 6 [EC:4.6.1.1]
+D      113 ADCY7; adenylate cyclase 7 	K08047 ADCY7; adenylate cyclase 7 [EC:4.6.1.1]
+D      114 ADCY8; adenylate cyclase 8 (brain) 	K08048 ADCY8; adenylate cyclase 8 [EC:4.6.1.1]
+D      115 ADCY9; adenylate cyclase 9 	K08049 ADCY9; adenylate cyclase 9 [EC:4.6.1.1]
+D      5566 PRKACA; protein kinase, cAMP-dependent, catalytic, alpha 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      5567 PRKACB; protein kinase, cAMP-dependent, catalytic, beta 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      5568 PRKACG; protein kinase, cAMP-dependent, catalytic, gamma 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      5613 PRKX; protein kinase, X-linked 	K04345 PKA; protein kinase A [EC:2.7.11.11]
+D      3356 HTR2A; 5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled	K04157 HTR2; 5-hydroxytryptamine receptor 2
+D      3357 HTR2B; 5-hydroxytryptamine (serotonin) receptor 2B, G protein-coupled	K04157 HTR2; 5-hydroxytryptamine receptor 2
+D      3358 HTR2C; 5-hydroxytryptamine (serotonin) receptor 2C, G protein-coupled	K04157 HTR2; 5-hydroxytryptamine receptor 2
+D      2911 GRM1; glutamate receptor, metabotropic 1	K04603 GRM1; metabotropic glutamate receptor 1
+D      2915 GRM5; glutamate receptor, metabotropic 5	K04604 GRM5; metabotropic glutamate receptor 5
+D      2767 GNA11; guanine nucleotide binding protein (G protein), alpha 11 (Gq class)	K04635 GNA11; guanine nucleotide-binding protein subunit alpha-11
+D      2776 GNAQ; guanine nucleotide binding protein (G protein), q polypeptide	K04634 GNAQ; guanine nucleotide-binding protein G(q) subunit alpha
+D      23236 PLCB1; phospholipase C, beta 1 (phosphoinositide-specific) 	K05858 PLCB; phosphatidylinositol phospholipase C, beta [EC:3.1.4.11]
+D      5330 PLCB2; phospholipase C, beta 2 	K05858 PLCB; phosphatidylinositol phospholipase C, beta [EC:3.1.4.11]
+D      5331 PLCB3; phospholipase C, beta 3 (phosphatidylinositol-specific) 	K05858 PLCB; phosphatidylinositol phospholipase C, beta [EC:3.1.4.11]
+D      5332 PLCB4; phospholipase C, beta 4 	K05858 PLCB; phosphatidylinositol phospholipase C, beta [EC:3.1.4.11]
+D      3708 ITPR1; inositol 1,4,5-trisphosphate receptor, type 1	K04958 ITPR1; inositol 1,4,5-triphosphate receptor type 1
+D      3709 ITPR2; inositol 1,4,5-trisphosphate receptor, type 2	K04959 ITPR2; inositol 1,4,5-triphosphate receptor type 2
+D      3710 ITPR3; inositol 1,4,5-trisphosphate receptor, type 3	K04960 ITPR3; inositol 1,4,5-triphosphate receptor type 3
+D      5578 PRKCA; protein kinase C, alpha 	K02677 CPKC; classical protein kinase C [EC:2.7.11.13]
+D      5579 PRKCB; protein kinase C, beta 	K02677 CPKC; classical protein kinase C [EC:2.7.11.13]
+D      5582 PRKCG; protein kinase C, gamma 	K02677 CPKC; classical protein kinase C [EC:2.7.11.13]
+D      2977 GUCY1A2; guanylate cyclase 1, soluble, alpha 2 	K12318 GUCY1A; guanylate cyclase soluble subunit alpha [EC:4.6.1.2]
+D      2982 GUCY1A3; guanylate cyclase 1, soluble, alpha 3 	K12318 GUCY1A; guanylate cyclase soluble subunit alpha [EC:4.6.1.2]
+D      2983 GUCY1B3; guanylate cyclase 1, soluble, beta 3 	K12319 GUCY1B; guanylate cyclase soluble subunit beta [EC:4.6.1.2]
+D      5592 PRKG1; protein kinase, cGMP-dependent, type I 	K07376 PRKG; protein kinase, cGMP-dependent [EC:2.7.11.12]
+D      5593 PRKG2; protein kinase, cGMP-dependent, type II 	K07376 PRKG; protein kinase, cGMP-dependent [EC:2.7.11.12]
+#
